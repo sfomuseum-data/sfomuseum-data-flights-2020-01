@@ -11,8 +11,8 @@
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-SAL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-89.058566,-89.058566",
-    "geom:latitude":-105.714754,
+    "geom:bbox":"-122.370943,13.444749,-89.058566,37.61799",
+    "geom:latitude":25.53137,
     "geom:longitude":-105.714754,
     "iata:airline":"AV",
     "icao:airline":"AVA",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691920,
-    "wof:geomhash":"9daf80ab5fb74fd3899b62ee20b967c3",
+    "wof:geomhash":"5e2e6299deb3a59dda4e65fa5b8c6ddb",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159283957,
         1477930289
     ],
-    "wof:lastmodified":1578692203,
+    "wof:lastmodified":1578693568,
     "wof:name":"AV561 (SFO-SAL)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    13.444749,
     -89.058566,
-    -89.058566
+    37.61799
 ],
-  "geometry": {"coordinates":[[-89.058566,-89.058566],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-89.058566,13.444749]],"type":"MultiPoint"}
 }

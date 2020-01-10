@@ -13,8 +13,8 @@
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-WUH",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,114.208,114.208",
-    "geom:latitude":-4.081471,
+    "geom:bbox":"-122.370943,30.7838,114.208,37.61799",
+    "geom:latitude":34.200895,
     "geom:longitude":-4.081471,
     "iata:airline":"AA",
     "iata:base_airline":"CZ",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691789,
-    "wof:geomhash":"ff5907b7412025e2ef6ae7b7d2e7f54c",
+    "wof:geomhash":"45e7108794d81a2dcecee3acf14ea6a4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930281,
         1159284165
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693473,
     "wof:name":"AA7053 (SFO-WUH)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    30.7838,
     114.208,
-    114.208
+    37.61799
 ],
-  "geometry": {"coordinates":[[114.208,114.208],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[114.208,30.7838]],"type":"MultiPoint"}
 }

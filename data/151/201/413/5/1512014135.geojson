@@ -13,8 +13,8 @@
     "flysfo:gate":"D11",
     "flysfo:journey":"MIA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-80.296006,-80.296006",
-    "geom:latitude":-101.333474,
+    "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
+    "geom:latitude":31.70423,
     "geom:longitude":-101.333474,
     "iata:airline":"QF",
     "iata:base_airline":"AA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691588,
-    "wof:geomhash":"39cc66fb523b40109cb0c8eb8fad1d96",
+    "wof:geomhash":"38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693491,
     "wof:name":"QF3076 (MIA-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    25.79047,
     -80.296006,
-    -80.296006
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-80.29600600000001,-80.29600600000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.29600600000001,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

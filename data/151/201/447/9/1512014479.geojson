@@ -13,8 +13,8 @@
     "flysfo:gate":"D11",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-87.894364,-87.894364",
-    "geom:latitude":-105.132654,
+    "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
+    "geom:latitude":39.800514,
     "geom:longitude":-105.132654,
     "iata:airline":"IB",
     "iata:base_airline":"AA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691624,
-    "wof:geomhash":"39b006c61b1f15626b15f9bf0a896f33",
+    "wof:geomhash":"81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693486,
     "wof:name":"IB4718 (ORD-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -87.894364,
-    -87.894364
+    41.983038
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-87.894364,-87.894364]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

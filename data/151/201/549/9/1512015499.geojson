@@ -11,8 +11,8 @@
     "flysfo:gate":"F6",
     "flysfo:journey":"MFR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.874456,-122.874456,-122.370943,-122.370943",
-    "geom:latitude":-122.622699,
+    "geom:bbox":"-122.874456,37.61799,-122.370943,42.369651",
+    "geom:latitude":39.99382,
     "geom:longitude":-122.622699,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691733,
-    "wof:geomhash":"b93d17aa9bf99fabbd454a7c8bec17bd",
+    "wof:geomhash":"10bf27aabb5200ef4863b11f6c2a5d60",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693563,
     "wof:name":"UA5608 (MFR-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.874456,
-    -122.874456,
+    37.61799,
     -122.370943,
-    -122.370943
+    42.369651
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.874456,-122.874456]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.874456,42.369651],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

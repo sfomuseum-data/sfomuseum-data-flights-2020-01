@@ -13,8 +13,8 @@
     "flysfo:gate":"E12",
     "flysfo:journey":"BNA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-86.676652,-86.676652",
-    "geom:latitude":-104.523798,
+    "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
+    "geom:latitude":36.872189,
     "geom:longitude":-104.523798,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691455,
-    "wof:geomhash":"21a2fa8479850bb4d59fc8c77d374b84",
+    "wof:geomhash":"462e561a68f133085fb895c49eddc748",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693554,
     "wof:name":"NZ9386 (BNA-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.126387,
     -86.676652,
-    -86.676652
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-86.676652,-86.676652]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

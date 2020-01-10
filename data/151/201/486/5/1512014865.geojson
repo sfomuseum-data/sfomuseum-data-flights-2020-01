@@ -13,8 +13,8 @@
     "flysfo:gate":"G6",
     "flysfo:journey":"ICN-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,126.661632,126.661632",
-    "geom:latitude":2.145345,
+    "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
+    "geom:latitude":37.535978,
     "geom:longitude":2.145345,
     "iata:airline":"SQ",
     "iata:base_airline":"OZ",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691670,
-    "wof:geomhash":"4cbb5689af994e7347fde3c956570112",
+    "wof:geomhash":"83e2c60a8819c96e9fa3721059c5eac5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930471,
         1159283917
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693544,
     "wof:name":"SQ5712 (ICN-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.453966,
     126.661632,
-    126.661632
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[126.661632,126.661632]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

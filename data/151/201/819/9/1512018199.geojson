@@ -13,8 +13,8 @@
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.148993,-118.148993",
-    "geom:latitude":-120.259968,
+    "geom:bbox":"-122.370943,33.814039,-118.148993,37.61799",
+    "geom:latitude":35.716014,
     "geom:longitude":-120.259968,
     "iata:airline":"HA",
     "iata:base_airline":"B6",
@@ -53,7 +53,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692031,
-    "wof:geomhash":"6abb7f01dadf2c4c2065bc0f11c34a12",
+    "wof:geomhash":"eb36f7fd50c4e3281bc24d5224da58d3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693494,
     "wof:name":"HA2365 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",
@@ -101,9 +101,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.814039,
     -118.148993,
-    -118.148993
+    37.61799
 ],
-  "geometry": {"coordinates":[[-118.148993,-118.148993],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.148993,33.814039]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"D16",
     "flysfo:journey":"DCA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-77.041643,-77.041643",
-    "geom:latitude":-99.706293,
+    "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
+    "geom:latitude":38.234314,
     "geom:longitude":-99.706293,
     "iata:airline":"QF",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691593,
-    "wof:geomhash":"0db4a783341156a9f411d1369e22ac64",
+    "wof:geomhash":"cfff966b0a5de3ca50080923c4337cfe",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693539,
     "wof:name":"QF3775 (DCA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -77.041643,
-    -77.041643
+    38.850639
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-77.04164299999999,-77.04164299999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.04164299999999,38.850639],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

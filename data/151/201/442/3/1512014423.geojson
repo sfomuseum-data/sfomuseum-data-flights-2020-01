@@ -13,8 +13,8 @@
     "flysfo:gate":"D7",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-71.01475,-71.01475",
-    "geom:latitude":-96.692847,
+    "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
+    "geom:latitude":39.990156,
     "geom:longitude":-96.692847,
     "iata:airline":"FJ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691619,
-    "wof:geomhash":"55e3156eadfe9dbc6e48b480f24a1e66",
+    "wof:geomhash":"9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693548,
     "wof:name":"FJ5863 (BOS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -71.01475,
-    -71.01475
+    42.362322
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-71.01475000000001,-71.01475000000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-71.01475000000001,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

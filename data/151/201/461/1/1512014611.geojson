@@ -13,8 +13,8 @@
     "flysfo:gate":"C2",
     "flysfo:journey":"CVG-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-84.657144,-84.657144",
-    "geom:latitude":-103.514043,
+    "geom:bbox":"-122.370943,37.61799,-84.657144,39.054422",
+    "geom:latitude":38.336206,
     "geom:longitude":-103.514043,
     "iata:airline":"KE",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691641,
-    "wof:geomhash":"4a9d7d6e5352b937a3d162693f5d2b51",
+    "wof:geomhash":"772e5110aaf1e095142ff9199bc6ebaa",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693559,
     "wof:name":"KE6737 (CVG-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -84.657144,
-    -84.657144
+    39.054422
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-84.657144,-84.657144]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

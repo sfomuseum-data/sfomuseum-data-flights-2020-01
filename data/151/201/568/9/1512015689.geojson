@@ -11,8 +11,8 @@
     "flysfo:gate":"F2",
     "flysfo:journey":"IAD-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-77.453702,-77.453702",
-    "geom:latitude":-99.912323,
+    "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
+    "geom:latitude":38.283618,
     "geom:longitude":-99.912323,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691757,
-    "wof:geomhash":"8ca58fd384361ea016afce457b895b24",
+    "wof:geomhash":"376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930409
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693480,
     "wof:name":"UA843 (IAD-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -77.453702,
-    -77.453702
+    38.949246
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-77.45370200000001,-77.45370200000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-77.45370200000001,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

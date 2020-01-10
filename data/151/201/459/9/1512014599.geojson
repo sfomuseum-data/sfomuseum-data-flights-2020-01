@@ -13,8 +13,8 @@
     "flysfo:gate":"D9",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.597389,-122.597389,-122.370943,-122.370943",
-    "geom:latitude":-122.484166,
+    "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
+    "geom:latitude":41.602067,
     "geom:longitude":-122.484166,
     "iata:airline":"KE",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691640,
-    "wof:geomhash":"8e05cc1bb23305ee897c3e3121c00509",
+    "wof:geomhash":"3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693560,
     "wof:name":"KE6092 (PDX-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.597389,
-    -122.597389,
+    37.61799,
     -122.370943,
-    -122.370943
+    45.586144
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.59738900000001,-122.59738900000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.59738900000001,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

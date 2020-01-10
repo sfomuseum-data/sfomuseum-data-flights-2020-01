@@ -13,8 +13,8 @@
     "flysfo:gate":"D8",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-74.177526,-74.177526",
-    "geom:latitude":-98.274235,
+    "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
+    "geom:latitude":39.154617,
     "geom:longitude":-98.274235,
     "iata:airline":"SQ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691662,
-    "wof:geomhash":"693d35023c4bf7b942d4f292bdc1fbdb",
+    "wof:geomhash":"5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693493,
     "wof:name":"SQ1422 (EWR-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -74.177526,
-    -74.177526
+    40.691243
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-74.177526,-74.177526]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

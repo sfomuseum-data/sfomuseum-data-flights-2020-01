@@ -11,8 +11,8 @@
     "flysfo:gate":"G8",
     "flysfo:journey":"NRT-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,140.395257,140.395257",
-    "geom:latitude":9.012157,
+    "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
+    "geom:latitude":36.686867,
     "geom:longitude":9.012157,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691756,
-    "wof:geomhash":"4a0afde5b58b3702752e5dd0686bb8c2",
+    "wof:geomhash":"d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693480,
     "wof:name":"UA838 (NRT-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.755744,
     140.395257,
-    140.395257
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[140.39525699999999,140.39525699999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[140.39525699999999,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

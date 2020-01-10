@@ -11,8 +11,8 @@
     "flysfo:gate":"D5",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.86628,-117.86628",
-    "geom:latitude":-120.118612,
+    "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
+    "geom:latitude":35.647857,
     "geom:longitude":-120.118612,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691486,
-    "wof:geomhash":"4e96cee1ad3067644fe43179909058bb",
+    "wof:geomhash":"01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693565,
     "wof:name":"AS3471 (SNA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.677724,
     -117.86628,
-    -117.86628
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-117.86628,-117.86628]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

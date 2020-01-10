@@ -13,8 +13,8 @@
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYC",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-114.02092,-114.02092",
-    "geom:latitude":-118.195932,
+    "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
+    "geom:latitude":44.368758,
     "geom:longitude":-118.195932,
     "iata:airline":"UA",
     "iata:base_airline":"AC",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692174,
-    "wof:geomhash":"6d5ee656a4f38318ddee756e3cae43f2",
+    "wof:geomhash":"a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578692210,
+    "wof:lastmodified":1578693520,
     "wof:name":"UA8200 (SFO-YYC)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -114.02092,
-    -114.02092
+    51.119526
 ],
-  "geometry": {"coordinates":[[-114.02092,-114.02092],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.02092,51.119526]],"type":"MultiPoint"}
 }

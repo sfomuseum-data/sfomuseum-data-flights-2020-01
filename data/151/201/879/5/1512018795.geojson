@@ -11,8 +11,8 @@
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-IST",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,28.818113,28.818113",
-    "geom:latitude":-46.776415,
+    "geom:bbox":"-122.370943,37.61799,28.818113,40.981491",
+    "geom:latitude":39.29974,
     "geom:longitude":-46.776415,
     "iata:airline":"TK",
     "icao:airline":"THY",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692090,
-    "wof:geomhash":"ea0df14217f8bd278d1d5d9d8f0169a7",
+    "wof:geomhash":"4dba37134e9e2a21e7ece9dd78d4a826",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285391,
         1477930463
     ],
-    "wof:lastmodified":1578692208,
+    "wof:lastmodified":1578693540,
     "wof:name":"TK80 (SFO-IST)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     28.818113,
-    28.818113
+    40.981491
 ],
-  "geometry": {"coordinates":[[28.818113,28.818113],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[28.818113,40.981491]],"type":"MultiPoint"}
 }

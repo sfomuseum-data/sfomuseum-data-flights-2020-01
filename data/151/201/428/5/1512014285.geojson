@@ -13,8 +13,8 @@
     "flysfo:gate":"D17",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-116.506042,-116.506042",
-    "geom:latitude":-119.438492,
+    "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
+    "geom:latitude":35.721305,
     "geom:longitude":-119.438492,
     "iata:airline":"LY",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691600,
-    "wof:geomhash":"83519c96750d5fcf8674d6cc65f451c0",
+    "wof:geomhash":"a35a6e87f0ae0f1f716f88067ee31aa3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693540,
     "wof:name":"LY9408 (PSP-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.824619,
     -116.506042,
-    -116.506042
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-116.50604199999999,-116.50604199999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-116.50604199999999,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

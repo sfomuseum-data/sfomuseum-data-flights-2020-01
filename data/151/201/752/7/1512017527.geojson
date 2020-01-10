@@ -13,8 +13,8 @@
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-MSY",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-90.261832,-90.261832",
-    "geom:latitude":-106.316387,
+    "geom:bbox":"-122.370943,29.982609,-90.261832,37.61799",
+    "geom:latitude":33.8003,
     "geom:longitude":-106.316387,
     "iata:airline":"CX",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691954,
-    "wof:geomhash":"3397b8e6fca2d7d3a754f6af576b5954",
+    "wof:geomhash":"8b4edcad4124de1c487808d2d2d1ecd3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578692204,
+    "wof:lastmodified":1578693472,
     "wof:name":"CX7908 (SFO-MSY)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.982609,
     -90.261832,
-    -90.261832
+    37.61799
 ],
-  "geometry": {"coordinates":[[-90.261832,-90.261832],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-90.261832,29.982609]],"type":"MultiPoint"}
 }

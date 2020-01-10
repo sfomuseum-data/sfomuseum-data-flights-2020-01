@@ -13,8 +13,8 @@
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-97.050966,-97.050966",
-    "geom:latitude":-109.710954,
+    "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
+    "geom:latitude":35.260825,
     "geom:longitude":-109.710954,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691808,
-    "wof:geomhash":"864ac1c95930f2c98d8830990a740a23",
+    "wof:geomhash":"5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693554,
     "wof:name":"AC4163 (SFO-DFW)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.90366,
     -97.050966,
-    -97.050966
+    37.61799
 ],
-  "geometry": {"coordinates":[[-97.050966,-97.050966],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
 }

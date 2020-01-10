@@ -13,8 +13,8 @@
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-MCO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-81.307537,-81.307537",
-    "geom:latitude":-101.83924,
+    "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
+    "geom:latitude":33.024743,
     "geom:longitude":-101.83924,
     "iata:airline":"CA",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691936,
-    "wof:geomhash":"b0406556dcf6c828d9548b48edff7d58",
+    "wof:geomhash":"33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578692203,
+    "wof:lastmodified":1578693482,
     "wof:name":"CA7324 (SFO-MCO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    28.431495,
     -81.307537,
-    -81.307537
+    37.61799
 ],
-  "geometry": {"coordinates":[[-81.307537,-81.307537],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}
 }

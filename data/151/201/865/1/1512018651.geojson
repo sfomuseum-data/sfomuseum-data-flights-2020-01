@@ -13,8 +13,8 @@
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-TPE",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,121.233152,121.233152",
-    "geom:latitude":-0.568895,
+    "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
+    "geom:latitude":31.348278,
     "geom:longitude":-0.568895,
     "iata:airline":"SQ",
     "iata:base_airline":"BR",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692077,
-    "wof:geomhash":"835fcaa67166d73d1cbe8ad192ed847f",
+    "wof:geomhash":"ec4a8fe4d0e09d37ae50bf109072b003",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930487,
         1159284349
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693555,
     "wof:name":"SQ5827 (SFO-TPE)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    25.078566,
     121.233152,
-    121.233152
+    37.61799
 ],
-  "geometry": {"coordinates":[[121.233152,121.233152],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}
 }

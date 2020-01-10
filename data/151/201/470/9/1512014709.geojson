@@ -11,8 +11,8 @@
     "flysfo:gate":"A10",
     "flysfo:journey":"LGW-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-0.183008,-0.183008",
-    "geom:latitude":-61.276975,
+    "geom:bbox":"-122.370943,37.61799,-0.183008,51.144421",
+    "geom:latitude":44.381206,
     "geom:longitude":-61.276975,
     "iata:airline":"DI",
     "icao:airline":"NRS",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691650,
-    "wof:geomhash":"c0c085dfd6a6b604a7491cb3b3840b1a",
+    "wof:geomhash":"c335be0fa43a9077070566aea4c647e9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1377649063,
         1477930303
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693493,
     "wof:name":"DI7173 (LGW-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -0.183008,
-    -0.183008
+    51.144421
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-0.183008,-0.183008]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-0.183008,51.144421],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SUN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-114.29782,-114.29782",
-    "geom:latitude":-118.334382,
+    "geom:bbox":"-122.370943,37.61799,-114.29782,43.50657",
+    "geom:latitude":40.56228,
     "geom:longitude":-118.334382,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692149,
-    "wof:geomhash":"3b16d5097007c539c6fd75499234c1bb",
+    "wof:geomhash":"f2b00bdda4c9b7ccf3aa1fd5338fa592",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693570,
     "wof:name":"UA5617 (SFO-SUN)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -114.29782,
-    -114.29782
+    43.50657
 ],
-  "geometry": {"coordinates":[[-114.29782,-114.29782],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-114.29782,43.50657]],"type":"MultiPoint"}
 }

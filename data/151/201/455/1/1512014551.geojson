@@ -11,8 +11,8 @@
     "flysfo:gate":"B8",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-73.787845,-73.787845",
-    "geom:latitude":-98.079394,
+    "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
+    "geom:latitude":39.130638,
     "geom:longitude":-98.079394,
     "iata:airline":"B6",
     "icao:airline":"JBU",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691631,
-    "wof:geomhash":"6f9bcd1d700807e4877b1729616d761e",
+    "wof:geomhash":"ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159284583,
         1477881723
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693503,
     "wof:name":"B61415 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -73.787845,
-    -73.787845
+    40.643286
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-73.787845,-73.787845]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

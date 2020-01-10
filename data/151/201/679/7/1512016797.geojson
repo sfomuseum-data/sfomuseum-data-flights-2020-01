@@ -13,8 +13,8 @@
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PIT",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-80.259551,-80.259551",
-    "geom:latitude":-101.315247,
+    "geom:bbox":"-122.370943,37.61799,-80.259551,40.492624",
+    "geom:latitude":39.055307,
     "geom:longitude":-101.315247,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691882,
-    "wof:geomhash":"fb1b49c46b654405493cbbd1915ad482",
+    "wof:geomhash":"d7bea1763df143b6882335af1c301bcf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693548,
     "wof:name":"NZ9391 (SFO-PIT)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -80.259551,
-    -80.259551
+    40.492624
 ],
-  "geometry": {"coordinates":[[-80.259551,-80.259551],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.259551,40.492624]],"type":"MultiPoint"}
 }

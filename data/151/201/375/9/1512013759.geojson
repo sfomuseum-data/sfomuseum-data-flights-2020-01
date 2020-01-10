@@ -13,8 +13,8 @@
     "flysfo:gate":"F15L",
     "flysfo:journey":"ONT-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.587749,-117.587749",
-    "geom:latitude":-119.979346,
+    "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
+    "geom:latitude":35.838962,
     "geom:longitude":-119.979346,
     "iata:airline":"CM",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691547,
-    "wof:geomhash":"ab85934877e099cc5887bf94aed17adf",
+    "wof:geomhash":"094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693574,
     "wof:name":"CM2531 (ONT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    34.059934,
     -117.587749,
-    -117.587749
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-117.587749,-117.587749]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"G2",
     "flysfo:journey":"DUB-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-6.246362,-6.246362",
-    "geom:latitude":-64.308652,
+    "geom:bbox":"-122.370943,37.61799,-6.246362,53.425842",
+    "geom:latitude":45.521916,
     "geom:longitude":-64.308652,
     "iata:airline":"BA",
     "iata:base_airline":"EI",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691511,
-    "wof:geomhash":"7571ebc6fd6fb3c52c7de3c0024bc38b",
+    "wof:geomhash":"aecdd4fa1f8944d2eefd3273b1547edd",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930463,
         1159283495
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693510,
     "wof:name":"BA6147 (DUB-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -6.246362,
-    -6.246362
+    53.425842
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-6.246362,-6.246362]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-6.246362,53.425842],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

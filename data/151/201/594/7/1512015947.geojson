@@ -13,8 +13,8 @@
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-NAN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,177.37636,177.37636",
-    "geom:latitude":27.502709,
+    "geom:bbox":"-122.370943,-17.806865,177.37636,37.61799",
+    "geom:latitude":9.905563,
     "geom:longitude":27.502709,
     "iata:airline":"AA",
     "iata:base_airline":"FJ",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691789,
-    "wof:geomhash":"eaa2d3ff9f8f74c2d1399660bf343b04",
+    "wof:geomhash":"ac04d12b9bb720d89a4c8027fbef35a5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930315,
         1159283715
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693472,
     "wof:name":"AA7214 (SFO-NAN)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -17.806865,
     177.37636,
-    177.37636
+    37.61799
 ],
-  "geometry": {"coordinates":[[177.37636000000001,177.37636000000001],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[177.37636000000001,-17.806865]],"type":"MultiPoint"}
 }

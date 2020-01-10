@@ -11,8 +11,8 @@
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-SBA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.837133,-119.837133",
-    "geom:latitude":-121.104038,
+    "geom:bbox":"-122.370943,34.427974,-119.837133,37.61799",
+    "geom:latitude":36.022982,
     "geom:longitude":-121.104038,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692134,
-    "wof:geomhash":"17a5ce1d0f9b0939b6bef397241931bf",
+    "wof:geomhash":"1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693564,
     "wof:name":"UA5325 (SFO-SBA)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    34.427974,
     -119.837133,
-    -119.837133
+    37.61799
 ],
-  "geometry": {"coordinates":[[-119.83713299999999,-119.83713299999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.83713299999999,34.427974]],"type":"MultiPoint"}
 }

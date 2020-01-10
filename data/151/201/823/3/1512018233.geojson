@@ -13,8 +13,8 @@
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-0.450443,-0.450443",
-    "geom:latitude":-61.410693,
+    "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
+    "geom:latitude":44.544038,
     "geom:longitude":-61.410693,
     "iata:airline":"IB",
     "iata:base_airline":"BA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692034,
-    "wof:geomhash":"d1c15df652192ed01dc2639fdecd75ee",
+    "wof:geomhash":"86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930295,
         1159284021
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693542,
     "wof:name":"IB7444 (SFO-LHR)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -0.450443,
-    -0.450443
+    51.470087
 ],
-  "geometry": {"coordinates":[[-0.450443,-0.450443],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
 }

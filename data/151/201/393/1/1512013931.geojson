@@ -13,8 +13,8 @@
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-0.450443,-0.450443",
-    "geom:latitude":-61.410693,
+    "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
+    "geom:latitude":44.544038,
     "geom:longitude":-61.410693,
     "iata:airline":"DL",
     "iata:base_airline":"VS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691569,
-    "wof:geomhash":"f8771027687ba9d32beabe5ab6c22aa7",
+    "wof:geomhash":"c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930307,
         1159285483
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693534,
     "wof:name":"DL4362 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -0.450443,
-    -0.450443
+    51.470087
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-0.450443,-0.450443]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

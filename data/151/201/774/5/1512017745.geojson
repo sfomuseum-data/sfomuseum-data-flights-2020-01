@@ -13,8 +13,8 @@
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-IAD",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-77.453702,-77.453702",
-    "geom:latitude":-99.912323,
+    "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
+    "geom:latitude":38.283618,
     "geom:longitude":-99.912323,
     "iata:airline":"LH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691978,
-    "wof:geomhash":"daf998cc4bcc8b35bbcd1f77f88a2896",
+    "wof:geomhash":"1c4ce661f6692034a082b31062a17f5e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693572,
     "wof:name":"LH7531 (SFO-IAD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -77.453702,
-    -77.453702
+    38.949246
 ],
-  "geometry": {"coordinates":[[-77.45370200000001,-77.45370200000001],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.45370200000001,38.949246]],"type":"MultiPoint"}
 }

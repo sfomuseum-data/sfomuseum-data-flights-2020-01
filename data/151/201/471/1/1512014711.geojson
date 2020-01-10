@@ -11,8 +11,8 @@
     "flysfo:gate":"A13",
     "flysfo:journey":"MNL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,121.015152,121.015152",
-    "geom:latitude":-0.677895,
+    "geom:bbox":"-122.370943,14.517768,121.015152,37.61799",
+    "geom:latitude":26.067879,
     "geom:longitude":-0.677895,
     "iata:airline":"PR",
     "icao:airline":"PAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691650,
-    "wof:geomhash":"b67a04b21c0cf0c108b3fe3f0bf7c1a8",
+    "wof:geomhash":"5a4fd58c6aeb5f6f6368af3561d0b192",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285015,
         1477930309
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693487,
     "wof:name":"PR104 (MNL-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    14.517768,
     121.015152,
-    121.015152
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[121.015152,121.015152]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.015152,14.517768],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-OMA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-95.897601,-95.897601",
-    "geom:latitude":-109.134272,
+    "geom:bbox":"-122.370943,37.61799,-95.897601,41.301438",
+    "geom:latitude":39.459714,
     "geom:longitude":-109.134272,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692137,
-    "wof:geomhash":"92160880bba108d35e2f95b718b9e12b",
+    "wof:geomhash":"b2b4de685cac2a2e83e7d43e9bbb14d9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693571,
     "wof:name":"UA5404 (SFO-OMA)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -95.897601,
-    -95.897601
+    41.301438
 ],
-  "geometry": {"coordinates":[[-95.89760099999999,-95.89760099999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.89760099999999,41.301438]],"type":"MultiPoint"}
 }

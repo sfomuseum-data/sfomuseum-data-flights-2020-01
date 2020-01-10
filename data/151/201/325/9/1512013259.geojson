@@ -11,8 +11,8 @@
     "flysfo:gate":"D2",
     "flysfo:journey":"DAL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-96.850523,-96.850523",
-    "geom:latitude":-109.610733,
+    "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
+    "geom:latitude":35.23192,
     "geom:longitude":-109.610733,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691485,
-    "wof:geomhash":"807dabe0955c39a6e55329c1d488678f",
+    "wof:geomhash":"ecfc64ce72b903780fc129f985c12eef",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693525,
     "wof:name":"AS3395 (DAL-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.845849,
     -96.850523,
-    -96.850523
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-96.850523,-96.850523]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

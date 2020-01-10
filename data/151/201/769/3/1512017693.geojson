@@ -13,8 +13,8 @@
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-PVG",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,121.799307,121.799307",
-    "geom:latitude":-0.285818,
+    "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
+    "geom:latitude":34.381651,
     "geom:longitude":-0.285818,
     "iata:airline":"DL",
     "iata:base_airline":"MU",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691968,
-    "wof:geomhash":"fbc61084c4378d1ce57e1460e5b8473c",
+    "wof:geomhash":"014430cde1a85b033fb3b4a447168595",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930283,
         1159284157
     ],
-    "wof:lastmodified":1578692204,
+    "wof:lastmodified":1578693531,
     "wof:name":"DL6557 (SFO-PVG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    31.145312,
     121.799307,
-    121.799307
+    37.61799
 ],
-  "geometry": {"coordinates":[[121.799307,121.799307],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[121.799307,31.145312]],"type":"MultiPoint"}
 }

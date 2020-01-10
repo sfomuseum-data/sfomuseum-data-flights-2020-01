@@ -13,8 +13,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SAT",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-98.472784,-98.472784",
-    "geom:latitude":-110.421864,
+    "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
+    "geom:latitude":33.576414,
     "geom:longitude":-110.421864,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691811,
-    "wof:geomhash":"2fbe6ed5ef51ba453dc92b0d75bf538f",
+    "wof:geomhash":"3d1812cb234aac8b643ea0201167e576",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693546,
     "wof:name":"AC4347 (SFO-SAT)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.534838,
     -98.472784,
-    -98.472784
+    37.61799
 ],
-  "geometry": {"coordinates":[[-98.472784,-98.472784],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-98.472784,29.534838]],"type":"MultiPoint"}
 }

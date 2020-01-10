@@ -11,8 +11,8 @@
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.370943,-122.370943",
-    "geom:latitude":-122.370943,
+    "geom:bbox":"-122.370943,37.61799,-122.370943,37.61799",
+    "geom:latitude":37.61799,
     "geom:longitude":-122.370943,
     "iata:airline":"CX",
     "icao:airline":"CPA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691553,
-    "wof:geomhash":"47eeb094529c7ac19bc087d5c64222a8",
+    "wof:geomhash":"f780d59ec1f4d1acb53d14db45159ea5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159284127,
         1477930301
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693520,
     "wof:name":"CX879 (SFO-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
+    37.61799,
     -122.370943,
-    -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

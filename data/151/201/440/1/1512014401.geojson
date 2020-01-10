@@ -13,8 +13,8 @@
     "flysfo:gate":"D4",
     "flysfo:journey":"MSY-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-90.261832,-90.261832",
-    "geom:latitude":-106.316387,
+    "geom:bbox":"-122.370943,29.982609,-90.261832,37.61799",
+    "geom:latitude":33.8003,
     "geom:longitude":-106.316387,
     "iata:airline":"FJ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691617,
-    "wof:geomhash":"75106e4606507305f7c0c82059717f40",
+    "wof:geomhash":"a7e835886f555fd347028edc152f9d8c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693486,
     "wof:name":"FJ5827 (MSY-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.982609,
     -90.261832,
-    -90.261832
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-90.261832,-90.261832]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.261832,29.982609],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

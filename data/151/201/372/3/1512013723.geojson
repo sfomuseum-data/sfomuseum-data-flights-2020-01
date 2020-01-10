@@ -13,8 +13,8 @@
     "flysfo:gate":"F15K",
     "flysfo:journey":"MFR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.874456,-122.874456,-122.370943,-122.370943",
-    "geom:latitude":-122.622699,
+    "geom:bbox":"-122.874456,37.61799,-122.370943,42.369651",
+    "geom:latitude":39.99382,
     "geom:longitude":-122.622699,
     "iata:airline":"CM",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691543,
-    "wof:geomhash":"b93d17aa9bf99fabbd454a7c8bec17bd",
+    "wof:geomhash":"10bf27aabb5200ef4863b11f6c2a5d60",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693576,
     "wof:name":"CM2423 (MFR-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.874456,
-    -122.874456,
+    37.61799,
     -122.370943,
-    -122.370943
+    42.369651
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.874456,-122.874456]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.874456,42.369651],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

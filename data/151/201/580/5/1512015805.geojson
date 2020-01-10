@@ -13,8 +13,8 @@
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-103.301974,-103.301974",
-    "geom:latitude":-112.836458,
+    "geom:bbox":"-122.370943,20.525627,-103.301974,37.61799",
+    "geom:latitude":29.071808,
     "geom:longitude":-112.836458,
     "iata:airline":"VS",
     "iata:base_airline":"AM",
@@ -53,7 +53,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691769,
-    "wof:geomhash":"477b5549ba92de6289850c327735728e",
+    "wof:geomhash":"d1cf00e952c40abdeded8d31cdcdf72b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -90,7 +90,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693524,
     "wof:name":"VS7575 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",
@@ -101,9 +101,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    20.525627,
     -103.301974,
-    -103.301974
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-103.301974,-103.301974]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-103.301974,20.525627],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

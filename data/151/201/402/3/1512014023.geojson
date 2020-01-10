@@ -13,8 +13,8 @@
     "flysfo:gate":"F14",
     "flysfo:journey":"LIH-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-159.347789,-159.347789,-122.370943,-122.370943",
-    "geom:latitude":-140.859366,
+    "geom:bbox":"-159.347789,21.981539,-122.370943,37.61799",
+    "geom:latitude":29.799765,
     "geom:longitude":-140.859366,
     "iata:airline":"LH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691578,
-    "wof:geomhash":"00c57acd9fcffceff14a578bbe3dc98f",
+    "wof:geomhash":"46fccc0e56242535ccfd5ecb278f9a75",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693555,
     "wof:name":"LH7859 (LIH-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -159.347789,
-    -159.347789,
+    21.981539,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-159.34778900000001,-159.34778900000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-159.34778900000001,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

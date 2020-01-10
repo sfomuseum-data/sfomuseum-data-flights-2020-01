@@ -13,8 +13,8 @@
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-YYZ",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-79.628342,-79.628342",
-    "geom:latitude":-100.999642,
+    "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
+    "geom:latitude":40.647171,
     "geom:longitude":-100.999642,
     "iata:airline":"NZ",
     "iata:base_airline":"AC",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691857,
-    "wof:geomhash":"5d619d17ccc31add0e5f7cea72539d6d",
+    "wof:geomhash":"1a30ef2f5f82135186aeb20f0187ac62",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930485,
         1159283597
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693560,
     "wof:name":"NZ4724 (SFO-YYZ)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -79.628342,
-    -79.628342
+    43.676352
 ],
-  "geometry": {"coordinates":[[-79.628342,-79.628342],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
 }

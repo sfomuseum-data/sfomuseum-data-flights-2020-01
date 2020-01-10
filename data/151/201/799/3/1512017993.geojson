@@ -11,8 +11,8 @@
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-TLV",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,34.877214,34.877214",
-    "geom:latitude":-43.746865,
+    "geom:bbox":"-122.370943,32.005595,34.877214,37.61799",
+    "geom:latitude":34.811792,
     "geom:longitude":-43.746865,
     "iata:airline":"LY",
     "icao:airline":"ELY",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692001,
-    "wof:geomhash":"4e1dbc2efa30c9229753afaebb57b99d",
+    "wof:geomhash":"1b9d916c097bbded3c8620fa2d25ceca",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159284327,
         1477930303
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693473,
     "wof:name":"LY20 (SFO-TLV)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.005595,
     34.877214,
-    34.877214
+    37.61799
 ],
-  "geometry": {"coordinates":[[34.877214,34.877214],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[34.877214,32.005595]],"type":"MultiPoint"}
 }

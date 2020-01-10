@@ -11,8 +11,8 @@
     "flysfo:gate":"F1",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-95.338444,-95.338444",
-    "geom:latitude":-108.854693,
+    "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
+    "geom:latitude":33.797588,
     "geom:longitude":-108.854693,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691709,
-    "wof:geomhash":"6bb0e6a31d5a6e056553f94fc74b8c93",
+    "wof:geomhash":"25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578692197,
+    "wof:lastmodified":1578693568,
     "wof:name":"UA2264 (IAH-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.977186,
     -95.338444,
-    -95.338444
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-95.338444,-95.338444]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

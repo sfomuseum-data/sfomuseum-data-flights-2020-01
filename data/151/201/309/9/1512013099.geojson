@@ -13,8 +13,8 @@
     "flysfo:gate":"G6",
     "flysfo:journey":"MEX-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-99.080804,-99.080804",
-    "geom:latitude":-110.725874,
+    "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
+    "geom:latitude":28.524646,
     "geom:longitude":-110.725874,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691466,
-    "wof:geomhash":"b77c2d01bd7ea35bfa269d1bcf1920ee",
+    "wof:geomhash":"4224d1c4c9907a232ddfbf90e60373e4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693473,
     "wof:name":"NZ9822 (MEX-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    19.431302,
     -99.080804,
-    -99.080804
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-99.080804,-99.080804]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

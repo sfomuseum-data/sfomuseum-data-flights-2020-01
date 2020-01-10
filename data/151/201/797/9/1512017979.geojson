@@ -11,8 +11,8 @@
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-DUB",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-6.246362,-6.246362",
-    "geom:latitude":-64.308652,
+    "geom:bbox":"-122.370943,37.61799,-6.246362,53.425842",
+    "geom:latitude":45.521916,
     "geom:longitude":-64.308652,
     "iata:airline":"EI",
     "icao:airline":"EIN",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692000,
-    "wof:geomhash":"22126f6bccaea0bb2f0d8d7e8f82dd5b",
+    "wof:geomhash":"3dda75dcf1fae64b97c7a2b018cfa114",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283495,
         1477930463
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693470,
     "wof:name":"EI146 (SFO-DUB)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -6.246362,
-    -6.246362
+    53.425842
 ],
-  "geometry": {"coordinates":[[-6.246362,-6.246362],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-6.246362,53.425842]],"type":"MultiPoint"}
 }

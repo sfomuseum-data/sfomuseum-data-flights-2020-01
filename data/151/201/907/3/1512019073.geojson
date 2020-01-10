@@ -11,8 +11,8 @@
     "flysfo:gate":"",
     "flysfo:journey":"SFO-XMN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,118.135698,118.135698",
-    "geom:latitude":-2.117622,
+    "geom:bbox":"-122.370943,24.540839,118.135698,37.61799",
+    "geom:latitude":31.079414,
     "geom:longitude":-2.117622,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -35,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692123,
-    "wof:geomhash":"a997e23c0aebf175206f88d600515a6e",
+    "wof:geomhash":"325a27079583eb22ad4e829d7b21e0b3",
     "wof:hierarchy":[],
     "wof:id":1512019073,
     "wof:involves":[
@@ -44,7 +44,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693473,
     "wof:name":"UA2722 (SFO-XMN)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
@@ -55,9 +55,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    24.540839,
     118.135698,
-    118.135698
+    37.61799
 ],
-  "geometry": {"coordinates":[[118.135698,118.135698],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[118.135698,24.540839]],"type":"MultiPoint"}
 }

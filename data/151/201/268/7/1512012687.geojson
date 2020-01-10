@@ -13,8 +13,8 @@
     "flysfo:gate":"A10",
     "flysfo:journey":"SAL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-89.058566,-89.058566",
-    "geom:latitude":-105.714754,
+    "geom:bbox":"-122.370943,13.444749,-89.058566,37.61799",
+    "geom:latitude":25.53137,
     "geom:longitude":-105.714754,
     "iata:airline":"NH",
     "iata:base_airline":"AV",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691417,
-    "wof:geomhash":"18c1c6c970188483369eea0f69c01bb6",
+    "wof:geomhash":"5bc73b85d9408e1579ad3f82b41c3e68",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930303,
         1159283957
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693499,
     "wof:name":"NH7829 (SAL-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    13.444749,
     -89.058566,
-    -89.058566
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-89.058566,-89.058566]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-89.058566,13.444749],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-GEG",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.531916,-117.531916",
-    "geom:latitude":-119.951429,
+    "geom:bbox":"-122.370943,37.61799,-117.531916,47.625686",
+    "geom:latitude":42.621838,
     "geom:longitude":-119.951429,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692150,
-    "wof:geomhash":"c8def61a9394234c9359cb0572976b24",
+    "wof:geomhash":"9d5970fb497c224f692cb976d5929b90",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693566,
     "wof:name":"UA5649 (SFO-GEG)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -117.531916,
-    -117.531916
+    47.625686
 ],
-  "geometry": {"coordinates":[[-117.531916,-117.531916],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.531916,47.625686]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PVR",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-105.250456,-105.250456",
-    "geom:latitude":-113.810699,
+    "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
+    "geom:latitude":29.139362,
     "geom:longitude":-113.810699,
     "iata:airline":"LY",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692005,
-    "wof:geomhash":"20f6217244f8ecc86b16e82c05058955",
+    "wof:geomhash":"ae49e61cad725fa4577f8355bb7297ad",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693502,
     "wof:name":"LY9415 (SFO-PVR)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    20.660734,
     -105.250456,
-    -105.250456
+    37.61799
 ],
-  "geometry": {"coordinates":[[-105.250456,-105.250456],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-105.250456,20.660734]],"type":"MultiPoint"}
 }

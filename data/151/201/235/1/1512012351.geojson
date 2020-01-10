@@ -13,8 +13,8 @@
     "flysfo:gate":"F9",
     "flysfo:journey":"RNO-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.772167,-119.772167",
-    "geom:latitude":-121.071555,
+    "geom:bbox":"-122.370943,37.61799,-119.772167,39.505219",
+    "geom:latitude":38.561605,
     "geom:longitude":-121.071555,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691374,
-    "wof:geomhash":"c9598a9c3f158ad647456d7ad03aaf1b",
+    "wof:geomhash":"a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693502,
     "wof:name":"AC4371 (RNO-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -119.772167,
-    -119.772167
+    39.505219
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-119.772167,-119.772167]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

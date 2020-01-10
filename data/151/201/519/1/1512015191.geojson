@@ -11,8 +11,8 @@
     "flysfo:gate":"G10",
     "flysfo:journey":"SIN-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,103.976839,103.976839",
-    "geom:latitude":-9.197052,
+    "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
+    "geom:latitude":19.482695,
     "geom:longitude":-9.197052,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691703,
-    "wof:geomhash":"697dbb2364ab7cfe92179f3316f30534",
+    "wof:geomhash":"b883d8e3c3c604f714c4dc756f6c1133",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930481
     ],
-    "wof:lastmodified":1578692197,
+    "wof:lastmodified":1578693513,
     "wof:name":"UA2 (SIN-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    1.3474,
     103.976839,
-    103.976839
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[103.976839,103.976839]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[103.976839,1.3474],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

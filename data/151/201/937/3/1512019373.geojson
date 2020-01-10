@@ -11,8 +11,8 @@
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-MSN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-89.33824,-89.33824",
-    "geom:latitude":-105.854591,
+    "geom:bbox":"-122.370943,37.61799,-89.33824,43.133477",
+    "geom:latitude":40.375733,
     "geom:longitude":-105.854591,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692159,
-    "wof:geomhash":"0027c4923cea0edf7df1f79fee84a0c6",
+    "wof:geomhash":"40b0b0eb9a2216ca79008cabcd236dce",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693481,
     "wof:name":"UA5914 (SFO-MSN)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -89.33824,
-    -89.33824
+    43.133477
 ],
-  "geometry": {"coordinates":[[-89.33824,-89.33824],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-89.33824,43.133477]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-0.450443,-0.450443",
-    "geom:latitude":-61.410693,
+    "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
+    "geom:latitude":44.544038,
     "geom:longitude":-61.410693,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692178,
-    "wof:geomhash":"d1c15df652192ed01dc2639fdecd75ee",
+    "wof:geomhash":"86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1578692210,
+    "wof:lastmodified":1578693534,
     "wof:name":"UA930 (SFO-LHR)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -0.450443,
-    -0.450443
+    51.470087
 ],
-  "geometry": {"coordinates":[[-0.450443,-0.450443],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}
 }

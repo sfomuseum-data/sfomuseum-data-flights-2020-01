@@ -11,8 +11,8 @@
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-BCN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,2.081322,2.081322",
-    "geom:latitude":-60.14481,
+    "geom:bbox":"-122.370943,37.61799,2.081322,41.296019",
+    "geom:latitude":39.457004,
     "geom:longitude":-60.14481,
     "iata:airline":"IB",
     "icao:airline":"IBE",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692032,
-    "wof:geomhash":"d1675b49959213e196e64ed424fc5ee9",
+    "wof:geomhash":"1b844caa247a357e6d3574dc4c3eb3e8",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159284511,
         1477930303
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693494,
     "wof:name":"IB2622 (SFO-BCN)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     2.081322,
-    2.081322
+    41.296019
 ],
-  "geometry": {"coordinates":[[2.081322,2.081322],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[2.081322,41.296019]],"type":"MultiPoint"}
 }

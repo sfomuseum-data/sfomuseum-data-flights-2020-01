@@ -13,8 +13,8 @@
     "flysfo:gate":"F7",
     "flysfo:journey":"OKC-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-97.593893,-97.593893",
-    "geom:latitude":-109.982418,
+    "geom:bbox":"-122.370943,35.396691,-97.593893,37.61799",
+    "geom:latitude":36.50734,
     "geom:longitude":-109.982418,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691418,
-    "wof:geomhash":"d26436dc39e40c5f7c4b7df5bcde8abf",
+    "wof:geomhash":"7685368f2ace650ddf08145f6ec5f0c3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693507,
     "wof:name":"NZ2364 (OKC-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.396691,
     -97.593893,
-    -97.593893
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-97.59389299999999,-97.59389299999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.59389299999999,35.396691],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

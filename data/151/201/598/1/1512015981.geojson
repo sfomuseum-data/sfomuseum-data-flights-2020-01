@@ -13,8 +13,8 @@
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.304268,-122.304268",
-    "geom:latitude":-122.337605,
+    "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
+    "geom:latitude":42.529906,
     "geom:longitude":-122.337605,
     "iata:airline":"OZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691792,
-    "wof:geomhash":"7ad8aaaa9ed5656388558718ab75c013",
+    "wof:geomhash":"4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693538,
     "wof:name":"OZ6302 (SFO-SEA)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -122.304268,
-    -122.304268
+    47.441823
 ],
-  "geometry": {"coordinates":[[-122.30426799999999,-122.30426799999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.30426799999999,47.441823]],"type":"MultiPoint"}
 }

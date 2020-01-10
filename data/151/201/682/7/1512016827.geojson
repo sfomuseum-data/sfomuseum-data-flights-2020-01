@@ -13,8 +13,8 @@
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-FLL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-80.138518,-80.138518",
-    "geom:latitude":-101.25473,
+    "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
+    "geom:latitude":31.846425,
     "geom:longitude":-101.25473,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691885,
-    "wof:geomhash":"582b77efe4424fc78a634beee23555ee",
+    "wof:geomhash":"2155b19e54308f477f2a379762b2f6c8",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693542,
     "wof:name":"NZ9445 (SFO-FLL)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    26.07486,
     -80.138518,
-    -80.138518
+    37.61799
 ],
-  "geometry": {"coordinates":[[-80.138518,-80.138518],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"G7",
     "flysfo:journey":"PTY-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-79.383499,-79.383499",
-    "geom:latitude":-100.877221,
+    "geom:bbox":"-122.370943,9.07136,-79.383499,37.61799",
+    "geom:latitude":23.344675,
     "geom:longitude":-100.877221,
     "iata:airline":"UA",
     "iata:base_airline":"CM",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691746,
-    "wof:geomhash":"e52171b2b42e896cfbb90130a14c47e0",
+    "wof:geomhash":"a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930475,
         1159284211
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693532,
     "wof:name":"UA7164 (PTY-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    9.07136,
     -79.383499,
-    -79.383499
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-79.383499,-79.383499]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-79.383499,9.07136],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

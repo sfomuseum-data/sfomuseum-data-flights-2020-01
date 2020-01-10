@@ -13,8 +13,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-MSP",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-93.200317,-93.200317",
-    "geom:latitude":-107.78563,
+    "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
+    "geom:latitude":41.250656,
     "geom:longitude":-107.78563,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691885,
-    "wof:geomhash":"b9cd97918603a2ac4526d2ac9dffc460",
+    "wof:geomhash":"bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693542,
     "wof:name":"NZ9419 (SFO-MSP)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -93.200317,
-    -93.200317
+    44.883321
 ],
-  "geometry": {"coordinates":[[-93.200317,-93.200317],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}
 }

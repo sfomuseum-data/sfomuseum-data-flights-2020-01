@@ -11,8 +11,8 @@
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-DEL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,77.098117,77.098117",
-    "geom:latitude":-22.636413,
+    "geom:bbox":"-122.370943,28.561954,77.098117,37.61799",
+    "geom:latitude":33.089972,
     "geom:longitude":-22.636413,
     "iata:airline":"AI",
     "icao:airline":"AIC",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691842,
-    "wof:geomhash":"040895d7a4e73c50a13d3b305679088b",
+    "wof:geomhash":"5685f56014cf853d095c4b0f2d5ea6d9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283649,
         1477930467
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693562,
     "wof:name":"AI174 (SFO-DEL)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    28.561954,
     77.098117,
-    77.098117
+    37.61799
 ],
-  "geometry": {"coordinates":[[77.098117,77.098117],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[77.098117,28.561954]],"type":"MultiPoint"}
 }

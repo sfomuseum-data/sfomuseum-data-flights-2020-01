@@ -13,8 +13,8 @@
     "flysfo:gate":"",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-73.787845,-73.787845",
-    "geom:latitude":-98.079394,
+    "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
+    "geom:latitude":39.130638,
     "geom:longitude":-98.079394,
     "iata:airline":"IB",
     "iata:base_airline":"AA",
@@ -40,7 +40,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692032,
-    "wof:geomhash":"2973c80f47e24c0ba088b7adeb84f523",
+    "wof:geomhash":"1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy":[],
     "wof:id":1512018213,
     "wof:involves":[
@@ -50,7 +50,7 @@
         -1,
         1159283849
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693494,
     "wof:name":"IB4097 (SFO-JFK)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
@@ -61,9 +61,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -73.787845,
-    -73.787845
+    40.643286
 ],
-  "geometry": {"coordinates":[[-73.787845,-73.787845],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

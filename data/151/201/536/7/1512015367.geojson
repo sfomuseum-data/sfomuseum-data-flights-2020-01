@@ -11,8 +11,8 @@
     "flysfo:gate":"F5",
     "flysfo:journey":"BFL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.047271,-119.047271",
-    "geom:latitude":-120.709107,
+    "geom:bbox":"-122.370943,35.425802,-119.047271,37.61799",
+    "geom:latitude":36.521896,
     "geom:longitude":-120.709107,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691720,
-    "wof:geomhash":"67d3f5c9fcfed9df37ce2857d86d1a9d",
+    "wof:geomhash":"3b3e9c3ec34a983f815de975c27882c1",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693535,
     "wof:name":"UA5219 (BFL-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.425802,
     -119.047271,
-    -119.047271
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-119.04727099999999,-119.04727099999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-119.04727099999999,35.425802],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

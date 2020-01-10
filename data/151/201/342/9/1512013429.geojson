@@ -13,8 +13,8 @@
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-73.787845,-73.787845",
-    "geom:latitude":-98.079394,
+    "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
+    "geom:latitude":39.130638,
     "geom:longitude":-98.079394,
     "iata:airline":"BA",
     "iata:base_airline":"AA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691507,
-    "wof:geomhash":"6f9bcd1d700807e4877b1729616d761e",
+    "wof:geomhash":"ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693567,
     "wof:name":"BA4330 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -73.787845,
-    -73.787845
+    40.643286
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-73.787845,-73.787845]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

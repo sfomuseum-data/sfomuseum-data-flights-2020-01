@@ -13,8 +13,8 @@
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-104.672219,-104.672219",
-    "geom:latitude":-113.521581,
+    "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
+    "geom:latitude":38.741464,
     "geom:longitude":-113.521581,
     "iata:airline":"CA",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691933,
-    "wof:geomhash":"90ef0738aea26ad40601bb6989d9e93a",
+    "wof:geomhash":"976937653dbac6c9c27dd23670ba89bf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578692203,
+    "wof:lastmodified":1578693528,
     "wof:name":"CA7308 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -104.672219,
-    -104.672219
+    39.864939
 ],
-  "geometry": {"coordinates":[[-104.672219,-104.672219],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-157.918416,-157.918416,-122.370943,-122.370943",
-    "geom:latitude":-140.144679,
+    "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
+    "geom:latitude":29.475249,
     "geom:longitude":-140.144679,
     "iata:airline":"LH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691582,
-    "wof:geomhash":"23a5336878c90c087cbd0c3d011628e3",
+    "wof:geomhash":"1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693505,
     "wof:name":"LH9177 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -157.918416,
-    -157.918416,
+    21.332508,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-157.91841600000001,-157.91841600000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-157.91841600000001,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

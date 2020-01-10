@@ -13,8 +13,8 @@
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-RDD",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.29822,-122.29822",
-    "geom:latitude":-122.334581,
+    "geom:bbox":"-122.370943,37.61799,-122.29822,40.507596",
+    "geom:latitude":39.062793,
     "geom:longitude":-122.334581,
     "iata:airline":"CM",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691943,
-    "wof:geomhash":"07af2e6cb1982a9651170247ee44a177",
+    "wof:geomhash":"d81f35c9bd76192177056b7c45b4498c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578692204,
+    "wof:lastmodified":1578693564,
     "wof:name":"CM1462 (SFO-RDD)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -122.29822,
-    -122.29822
+    40.507596
 ],
-  "geometry": {"coordinates":[[-122.29822,-122.29822],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.29822,40.507596]],"type":"MultiPoint"}
 }

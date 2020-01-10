@@ -11,8 +11,8 @@
     "flysfo:gate":"F20",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.185927,-117.185927",
-    "geom:latitude":-119.778435,
+    "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
+    "geom:latitude":35.175762,
     "geom:longitude":-119.778435,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691747,
-    "wof:geomhash":"e9371b592b2de0fc5a789782295bf04c",
+    "wof:geomhash":"d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693530,
     "wof:name":"UA722 (SAN-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.733534,
     -117.185927,
-    -117.185927
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-117.18592700000001,-117.18592700000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.18592700000001,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

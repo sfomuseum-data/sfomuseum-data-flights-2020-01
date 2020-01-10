@@ -13,8 +13,8 @@
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-SYD",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,151.173388,151.173388",
-    "geom:latitude":14.401222,
+    "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
+    "geom:latitude":1.841531,
     "geom:longitude":14.401222,
     "iata:airline":"LH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691986,
-    "wof:geomhash":"7873de75c665353db1ff73e8897b46d3",
+    "wof:geomhash":"148b50b9c1c42c575a8cdcaf5b598e8f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693518,
     "wof:name":"LH9327 (SFO-SYD)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -33.934928,
     151.173388,
-    151.173388
+    37.61799
 ],
-  "geometry": {"coordinates":[[151.17338799999999,151.17338799999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[151.17338799999999,-33.934928]],"type":"MultiPoint"}
 }

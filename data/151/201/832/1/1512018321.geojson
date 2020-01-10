@@ -13,8 +13,8 @@
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-HNL",
     "geom:area":0.0,
-    "geom:bbox":"-157.918416,-157.918416,-122.370943,-122.370943",
-    "geom:latitude":-140.144679,
+    "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
+    "geom:latitude":29.475249,
     "geom:longitude":-140.144679,
     "iata:airline":"B6",
     "iata:base_airline":"HA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692045,
-    "wof:geomhash":"ed8383c60e4c0550cf2f46c4b35cc6e7",
+    "wof:geomhash":"ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930307,
         1159284489
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693503,
     "wof:name":"B65811 (SFO-HNL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -157.918416,
-    -157.918416,
+    21.332508,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-157.91841600000001,-157.91841600000001],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-157.91841600000001,21.332508]],"type":"MultiPoint"}
 }

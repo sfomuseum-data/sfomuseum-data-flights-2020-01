@@ -11,8 +11,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-BZN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-111.158267,-111.158267",
-    "geom:latitude":-116.764605,
+    "geom:bbox":"-122.370943,37.61799,-111.158267,45.775425",
+    "geom:latitude":41.696708,
     "geom:longitude":-116.764605,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692153,
-    "wof:geomhash":"53aac982f315bbacd2bece7e36d27644",
+    "wof:geomhash":"8115bc7828d3bd6404c793fb172971b8",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693480,
     "wof:name":"UA5710 (SFO-BZN)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -111.158267,
-    -111.158267
+    45.775425
 ],
-  "geometry": {"coordinates":[[-111.158267,-111.158267],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.158267,45.775425]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-ORY",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,2.36613,2.36613",
-    "geom:latitude":-60.002406,
+    "geom:bbox":"-122.370943,37.61799,2.36613,48.729315",
+    "geom:latitude":43.173653,
     "geom:longitude":-60.002406,
     "iata:airline":"BF",
     "icao:airline":"FBU",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692014,
-    "wof:geomhash":"b0bfb6a6dabcad5ab72bce79f40c43d3",
+    "wof:geomhash":"edaaf2818a2a544efcecaa79ec77eac5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1377649073,
         1477930467
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693551,
     "wof:name":"BF711 (SFO-ORY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     2.36613,
-    2.36613
+    48.729315
 ],
-  "geometry": {"coordinates":[[2.36613,2.36613],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[2.36613,48.729315]],"type":"MultiPoint"}
 }

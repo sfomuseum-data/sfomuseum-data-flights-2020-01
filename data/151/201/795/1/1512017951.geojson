@@ -13,8 +13,8 @@
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-MCO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-81.307537,-81.307537",
-    "geom:latitude":-101.83924,
+    "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
+    "geom:latitude":33.024743,
     "geom:longitude":-101.83924,
     "iata:airline":"QF",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691997,
-    "wof:geomhash":"b0406556dcf6c828d9548b48edff7d58",
+    "wof:geomhash":"33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693538,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    28.431495,
     -81.307537,
-    -81.307537
+    37.61799
 ],
-  "geometry": {"coordinates":[[-81.307537,-81.307537],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}
 }

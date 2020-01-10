@@ -13,8 +13,8 @@
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-83.351709,-83.351709",
-    "geom:latitude":-102.861326,
+    "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
+    "geom:latitude":39.918425,
     "geom:longitude":-102.861326,
     "iata:airline":"AF",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691833,
-    "wof:geomhash":"fdcdd658ab8fe9d731ae0f89f6198844",
+    "wof:geomhash":"9151bfe07cf224e1ff61a7f7b8c30671",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693498,
     "wof:name":"AF2099 (SFO-DTW)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -83.351709,
-    -83.351709
+    42.21886
 ],
-  "geometry": {"coordinates":[[-83.351709,-83.351709],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}
 }

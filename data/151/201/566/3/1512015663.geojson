@@ -13,8 +13,8 @@
     "flysfo:gate":"G2",
     "flysfo:journey":"PEK-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,116.586155,116.586155",
-    "geom:latitude":-2.892394,
+    "geom:bbox":"-122.370943,37.61799,116.586155,40.068469",
+    "geom:latitude":38.843229,
     "geom:longitude":-2.892394,
     "iata:airline":"UA",
     "iata:base_airline":"CA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691748,
-    "wof:geomhash":"20042299bbce2b7890d14bf1292ad215",
+    "wof:geomhash":"96cbe57d72475858a8ed1d7cff76fcd0",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930463,
         1159283605
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693477,
     "wof:name":"UA7614 (PEK-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     116.586155,
-    116.586155
+    40.068469
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[116.58615500000001,116.58615500000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[116.58615500000001,40.068469],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

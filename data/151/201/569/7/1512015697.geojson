@@ -11,8 +11,8 @@
     "flysfo:gate":"G13",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,121.233152,121.233152",
-    "geom:latitude":-0.568895,
+    "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
+    "geom:latitude":31.348278,
     "geom:longitude":-0.568895,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691757,
-    "wof:geomhash":"60cc2842535faac42c7d418609c10476",
+    "wof:geomhash":"07bfd75b358269393c92373b424876ce",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930487
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA872 (TPE-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    25.078566,
     121.233152,
-    121.233152
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[121.233152,121.233152]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

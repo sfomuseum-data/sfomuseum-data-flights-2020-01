@@ -13,8 +13,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"YVR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-123.1792,-123.1792,-122.370943,-122.370943",
-    "geom:latitude":-122.775071,
+    "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
+    "geom:latitude":43.40566,
     "geom:longitude":-122.775071,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691468,
-    "wof:geomhash":"1599be94a936ad1b7a44b97d4a5f5e07",
+    "wof:geomhash":"e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693572,
     "wof:name":"NZ9877 (YVR-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -123.1792,
-    -123.1792,
+    37.61799,
     -122.370943,
-    -122.370943
+    49.19333
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-123.17919999999999,-123.17919999999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-123.17919999999999,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

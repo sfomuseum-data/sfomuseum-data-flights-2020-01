@@ -13,8 +13,8 @@
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-DCA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-77.041643,-77.041643",
-    "geom:latitude":-99.706293,
+    "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
+    "geom:latitude":38.234314,
     "geom:longitude":-99.706293,
     "iata:airline":"FJ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692019,
-    "wof:geomhash":"5731ce19cbe4627675b0fc2318440ae3",
+    "wof:geomhash":"df4d5906f2523703f9da91c779be1785",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693543,
     "wof:name":"FJ5804 (SFO-DCA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -77.041643,
-    -77.041643
+    38.850639
 ],
-  "geometry": {"coordinates":[[-77.04164299999999,-77.04164299999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.04164299999999,38.850639]],"type":"MultiPoint"}
 }

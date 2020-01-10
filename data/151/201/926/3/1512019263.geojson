@@ -11,8 +11,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-OKC",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-97.593893,-97.593893",
-    "geom:latitude":-109.982418,
+    "geom:bbox":"-122.370943,35.396691,-97.593893,37.61799",
+    "geom:latitude":36.50734,
     "geom:longitude":-109.982418,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692149,
-    "wof:geomhash":"8cc071f8b431269803d421e26c61ccee",
+    "wof:geomhash":"e3775dcc82e10b2050a0f38d95bd1f16",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693570,
     "wof:name":"UA5585 (SFO-OKC)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.396691,
     -97.593893,
-    -97.593893
+    37.61799
 ],
-  "geometry": {"coordinates":[[-97.59389299999999,-97.59389299999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.59389299999999,35.396691]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-BWI",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-76.67107,-76.67107",
-    "geom:latitude":-99.521006,
+    "geom:bbox":"-122.370943,37.61799,-76.67107,39.181319",
+    "geom:latitude":38.399654,
     "geom:longitude":-99.521006,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691860,
-    "wof:geomhash":"6b4e32b32c07d129b06f34effa4f79b1",
+    "wof:geomhash":"ff243e97b2d4ce40e0a4accb79115371",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693509,
     "wof:name":"NZ9031 (SFO-BWI)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -76.67107,
-    -76.67107
+    39.181319
 ],
-  "geometry": {"coordinates":[[-76.67107,-76.67107],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}
 }

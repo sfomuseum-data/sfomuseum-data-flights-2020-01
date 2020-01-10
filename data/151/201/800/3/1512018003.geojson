@@ -13,8 +13,8 @@
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-DAL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-96.850523,-96.850523",
-    "geom:latitude":-109.610733,
+    "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
+    "geom:latitude":35.23192,
     "geom:longitude":-109.610733,
     "iata:airline":"LY",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692002,
-    "wof:geomhash":"aa6b01c33355be14e5b0ecc31653ed88",
+    "wof:geomhash":"a08c5b1a6c329f228ec453404f254a51",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693550,
     "wof:name":"LY9373 (SFO-DAL)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.845849,
     -96.850523,
-    -96.850523
+    37.61799
 ],
-  "geometry": {"coordinates":[[-96.850523,-96.850523],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-96.850523,32.845849]],"type":"MultiPoint"}
 }

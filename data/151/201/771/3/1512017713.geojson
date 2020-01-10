@@ -13,8 +13,8 @@
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-MEX",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-99.080804,-99.080804",
-    "geom:latitude":-110.725874,
+    "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
+    "geom:latitude":28.524646,
     "geom:longitude":-110.725874,
     "iata:airline":"DL",
     "iata:base_airline":"AM",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691970,
-    "wof:geomhash":"01f8971d46a2af2a8a135b801378f333",
+    "wof:geomhash":"01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930315,
         1159283539
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693517,
     "wof:name":"DL8050 (SFO-MEX)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    19.431302,
     -99.080804,
-    -99.080804
+    37.61799
 ],
-  "geometry": {"coordinates":[[-99.080804,-99.080804],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}
 }

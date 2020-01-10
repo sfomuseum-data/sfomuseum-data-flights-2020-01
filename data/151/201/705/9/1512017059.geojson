@@ -11,8 +11,8 @@
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-74.177526,-74.177526",
-    "geom:latitude":-98.274235,
+    "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
+    "geom:latitude":39.154617,
     "geom:longitude":-98.274235,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691907,
-    "wof:geomhash":"877ff4c1eea0762134eb8c3892667996",
+    "wof:geomhash":"5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693526,
     "wof:name":"AS334 (SFO-EWR)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -74.177526,
-    -74.177526
+    40.691243
 ],
-  "geometry": {"coordinates":[[-74.177526,-74.177526],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
 }

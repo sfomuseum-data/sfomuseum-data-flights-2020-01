@@ -13,8 +13,8 @@
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-CLE",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-81.835629,-81.835629",
-    "geom:latitude":-102.103286,
+    "geom:bbox":"-122.370943,37.61799,-81.835629,41.406844",
+    "geom:latitude":39.512417,
     "geom:longitude":-102.103286,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691861,
-    "wof:geomhash":"2eadd8941f626d7214987638523f5251",
+    "wof:geomhash":"f65caf98d316e6ee4a43fdc3ee688d07",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693509,
     "wof:name":"NZ9040 (SFO-CLE)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -81.835629,
-    -81.835629
+    41.406844
 ],
-  "geometry": {"coordinates":[[-81.835629,-81.835629],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}
 }

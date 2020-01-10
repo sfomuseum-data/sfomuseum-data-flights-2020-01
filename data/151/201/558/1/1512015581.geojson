@@ -11,8 +11,8 @@
     "flysfo:gate":"E3",
     "flysfo:journey":"MMH-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.837997,-118.837997",
-    "geom:latitude":-120.60447,
+    "geom:bbox":"-122.370943,37.61799,-118.837997,37.6241",
+    "geom:latitude":37.621045,
     "geom:longitude":-120.60447,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691740,
-    "wof:geomhash":"b804667d71729ac4c4b10a603edd29a3",
+    "wof:geomhash":"c292f2a14c76d30fe1fd56bfad13df35",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693474,
     "wof:name":"UA5874 (MMH-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -118.837997,
-    -118.837997
+    37.6241
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-118.837997,-118.837997]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.837997,37.6241],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

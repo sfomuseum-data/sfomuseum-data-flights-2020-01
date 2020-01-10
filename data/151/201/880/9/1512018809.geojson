@@ -11,8 +11,8 @@
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-DXB",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,55.362737,55.362737",
-    "geom:latitude":-33.504103,
+    "geom:bbox":"-122.370943,25.250063,55.362737,37.61799",
+    "geom:latitude":31.434027,
     "geom:longitude":-33.504103,
     "iata:airline":"EK",
     "icao:airline":"UAE",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692091,
-    "wof:geomhash":"56d46536942fcaaba9bc398710b005aa",
+    "wof:geomhash":"db1125d5f6b158d369f65fa73fc455da",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159284333,
         1477930295
     ],
-    "wof:lastmodified":1578692208,
+    "wof:lastmodified":1578693491,
     "wof:name":"EK226 (SFO-DXB)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    25.250063,
     55.362737,
-    55.362737
+    37.61799
 ],
-  "geometry": {"coordinates":[[55.362737,55.362737],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[55.362737,25.250063]],"type":"MultiPoint"}
 }

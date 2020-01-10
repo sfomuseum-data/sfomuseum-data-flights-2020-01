@@ -11,8 +11,8 @@
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-SIN",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,103.976839,103.976839",
-    "geom:latitude":-9.197052,
+    "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
+    "geom:latitude":19.482695,
     "geom:longitude":-9.197052,
     "iata:airline":"SQ",
     "icao:airline":"SIA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692076,
-    "wof:geomhash":"745b11617b91d6a82e85cc09e127da9d",
+    "wof:geomhash":"998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693562,
     "wof:name":"SQ31 (SFO-SIN)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    1.3474,
     103.976839,
-    103.976839
+    37.61799
 ],
-  "geometry": {"coordinates":[[103.976839,103.976839],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[103.976839,1.3474]],"type":"MultiPoint"}
 }

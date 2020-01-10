@@ -11,8 +11,8 @@
     "flysfo:gate":"D2",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.304268,-122.304268",
-    "geom:latitude":-122.337605,
+    "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
+    "geom:latitude":42.529906,
     "geom:longitude":-122.337605,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691470,
-    "wof:geomhash":"3b4e1a882ebe863cc50603902dd19135",
+    "wof:geomhash":"3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693517,
     "wof:name":"AS1092 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -122.304268,
-    -122.304268
+    47.441823
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.30426799999999,-122.30426799999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.30426799999999,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

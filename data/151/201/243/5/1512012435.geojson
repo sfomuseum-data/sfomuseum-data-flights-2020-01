@@ -13,8 +13,8 @@
     "flysfo:gate":"F1",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.86628,-117.86628",
-    "geom:latitude":-120.118612,
+    "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
+    "geom:latitude":35.647857,
     "geom:longitude":-120.118612,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691383,
-    "wof:geomhash":"4e96cee1ad3067644fe43179909058bb",
+    "wof:geomhash":"01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693496,
     "wof:name":"AC5213 (SNA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.677724,
     -117.86628,
-    -117.86628
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-117.86628,-117.86628]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

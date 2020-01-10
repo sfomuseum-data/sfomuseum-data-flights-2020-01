@@ -11,8 +11,8 @@
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-SNA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-117.86628,-117.86628",
-    "geom:latitude":-120.118612,
+    "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
+    "geom:latitude":35.647857,
     "geom:longitude":-120.118612,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692153,
-    "wof:geomhash":"450a56806926c5b5fc1deb55afb1a9b2",
+    "wof:geomhash":"b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA5728 (SFO-SNA)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.677724,
     -117.86628,
-    -117.86628
+    37.61799
 ],
-  "geometry": {"coordinates":[[-117.86628,-117.86628],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
 }

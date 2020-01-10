@@ -13,8 +13,8 @@
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-84.430686,-84.430686",
-    "geom:latitude":-103.400814,
+    "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
+    "geom:latitude":35.627254,
     "geom:longitude":-103.400814,
     "iata:airline":"AM",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691845,
-    "wof:geomhash":"30c140111619260e84c0d4c78d68ae0e",
+    "wof:geomhash":"8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693547,
     "wof:name":"AM4013 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.636518,
     -84.430686,
-    -84.430686
+    37.61799
 ],
-  "geometry": {"coordinates":[[-84.43068599999999,-84.43068599999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.43068599999999,33.636518]],"type":"MultiPoint"}
 }

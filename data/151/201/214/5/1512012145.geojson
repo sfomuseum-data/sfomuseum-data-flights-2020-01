@@ -11,8 +11,8 @@
     "flysfo:gate":"D10",
     "flysfo:journey":"PHX-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-112.017392,-112.017392",
-    "geom:latitude":-117.194167,
+    "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
+    "geom:latitude":35.525337,
     "geom:longitude":-117.194167,
     "iata:airline":"AA",
     "icao:airline":"AAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691344,
-    "wof:geomhash":"c5c9137cfb1d90f482a8645d4e5cc1fe",
+    "wof:geomhash":"c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578692189,
+    "wof:lastmodified":1578693548,
     "wof:name":"AA686 (PHX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.432684,
     -112.017392,
-    -112.017392
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-112.017392,-112.017392]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

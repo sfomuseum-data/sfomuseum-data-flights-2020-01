@@ -11,8 +11,8 @@
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-PSC",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.115996,-119.115996",
-    "geom:latitude":-120.74347,
+    "geom:bbox":"-122.370943,37.61799,-119.115996,46.250133",
+    "geom:latitude":41.934061,
     "geom:longitude":-120.74347,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692146,
-    "wof:geomhash":"c201d342627ad4d5e9058da8b2f8984b",
+    "wof:geomhash":"d9f9fb32305e7b36d764a406914a8e83",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693522,
     "wof:name":"UA5515 (SFO-PSC)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -119.115996,
-    -119.115996
+    46.250133
 ],
-  "geometry": {"coordinates":[[-119.115996,-119.115996],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.115996,46.250133]],"type":"MultiPoint"}
 }

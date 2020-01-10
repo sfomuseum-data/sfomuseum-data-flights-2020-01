@@ -13,8 +13,8 @@
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-HND",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,139.775638,139.775638",
-    "geom:latitude":8.702347,
+    "geom:bbox":"-122.370943,35.554085,139.775638,37.61799",
+    "geom:latitude":36.586038,
     "geom:longitude":8.702347,
     "iata:airline":"NH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691847,
-    "wof:geomhash":"ff74b11932d8fff835e05eaea1ff87b7",
+    "wof:geomhash":"64252c90f74b3e5d6a354a131140ee76",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693488,
     "wof:name":"NH7011 (SFO-HND)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.554085,
     139.775638,
-    139.775638
+    37.61799
 ],
-  "geometry": {"coordinates":[[139.77563799999999,139.77563799999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[139.77563799999999,35.554085]],"type":"MultiPoint"}
 }

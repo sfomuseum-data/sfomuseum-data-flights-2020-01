@@ -11,8 +11,8 @@
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-XNA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-94.303754,-94.303754",
-    "geom:latitude":-108.337348,
+    "geom:bbox":"-122.370943,36.281295,-94.303754,37.61799",
+    "geom:latitude":36.949642,
     "geom:longitude":-108.337348,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692133,
-    "wof:geomhash":"f464f5d3b64dcf84f669f64a244eaf98",
+    "wof:geomhash":"f63a7d607ae93f6ab076bac290a52733",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693513,
     "wof:name":"UA5289 (SFO-XNA)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.281295,
     -94.303754,
-    -94.303754
+    37.61799
 ],
-  "geometry": {"coordinates":[[-94.303754,-94.303754],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-94.303754,36.281295]],"type":"MultiPoint"}
 }

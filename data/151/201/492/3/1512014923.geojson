@@ -11,8 +11,8 @@
     "flysfo:gate":"B9",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.38951,-118.38951",
-    "geom:latitude":-120.380226,
+    "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
+    "geom:latitude":35.780292,
     "geom:longitude":-120.380226,
     "iata:airline":"WN",
     "icao:airline":"SWA",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691676,
-    "wof:geomhash":"be52df64f772c20765407d9ee00903fd",
+    "wof:geomhash":"f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693560,
     "wof:name":"WN1828 (LAX-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.942593,
     -118.38951,
-    -118.38951
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-118.38951,-118.38951]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

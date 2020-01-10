@@ -13,8 +13,8 @@
     "flysfo:gate":"G7",
     "flysfo:journey":"ZRH-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,8.559692,8.559692",
-    "geom:latitude":-56.905625,
+    "geom:bbox":"-122.370943,37.61799,8.559692,47.455793",
+    "geom:latitude":42.536891,
     "geom:longitude":-56.905625,
     "iata:airline":"UA",
     "iata:base_airline":"LX",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691762,
-    "wof:geomhash":"2a168b9953384cf733e6ccaf4f48d6a7",
+    "wof:geomhash":"59c1b41e582a5fde12da38b49a2c462f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930475,
         1159286475
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693525,
     "wof:name":"UA9728 (ZRH-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     8.559692,
-    8.559692
+    47.455793
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[8.559692,8.559692]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[8.559692,47.455793],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

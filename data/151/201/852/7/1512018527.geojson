@@ -11,8 +11,8 @@
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-CPH",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,12.649581,12.649581",
-    "geom:latitude":-54.860681,
+    "geom:bbox":"-122.370943,37.61799,12.649581,55.627628",
+    "geom:latitude":46.622809,
     "geom:longitude":-54.860681,
     "iata:airline":"SK",
     "icao:airline":"SAS",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692065,
-    "wof:geomhash":"03440a30deaa51d15c4d60a6c1102693",
+    "wof:geomhash":"6cbb76e93301e33133b7541a51de6b35",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285129,
         1477930481
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693562,
     "wof:name":"SK936 (SFO-CPH)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     12.649581,
-    12.649581
+    55.627628
 ],
-  "geometry": {"coordinates":[[12.649581,12.649581],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[12.649581,55.627628]],"type":"MultiPoint"}
 }

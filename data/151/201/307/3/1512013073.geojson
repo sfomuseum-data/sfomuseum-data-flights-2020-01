@@ -13,8 +13,8 @@
     "flysfo:gate":"F8",
     "flysfo:journey":"STS-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.806017,-122.806017,-122.370943,-122.370943",
-    "geom:latitude":-122.58848,
+    "geom:bbox":"-122.806017,37.61799,-122.370943,38.51083",
+    "geom:latitude":38.06441,
     "geom:longitude":-122.58848,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691464,
-    "wof:geomhash":"7400b6cb9094b8518498bdc9b8f190b0",
+    "wof:geomhash":"ba0ac8f0313e0faf8aa722fdd03f817a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693471,
     "wof:name":"NZ9678 (STS-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.806017,
-    -122.806017,
+    37.61799,
     -122.370943,
-    -122.370943
+    38.51083
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.806017,-122.806017]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.806017,38.51083],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

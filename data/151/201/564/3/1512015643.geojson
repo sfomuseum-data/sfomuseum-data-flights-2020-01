@@ -11,8 +11,8 @@
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-157.918416,-157.918416,-122.370943,-122.370943",
-    "geom:latitude":-140.144679,
+    "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
+    "geom:latitude":29.475249,
     "geom:longitude":-140.144679,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691747,
-    "wof:geomhash":"23a5336878c90c087cbd0c3d011628e3",
+    "wof:geomhash":"1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693530,
     "wof:name":"UA724 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -157.918416,
-    -157.918416,
+    21.332508,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-157.91841600000001,-157.91841600000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-157.91841600000001,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

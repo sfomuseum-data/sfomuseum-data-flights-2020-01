@@ -13,8 +13,8 @@
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-74.177526,-74.177526",
-    "geom:latitude":-98.274235,
+    "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
+    "geom:latitude":39.154617,
     "geom:longitude":-98.274235,
     "iata:airline":"SQ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692067,
-    "wof:geomhash":"877ff4c1eea0762134eb8c3892667996",
+    "wof:geomhash":"5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693561,
     "wof:name":"SQ1300 (SFO-EWR)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -74.177526,
-    -74.177526
+    40.691243
 ],
-  "geometry": {"coordinates":[[-74.177526,-74.177526],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
 }

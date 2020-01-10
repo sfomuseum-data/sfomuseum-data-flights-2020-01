@@ -13,8 +13,8 @@
     "flysfo:gate":"D12",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-97.050966,-97.050966",
-    "geom:latitude":-109.710954,
+    "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
+    "geom:latitude":35.260825,
     "geom:longitude":-109.710954,
     "iata:airline":"CX",
     "iata:base_airline":"AA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691550,
-    "wof:geomhash":"2c1c4c296c45001a8a2def045ae51c8e",
+    "wof:geomhash":"865973335526f09b753756c305bf4946",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693510,
     "wof:name":"CX7615 (DFW-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.90366,
     -97.050966,
-    -97.050966
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-97.050966,-97.050966]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

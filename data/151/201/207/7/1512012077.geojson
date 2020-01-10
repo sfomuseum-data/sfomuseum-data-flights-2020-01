@@ -11,8 +11,8 @@
     "flysfo:gate":"D11",
     "flysfo:journey":"PHL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-75.247885,-75.247885",
-    "geom:latitude":-98.809414,
+    "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
+    "geom:latitude":38.749471,
     "geom:longitude":-98.809414,
     "iata:airline":"AA",
     "icao:airline":"AAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691337,
-    "wof:geomhash":"68e32380c2464e656e3d087e9d8bc6b2",
+    "wof:geomhash":"70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283849,
         1477930361
     ],
-    "wof:lastmodified":1578692189,
+    "wof:lastmodified":1578693554,
     "wof:name":"AA1742 (PHL-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -75.247885,
-    -75.247885
+    39.880952
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-75.247885,-75.247885]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

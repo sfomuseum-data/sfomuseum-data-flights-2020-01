@@ -11,8 +11,8 @@
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-ZRH",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,8.559692,8.559692",
-    "geom:latitude":-56.905625,
+    "geom:bbox":"-122.370943,37.61799,8.559692,47.455793",
+    "geom:latitude":42.536891,
     "geom:longitude":-56.905625,
     "iata:airline":"LX",
     "icao:airline":"SWR",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692087,
-    "wof:geomhash":"bdfef1999b69d45560e4533a217bc330",
+    "wof:geomhash":"75c5706ba72cddd7f95f840531183522",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159286475,
         1477930475
     ],
-    "wof:lastmodified":1578692208,
+    "wof:lastmodified":1578693544,
     "wof:name":"LX39 (SFO-ZRH)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     8.559692,
-    8.559692
+    47.455793
 ],
-  "geometry": {"coordinates":[[8.559692,8.559692],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[8.559692,47.455793]],"type":"MultiPoint"}
 }

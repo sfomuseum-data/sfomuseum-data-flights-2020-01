@@ -13,8 +13,8 @@
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,113.927436,113.927436",
-    "geom:latitude":-4.221753,
+    "geom:bbox":"-122.370943,22.307471,113.927436,37.61799",
+    "geom:latitude":29.96273,
     "geom:longitude":-4.221753,
     "iata:airline":"MH",
     "iata:base_airline":"CX",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692060,
-    "wof:geomhash":"9fb32be77143c6c695ede2059e840110",
+    "wof:geomhash":"b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930301,
         1159284127
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693545,
     "wof:name":"MH9199 (SFO-HKG)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    22.307471,
     113.927436,
-    113.927436
+    37.61799
 ],
-  "geometry": {"coordinates":[[113.927436,113.927436],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[113.927436,22.307471]],"type":"MultiPoint"}
 }

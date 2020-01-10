@@ -11,8 +11,8 @@
     "flysfo:gate":"",
     "flysfo:journey":"SAT-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-98.472784,-98.472784",
-    "geom:latitude":-110.421864,
+    "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
+    "geom:latitude":33.576414,
     "geom:longitude":-110.421864,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -35,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691713,
-    "wof:geomhash":"88c385432a13201d5b079758d5bc89ae",
+    "wof:geomhash":"d45c6baaf0d56697f52acbb8a9e14867",
     "wof:hierarchy":[],
     "wof:id":1512015293,
     "wof:involves":[
@@ -44,7 +44,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578692197,
+    "wof:lastmodified":1578693521,
     "wof:name":"UA2797 (SAT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
@@ -55,9 +55,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.534838,
     -98.472784,
-    -98.472784
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-98.472784,-98.472784]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-98.472784,29.534838],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"G8",
     "flysfo:journey":"PVR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-105.250456,-105.250456",
-    "geom:latitude":-113.810699,
+    "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
+    "geom:latitude":29.139362,
     "geom:longitude":-113.810699,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691487,
-    "wof:geomhash":"e60131a5c85a1794f79d3f39139e1942",
+    "wof:geomhash":"87e43b321087b5e7d68ac47fe0a6e824",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930477
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693570,
     "wof:name":"AS373 (PVR-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    20.660734,
     -105.250456,
-    -105.250456
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-105.250456,-105.250456]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

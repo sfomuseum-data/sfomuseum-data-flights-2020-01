@@ -13,8 +13,8 @@
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-PTY",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-79.383499,-79.383499",
-    "geom:latitude":-100.877221,
+    "geom:bbox":"-122.370943,9.07136,-79.383499,37.61799",
+    "geom:latitude":23.344675,
     "geom:longitude":-100.877221,
     "iata:airline":"BR",
     "iata:base_airline":"CM",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692013,
-    "wof:geomhash":"9761ae26f1b9aed6ad3ba3bce045ff61",
+    "wof:geomhash":"a1b63305ba93684d4b5beab1220ffb8e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930485,
         1159284211
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693559,
     "wof:name":"BR3185 (SFO-PTY)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    9.07136,
     -79.383499,
-    -79.383499
+    37.61799
 ],
-  "geometry": {"coordinates":[[-79.383499,-79.383499],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.383499,9.07136]],"type":"MultiPoint"}
 }

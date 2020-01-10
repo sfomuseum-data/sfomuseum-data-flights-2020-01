@@ -13,8 +13,8 @@
     "flysfo:gate":"A5",
     "flysfo:journey":"TAO-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,120.374001,120.374001",
-    "geom:latitude":-0.998471,
+    "geom:bbox":"-122.370943,36.266102,120.374001,37.61799",
+    "geom:latitude":36.942046,
     "geom:longitude":-0.998471,
     "iata:airline":"DL",
     "iata:base_airline":"MU",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691572,
-    "wof:geomhash":"9314c8731e6cdd37072553a47a711189",
+    "wof:geomhash":"a1c0e92b52aa25faf5709de92ce1806b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930291,
         1159284157
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693526,
     "wof:name":"DL6573 (TAO-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.266102,
     120.374001,
-    120.374001
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[120.37400100000001,120.37400100000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[120.37400100000001,36.266102],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

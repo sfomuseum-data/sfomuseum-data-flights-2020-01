@@ -11,8 +11,8 @@
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-MMH",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.837997,-118.837997",
-    "geom:latitude":-120.60447,
+    "geom:bbox":"-122.370943,37.61799,-118.837997,37.6241",
+    "geom:latitude":37.621045,
     "geom:longitude":-120.60447,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692160,
-    "wof:geomhash":"48e4ba3bc2a0f3aa30bdc368787adcfd",
+    "wof:geomhash":"e25856e87194d514e8ebd26871928509",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA5976 (SFO-MMH)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -118.837997,
-    -118.837997
+    37.6241
 ],
-  "geometry": {"coordinates":[[-118.837997,-118.837997],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.837997,37.6241]],"type":"MultiPoint"}
 }

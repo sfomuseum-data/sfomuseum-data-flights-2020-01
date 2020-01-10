@@ -13,8 +13,8 @@
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,7.267284,7.267284",
-    "geom:latitude":-57.551829,
+    "geom:bbox":"-122.370943,37.61799,7.267284,49.945918",
+    "geom:latitude":43.781954,
     "geom:longitude":-57.551829,
     "iata:airline":"SN",
     "iata:base_airline":"LH",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691512,
-    "wof:geomhash":"6a53a36c7f1701f29218846b55965638",
+    "wof:geomhash":"ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930485,
         1159284711
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693512,
     "wof:name":"SN7248 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     7.267284,
-    7.267284
+    49.945918
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[7.267284,7.267284]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[7.267284,49.945918],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

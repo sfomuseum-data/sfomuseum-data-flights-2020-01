@@ -11,8 +11,8 @@
     "flysfo:gate":"G4",
     "flysfo:journey":"PPT-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-149.617144,-149.617144,-122.370943,-122.370943",
-    "geom:latitude":-135.994044,
+    "geom:bbox":"-149.617144,-17.573463,-122.370943,37.61799",
+    "geom:latitude":10.022263,
     "geom:longitude":-135.994044,
     "iata:airline":"BF",
     "icao:airline":"FBU",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691604,
-    "wof:geomhash":"06284decccbe969483e8a37589194430",
+    "wof:geomhash":"cb635fc427df70f0d5f88d1f39ad4ded",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1377649073,
         1477930467
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693505,
     "wof:name":"BF711 (PPT-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -149.617144,
-    -149.617144,
+    -17.573463,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-149.617144,-149.617144]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-149.617144,-17.573463],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

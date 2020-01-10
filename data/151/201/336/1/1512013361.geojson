@@ -13,8 +13,8 @@
     "flysfo:gate":"G6",
     "flysfo:journey":"SYD-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,151.173388,151.173388",
-    "geom:latitude":14.401222,
+    "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
+    "geom:latitude":1.841531,
     "geom:longitude":14.401222,
     "iata:airline":"AV",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691501,
-    "wof:geomhash":"d6e9ae4ce692eb52d1efe2a9b9add9f1",
+    "wof:geomhash":"f3115fe3d28c66ab4b94072923e0b1bb",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693472,
     "wof:name":"AV2191 (SYD-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -33.934928,
     151.173388,
-    151.173388
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[151.17338799999999,151.17338799999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[151.17338799999999,-33.934928],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

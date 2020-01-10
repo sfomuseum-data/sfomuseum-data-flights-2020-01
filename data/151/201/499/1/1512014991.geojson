@@ -11,8 +11,8 @@
     "flysfo:gate":"G4",
     "flysfo:journey":"LIS-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-9.135591,-9.135591",
-    "geom:latitude":-65.753267,
+    "geom:bbox":"-122.370943,37.61799,-9.135591,38.772844",
+    "geom:latitude":38.195417,
     "geom:longitude":-65.753267,
     "iata:airline":"TP",
     "icao:airline":"TAP",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691684,
-    "wof:geomhash":"8d2b67a5a5c2769bb97cff14dd5e5eb5",
+    "wof:geomhash":"d927879de9f350bec45f63af3f2c3973",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1578692197,
+    "wof:lastmodified":1578693502,
     "wof:name":"TP237 (LIS-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -9.135591,
-    -9.135591
+    38.772844
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-9.135591,-9.135591]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-9.135591,38.772844],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

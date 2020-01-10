@@ -13,8 +13,8 @@
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-AKL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,174.788678,174.788678",
-    "geom:latitude":26.208868,
+    "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
+    "geom:latitude":0.306244,
     "geom:longitude":26.208868,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691892,
-    "wof:geomhash":"fa8b15b62ad0a26e4475827eba57fcbf",
+    "wof:geomhash":"0a41093e5d82882db018a6f46a3ef58a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930475,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693553,
     "wof:name":"NZ9817 (SFO-AKL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -37.005501,
     174.788678,
-    174.788678
+    37.61799
 ],
-  "geometry": {"coordinates":[[174.788678,174.788678],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[174.788678,-37.005501]],"type":"MultiPoint"}
 }

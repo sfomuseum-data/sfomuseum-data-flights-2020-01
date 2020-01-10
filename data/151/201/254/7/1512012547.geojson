@@ -13,8 +13,8 @@
     "flysfo:gate":"C4",
     "flysfo:journey":"ATL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-84.430686,-84.430686",
-    "geom:latitude":-103.400814,
+    "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
+    "geom:latitude":35.627254,
     "geom:longitude":-103.400814,
     "iata:airline":"AF",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691398,
-    "wof:geomhash":"b97f7bb3dccc7f317b6f53c7e5c35fb1",
+    "wof:geomhash":"ae92617dd2aca2afdb0c9096232ff0bb",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693555,
     "wof:name":"AF2306 (ATL-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.636518,
     -84.430686,
-    -84.430686
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-84.43068599999999,-84.43068599999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-84.43068599999999,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

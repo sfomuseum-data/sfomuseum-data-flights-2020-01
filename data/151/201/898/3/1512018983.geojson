@@ -11,8 +11,8 @@
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-BNA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-86.676652,-86.676652",
-    "geom:latitude":-104.523798,
+    "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
+    "geom:latitude":36.872189,
     "geom:longitude":-104.523798,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692113,
-    "wof:geomhash":"f4d0c37ec11bca67d6b125522681ee22",
+    "wof:geomhash":"36f645f844d4838b633d7fed3f06d4a5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1578692208,
+    "wof:lastmodified":1578693556,
     "wof:name":"UA2060 (SFO-BNA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.126387,
     -86.676652,
-    -86.676652
+    37.61799
 ],
-  "geometry": {"coordinates":[[-86.676652,-86.676652],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-86.676652,36.126387]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-115.15644,-115.15644",
-    "geom:latitude":-118.763691,
+    "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
+    "geom:latitude":36.849497,
     "geom:longitude":-118.763691,
     "iata:airline":"WN",
     "icao:airline":"SWA",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692082,
-    "wof:geomhash":"cfcc9f3bb699b03a897438b2bea78abe",
+    "wof:geomhash":"ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693540,
     "wof:name":"WN1807 (SFO-LAS)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.081003,
     -115.15644,
-    -115.15644
+    37.61799
 ],
-  "geometry": {"coordinates":[[-115.15644,-115.15644],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
 }

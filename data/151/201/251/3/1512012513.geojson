@@ -13,8 +13,8 @@
     "flysfo:gate":"G9",
     "flysfo:journey":"AKL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,174.788678,174.788678",
-    "geom:latitude":26.208868,
+    "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
+    "geom:latitude":0.306244,
     "geom:longitude":26.208868,
     "iata:airline":"AC",
     "iata:base_airline":"NZ",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691393,
-    "wof:geomhash":"bc727012b1c207d070906d76b6b2dff5",
+    "wof:geomhash":"07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930479,
         1159283697
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693506,
     "wof:name":"AC6103 (AKL-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -37.005501,
     174.788678,
-    174.788678
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[174.788678,174.788678]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[174.788678,-37.005501],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

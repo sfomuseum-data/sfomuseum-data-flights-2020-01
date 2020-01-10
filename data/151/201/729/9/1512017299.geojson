@@ -13,8 +13,8 @@
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,2.542809,2.542809",
-    "geom:latitude":-59.914067,
+    "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
+    "geom:latitude":43.312922,
     "geom:longitude":-59.914067,
     "iata:airline":"SN",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691929,
-    "wof:geomhash":"dbd5ef2d7063ef5eec4f31b0d79cf9b7",
+    "wof:geomhash":"ad7dd7ece479a882a3440fb19be6ff4c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930465,
         1159285413
     ],
-    "wof:lastmodified":1578692203,
+    "wof:lastmodified":1578693576,
     "wof:name":"SN9010 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     2.542809,
-    2.542809
+    49.007854
 ],
-  "geometry": {"coordinates":[[2.542809,2.542809],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[2.542809,49.007854]],"type":"MultiPoint"}
 }

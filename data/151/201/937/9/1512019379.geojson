@@ -11,8 +11,8 @@
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-GJT",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,0.0,0.0",
-    "geom:latitude":-61.185471,
+    "geom:bbox":"-122.370943,0.0,0.0,37.61799",
+    "geom:latitude":18.808995,
     "geom:longitude":-61.185471,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692159,
-    "wof:geomhash":"e86ad6a5d246bbad06ad84315eb08202",
+    "wof:geomhash":"9e2b3598b72a17c11ad0545d6bbddc64",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693481,
     "wof:name":"UA5926 (SFO-GJT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
     0.0,
-    0.0
+    0.0,
+    37.61799
 ],
-  "geometry": {"coordinates":[[0.0,0.0],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[0.0,0.0]],"type":"MultiPoint"}
 }

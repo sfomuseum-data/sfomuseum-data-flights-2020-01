@@ -13,8 +13,8 @@
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.38951,-118.38951",
-    "geom:latitude":-120.380226,
+    "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
+    "geom:latitude":35.780292,
     "geom:longitude":-120.380226,
     "iata:airline":"SQ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692070,
-    "wof:geomhash":"9a78c0ed4d3a142e46243353d74010d7",
+    "wof:geomhash":"602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693500,
     "wof:name":"SQ1347 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.942593,
     -118.38951,
-    -118.38951
+    37.61799
 ],
-  "geometry": {"coordinates":[[-118.38951,-118.38951],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
 }

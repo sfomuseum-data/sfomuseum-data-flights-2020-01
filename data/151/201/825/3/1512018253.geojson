@@ -13,8 +13,8 @@
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-97.643029,-97.643029",
-    "geom:latitude":-110.006986,
+    "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
+    "geom:latitude":33.912082,
     "geom:longitude":-110.006986,
     "iata:airline":"JL",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692036,
-    "wof:geomhash":"33ffa834cada253feee0efa985656d7b",
+    "wof:geomhash":"f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693549,
     "wof:name":"JL5444 (SFO-AUS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    30.206175,
     -97.643029,
-    -97.643029
+    37.61799
 ],
-  "geometry": {"coordinates":[[-97.643029,-97.643029],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}
 }

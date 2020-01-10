@@ -13,8 +13,8 @@
     "flysfo:gate":"D1",
     "flysfo:journey":"MCO-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-81.307537,-81.307537",
-    "geom:latitude":-101.83924,
+    "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
+    "geom:latitude":33.024743,
     "geom:longitude":-101.83924,
     "iata:airline":"QF",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691594,
-    "wof:geomhash":"07abae36b5d47abc92e31d766f9e5142",
+    "wof:geomhash":"5fe9a4073f558f5d433cae4f846ab71e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693540,
     "wof:name":"QF3797 (MCO-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    28.431495,
     -81.307537,
-    -81.307537
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-81.307537,-81.307537]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

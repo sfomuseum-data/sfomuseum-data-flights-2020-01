@@ -13,8 +13,8 @@
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-AMS",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,4.782907,4.782907",
-    "geom:latitude":-58.794018,
+    "geom:bbox":"-122.370943,37.61799,4.782907,52.314791",
+    "geom:latitude":44.966391,
     "geom:longitude":-58.794018,
     "iata:airline":"VS",
     "iata:base_airline":"KL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692185,
-    "wof:geomhash":"2ef154796e1b58ef1128a893fd3779d5",
+    "wof:geomhash":"b03e5f5c78933bb0f626aa81ed57f330",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930283,
         1159284613
     ],
-    "wof:lastmodified":1578692210,
+    "wof:lastmodified":1578693533,
     "wof:name":"VS6858 (SFO-AMS)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     4.782907,
-    4.782907
+    52.314791
 ],
-  "geometry": {"coordinates":[[4.782907,4.782907],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[4.782907,52.314791]],"type":"MultiPoint"}
 }

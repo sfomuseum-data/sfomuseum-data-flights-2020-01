@@ -13,8 +13,8 @@
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,11.776808,11.776808",
-    "geom:latitude":-55.297067,
+    "geom:bbox":"-122.370943,37.61799,11.776808,48.352681",
+    "geom:latitude":42.985335,
     "geom:longitude":-55.297067,
     "iata:airline":"SN",
     "iata:base_airline":"LH",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691513,
-    "wof:geomhash":"c9ca325b77a030510ef2c041d2701fb8",
+    "wof:geomhash":"eba9741d16611c9af3d962416d546de7",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578692193,
+    "wof:lastmodified":1578693512,
     "wof:name":"SN7252 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     11.776808,
-    11.776808
+    48.352681
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[11.776808,11.776808]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[11.776808,48.352681],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

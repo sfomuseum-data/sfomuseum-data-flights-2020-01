@@ -11,8 +11,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-BOI",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-116.224634,-116.224634",
-    "geom:latitude":-119.297788,
+    "geom:bbox":"-122.370943,37.61799,-116.224634,43.564048",
+    "geom:latitude":40.591019,
     "geom:longitude":-119.297788,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692153,
-    "wof:geomhash":"b74c1df2e15948fd63969ac014fb0165",
+    "wof:geomhash":"5c4ab4afb4473393075e7e0145a9edb2",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA5720 (SFO-BOI)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -116.224634,
-    -116.224634
+    43.564048
 ],
-  "geometry": {"coordinates":[[-116.22463399999999,-116.22463399999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.22463399999999,43.564048]],"type":"MultiPoint"}
 }

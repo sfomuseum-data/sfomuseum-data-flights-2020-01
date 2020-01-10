@@ -11,8 +11,8 @@
     "flysfo:gate":"B12",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-104.672219,-104.672219",
-    "geom:latitude":-113.521581,
+    "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
+    "geom:latitude":38.741464,
     "geom:longitude":-113.521581,
     "iata:airline":"WN",
     "icao:airline":"SWA",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691672,
-    "wof:geomhash":"fdb432bdb2f0ce89b7f82e4776fad089",
+    "wof:geomhash":"736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693543,
     "wof:name":"WN1752 (DEN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -104.672219,
-    -104.672219
+    39.864939
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-104.672219,-104.672219]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

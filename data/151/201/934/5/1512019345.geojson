@@ -11,8 +11,8 @@
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-JAC",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-110.73854,-110.73854",
-    "geom:latitude":-116.554742,
+    "geom:bbox":"-122.370943,37.61799,-110.73854,43.6066",
+    "geom:latitude":40.612295,
     "geom:longitude":-116.554742,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692157,
-    "wof:geomhash":"fcbe73af6eba9e98bf7b14fdb683c464",
+    "wof:geomhash":"9f2aefec298b0356dc0b4065c5b61f73",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693538,
     "wof:name":"UA5835 (SFO-JAC)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -110.73854,
-    -110.73854
+    43.6066
 ],
-  "geometry": {"coordinates":[[-110.73854,-110.73854],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.73854,43.6066]],"type":"MultiPoint"}
 }

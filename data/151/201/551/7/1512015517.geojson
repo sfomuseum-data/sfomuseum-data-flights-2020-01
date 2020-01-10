@@ -11,8 +11,8 @@
     "flysfo:gate":"F9",
     "flysfo:journey":"EGE-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-106.91431,-106.91431",
-    "geom:latitude":-114.642627,
+    "geom:bbox":"-122.370943,37.61799,-106.91431,39.641137",
+    "geom:latitude":38.629564,
     "geom:longitude":-114.642627,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691735,
-    "wof:geomhash":"f74bba277bd7827e90045bb10d66134e",
+    "wof:geomhash":"cf2e6d8f729795819679319a6b605e44",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693471,
     "wof:name":"UA5679 (EGE-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -106.91431,
-    -106.91431
+    39.641137
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-106.91431,-106.91431]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-106.91431,39.641137],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

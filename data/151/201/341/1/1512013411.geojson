@@ -13,8 +13,8 @@
     "flysfo:gate":"A13",
     "flysfo:journey":"CDG-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,2.542809,2.542809",
-    "geom:latitude":-59.914067,
+    "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
+    "geom:latitude":43.312922,
     "geom:longitude":-59.914067,
     "iata:airline":"AZ",
     "iata:base_airline":"AF",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691505,
-    "wof:geomhash":"ce927f475f233710441c9572933dfe22",
+    "wof:geomhash":"07d689097487ceb3bc0a07973d8c4b93",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930309,
         1159283627
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693511,
     "wof:name":"AZ3548 (CDG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     2.542809,
-    2.542809
+    49.007854
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[2.542809,2.542809]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

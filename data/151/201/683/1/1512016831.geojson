@@ -13,8 +13,8 @@
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-MCI",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-94.716176,-94.716176",
-    "geom:latitude":-108.54356,
+    "geom:bbox":"-122.370943,37.61799,-94.716176,39.304107",
+    "geom:latitude":38.461049,
     "geom:longitude":-108.54356,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691885,
-    "wof:geomhash":"121319b7bd0df55c4431fcdab058cbe6",
+    "wof:geomhash":"b03a18c879ef85a5ca01fa93c99f372c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693549,
     "wof:name":"NZ9503 (SFO-MCI)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -94.716176,
-    -94.716176
+    39.304107
 ],
-  "geometry": {"coordinates":[[-94.716176,-94.716176],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-94.716176,39.304107]],"type":"MultiPoint"}
 }

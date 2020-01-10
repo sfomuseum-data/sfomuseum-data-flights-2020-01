@@ -13,8 +13,8 @@
     "flysfo:gate":"F1",
     "flysfo:journey":"BUR-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-118.353322,-118.353322",
-    "geom:latitude":-120.362133,
+    "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
+    "geom:latitude":35.907347,
     "geom:longitude":-120.362133,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691369,
-    "wof:geomhash":"9e54b154dc08b1b59df1b0fb88f8aa74",
+    "wof:geomhash":"579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693560,
     "wof:name":"AC4195 (BUR-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    34.196704,
     -118.353322,
-    -118.353322
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-118.35332200000001,-118.35332200000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-118.35332200000001,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

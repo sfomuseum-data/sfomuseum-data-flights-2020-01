@@ -13,8 +13,8 @@
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-111.980566,-111.980566",
-    "geom:latitude":-117.175754,
+    "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
+    "geom:latitude":39.20008,
     "geom:longitude":-117.175754,
     "iata:airline":"NH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691849,
-    "wof:geomhash":"ca0bbce6a82d420032ee2c8ee467e91d",
+    "wof:geomhash":"b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693492,
     "wof:name":"NH7302 (SFO-SLC)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -111.980566,
-    -111.980566
+    40.78217
 ],
-  "geometry": {"coordinates":[[-111.980566,-111.980566],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
 }

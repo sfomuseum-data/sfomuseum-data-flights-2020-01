@@ -13,8 +13,8 @@
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YUL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-73.744749,-73.744749",
-    "geom:latitude":-98.057846,
+    "geom:bbox":"-122.370943,37.61799,-73.744749,45.462004",
+    "geom:latitude":41.539997,
     "geom:longitude":-98.057846,
     "iata:airline":"UA",
     "iata:base_airline":"AC",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692173,
-    "wof:geomhash":"1bbfb5d24b280fa5bb38c17dcae1f86e",
+    "wof:geomhash":"60b8ec845b4af47518c8aaafc3d98633",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578692210,
+    "wof:lastmodified":1578693512,
     "wof:name":"UA8020 (SFO-YUL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -73.744749,
-    -73.744749
+    45.462004
 ],
-  "geometry": {"coordinates":[[-73.744749,-73.744749],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]],"type":"MultiPoint"}
 }

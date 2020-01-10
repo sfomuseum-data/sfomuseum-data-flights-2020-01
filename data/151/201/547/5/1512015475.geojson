@@ -11,8 +11,8 @@
     "flysfo:gate":"F7",
     "flysfo:journey":"RDD-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.29822,-122.29822",
-    "geom:latitude":-122.334581,
+    "geom:bbox":"-122.370943,37.61799,-122.29822,40.507596",
+    "geom:latitude":39.062793,
     "geom:longitude":-122.334581,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691731,
-    "wof:geomhash":"14d755be25ed35777fa64e74bfdded68",
+    "wof:geomhash":"dc56b2c846de1922adefc5feb6f75c92",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693566,
     "wof:name":"UA5549 (RDD-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -122.29822,
-    -122.29822
+    40.507596
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-122.29822,-122.29822]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.29822,40.507596],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

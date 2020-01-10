@@ -11,8 +11,8 @@
     "flysfo:gate":"F8",
     "flysfo:journey":"SBP-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-120.64323,-120.64323",
-    "geom:latitude":-121.507086,
+    "geom:bbox":"-122.370943,35.23692,-120.64323,37.61799",
+    "geom:latitude":36.427455,
     "geom:longitude":-121.507086,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691734,
-    "wof:geomhash":"905341782f9964ce707b33214a8d9110",
+    "wof:geomhash":"2af895d7dc7816e28cbc6da81f2a802b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693471,
     "wof:name":"UA5657 (SBP-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.23692,
     -120.64323,
-    -120.64323
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-120.64323,-120.64323]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-120.64323,35.23692],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

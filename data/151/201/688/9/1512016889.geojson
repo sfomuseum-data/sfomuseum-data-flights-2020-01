@@ -13,8 +13,8 @@
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-TUS",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-110.946818,-110.946818",
-    "geom:latitude":-116.65888,
+    "geom:bbox":"-122.370943,32.119362,-110.946818,37.61799",
+    "geom:latitude":34.868676,
     "geom:longitude":-116.65888,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691891,
-    "wof:geomhash":"36ce770048a80198540f9567ae75c559",
+    "wof:geomhash":"6716e4c7ca0e3c1891c385118d042906",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693488,
     "wof:name":"NZ9747 (SFO-TUS)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.119362,
     -110.946818,
-    -110.946818
+    37.61799
 ],
-  "geometry": {"coordinates":[[-110.94681799999999,-110.94681799999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.94681799999999,32.119362]],"type":"MultiPoint"}
 }

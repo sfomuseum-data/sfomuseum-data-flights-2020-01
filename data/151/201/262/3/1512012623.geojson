@@ -13,8 +13,8 @@
     "flysfo:gate":"G3",
     "flysfo:journey":"KIX-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,135.242008,135.242008",
-    "geom:latitude":6.435533,
+    "geom:bbox":"-122.370943,34.432475,135.242008,37.61799",
+    "geom:latitude":36.025233,
     "geom:longitude":6.435533,
     "iata:airline":"NH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691411,
-    "wof:geomhash":"29837a48aad1611b47663ce29f826bfc",
+    "wof:geomhash":"a641cfa97e5d709c9877b45a6ec29f09",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930465,
         1159285413
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693556,
     "wof:name":"NH7070 (KIX-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    34.432475,
     135.242008,
-    135.242008
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[135.242008,135.242008]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[135.242008,34.432475],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

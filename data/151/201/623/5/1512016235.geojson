@@ -13,8 +13,8 @@
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-87.894364,-87.894364",
-    "geom:latitude":-105.132654,
+    "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
+    "geom:latitude":39.800514,
     "geom:longitude":-105.132654,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691824,
-    "wof:geomhash":"0492fd1a793b91cb51eff3b0cb1ebe47",
+    "wof:geomhash":"7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693544,
     "wof:name":"AC5366 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -87.894364,
-    -87.894364
+    41.983038
 ],
-  "geometry": {"coordinates":[[-87.894364,-87.894364],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
 }

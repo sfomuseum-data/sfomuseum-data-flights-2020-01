@@ -13,8 +13,8 @@
     "flysfo:gate":"F3A",
     "flysfo:journey":"MCI-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-94.716176,-94.716176",
-    "geom:latitude":-108.54356,
+    "geom:bbox":"-122.370943,37.61799,-94.716176,39.304107",
+    "geom:latitude":38.461049,
     "geom:longitude":-108.54356,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691460,
-    "wof:geomhash":"874038d8dd7d66fc2821fc1a1c362575",
+    "wof:geomhash":"35ddb46351d590846e83b74bc4468cc8",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693538,
     "wof:name":"NZ9504 (MCI-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -94.716176,
-    -94.716176
+    39.304107
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-94.716176,-94.716176]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-94.716176,39.304107],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

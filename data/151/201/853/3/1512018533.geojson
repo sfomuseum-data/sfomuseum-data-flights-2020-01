@@ -11,8 +11,8 @@
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-PSP",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-116.506042,-116.506042",
-    "geom:latitude":-119.438492,
+    "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
+    "geom:latitude":35.721305,
     "geom:longitude":-119.438492,
     "iata:airline":"SY",
     "icao:airline":"SCX",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692066,
-    "wof:geomhash":"3aaab0ad704cddad378cd42cfdda72fe",
+    "wof:geomhash":"e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159285227,
         1477930289
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693556,
     "wof:name":"SY613 (SFO-PSP)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.824619,
     -116.506042,
-    -116.506042
+    37.61799
 ],
-  "geometry": {"coordinates":[[-116.50604199999999,-116.50604199999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.50604199999999,33.824619]],"type":"MultiPoint"}
 }

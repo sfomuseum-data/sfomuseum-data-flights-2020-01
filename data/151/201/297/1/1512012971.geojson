@@ -13,8 +13,8 @@
     "flysfo:gate":"F15N",
     "flysfo:journey":"ASE-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-106.869003,-106.869003",
-    "geom:latitude":-114.619973,
+    "geom:bbox":"-122.370943,37.61799,-106.869003,39.223202",
+    "geom:latitude":38.420596,
     "geom:longitude":-114.619973,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691453,
-    "wof:geomhash":"b97615f523e8cbbffbb653ebf6a35506",
+    "wof:geomhash":"2c2e1729c8655812749a286fa73dd01e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692191,
+    "wof:lastmodified":1578693561,
     "wof:name":"NZ9368 (ASE-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -106.869003,
-    -106.869003
+    39.223202
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-106.86900300000001,-106.86900300000001]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-106.86900300000001,39.223202],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

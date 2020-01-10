@@ -11,8 +11,8 @@
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-IAH",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-95.338444,-95.338444",
-    "geom:latitude":-108.854693,
+    "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
+    "geom:latitude":33.797588,
     "geom:longitude":-108.854693,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692107,
-    "wof:geomhash":"36c0f61e2ded29482e33fea9016a18a2",
+    "wof:geomhash":"4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930405
     ],
-    "wof:lastmodified":1578692208,
+    "wof:lastmodified":1578693555,
     "wof:name":"UA1422 (SFO-IAH)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    29.977186,
     -95.338444,
-    -95.338444
+    37.61799
 ],
-  "geometry": {"coordinates":[[-95.338444,-95.338444],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}
 }

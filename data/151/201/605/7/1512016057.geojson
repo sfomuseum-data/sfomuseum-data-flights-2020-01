@@ -13,8 +13,8 @@
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-ABQ",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-106.620586,-106.620586",
-    "geom:latitude":-114.495765,
+    "geom:bbox":"-122.370943,35.048762,-106.620586,37.61799",
+    "geom:latitude":36.333376,
     "geom:longitude":-114.495765,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691805,
-    "wof:geomhash":"3e83e8232b54291aac530f7256fe04ca",
+    "wof:geomhash":"029159a11f35cb7f92e728b838da58ba",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693501,
     "wof:name":"AC4032 (SFO-ABQ)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.048762,
     -106.620586,
-    -106.620586
+    37.61799
 ],
-  "geometry": {"coordinates":[[-106.620586,-106.620586],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-106.620586,35.048762]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"F9",
     "flysfo:journey":"TUS-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-110.946818,-110.946818",
-    "geom:latitude":-116.65888,
+    "geom:bbox":"-122.370943,32.119362,-110.946818,37.61799",
+    "geom:latitude":34.868676,
     "geom:longitude":-116.65888,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691742,
-    "wof:geomhash":"66c713ba25de96f650e6b797968b383f",
+    "wof:geomhash":"82918c5e99f5bb53bff81082f1f1666f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA5945 (TUS-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    32.119362,
     -110.946818,
-    -110.946818
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-110.94681799999999,-110.94681799999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-110.94681799999999,32.119362],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"F3A",
     "flysfo:journey":"YYC-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-114.02092,-114.02092",
-    "geom:latitude":-118.195932,
+    "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
+    "geom:latitude":44.368758,
     "geom:longitude":-118.195932,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691733,
-    "wof:geomhash":"8e60bb3e49e6a15bbb2f5e15dc60b9fc",
+    "wof:geomhash":"4b8d850891e12dfac0a460ee51cd363b",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693481,
     "wof:name":"UA5643 (YYC-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -114.02092,
-    -114.02092
+    51.119526
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-114.02092,-114.02092]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-114.02092,51.119526],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

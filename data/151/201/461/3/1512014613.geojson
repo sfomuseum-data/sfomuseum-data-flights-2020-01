@@ -13,8 +13,8 @@
     "flysfo:gate":"C5",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-93.200317,-93.200317",
-    "geom:latitude":-107.78563,
+    "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
+    "geom:latitude":41.250656,
     "geom:longitude":-107.78563,
     "iata:airline":"KE",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691641,
-    "wof:geomhash":"e4079f6480590feaef8ae14caf5c7513",
+    "wof:geomhash":"0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578692196,
+    "wof:lastmodified":1578693559,
     "wof:name":"KE6742 (MSP-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -93.200317,
-    -93.200317
+    44.883321
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-93.200317,-93.200317]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

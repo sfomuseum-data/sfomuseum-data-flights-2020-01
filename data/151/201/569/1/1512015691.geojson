@@ -11,8 +11,8 @@
     "flysfo:gate":"G12",
     "flysfo:journey":"PVG-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,121.799307,121.799307",
-    "geom:latitude":-0.285818,
+    "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
+    "geom:latitude":34.381651,
     "geom:longitude":-0.285818,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691757,
-    "wof:geomhash":"79845e1b95377c38c106385aed55d5f6",
+    "wof:geomhash":"0a16624c451961804ad27ef012213244",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930485
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693472,
     "wof:name":"UA858 (PVG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    31.145312,
     121.799307,
-    121.799307
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[121.799307,121.799307]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[121.799307,31.145312],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

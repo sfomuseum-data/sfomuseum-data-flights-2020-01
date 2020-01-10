@@ -11,8 +11,8 @@
     "flysfo:gate":"A5",
     "flysfo:journey":"MEL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,144.843764,144.843764",
-    "geom:latitude":11.23641,
+    "geom:bbox":"-122.370943,-37.668253,144.843764,37.61799",
+    "geom:latitude":-0.025132,
     "geom:longitude":11.23641,
     "iata:airline":"QF",
     "icao:airline":"EAQ",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691596,
-    "wof:geomhash":"4e5a3287ce8fde1688fa4205691ad61d",
+    "wof:geomhash":"87faaa2af80cb57714136e3a98b5d686",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159284313,
         1477930291
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693497,
     "wof:name":"QF49 (MEL-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    -37.668253,
     144.843764,
-    144.843764
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[144.84376399999999,144.84376399999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[144.84376399999999,-37.668253],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

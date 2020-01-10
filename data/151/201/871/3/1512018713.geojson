@@ -11,8 +11,8 @@
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-MDW",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-87.745903,-87.745903",
-    "geom:latitude":-105.058423,
+    "geom:bbox":"-122.370943,37.61799,-87.745903,41.787532",
+    "geom:latitude":39.702761,
     "geom:longitude":-105.058423,
     "iata:airline":"WN",
     "icao:airline":"SWA",
@@ -48,7 +48,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692082,
-    "wof:geomhash":"a261a1a44ba665ef670b7a48bda337c7",
+    "wof:geomhash":"b0d868dab19a217943f06d97e1bf7ce6",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -84,7 +84,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693545,
     "wof:name":"WN1856 (SFO-MDW)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -87.745903,
-    -87.745903
+    41.787532
 ],
-  "geometry": {"coordinates":[[-87.745903,-87.745903],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}
 }

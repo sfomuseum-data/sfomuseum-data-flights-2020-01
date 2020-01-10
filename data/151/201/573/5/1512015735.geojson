@@ -13,8 +13,8 @@
     "flysfo:gate":"C8",
     "flysfo:journey":"DTW-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-83.351709,-83.351709",
-    "geom:latitude":-102.861326,
+    "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
+    "geom:latitude":39.918425,
     "geom:longitude":-102.861326,
     "iata:airline":"VS",
     "iata:base_airline":"DL",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691762,
-    "wof:geomhash":"144689ae0358e8e3e9683c7daf615cd8",
+    "wof:geomhash":"a23858bb4e93419105e139a22bd92749",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693525,
     "wof:name":"VS1751 (DTW-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -83.351709,
-    -83.351709
+    42.21886
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-83.351709,-83.351709]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

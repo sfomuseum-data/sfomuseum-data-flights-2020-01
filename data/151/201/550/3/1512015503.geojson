@@ -11,8 +11,8 @@
     "flysfo:gate":"F6",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-93.200317,-93.200317",
-    "geom:latitude":-107.78563,
+    "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
+    "geom:latitude":41.250656,
     "geom:longitude":-107.78563,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691733,
-    "wof:geomhash":"e4079f6480590feaef8ae14caf5c7513",
+    "wof:geomhash":"0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693481,
     "wof:name":"UA5620 (MSP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -93.200317,
-    -93.200317
+    44.883321
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-93.200317,-93.200317]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

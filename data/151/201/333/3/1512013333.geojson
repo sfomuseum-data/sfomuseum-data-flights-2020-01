@@ -13,8 +13,8 @@
     "flysfo:gate":"G10",
     "flysfo:journey":"YYZ-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-79.628342,-79.628342",
-    "geom:latitude":-100.999642,
+    "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
+    "geom:latitude":40.647171,
     "geom:longitude":-100.999642,
     "iata:airline":"OS",
     "iata:base_airline":"AC",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691498,
-    "wof:geomhash":"7f4e0aaa2102514c535f9eba3a6f5a09",
+    "wof:geomhash":"c362a07ec1dacdc6f288623946bd8d01",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930481,
         1159283597
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693536,
     "wof:name":"OS8217 (YYZ-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -79.628342,
-    -79.628342
+    43.676352
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-79.628342,-79.628342]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

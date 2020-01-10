@@ -11,8 +11,8 @@
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-YEG",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-113.584752,-113.584752",
-    "geom:latitude":-117.977847,
+    "geom:bbox":"-122.370943,37.61799,-113.584752,53.308108",
+    "geom:latitude":45.463049,
     "geom:longitude":-117.977847,
     "iata:airline":"AC",
     "icao:airline":"ACA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691831,
-    "wof:geomhash":"4a69d691ad50512b8beee8d1209a9c72",
+    "wof:geomhash":"d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283597,
         1477930481
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693506,
     "wof:name":"AC8744 (SFO-YEG)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -113.584752,
-    -113.584752
+    53.308108
 ],
-  "geometry": {"coordinates":[[-113.58475199999999,-113.58475199999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-113.58475199999999,53.308108]],"type":"MultiPoint"}
 }

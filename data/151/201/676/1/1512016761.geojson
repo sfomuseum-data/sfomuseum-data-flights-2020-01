@@ -13,8 +13,8 @@
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-ACV",
     "geom:area":0.0,
-    "geom:bbox":"-124.10802,-124.10802,-122.370943,-122.370943",
-    "geom:latitude":-123.239481,
+    "geom:bbox":"-124.10802,37.61799,-122.370943,40.971689",
+    "geom:latitude":39.294839,
     "geom:longitude":-123.239481,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691878,
-    "wof:geomhash":"50f41d4b1404374ec63d0f2c8ff0883c",
+    "wof:geomhash":"5815a5b1ad78885fe3ae36c1daab138f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693541,
     "wof:name":"NZ9319 (SFO-ACV)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -124.10802,
-    -124.10802,
+    37.61799,
     -122.370943,
-    -122.370943
+    40.971689
 ],
-  "geometry": {"coordinates":[[-124.10802,-124.10802],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-124.10802,40.971689]],"type":"MultiPoint"}
 }

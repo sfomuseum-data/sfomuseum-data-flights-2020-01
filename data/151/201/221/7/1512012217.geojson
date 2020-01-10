@@ -13,8 +13,8 @@
     "flysfo:gate":"F5",
     "flysfo:journey":"STL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-90.367632,-90.367632",
-    "geom:latitude":-106.369287,
+    "geom:bbox":"-122.370943,37.61799,-90.367632,38.743872",
+    "geom:latitude":38.180931,
     "geom:longitude":-106.369287,
     "iata:airline":"OZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691356,
-    "wof:geomhash":"512fefcebd545992745f54072b1b3f26",
+    "wof:geomhash":"5aed0915f9f8845326df52b0d348a4b7",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578692190,
+    "wof:lastmodified":1578693492,
     "wof:name":"OZ6344 (STL-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -90.367632,
-    -90.367632
+    38.743872
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-90.367632,-90.367632]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

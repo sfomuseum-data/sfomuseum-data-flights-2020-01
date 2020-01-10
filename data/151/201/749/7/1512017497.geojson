@@ -13,8 +13,8 @@
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-OGG",
     "geom:area":0.0,
-    "geom:bbox":"-156.437877,-156.437877,-122.370943,-122.370943",
-    "geom:latitude":-139.40441,
+    "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
+    "geom:latitude":29.256471,
     "geom:longitude":-139.40441,
     "iata:airline":"CM",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691949,
-    "wof:geomhash":"b994de0ab1062024cab3d9aaf2db646c",
+    "wof:geomhash":"8c8f659fbae3cc58419f360e0abfbe56",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578692204,
+    "wof:lastmodified":1578693517,
     "wof:name":"CM2488 (SFO-OGG)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -156.437877,
-    -156.437877,
+    20.894952,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-156.43787699999999,-156.43787699999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.43787699999999,20.894952]],"type":"MultiPoint"}
 }

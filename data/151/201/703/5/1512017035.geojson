@@ -11,8 +11,8 @@
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PAE",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-122.279084,-122.279084",
-    "geom:latitude":-122.325013,
+    "geom:bbox":"-122.370943,37.61799,-122.279084,47.908767",
+    "geom:latitude":42.763379,
     "geom:longitude":-122.325013,
     "iata:airline":"AS",
     "icao:airline":"ASA",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691905,
-    "wof:geomhash":"199afa7eb7d2384255739719b073d235",
+    "wof:geomhash":"4d7458fcd2bb2c2db9950abb8dd848d3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578692202,
+    "wof:lastmodified":1578693534,
     "wof:name":"AS2827 (SFO-PAE)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -122.279084,
-    -122.279084
+    47.908767
 ],
-  "geometry": {"coordinates":[[-122.279084,-122.279084],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.279084,47.908767]],"type":"MultiPoint"}
 }

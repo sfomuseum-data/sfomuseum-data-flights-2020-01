@@ -11,8 +11,8 @@
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-PSP",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-116.506042,-116.506042",
-    "geom:latitude":-119.438492,
+    "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
+    "geom:latitude":35.721305,
     "geom:longitude":-119.438492,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692122,
-    "wof:geomhash":"3aaab0ad704cddad378cd42cfdda72fe",
+    "wof:geomhash":"e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578692209,
+    "wof:lastmodified":1578693479,
     "wof:name":"UA2434 (SFO-PSP)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    33.824619,
     -116.506042,
-    -116.506042
+    37.61799
 ],
-  "geometry": {"coordinates":[[-116.50604199999999,-116.50604199999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.50604199999999,33.824619]],"type":"MultiPoint"}
 }

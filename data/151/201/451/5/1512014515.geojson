@@ -13,8 +13,8 @@
     "flysfo:gate":"B6",
     "flysfo:journey":"FLL-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-80.138518,-80.138518",
-    "geom:latitude":-101.25473,
+    "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
+    "geom:latitude":31.846425,
     "geom:longitude":-101.25473,
     "iata:airline":"JL",
     "iata:base_airline":"B6",
@@ -53,7 +53,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691628,
-    "wof:geomhash":"c176d15c09212cd2703eb606f22f6bc1",
+    "wof:geomhash":"d17d7e3187ba5afa3de1a7310fca2526",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693553,
     "wof:name":"JL5891 (FLL-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",
@@ -101,9 +101,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    26.07486,
     -80.138518,
-    -80.138518
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-80.138518,-80.138518]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

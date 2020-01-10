@@ -13,8 +13,8 @@
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-BFL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.047271,-119.047271",
-    "geom:latitude":-120.709107,
+    "geom:bbox":"-122.370943,35.425802,-119.047271,37.61799",
+    "geom:latitude":36.521896,
     "geom:longitude":-120.709107,
     "iata:airline":"NZ",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691867,
-    "wof:geomhash":"6a0eb977d3dc9f8cedca1ad94ef0c27d",
+    "wof:geomhash":"7977975fa4ad0a35973dcf84bbb5a31a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578692201,
+    "wof:lastmodified":1578693553,
     "wof:name":"NZ9157 (SFO-BFL)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    35.425802,
     -119.047271,
-    -119.047271
+    37.61799
 ],
-  "geometry": {"coordinates":[[-119.04727099999999,-119.04727099999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.04727099999999,35.425802]],"type":"MultiPoint"}
 }

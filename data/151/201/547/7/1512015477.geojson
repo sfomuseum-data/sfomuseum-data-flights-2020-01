@@ -11,8 +11,8 @@
     "flysfo:gate":"E3",
     "flysfo:journey":"XNA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-94.303754,-94.303754",
-    "geom:latitude":-108.337348,
+    "geom:bbox":"-122.370943,36.281295,-94.303754,37.61799",
+    "geom:latitude":36.949642,
     "geom:longitude":-108.337348,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691731,
-    "wof:geomhash":"77511c88e4a034de6658d7c984f3bf90",
+    "wof:geomhash":"809102c9f398d793c8158deda33622e5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693566,
     "wof:name":"UA5550 (XNA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.281295,
     -94.303754,
-    -94.303754
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-94.303754,-94.303754]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-94.303754,36.281295],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

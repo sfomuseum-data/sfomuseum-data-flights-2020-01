@@ -13,8 +13,8 @@
     "flysfo:gate":"D5",
     "flysfo:journey":"OGG-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-156.437877,-156.437877,-122.370943,-122.370943",
-    "geom:latitude":-139.40441,
+    "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
+    "geom:latitude":29.256471,
     "geom:longitude":-139.40441,
     "iata:airline":"QF",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691592,
-    "wof:geomhash":"c14d6eafab32360e0d35ef0f0d428f91",
+    "wof:geomhash":"e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578692194,
+    "wof:lastmodified":1578693546,
     "wof:name":"QF3699 (OGG-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -156.437877,
-    -156.437877,
+    20.894952,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-156.43787699999999,-156.43787699999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.43787699999999,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -11,8 +11,8 @@
     "flysfo:gate":"E1",
     "flysfo:journey":"MSN-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-89.33824,-89.33824",
-    "geom:latitude":-105.854591,
+    "geom:bbox":"-122.370943,37.61799,-89.33824,43.133477",
+    "geom:latitude":40.375733,
     "geom:longitude":-105.854591,
     "iata:airline":"UA",
     "icao:airline":"UAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691738,
-    "wof:geomhash":"717b0df853f7fa7307a5f9286deb3236",
+    "wof:geomhash":"d3e907c10ce5b4e644ffb36af3990e8c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578692198,
+    "wof:lastmodified":1578693528,
     "wof:name":"UA5780 (MSN-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -89.33824,
-    -89.33824
+    43.133477
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-89.33824,-89.33824]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-89.33824,43.133477],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

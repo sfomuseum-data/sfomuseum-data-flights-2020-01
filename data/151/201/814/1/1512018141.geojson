@@ -13,8 +13,8 @@
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-KOA",
     "geom:area":0.0,
-    "geom:bbox":"-156.03506,-156.03506,-122.370943,-122.370943",
-    "geom:latitude":-139.203001,
+    "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
+    "geom:latitude":28.675217,
     "geom:longitude":-139.203001,
     "iata:airline":"FJ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692020,
-    "wof:geomhash":"dbbc01e6807d38fb2d7060cbae815335",
+    "wof:geomhash":"ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578692206,
+    "wof:lastmodified":1578693547,
     "wof:name":"FJ5820 (SFO-KOA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -156.03506,
-    -156.03506,
+    19.732444,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-156.03505999999999,-156.03505999999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03505999999999,19.732444]],"type":"MultiPoint"}
 }

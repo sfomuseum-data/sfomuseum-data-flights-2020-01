@@ -13,8 +13,8 @@
     "flysfo:gate":"E5",
     "flysfo:journey":"KOA-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-156.03506,-156.03506,-122.370943,-122.370943",
-    "geom:latitude":-139.203001,
+    "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
+    "geom:latitude":28.675217,
     "geom:longitude":-139.203001,
     "iata:airline":"AV",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691502,
-    "wof:geomhash":"69f240fcbb94d5bf98ef174f65b65fd7",
+    "wof:geomhash":"d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578692192,
+    "wof:lastmodified":1578693478,
     "wof:name":"AV2355 (KOA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -156.03506,
-    -156.03506,
+    19.732444,
     -122.370943,
-    -122.370943
+    37.61799
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-156.03505999999999,-156.03505999999999]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-156.03505999999999,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

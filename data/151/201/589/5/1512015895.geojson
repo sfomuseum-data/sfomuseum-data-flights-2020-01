@@ -11,8 +11,8 @@
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-75.247885,-75.247885",
-    "geom:latitude":-98.809414,
+    "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
+    "geom:latitude":38.749471,
     "geom:longitude":-98.809414,
     "iata:airline":"AA",
     "icao:airline":"AAL",
@@ -49,7 +49,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691778,
-    "wof:geomhash":"50c444ac5253d60295616576b590d7ff",
+    "wof:geomhash":"262283982e32a09ea653beb1776c6fc7",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +85,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578692199,
+    "wof:lastmodified":1578693523,
     "wof:name":"AA278 (SFO-PHL)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",
@@ -96,9 +96,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -75.247885,
-    -75.247885
+    39.880952
 ],
-  "geometry": {"coordinates":[[-75.247885,-75.247885],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}
 }

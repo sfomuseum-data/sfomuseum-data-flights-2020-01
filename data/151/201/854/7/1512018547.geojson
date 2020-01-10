@@ -13,8 +13,8 @@
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SJD",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-109.717461,-109.717461",
-    "geom:latitude":-116.044202,
+    "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
+    "geom:latitude":30.389476,
     "geom:longitude":-116.044202,
     "iata:airline":"SQ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578692067,
-    "wof:geomhash":"e3eada950b72e6d2e0a4606d5edf2256",
+    "wof:geomhash":"7babf6b9ba279da48525185e0724d212",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578692207,
+    "wof:lastmodified":1578693557,
     "wof:name":"SQ1290 (SFO-SJD)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    23.160962,
     -109.717461,
-    -109.717461
+    37.61799
 ],
-  "geometry": {"coordinates":[[-109.717461,-109.717461],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}
 }

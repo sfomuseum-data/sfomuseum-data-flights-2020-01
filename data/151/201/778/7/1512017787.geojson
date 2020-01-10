@@ -13,8 +13,8 @@
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-RNO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.772167,-119.772167",
-    "geom:latitude":-121.071555,
+    "geom:bbox":"-122.370943,37.61799,-119.772167,39.505219",
+    "geom:latitude":38.561605,
     "geom:longitude":-121.071555,
     "iata:airline":"LH",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691983,
-    "wof:geomhash":"491b6aa01f6036be782d860aadd117e9",
+    "wof:geomhash":"414447526a1ddeb77713c60c4ab5a7e4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578692205,
+    "wof:lastmodified":1578693515,
     "wof:name":"LH9006 (SFO-RNO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -119.772167,
-    -119.772167
+    39.505219
 ],
-  "geometry": {"coordinates":[[-119.772167,-119.772167],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.772167,39.505219]],"type":"MultiPoint"}
 }

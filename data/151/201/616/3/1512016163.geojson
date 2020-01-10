@@ -13,8 +13,8 @@
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-SBA",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.837133,-119.837133",
-    "geom:latitude":-121.104038,
+    "geom:bbox":"-122.370943,34.427974,-119.837133,37.61799",
+    "geom:latitude":36.022982,
     "geom:longitude":-121.104038,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691816,
-    "wof:geomhash":"17a5ce1d0f9b0939b6bef397241931bf",
+    "wof:geomhash":"1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693497,
     "wof:name":"AC4484 (SFO-SBA)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    34.427974,
     -119.837133,
-    -119.837133
+    37.61799
 ],
-  "geometry": {"coordinates":[[-119.83713299999999,-119.83713299999999],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.83713299999999,34.427974]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"D9",
     "flysfo:journey":"SLC-SFO",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-111.980566,-111.980566",
-    "geom:latitude":-117.175754,
+    "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
+    "geom:latitude":39.20008,
     "geom:longitude":-117.175754,
     "iata:airline":"FJ",
     "iata:base_airline":"AS",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691617,
-    "wof:geomhash":"463fcac2c5c68ddc8548b2714e7d7512",
+    "wof:geomhash":"24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578692195,
+    "wof:lastmodified":1578693486,
     "wof:name":"FJ5831 (SLC-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    37.61799,
     -111.980566,
-    -111.980566
+    40.78217
 ],
-  "geometry": {"coordinates":[[-122.370943,-122.370943],[-111.980566,-111.980566]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -13,8 +13,8 @@
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-FAT",
     "geom:area":0.0,
-    "geom:bbox":"-122.370943,-122.370943,-119.721272,-119.721272",
-    "geom:latitude":-121.046108,
+    "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
+    "geom:latitude":37.193359,
     "geom:longitude":-121.046108,
     "iata:airline":"AC",
     "iata:base_airline":"UA",
@@ -54,7 +54,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1578691811,
-    "wof:geomhash":"333b5884e7913906056a97feccb325c6",
+    "wof:geomhash":"7027f9178c7d77a5f6f9a377b7a1bb37",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578692200,
+    "wof:lastmodified":1578693497,
     "wof:name":"AC4334 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
@@ -102,9 +102,9 @@
 },
   "bbox": [
     -122.370943,
-    -122.370943,
+    36.768728,
     -119.721272,
-    -119.721272
+    37.61799
 ],
-  "geometry": {"coordinates":[[-119.721272,-119.721272],[-122.370943,-122.370943]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]],"type":"MultiPoint"}
 }
