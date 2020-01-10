@@ -1,0 +1,63 @@
+{
+  "id": 1512014929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2020-01-09",
+    "edtf:inception":"uuuu",
+    "flysfo:airline":"WN",
+    "flysfo:date":"2020-01-09",
+    "flysfo:event":"A",
+    "flysfo:flight_number":"WN1871",
+    "flysfo:gate":"",
+    "flysfo:journey":"MDW-SFO",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370943,-122.370943,-87.745903,-87.745903",
+    "geom:latitude":-105.058423,
+    "geom:longitude":-105.058423,
+    "iata:airline":"WN",
+    "icao:airline":"SWA",
+    "iso:country":"US",
+    "lbl:latitude":37.61799,
+    "lbl:longitude":-122.370943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":1159285591,
+    "sfomuseum:arrival_id":102527513,
+    "sfomuseum:departure_id":102531205,
+    "sfomuseum:flight_id":"20200109-A-SWA-1871",
+    "sfomuseum:flight_number":[
+        "SWA1871",
+        "WN1871"
+    ],
+    "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1578691678,
+    "wof:geomhash":"a251d54c742f1259c5694c80d1c0ae29",
+    "wof:hierarchy":[],
+    "wof:id":1512014929,
+    "wof:involves":[
+        102527513,
+        102531205,
+        1159285591,
+        -1
+    ],
+    "wof:lastmodified":1578692196,
+    "wof:name":"WN1871 (MDW-SFO)",
+    "wof:parent_id":-1,
+    "wof:placetype":"event",
+    "wof:repo":"sfomuseum-data-flight-2020-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.370943,
+    -122.370943,
+    -87.745903,
+    -87.745903
+],
+  "geometry": {"coordinates":[[-122.370943,-122.370943],[-87.745903,-87.745903]],"type":"MultiPoint"}
+}

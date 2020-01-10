@@ -1,0 +1,63 @@
+{
+  "id": 1512014933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2020-01-09",
+    "edtf:inception":"uuuu",
+    "flysfo:airline":"WN",
+    "flysfo:date":"2020-01-09",
+    "flysfo:event":"A",
+    "flysfo:flight_number":"WN1945",
+    "flysfo:gate":"",
+    "flysfo:journey":"BUR-SFO",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370943,-122.370943,-118.353322,-118.353322",
+    "geom:latitude":-120.362133,
+    "geom:longitude":-120.362133,
+    "iata:airline":"WN",
+    "icao:airline":"SWA",
+    "iso:country":"US",
+    "lbl:latitude":37.61799,
+    "lbl:longitude":-122.370943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":1159285591,
+    "sfomuseum:arrival_id":102527513,
+    "sfomuseum:departure_id":102532771,
+    "sfomuseum:flight_id":"20200109-A-SWA-1945",
+    "sfomuseum:flight_number":[
+        "SWA1945",
+        "WN1945"
+    ],
+    "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1578691678,
+    "wof:geomhash":"9e54b154dc08b1b59df1b0fb88f8aa74",
+    "wof:hierarchy":[],
+    "wof:id":1512014933,
+    "wof:involves":[
+        102527513,
+        102532771,
+        1159285591,
+        -1
+    ],
+    "wof:lastmodified":1578692196,
+    "wof:name":"WN1945 (BUR-SFO)",
+    "wof:parent_id":-1,
+    "wof:placetype":"event",
+    "wof:repo":"sfomuseum-data-flight-2020-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.370943,
+    -122.370943,
+    -118.353322,
+    -118.353322
+],
+  "geometry": {"coordinates":[[-122.370943,-122.370943],[-118.35332200000001,-118.35332200000001]],"type":"MultiPoint"}
+}
