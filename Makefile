@@ -5,8 +5,8 @@ export-all:
 
 export-new:
 	git status --porcelain --untracked-files=all | egrep '.geojson$$' | awk '{ print $$2 }' > new.txt
-	# python utils/python/export.py -r . -f new.txt
-	# rm new.txt
+	python utils/python/export.py -r . -f new.txt
+	rm new.txt
 
 prune:
 	git gc --aggressive --prune
