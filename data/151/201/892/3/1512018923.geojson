@@ -44,7 +44,7 @@
     "swim:tail_number":"N79521",
     "wof:belongsto":[
         1477855703,
-        1477855741,
+        1477930453,
         102527513,
         85688637,
         102191575,
@@ -54,8 +54,7 @@
         1477855605,
         1477855699,
         554784711,
-        102085387,
-        1477930453
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +76,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855741,
+            "venue_id":1477930453,
             "wing_id":1477855699
         },
         {
@@ -89,7 +88,7 @@
             "county_id":102085387,
             "event_id":1512018923,
             "region_id":85688637,
-            "venue_id":1477855741,
+            "venue_id":1477930453,
             "wing_id":1477855699
         }
     ],
@@ -101,7 +100,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578693499,
+    "wof:lastmodified":1578949509,
     "wof:name":"UA1672 (SFO-DCA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

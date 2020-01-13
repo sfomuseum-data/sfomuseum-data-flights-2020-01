@@ -35,7 +35,7 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855835,
-        1477855879,
+        1477930301,
         102527513,
         85688637,
         102191575,
@@ -45,8 +45,7 @@
         1477855605,
         1477855833,
         554784711,
-        102085387,
-        1477930301
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -64,7 +63,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855879,
+            "venue_id":1477930301,
             "wing_id":1477855833
         },
         {
@@ -76,7 +75,7 @@
             "county_id":102085387,
             "event_id":1511818077,
             "region_id":85688637,
-            "venue_id":1477855879,
+            "venue_id":1477930301,
             "wing_id":1477855833
         }
     ],
@@ -87,7 +86,7 @@
         1159285043,
         1477930301
     ],
-    "wof:lastmodified":1578240153,
+    "wof:lastmodified":1578949450,
     "wof:name":"QF73 (SYD-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

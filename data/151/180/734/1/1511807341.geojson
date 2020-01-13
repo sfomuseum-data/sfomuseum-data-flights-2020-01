@@ -37,7 +37,7 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855885,
-        1477855923,
+        1477930481,
         102527513,
         85688637,
         102191575,
@@ -47,8 +47,7 @@
         1477855605,
         1477855833,
         554784711,
-        102085387,
-        1477930481
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -66,7 +65,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855923,
+            "venue_id":1477930481,
             "wing_id":1477855833
         },
         {
@@ -78,7 +77,7 @@
             "county_id":102085387,
             "event_id":1511807341,
             "region_id":85688637,
-            "venue_id":1477855923,
+            "venue_id":1477930481,
             "wing_id":1477855833
         }
     ],
@@ -89,7 +88,7 @@
         1159285391,
         1477930481
     ],
-    "wof:lastmodified":1578067405,
+    "wof:lastmodified":1578949160,
     "wof:name":"TK80 (SFO-IST)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

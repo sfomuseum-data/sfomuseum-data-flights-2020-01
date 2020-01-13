@@ -40,7 +40,7 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855703,
-        1477855721,
+        1477930377,
         102527513,
         85688637,
         102191575,
@@ -50,8 +50,7 @@
         1477855605,
         1477855699,
         554784711,
-        102085387,
-        1477930377
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -69,7 +68,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855721,
+            "venue_id":1477930377,
             "wing_id":1477855699
         },
         {
@@ -81,7 +80,7 @@
             "county_id":102085387,
             "event_id":1511842627,
             "region_id":85688637,
-            "venue_id":1477855721,
+            "venue_id":1477930377,
             "wing_id":1477855699
         }
     ],
@@ -93,7 +92,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578499368,
+    "wof:lastmodified":1578949650,
     "wof:name":"AC4268 (SFO-MRY)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

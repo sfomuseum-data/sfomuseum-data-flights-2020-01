@@ -44,7 +44,7 @@
     "swim:tail_number":"N706FR",
     "wof:belongsto":[
         1477855835,
-        1477855869,
+        1477930315,
         102527513,
         85688637,
         102191575,
@@ -54,8 +54,7 @@
         1477855605,
         1477855833,
         554784711,
-        102085387,
-        1477930315
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +76,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855869,
+            "venue_id":1477930315,
             "wing_id":1477855833
         },
         {
@@ -89,7 +88,7 @@
             "county_id":102085387,
             "event_id":1512014317,
             "region_id":85688637,
-            "venue_id":1477855869,
+            "venue_id":1477930315,
             "wing_id":1477855833
         }
     ],
@@ -101,7 +100,7 @@
         1477930315,
         1159289411
     ],
-    "wof:lastmodified":1578693505,
+    "wof:lastmodified":1578949514,
     "wof:name":"F92147 (LAS-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

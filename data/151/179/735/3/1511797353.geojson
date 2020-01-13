@@ -40,7 +40,7 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855885,
-        1477855909,
+        1477930461,
         102527513,
         85688637,
         102191575,
@@ -50,8 +50,7 @@
         1477855605,
         1477855833,
         554784711,
-        102085387,
-        1477930461
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -69,7 +68,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855909,
+            "venue_id":1477930461,
             "wing_id":1477855833
         },
         {
@@ -81,7 +80,7 @@
             "county_id":102085387,
             "event_id":1511797353,
             "region_id":85688637,
-            "venue_id":1477855909,
+            "venue_id":1477930461,
             "wing_id":1477855833
         }
     ],
@@ -93,7 +92,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1577980974,
+    "wof:lastmodified":1578949873,
     "wof:name":"LX3270 (SFO-PHX)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

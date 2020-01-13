@@ -35,7 +35,7 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855609,
-        1477855633,
+        1477930375,
         102527513,
         85688637,
         102191575,
@@ -45,8 +45,7 @@
         1477855605,
         1477855607,
         554784711,
-        102085387,
-        1477930375
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -64,7 +63,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855633,
+            "venue_id":1477930375,
             "wing_id":1477855607
         },
         {
@@ -76,7 +75,7 @@
             "county_id":102085387,
             "event_id":1511803713,
             "region_id":85688637,
-            "venue_id":1477855633,
+            "venue_id":1477930375,
             "wing_id":1477855607
         }
     ],
@@ -87,7 +86,7 @@
         1159283813,
         1477930375
     ],
-    "wof:lastmodified":1578067361,
+    "wof:lastmodified":1578949148,
     "wof:name":"AS3389 (PSP-SFO)",
     "wof:parent_id":1477930375,
     "wof:placetype":"event",

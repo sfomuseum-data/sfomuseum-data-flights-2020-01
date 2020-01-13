@@ -44,7 +44,7 @@
     "swim:tail_number":"N248AK",
     "wof:belongsto":[
         1477855609,
-        1477855619,
+        1477930345,
         102527513,
         85688637,
         102191575,
@@ -54,8 +54,7 @@
         1477855605,
         1477855607,
         554784711,
-        102085387,
-        1477930345
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +76,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855619,
+            "venue_id":1477930345,
             "wing_id":1477855607
         },
         {
@@ -89,7 +88,7 @@
             "county_id":102085387,
             "event_id":1512013171,
             "region_id":85688637,
-            "venue_id":1477855619,
+            "venue_id":1477930345,
             "wing_id":1477855607
         }
     ],
@@ -101,7 +100,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578693571,
+    "wof:lastmodified":1578949571,
     "wof:name":"AS1754 (SEA-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
