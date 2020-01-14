@@ -1,0 +1,120 @@
+{
+  "id": 1527866801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-01-13T22:17:00Z",
+    "edtf:inception": "2020-01-13T21:02:00Z",
+    "flysfo:actual_timestamp": 1578948360,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2020-01-13",
+    "flysfo:estimated_timestamp": 1578948360,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA809",
+    "flysfo:gate": "E12",
+    "flysfo:journey": "SFO-SLC",
+    "flysfo:scheduled_timestamp": 1578948720,
+    "flysfo:timestamp": 1578948720,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
+    "iata:airline": "UA",
+    "icao:aircraft": "A319",
+    "icao:airline": "UAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.619531,
+    "lbl:longitude": -122.384262,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289407,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527363,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20200113-D-UAL-809",
+    "sfomuseum:flight_number": [
+      "UAL809", 
+      "UA809"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
+    "swim:tail_number": "N836UA",
+    "wof:belongsto": [
+      102087579, 
+      554784711, 
+      85688637, 
+      1477855605, 
+      85633793, 
+      1477855699, 
+      102527513, 
+      1477855785, 
+      102085387, 
+      85922583, 
+      1477930403, 
+      1527866801, 
+      102191575
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "124327246",
+      "swim:gufi": "KO63294200"
+    },
+    "wof:country": "US",
+    "wof:created": 1579018411,
+    "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855785,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1527866801,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477930403,
+        "wing_id": 1477855699
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855785,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "event_id": 1527866801,
+        "region_id": 85688637,
+        "venue_id": 1477930403,
+        "wing_id": 1477855699
+      }
+    ],
+    "wof:id": 1527866801,
+    "wof:involves": [
+      102527363, 
+      102527513, 
+      1159285413, 
+      1477930403, 
+      1159289407
+    ],
+    "wof:lastmodified": 1579018514,
+    "wof:name": "UA809 (SFO-SLC)",
+    "wof:parent_id": 1477930403,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flight-2020-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -111.980566, 
+    40.78217
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
+}
