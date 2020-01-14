@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578799560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5557",
+    "flysfo:flight_number":"5557",
     "flysfo:gate":"F10",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578801240,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948937,
+    "wof:lastmodified":1579022483,
     "wof:name":"UA5557 (SBA-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

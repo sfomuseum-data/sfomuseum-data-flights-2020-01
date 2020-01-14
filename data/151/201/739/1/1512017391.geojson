@@ -7,7 +7,7 @@
     "flysfo:airline":"CA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA986",
+    "flysfo:flight_number":"986",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-PEK",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283605,
         1477930463
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"CA986 (SFO-PEK)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

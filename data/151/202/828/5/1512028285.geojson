@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS384",
+    "flysfo:flight_number":"384",
     "flysfo:gate":"D6",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578716580,
@@ -103,7 +103,7 @@
         1477930351,
         1159292085
     ],
-    "wof:lastmodified":1578949009,
+    "wof:lastmodified":1579022627,
     "wof:name":"AS384 (PDX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

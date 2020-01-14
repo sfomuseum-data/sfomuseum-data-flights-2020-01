@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA396",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7232",
+    "flysfo:flight_number":"7232",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949040,
+    "wof:lastmodified":1579022665,
     "wof:name":"CA7232 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA115",
+    "flysfo:flight_number":"115",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-PPT",
     "flysfo:scheduled_timestamp":1578772200,
@@ -104,7 +104,7 @@
         1477930469,
         1159289995
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022231,
     "wof:name":"UA115 (SFO-PPT)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

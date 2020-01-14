@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA631",
+    "flysfo:flight_number":"631",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578855600,
@@ -104,7 +104,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022902,
     "wof:name":"UA631 (SFO-SNA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

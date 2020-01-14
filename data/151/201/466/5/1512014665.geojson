@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL442",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL6805",
+    "flysfo:flight_number":"6805",
     "flysfo:gate":"C10",
     "flysfo:journey":"SLC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022808,
     "wof:name":"KL6805 (SLC-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

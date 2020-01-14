@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX870",
+    "flysfo:flight_number":"870",
     "flysfo:gate":"A2",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578849000,
@@ -88,7 +88,7 @@
         1159284127,
         1477930283
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022268,
     "wof:name":"CX870 (HKG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

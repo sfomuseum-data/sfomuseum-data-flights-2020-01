@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA1956",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1673",
+    "flysfo:flight_number":"1673",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-CLT",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022768,
     "wof:name":"CZ1673 (SFO-CLT)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

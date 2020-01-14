@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2411",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3270",
+    "flysfo:flight_number":"3270",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-PHX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022728,
     "wof:name":"LX3270 (SFO-PHX)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

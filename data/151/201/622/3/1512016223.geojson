@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA681",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5303",
+    "flysfo:flight_number":"5303",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022786,
     "wof:name":"AC5303 (SFO-LAS)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

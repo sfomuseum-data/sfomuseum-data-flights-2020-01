@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578942300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7296",
+    "flysfo:flight_number":"7296",
     "flysfo:gate":"F3",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578944220,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022984,
     "wof:name":"CA7296 (PDX-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7325",
+    "flysfo:flight_number":"7325",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578881700,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578950090,
+    "wof:lastmodified":1579022866,
     "wof:name":"CA7325 (SFO-MSP)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

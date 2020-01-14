@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5070",
+    "flysfo:flight_number":"5070",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578756540,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948887,
+    "wof:lastmodified":1579022403,
     "wof:name":"AC5070 (SFO-DEN)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

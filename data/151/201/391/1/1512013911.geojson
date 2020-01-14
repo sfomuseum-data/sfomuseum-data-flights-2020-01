@@ -9,7 +9,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2757",
+    "flysfo:flight_number":"2757",
     "flysfo:gate":"C3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -96,7 +96,7 @@
         1477930319,
         1159292085
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022699,
     "wof:name":"DL2757 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

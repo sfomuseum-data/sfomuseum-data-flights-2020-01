@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3445",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA7556",
+    "flysfo:flight_number":"7556",
     "flysfo:gate":"D15",
     "flysfo:journey":"SLC-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578949035,
+    "wof:lastmodified":1579022660,
     "wof:name":"BA7556 (SLC-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

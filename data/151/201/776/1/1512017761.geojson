@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5649",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7876",
+    "flysfo:flight_number":"7876",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-GEG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"LH7876 (SFO-GEG)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

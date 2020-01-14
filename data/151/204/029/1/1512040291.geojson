@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3753",
+    "flysfo:flight_number":"3753",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578790500,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022295,
     "wof:name":"WN3753 (SFO-ONT)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

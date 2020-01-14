@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1200",
+    "flysfo:flight_number":"1200",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578715200,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022509,
     "wof:name":"CZ1200 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

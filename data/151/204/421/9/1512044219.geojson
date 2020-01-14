@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1762",
+    "flysfo:flight_number":"1762",
     "flysfo:gate":"D3",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578886800,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948814,
+    "wof:lastmodified":1579022288,
     "wof:name":"SQ1762 (PSP-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

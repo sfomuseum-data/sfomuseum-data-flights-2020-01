@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA60",
+    "flysfo:flight_number":"60",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-MEL",
     "flysfo:scheduled_timestamp":1578813300,
@@ -88,7 +88,7 @@
         1159285413,
         1477930461
     ],
-    "wof:lastmodified":1578948843,
+    "wof:lastmodified":1579022335,
     "wof:name":"UA60 (SFO-MEL)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

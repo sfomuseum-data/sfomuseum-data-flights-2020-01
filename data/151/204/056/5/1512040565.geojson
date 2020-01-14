@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2096",
+    "flysfo:flight_number":"2096",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578763080,
@@ -104,7 +104,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948839,
+    "wof:lastmodified":1579022328,
     "wof:name":"UA2096 (SFO-SNA)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

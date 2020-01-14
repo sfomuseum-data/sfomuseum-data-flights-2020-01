@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2235",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9598",
+    "flysfo:flight_number":"9598",
     "flysfo:gate":"F3",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022768,
     "wof:name":"NZ9598 (SAN-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

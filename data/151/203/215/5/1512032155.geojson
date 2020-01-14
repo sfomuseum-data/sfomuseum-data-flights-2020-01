@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2614",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA4376",
+    "flysfo:flight_number":"4376",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948955,
+    "wof:lastmodified":1579022515,
     "wof:name":"BA4376 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

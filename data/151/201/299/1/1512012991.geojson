@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2228",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9396",
+    "flysfo:flight_number":"9396",
     "flysfo:gate":"E13",
     "flysfo:journey":"PIT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022811,
     "wof:name":"NZ9396 (PIT-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

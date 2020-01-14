@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1898",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1333",
+    "flysfo:flight_number":"1333",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022739,
     "wof:name":"SQ1333 (SFO-LAS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

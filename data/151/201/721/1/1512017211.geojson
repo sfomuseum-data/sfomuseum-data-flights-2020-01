@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL592",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AZ3252",
+    "flysfo:flight_number":"3252",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022817,
     "wof:name":"AZ3252 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

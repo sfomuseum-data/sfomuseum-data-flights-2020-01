@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578973140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AI7204",
+    "flysfo:flight_number":"7204",
     "flysfo:gate":"G2",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578973200,
@@ -94,7 +94,7 @@
         1477930463,
         1159285163
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022942,
     "wof:name":"AI7204 (HKG-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

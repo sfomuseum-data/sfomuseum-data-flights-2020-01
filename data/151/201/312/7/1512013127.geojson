@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1069",
+    "flysfo:flight_number":"1069",
     "flysfo:gate":"D9",
     "flysfo:journey":"IAD-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"AS1069 (IAD-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

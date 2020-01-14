@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA716",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1071",
+    "flysfo:flight_number":"1071",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949572,
+    "wof:lastmodified":1579022824,
     "wof:name":"CM1071 (SFO-LAX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

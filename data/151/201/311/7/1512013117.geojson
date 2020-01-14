@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5531",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9883",
+    "flysfo:flight_number":"9883",
     "flysfo:gate":"F10",
     "flysfo:journey":"YYC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022815,
     "wof:name":"NZ9883 (YYC-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

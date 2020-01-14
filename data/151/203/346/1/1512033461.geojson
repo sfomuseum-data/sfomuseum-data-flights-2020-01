@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1218",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1424",
+    "flysfo:flight_number":"1424",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-AUS",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022442,
     "wof:name":"SQ1424 (SFO-AUS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

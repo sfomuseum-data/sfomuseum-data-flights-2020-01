@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5198",
+    "flysfo:flight_number":"5198",
     "flysfo:gate":"E13",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578708720,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949017,
+    "wof:lastmodified":1579022643,
     "wof:name":"AC5198 (LAS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

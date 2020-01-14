@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA698",
+    "flysfo:flight_number":"698",
     "flysfo:gate":"F1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:timestamp":1578684120,
@@ -100,7 +100,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022561,
     "wof:name":"UA698 (SEA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1062",
+    "flysfo:flight_number":"1062",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578774480,
@@ -104,7 +104,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948771,
+    "wof:lastmodified":1579022215,
     "wof:name":"UA1062 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

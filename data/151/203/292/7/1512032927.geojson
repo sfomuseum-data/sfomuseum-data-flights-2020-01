@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR3185",
+    "flysfo:flight_number":"3185",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-PTY",
     "flysfo:scheduled_timestamp":1578714600,
@@ -94,7 +94,7 @@
         1477930467,
         1159284211
     ],
-    "wof:lastmodified":1578948896,
+    "wof:lastmodified":1579022416,
     "wof:name":"BR3185 (SFO-PTY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA870",
+    "flysfo:flight_number":"870",
     "flysfo:gate":"G10",
     "flysfo:journey":"SYD-SFO",
     "flysfo:scheduled_timestamp":1578847200,
@@ -103,7 +103,7 @@
         1477930481,
         1159289993
     ],
-    "wof:lastmodified":1578948804,
+    "wof:lastmodified":1579022273,
     "wof:name":"UA870 (SYD-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5201",
+    "flysfo:flight_number":"5201",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-MRY",
     "flysfo:scheduled_timestamp":1578949560,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579023008,
     "wof:name":"UA5201 (SFO-MRY)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

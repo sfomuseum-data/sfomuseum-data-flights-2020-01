@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN5130",
+    "flysfo:flight_number":"5130",
     "flysfo:gate":"B12",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578888300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948782,
+    "wof:lastmodified":1579022239,
     "wof:name":"WN5130 (BUR-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

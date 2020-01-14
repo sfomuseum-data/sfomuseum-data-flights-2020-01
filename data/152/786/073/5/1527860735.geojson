@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578980400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS2830",
+    "flysfo:flight_number":"2830",
     "flysfo:gate":"D15",
     "flysfo:journey":"PAE-SFO",
     "flysfo:scheduled_timestamp":1578976560,
@@ -88,7 +88,7 @@
         1159283813,
         1477930369
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022987,
     "wof:name":"AS2830 (PAE-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

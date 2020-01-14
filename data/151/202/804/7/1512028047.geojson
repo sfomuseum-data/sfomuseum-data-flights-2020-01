@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9609",
+    "flysfo:flight_number":"9609",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578709320,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"NZ9609 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

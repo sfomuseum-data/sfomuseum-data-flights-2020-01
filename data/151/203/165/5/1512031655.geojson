@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9266",
+    "flysfo:flight_number":"9266",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578720900,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022481,
     "wof:name":"NZ9266 (SFO-LAX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

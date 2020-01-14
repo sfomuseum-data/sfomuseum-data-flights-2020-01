@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN5657",
+    "flysfo:flight_number":"5657",
     "flysfo:gate":"B9",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578715800,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022617,
     "wof:name":"WN5657 (DEN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

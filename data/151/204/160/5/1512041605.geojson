@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6339",
+    "flysfo:flight_number":"6339",
     "flysfo:gate":"E9",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578846540,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948765,
+    "wof:lastmodified":1579022204,
     "wof:name":"OZ6339 (LAS-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

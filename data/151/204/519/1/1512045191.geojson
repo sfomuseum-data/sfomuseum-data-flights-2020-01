@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS6992",
+    "flysfo:flight_number":"6992",
     "flysfo:gate":"C4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578846900,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"WS6992 (LAX-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

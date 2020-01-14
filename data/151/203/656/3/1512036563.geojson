@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578781500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2522",
+    "flysfo:flight_number":"2522",
     "flysfo:gate":"D1",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578782220,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022422,
     "wof:name":"AY2522 (SNA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

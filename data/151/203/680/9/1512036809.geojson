@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6745",
+    "flysfo:flight_number":"6745",
     "flysfo:gate":"C8",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578808020,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948886,
+    "wof:lastmodified":1579022401,
     "wof:name":"KE6745 (SLC-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

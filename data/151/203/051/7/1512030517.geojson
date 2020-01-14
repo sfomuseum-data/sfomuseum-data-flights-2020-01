@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5775",
+    "flysfo:flight_number":"5775",
     "flysfo:gate":"F5",
     "flysfo:journey":"STL-SFO",
     "flysfo:scheduled_timestamp":1578717180,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"UA5775 (STL-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"HA11",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"B65811",
+    "flysfo:flight_number":"5811",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-HNL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930307,
         1159284489
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"B65811 (SFO-HNL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

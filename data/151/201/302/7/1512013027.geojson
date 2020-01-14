@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5279",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9524",
+    "flysfo:flight_number":"9524",
     "flysfo:gate":"F10",
     "flysfo:journey":"MFR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022783,
     "wof:name":"NZ9524 (MFR-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

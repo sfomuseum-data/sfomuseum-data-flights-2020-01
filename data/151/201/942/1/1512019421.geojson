@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA701",
+    "flysfo:flight_number":"701",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289871
     ],
-    "wof:lastmodified":1578949569,
+    "wof:lastmodified":1579022819,
     "wof:name":"UA701 (SFO-AUS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

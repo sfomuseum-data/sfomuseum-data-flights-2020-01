@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578713580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3794",
+    "flysfo:flight_number":"3794",
     "flysfo:gate":"D4",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578714000,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949042,
+    "wof:lastmodified":1579022666,
     "wof:name":"QF3794 (PSP-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

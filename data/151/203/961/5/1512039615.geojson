@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578787080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9262",
+    "flysfo:flight_number":"9262",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578787500,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948934,
+    "wof:lastmodified":1579022478,
     "wof:name":"LH9262 (SFO-SNA)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

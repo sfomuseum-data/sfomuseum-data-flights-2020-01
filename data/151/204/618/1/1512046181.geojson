@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9595",
+    "flysfo:flight_number":"9595",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578897900,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"NZ9595 (SFO-RNO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

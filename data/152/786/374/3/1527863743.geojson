@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578941640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5921",
+    "flysfo:flight_number":"5921",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578941400,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579023031,
     "wof:name":"AC5921 (SFO-ORD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

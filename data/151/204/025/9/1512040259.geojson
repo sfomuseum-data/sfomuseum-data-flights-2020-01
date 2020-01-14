@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1442",
+    "flysfo:flight_number":"1442",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578807000,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022224,
     "wof:name":"SQ1442 (SFO-EWR)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

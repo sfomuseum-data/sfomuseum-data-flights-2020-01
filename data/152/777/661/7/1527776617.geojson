@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3069",
+    "flysfo:flight_number":"3069",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578870300,
@@ -94,7 +94,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022877,
     "wof:name":"LX3069 (SFO-LHR)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

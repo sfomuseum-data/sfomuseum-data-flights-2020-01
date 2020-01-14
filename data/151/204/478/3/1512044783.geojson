@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5348",
+    "flysfo:flight_number":"5348",
     "flysfo:gate":"F5",
     "flysfo:journey":"ABQ-SFO",
     "flysfo:scheduled_timestamp":1578844800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948768,
+    "wof:lastmodified":1579022210,
     "wof:name":"UA5348 (ABQ-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

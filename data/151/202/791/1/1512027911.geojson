@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9277",
+    "flysfo:flight_number":"9277",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578725100,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949003,
+    "wof:lastmodified":1579022614,
     "wof:name":"NZ9277 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

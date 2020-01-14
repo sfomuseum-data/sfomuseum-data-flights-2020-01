@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2905",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU4364",
+    "flysfo:flight_number":"4364",
     "flysfo:gate":"C3",
     "flysfo:journey":"CVG-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022635,
     "wof:name":"MU4364 (CVG-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA258",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5289",
+    "flysfo:flight_number":"5289",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-AUS",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"AC5289 (SFO-AUS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

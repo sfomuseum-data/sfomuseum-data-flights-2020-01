@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578969720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2413",
+    "flysfo:flight_number":"2413",
     "flysfo:gate":"E6",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578967200,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579023032,
     "wof:name":"CM2413 (PDX-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

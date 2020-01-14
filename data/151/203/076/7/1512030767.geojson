@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NZ8",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS7650",
+    "flysfo:flight_number":"7650",
     "flysfo:gate":"G7",
     "flysfo:journey":"AKL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930475,
         1159283697
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"VS7650 (AKL-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

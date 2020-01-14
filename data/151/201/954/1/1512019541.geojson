@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2984",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1906",
+    "flysfo:flight_number":"1906",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022699,
     "wof:name":"VS1906 (SFO-SEA)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

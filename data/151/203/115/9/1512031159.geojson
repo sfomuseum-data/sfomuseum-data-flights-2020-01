@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1761",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5318",
+    "flysfo:flight_number":"5318",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-SJD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"AC5318 (SFO-SJD)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

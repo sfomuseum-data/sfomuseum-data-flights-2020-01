@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578702900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4215",
+    "flysfo:flight_number":"4215",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578703200,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022367,
     "wof:name":"AC4215 (SFO-SLC)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

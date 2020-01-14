@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7051",
+    "flysfo:flight_number":"7051",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-CAN",
     "flysfo:scheduled_timestamp":1578724800,
@@ -94,7 +94,7 @@
         1477930309,
         1159284165
     ],
-    "wof:lastmodified":1578948961,
+    "wof:lastmodified":1579022527,
     "wof:name":"AA7051 (SFO-CAN)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

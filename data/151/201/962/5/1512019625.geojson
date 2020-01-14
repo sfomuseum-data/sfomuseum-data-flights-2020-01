@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2429",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7701",
+    "flysfo:flight_number":"7701",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"WS7701 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR8",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6332",
+    "flysfo:flight_number":"6332",
     "flysfo:gate":"G8",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930477,
         1159284349
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"TG6332 (TPE-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

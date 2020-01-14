@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA862",
+    "flysfo:flight_number":"862",
     "flysfo:gate":"G7",
     "flysfo:journey":"HKG-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930475,
         1159289985
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022695,
     "wof:name":"UA862 (HKG-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

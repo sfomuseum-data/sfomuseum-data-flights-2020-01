@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2060",
+    "flysfo:flight_number":"2060",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-BNA",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022803,
     "wof:name":"UA2060 (SFO-BNA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

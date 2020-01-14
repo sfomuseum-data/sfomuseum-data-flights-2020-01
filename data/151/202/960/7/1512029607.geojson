@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL6856",
+    "flysfo:flight_number":"6856",
     "flysfo:gate":"C4",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578700800,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949027,
+    "wof:lastmodified":1579022654,
     "wof:name":"KL6856 (SEA-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

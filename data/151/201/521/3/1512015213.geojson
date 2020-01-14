@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA209",
+    "flysfo:flight_number":"209",
     "flysfo:gate":"F1",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022748,
     "wof:name":"UA209 (SNA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

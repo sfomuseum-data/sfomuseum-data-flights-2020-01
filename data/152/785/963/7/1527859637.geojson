@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA6033",
+    "flysfo:flight_number":"6033",
     "flysfo:gate":"C9",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578945240,
@@ -88,7 +88,7 @@
         1159283849,
         1477930333
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022852,
     "wof:name":"AA6033 (LAX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

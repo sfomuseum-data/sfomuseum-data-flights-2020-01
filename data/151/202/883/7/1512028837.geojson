@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1291",
+    "flysfo:flight_number":"1291",
     "flysfo:gate":"C6",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578709140,
@@ -94,7 +94,7 @@
         1477930325,
         1159284261
     ],
-    "wof:lastmodified":1578949032,
+    "wof:lastmodified":1579022657,
     "wof:name":"CZ1291 (SLC-SFO)",
     "wof:parent_id":1477930325,
     "wof:placetype":"event",

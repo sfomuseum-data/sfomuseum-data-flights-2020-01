@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA209",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9716",
+    "flysfo:flight_number":"9716",
     "flysfo:gate":"F1",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949486,
+    "wof:lastmodified":1579022693,
     "wof:name":"NZ9716 (SNA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

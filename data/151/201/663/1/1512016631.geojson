@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2358",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9117",
+    "flysfo:flight_number":"9117",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022800,
     "wof:name":"NZ9117 (SFO-AUS)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

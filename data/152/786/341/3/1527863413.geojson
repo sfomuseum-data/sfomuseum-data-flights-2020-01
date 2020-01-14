@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7396",
+    "flysfo:flight_number":"7396",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-SYD",
     "flysfo:scheduled_timestamp":1578976200,
@@ -94,7 +94,7 @@
         1477930307,
         1159284313
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579022958,
     "wof:name":"AA7396 (SFO-SYD)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

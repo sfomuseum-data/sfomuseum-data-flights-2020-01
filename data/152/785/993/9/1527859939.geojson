@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578977220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5331",
+    "flysfo:flight_number":"5331",
     "flysfo:gate":"F21",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578977340,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022856,
     "wof:name":"AC5331 (DEN-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

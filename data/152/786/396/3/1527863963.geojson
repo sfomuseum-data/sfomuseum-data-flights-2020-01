@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ2843",
+    "flysfo:flight_number":"2843",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-MRY",
     "flysfo:scheduled_timestamp":1578949560,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022908,
     "wof:name":"NZ2843 (SFO-MRY)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

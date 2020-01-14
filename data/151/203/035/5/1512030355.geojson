@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578706860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5298",
+    "flysfo:flight_number":"5298",
     "flysfo:gate":"F9",
     "flysfo:journey":"OMA-SFO",
     "flysfo:scheduled_timestamp":1578707820,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022542,
     "wof:name":"UA5298 (OMA-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

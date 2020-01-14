@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2002",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE3084",
+    "flysfo:flight_number":"3084",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949516,
+    "wof:lastmodified":1579022742,
     "wof:name":"KE3084 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

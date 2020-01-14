@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1213",
+    "flysfo:flight_number":"1213",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022810,
     "wof:name":"UA1213 (SFO-BOS)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

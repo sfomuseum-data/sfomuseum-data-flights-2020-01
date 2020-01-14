@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2002",
+    "flysfo:flight_number":"2002",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578703920,
@@ -88,7 +88,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578948972,
+    "wof:lastmodified":1579022546,
     "wof:name":"DL2002 (SFO-SEA)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

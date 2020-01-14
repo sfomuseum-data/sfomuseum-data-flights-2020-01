@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5811",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2267",
+    "flysfo:flight_number":"2267",
     "flysfo:gate":"F15M",
     "flysfo:journey":"MFR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022696,
     "wof:name":"AV2267 (MFR-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5405",
+    "flysfo:flight_number":"5405",
     "flysfo:gate":"F7",
     "flysfo:journey":"SUN-SFO",
     "flysfo:scheduled_timestamp":1578691740,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948912,
+    "wof:lastmodified":1579022441,
     "wof:name":"UA5405 (SUN-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

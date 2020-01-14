@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1749",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9208",
+    "flysfo:flight_number":"9208",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-OGG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"LH9208 (SFO-OGG)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF9660",
+    "flysfo:flight_number":"9660",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578979500,
@@ -94,7 +94,7 @@
         1477930291,
         1159285483
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579023035,
     "wof:name":"AF9660 (SFO-LHR)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

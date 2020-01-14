@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1596",
+    "flysfo:flight_number":"1596",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022799,
     "wof:name":"AS1596 (SFO-LAS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

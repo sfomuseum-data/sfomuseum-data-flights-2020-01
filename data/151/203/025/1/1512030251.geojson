@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2445",
+    "flysfo:flight_number":"2445",
     "flysfo:gate":"E9",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578721740,
@@ -102,7 +102,7 @@
         1477930395,
         1377564285
     ],
-    "wof:lastmodified":1578948888,
+    "wof:lastmodified":1579022404,
     "wof:name":"UA2445 (MIA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

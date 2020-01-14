@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6614",
+    "flysfo:flight_number":"6614",
     "flysfo:gate":"G4",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578771000,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022554,
     "wof:name":"OZ6614 (ICN-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

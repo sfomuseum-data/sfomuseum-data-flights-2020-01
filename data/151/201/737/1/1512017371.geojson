@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA390",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7327",
+    "flysfo:flight_number":"7327",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"CA7327 (SFO-ORD)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

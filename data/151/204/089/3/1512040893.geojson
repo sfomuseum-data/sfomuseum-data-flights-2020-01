@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5835",
+    "flysfo:flight_number":"5835",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-JAC",
     "flysfo:scheduled_timestamp":1578768000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948813,
+    "wof:lastmodified":1579022286,
     "wof:name":"UA5835 (SFO-JAC)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

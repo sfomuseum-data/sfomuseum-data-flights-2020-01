@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2027",
+    "flysfo:flight_number":"2027",
     "flysfo:gate":"C8",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578897240,
@@ -88,7 +88,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022337,
     "wof:name":"DL2027 (MSP-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

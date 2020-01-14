@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578728520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"F9665",
+    "flysfo:flight_number":"665",
     "flysfo:gate":"A10",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578729840,
@@ -104,7 +104,7 @@
         1477930303,
         1377564295
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022671,
     "wof:name":"F9665 (DEN-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

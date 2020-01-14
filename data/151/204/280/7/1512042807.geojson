@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3204",
+    "flysfo:flight_number":"3204",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578885240,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948770,
+    "wof:lastmodified":1579022214,
     "wof:name":"AZ3204 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

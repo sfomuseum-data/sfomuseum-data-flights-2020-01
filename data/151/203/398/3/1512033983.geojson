@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA460",
+    "flysfo:flight_number":"460",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578711900,
@@ -104,7 +104,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1578948862,
+    "wof:lastmodified":1579022364,
     "wof:name":"UA460 (SFO-YVR)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

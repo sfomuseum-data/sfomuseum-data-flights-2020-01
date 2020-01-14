@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"LH459",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8882",
+    "flysfo:flight_number":"8882",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-MUC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022764,
     "wof:name":"UA8882 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

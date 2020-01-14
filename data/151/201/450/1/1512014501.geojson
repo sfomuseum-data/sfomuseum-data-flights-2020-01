@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1744",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5428",
+    "flysfo:flight_number":"5428",
     "flysfo:gate":"D2",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022803,
     "wof:name":"JL5428 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

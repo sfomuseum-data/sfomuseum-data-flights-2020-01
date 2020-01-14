@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA575",
+    "flysfo:flight_number":"575",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022695,
     "wof:name":"UA575 (SFO-ATL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

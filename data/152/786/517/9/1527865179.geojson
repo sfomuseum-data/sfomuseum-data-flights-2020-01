@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578969480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9127",
+    "flysfo:flight_number":"9127",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578969900,
@@ -94,7 +94,7 @@
         1477930487,
         1159285413
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022957,
     "wof:name":"LH9127 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

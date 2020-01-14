@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3493",
+    "flysfo:flight_number":"3493",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578701700,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948854,
+    "wof:lastmodified":1579022353,
     "wof:name":"AM3493 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

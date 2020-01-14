@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA840",
+    "flysfo:flight_number":"840",
     "flysfo:gate":"F17",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578949494,
+    "wof:lastmodified":1579022709,
     "wof:name":"UA840 (EWR-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

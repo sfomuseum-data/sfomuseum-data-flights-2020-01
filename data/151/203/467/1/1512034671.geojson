@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4134",
+    "flysfo:flight_number":"4134",
     "flysfo:gate":"F14",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578760380,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578948967,
+    "wof:lastmodified":1579022538,
     "wof:name":"AC4134 (SNA-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

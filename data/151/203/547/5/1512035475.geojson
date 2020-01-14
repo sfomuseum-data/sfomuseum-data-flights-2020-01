@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1111",
+    "flysfo:flight_number":"1111",
     "flysfo:gate":"D9",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578766500,
@@ -104,7 +104,7 @@
         1477930357,
         1377564285
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022568,
     "wof:name":"AS1111 (SEA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

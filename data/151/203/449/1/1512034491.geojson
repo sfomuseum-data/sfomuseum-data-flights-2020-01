@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578796980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1659",
+    "flysfo:flight_number":"1659",
     "flysfo:gate":"D14",
     "flysfo:journey":"CLT-SFO",
     "flysfo:scheduled_timestamp":1578796980,
@@ -104,7 +104,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578948878,
+    "wof:lastmodified":1579022389,
     "wof:name":"AA1659 (CLT-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

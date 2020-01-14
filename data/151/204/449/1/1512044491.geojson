@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1580",
+    "flysfo:flight_number":"1580",
     "flysfo:gate":"E7",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578839280,
@@ -103,7 +103,7 @@
         1477930391,
         1159289871
     ],
-    "wof:lastmodified":1578948770,
+    "wof:lastmodified":1579022213,
     "wof:name":"UA1580 (OGG-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

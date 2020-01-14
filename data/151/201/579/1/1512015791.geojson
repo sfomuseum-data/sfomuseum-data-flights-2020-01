@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2027",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4904",
+    "flysfo:flight_number":"4904",
     "flysfo:gate":"C4",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022822,
     "wof:name":"VS4904 (MSP-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

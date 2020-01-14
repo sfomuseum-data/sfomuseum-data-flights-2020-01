@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2264",
+    "flysfo:flight_number":"2264",
     "flysfo:gate":"F1",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022818,
     "wof:name":"UA2264 (IAH-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

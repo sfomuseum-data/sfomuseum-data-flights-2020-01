@@ -7,7 +7,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA177",
+    "flysfo:flight_number":"177",
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283849,
         1477930371
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022800,
     "wof:name":"AA177 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

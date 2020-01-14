@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2518",
+    "flysfo:flight_number":"2518",
     "flysfo:gate":"E13",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578869340,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"CM2518 (SAN-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

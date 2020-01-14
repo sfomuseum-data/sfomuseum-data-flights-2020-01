@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578895920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5240",
+    "flysfo:flight_number":"5240",
     "flysfo:gate":"F10",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578889200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948824,
+    "wof:lastmodified":1579022302,
     "wof:name":"UA5240 (EUG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1107",
+    "flysfo:flight_number":"1107",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578847920,
@@ -104,7 +104,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"UA1107 (SFO-PHX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

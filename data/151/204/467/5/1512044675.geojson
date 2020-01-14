@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578853500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA34",
+    "flysfo:flight_number":"34",
     "flysfo:gate":"G1",
     "flysfo:journey":"KIX-SFO",
     "flysfo:scheduled_timestamp":1578855600,
@@ -103,7 +103,7 @@
         1477930461,
         1159293215
     ],
-    "wof:lastmodified":1578948827,
+    "wof:lastmodified":1579022307,
     "wof:name":"UA34 (KIX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

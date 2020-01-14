@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7214",
+    "flysfo:flight_number":"7214",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-NAN",
     "flysfo:scheduled_timestamp":1578808800,
@@ -94,7 +94,7 @@
         1477930291,
         1159283715
     ],
-    "wof:lastmodified":1578948865,
+    "wof:lastmodified":1579022368,
     "wof:name":"AA7214 (SFO-NAN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

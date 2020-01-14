@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5550",
+    "flysfo:flight_number":"5550",
     "flysfo:gate":"F9",
     "flysfo:journey":"XNA-SFO",
     "flysfo:scheduled_timestamp":1578851700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"UA5550 (XNA-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

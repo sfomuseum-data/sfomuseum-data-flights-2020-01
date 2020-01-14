@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA257",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9254",
+    "flysfo:flight_number":"9254",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022787,
     "wof:name":"NZ9254 (SFO-LAX)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA694",
+    "flysfo:flight_number":"694",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-KOA",
     "flysfo:timestamp":0,
@@ -100,7 +100,7 @@
         1477930397,
         1377564285
     ],
-    "wof:lastmodified":1578948962,
+    "wof:lastmodified":1579022529,
     "wof:name":"UA694 (SFO-KOA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

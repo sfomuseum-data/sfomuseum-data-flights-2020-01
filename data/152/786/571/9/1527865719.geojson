@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6744",
+    "flysfo:flight_number":"6744",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578962340,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023027,
     "wof:name":"KE6744 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

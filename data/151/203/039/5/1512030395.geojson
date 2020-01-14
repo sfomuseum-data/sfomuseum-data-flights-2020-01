@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5395",
+    "flysfo:flight_number":"5395",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
     "flysfo:scheduled_timestamp":1578711480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948912,
+    "wof:lastmodified":1579022441,
     "wof:name":"UA5395 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

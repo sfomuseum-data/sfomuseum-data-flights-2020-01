@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578964200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1383",
+    "flysfo:flight_number":"1383",
     "flysfo:gate":"D1",
     "flysfo:journey":"DAL-SFO",
     "flysfo:scheduled_timestamp":1578963600,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022930,
     "wof:name":"SQ1383 (DAL-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

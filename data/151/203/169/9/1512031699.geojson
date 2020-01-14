@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9349",
+    "flysfo:flight_number":"9349",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578692100,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022381,
     "wof:name":"NZ9349 (SFO-PDX)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

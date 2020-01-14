@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA35",
+    "flysfo:flight_number":"35",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-KIX",
     "flysfo:scheduled_timestamp":1578770100,
@@ -104,7 +104,7 @@
         1477930467,
         1159293215
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022232,
     "wof:name":"UA35 (SFO-KIX)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

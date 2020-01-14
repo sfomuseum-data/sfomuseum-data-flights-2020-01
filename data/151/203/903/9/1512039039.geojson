@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578803400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS5000",
+    "flysfo:flight_number":"5000",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-SYD",
     "flysfo:scheduled_timestamp":1578803400,
@@ -94,7 +94,7 @@
         1477930303,
         1159284313
     ],
-    "wof:lastmodified":1578948939,
+    "wof:lastmodified":1579022486,
     "wof:name":"AS5000 (SFO-SYD)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

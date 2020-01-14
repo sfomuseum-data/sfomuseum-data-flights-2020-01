@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578903420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1539",
+    "flysfo:flight_number":"1539",
     "flysfo:gate":"F13",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578903900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930439
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022222,
     "wof:name":"UA1539 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578944400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9397",
+    "flysfo:flight_number":"9397",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-OGG",
     "flysfo:scheduled_timestamp":1578944400,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022971,
     "wof:name":"LY9397 (SFO-OGG)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

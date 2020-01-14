@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578861300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2509",
+    "flysfo:flight_number":"2509",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578861300,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"AY2509 (SFO-SLC)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

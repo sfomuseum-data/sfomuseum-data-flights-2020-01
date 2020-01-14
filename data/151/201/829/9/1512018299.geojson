@@ -11,7 +11,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"B61578",
+    "flysfo:flight_number":"1578",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-FLL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881719,
         1159289411
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022719,
     "wof:name":"B61578 (SFO-FLL)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

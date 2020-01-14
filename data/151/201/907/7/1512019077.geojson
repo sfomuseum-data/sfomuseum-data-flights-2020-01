@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2749",
+    "flysfo:flight_number":"2749",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-XMN",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930471
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022696,
     "wof:name":"UA2749 (SFO-XMN)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

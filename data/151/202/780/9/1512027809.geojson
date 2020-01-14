@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5219",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9147",
+    "flysfo:flight_number":"9147",
     "flysfo:gate":"F3A",
     "flysfo:journey":"BFL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022670,
     "wof:name":"NZ9147 (BFL-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

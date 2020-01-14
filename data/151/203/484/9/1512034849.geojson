@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5573",
+    "flysfo:flight_number":"5573",
     "flysfo:gate":"E11",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578761400,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578948885,
+    "wof:lastmodified":1579022400,
     "wof:name":"AC5573 (ORD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

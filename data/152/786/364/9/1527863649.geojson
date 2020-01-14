@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578932220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5044",
+    "flysfo:flight_number":"5044",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578931980,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022916,
     "wof:name":"AC5044 (SFO-LAS)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

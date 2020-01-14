@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS623",
+    "flysfo:flight_number":"623",
     "flysfo:gate":"D2",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578856560,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022299,
     "wof:name":"AS623 (JFK-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

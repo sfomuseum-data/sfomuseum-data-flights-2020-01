@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5710",
+    "flysfo:flight_number":"5710",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578839400,
@@ -48,7 +48,7 @@
         1159283627,
         -1
     ],
-    "wof:lastmodified":1578932067,
+    "wof:lastmodified":1579022203,
     "wof:name":"AF5710 (SFO-SEA)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

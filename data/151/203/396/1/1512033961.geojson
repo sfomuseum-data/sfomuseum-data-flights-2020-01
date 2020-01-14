@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA358",
+    "flysfo:flight_number":"358",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAS",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022361,
     "wof:name":"UA358 (SFO-LAS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

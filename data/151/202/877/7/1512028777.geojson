@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7487",
+    "flysfo:flight_number":"7487",
     "flysfo:gate":"D16",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578710880,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949032,
+    "wof:lastmodified":1579022657,
     "wof:name":"CX7487 (PDX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

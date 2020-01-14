@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578948660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA8829",
+    "flysfo:flight_number":"8829",
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
     "flysfo:scheduled_timestamp":1578948600,
@@ -94,7 +94,7 @@
         1477930485,
         1159284711
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023027,
     "wof:name":"UA8829 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

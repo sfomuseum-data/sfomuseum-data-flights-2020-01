@@ -11,7 +11,7 @@
     "flysfo:airline":"CZ",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ660",
+    "flysfo:flight_number":"660",
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-WUH",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930281,
         1159289993
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022783,
     "wof:name":"CZ660 (SFO-WUH)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

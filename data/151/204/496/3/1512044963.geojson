@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5899",
+    "flysfo:flight_number":"5899",
     "flysfo:gate":"F6",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578856320,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022259,
     "wof:name":"UA5899 (RNO-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

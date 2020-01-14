@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4414",
+    "flysfo:flight_number":"4414",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578777060,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948877,
+    "wof:lastmodified":1579022387,
     "wof:name":"AC4414 (SFO-RNO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

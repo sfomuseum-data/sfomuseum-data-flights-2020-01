@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC3995",
+    "flysfo:flight_number":"3995",
     "flysfo:gate":"F3A",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578757680,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022421,
     "wof:name":"AC3995 (BOI-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

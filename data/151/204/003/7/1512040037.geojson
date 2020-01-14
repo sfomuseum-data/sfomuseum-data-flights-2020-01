@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578792600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE7259",
+    "flysfo:flight_number":"7259",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578792600,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948827,
+    "wof:lastmodified":1579022305,
     "wof:name":"KE7259 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

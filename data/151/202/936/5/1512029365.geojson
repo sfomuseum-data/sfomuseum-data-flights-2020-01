@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5855",
+    "flysfo:flight_number":"5855",
     "flysfo:gate":"D2",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578692280,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"FJ5855 (PSP-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

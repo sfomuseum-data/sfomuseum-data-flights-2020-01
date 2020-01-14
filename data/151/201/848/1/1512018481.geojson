@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX893",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9205",
+    "flysfo:flight_number":"9205",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930295,
         1159284127
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022786,
     "wof:name":"MH9205 (SFO-HKG)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

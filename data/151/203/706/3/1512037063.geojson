@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3844",
+    "flysfo:flight_number":"3844",
     "flysfo:gate":"B13",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578762600,
@@ -104,7 +104,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022359,
     "wof:name":"WN3844 (SAN-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

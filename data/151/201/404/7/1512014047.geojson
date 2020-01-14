@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5240",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9027",
+    "flysfo:flight_number":"9027",
     "flysfo:gate":"F8",
     "flysfo:journey":"EUG-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022811,
     "wof:name":"LH9027 (EUG-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL854",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF2099",
+    "flysfo:flight_number":"2099",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-DTW",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948929,
+    "wof:lastmodified":1579022471,
     "wof:name":"AF2099 (SFO-DTW)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

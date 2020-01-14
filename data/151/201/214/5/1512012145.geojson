@@ -7,7 +7,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA686",
+    "flysfo:flight_number":"686",
     "flysfo:gate":"D10",
     "flysfo:journey":"PHX-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"AA686 (PHX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

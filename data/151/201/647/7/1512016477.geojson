@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2489",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7332",
+    "flysfo:flight_number":"7332",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"NH7332 (SFO-AUS)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

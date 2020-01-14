@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3667",
+    "flysfo:flight_number":"3667",
     "flysfo:gate":"D7",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578964800,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022973,
     "wof:name":"QF3667 (AUS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

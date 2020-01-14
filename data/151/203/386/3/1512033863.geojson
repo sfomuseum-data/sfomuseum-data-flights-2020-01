@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2161",
+    "flysfo:flight_number":"2161",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578711120,
@@ -88,7 +88,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022600,
     "wof:name":"UA2161 (SFO-SEA)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

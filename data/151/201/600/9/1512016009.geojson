@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2341",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6340",
+    "flysfo:flight_number":"6340",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022808,
     "wof:name":"OZ6340 (SFO-LAS)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

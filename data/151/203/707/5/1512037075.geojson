@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578787500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN4233",
+    "flysfo:flight_number":"4233",
     "flysfo:gate":"B12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578787800,
@@ -102,7 +102,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022381,
     "wof:name":"WN4233 (LAS-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5874",
+    "flysfo:flight_number":"5874",
     "flysfo:gate":"E3",
     "flysfo:journey":"MMH-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022699,
     "wof:name":"UA5874 (MMH-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

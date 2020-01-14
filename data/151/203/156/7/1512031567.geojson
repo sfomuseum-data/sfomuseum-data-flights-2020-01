@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9165",
+    "flysfo:flight_number":"9165",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578687960,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022382,
     "wof:name":"NZ9165 (SFO-IAD)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

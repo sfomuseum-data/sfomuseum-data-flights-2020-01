@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1610",
+    "flysfo:flight_number":"1610",
     "flysfo:gate":"E9",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578858600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930395
     ],
-    "wof:lastmodified":1578948770,
+    "wof:lastmodified":1579022214,
     "wof:name":"UA1610 (ORD-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

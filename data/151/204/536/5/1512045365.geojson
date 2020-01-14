@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6522",
+    "flysfo:flight_number":"6522",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578876000,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948811,
+    "wof:lastmodified":1579022283,
     "wof:name":"OZ6522 (SFO-SLC)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

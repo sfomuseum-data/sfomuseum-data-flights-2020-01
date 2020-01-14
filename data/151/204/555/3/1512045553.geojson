@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578899280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5166",
+    "flysfo:flight_number":"5166",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578899400,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948806,
+    "wof:lastmodified":1579022275,
     "wof:name":"AC5166 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

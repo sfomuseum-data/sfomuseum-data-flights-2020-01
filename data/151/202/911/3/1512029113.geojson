@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9415",
+    "flysfo:flight_number":"9415",
     "flysfo:gate":"E8",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578692400,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949041,
+    "wof:lastmodified":1579022666,
     "wof:name":"LH9415 (LAS-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2",
+    "flysfo:flight_number":"2",
     "flysfo:gate":"G9",
     "flysfo:journey":"SIN-SFO",
     "flysfo:scheduled_timestamp":1578761100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1578948941,
+    "wof:lastmodified":1579022490,
     "wof:name":"UA2 (SIN-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

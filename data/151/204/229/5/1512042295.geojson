@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9233",
+    "flysfo:flight_number":"9233",
     "flysfo:gate":"F7",
     "flysfo:journey":"ABQ-SFO",
     "flysfo:scheduled_timestamp":1578878160,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948768,
+    "wof:lastmodified":1579022209,
     "wof:name":"NZ9233 (ABQ-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"KE25",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL7891",
+    "flysfo:flight_number":"7891",
     "flysfo:gate":"A1",
     "flysfo:journey":"ICN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930281,
         1159284623
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022702,
     "wof:name":"DL7891 (ICN-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

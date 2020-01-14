@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN417",
+    "flysfo:flight_number":"417",
     "flysfo:gate":"B18",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022724,
     "wof:name":"WN417 (SFO-DEN)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

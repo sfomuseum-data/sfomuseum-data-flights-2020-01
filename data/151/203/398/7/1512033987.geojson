@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA481",
+    "flysfo:flight_number":"481",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578724200,
@@ -104,7 +104,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948861,
+    "wof:lastmodified":1579022364,
     "wof:name":"UA481 (SFO-PDX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

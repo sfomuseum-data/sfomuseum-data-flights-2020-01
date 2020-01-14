@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578974940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2504",
+    "flysfo:flight_number":"2504",
     "flysfo:gate":"F5",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578974160,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579023032,
     "wof:name":"CM2504 (SNA-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

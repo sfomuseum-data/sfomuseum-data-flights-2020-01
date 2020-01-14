@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9220",
+    "flysfo:flight_number":"9220",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578715200,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948908,
+    "wof:lastmodified":1579022435,
     "wof:name":"LH9220 (SFO-SBA)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

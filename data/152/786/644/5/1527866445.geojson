@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578962280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA353",
+    "flysfo:flight_number":"353",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578962580,
@@ -88,7 +88,7 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022920,
     "wof:name":"UA353 (SFO-SAN)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

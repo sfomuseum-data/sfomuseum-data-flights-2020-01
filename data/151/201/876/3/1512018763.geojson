@@ -7,7 +7,7 @@
     "flysfo:airline":"LX",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX39",
+    "flysfo:flight_number":"39",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-ZRH",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159286475,
         1477930475
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"LX39 (SFO-ZRH)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

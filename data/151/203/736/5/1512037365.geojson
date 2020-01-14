@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2228",
+    "flysfo:flight_number":"2228",
     "flysfo:gate":"F20",
     "flysfo:journey":"PIT-SFO",
     "flysfo:scheduled_timestamp":1578808200,
@@ -104,7 +104,7 @@
         1477930453,
         1159292085
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022374,
     "wof:name":"UA2228 (PIT-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC781",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN9591",
+    "flysfo:flight_number":"9591",
     "flysfo:gate":"G2",
     "flysfo:journey":"YUL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159283597
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022767,
     "wof:name":"SN9591 (YUL-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

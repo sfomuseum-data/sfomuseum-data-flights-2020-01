@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA753",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP8493",
+    "flysfo:flight_number":"8493",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948872,
+    "wof:lastmodified":1579022381,
     "wof:name":"TP8493 (SFO-EWR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

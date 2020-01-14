@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"QF73",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA7397",
+    "flysfo:flight_number":"7397",
     "flysfo:gate":"A9",
     "flysfo:journey":"SYD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930301,
         1159284313
     ],
-    "wof:lastmodified":1578949498,
+    "wof:lastmodified":1579022717,
     "wof:name":"AA7397 (SYD-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

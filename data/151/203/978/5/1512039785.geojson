@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578817200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR27",
+    "flysfo:flight_number":"27",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578817200,
@@ -88,7 +88,7 @@
         1159284349,
         1477930475
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022461,
     "wof:name":"BR27 (SFO-TPE)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5333",
+    "flysfo:flight_number":"5333",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578768600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"UA5333 (SFO-SLC)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

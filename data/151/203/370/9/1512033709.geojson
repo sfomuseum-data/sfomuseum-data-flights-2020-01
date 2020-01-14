@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2951",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3225",
+    "flysfo:flight_number":"3225",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022451,
     "wof:name":"EK3225 (SFO-SEA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

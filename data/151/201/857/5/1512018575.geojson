@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1932",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1341",
+    "flysfo:flight_number":"1341",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022734,
     "wof:name":"SQ1341 (SFO-LAX)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

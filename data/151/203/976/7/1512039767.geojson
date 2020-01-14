@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY20",
+    "flysfo:flight_number":"20",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-TLV",
     "flysfo:scheduled_timestamp":1578811500,
@@ -88,7 +88,7 @@
         1159284327,
         1477930283
     ],
-    "wof:lastmodified":1578948927,
+    "wof:lastmodified":1579022468,
     "wof:name":"LY20 (SFO-TLV)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

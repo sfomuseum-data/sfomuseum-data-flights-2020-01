@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ5807",
+    "flysfo:flight_number":"5807",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578687600,
@@ -94,7 +94,7 @@
         1477930301,
         1159284349
     ],
-    "wof:lastmodified":1578948924,
+    "wof:lastmodified":1579022463,
     "wof:name":"SQ5807 (SFO-TPE)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

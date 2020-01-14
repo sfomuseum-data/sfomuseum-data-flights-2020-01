@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9344",
+    "flysfo:flight_number":"9344",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578887100,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948770,
+    "wof:lastmodified":1579022214,
     "wof:name":"NZ9344 (SFO-PDX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

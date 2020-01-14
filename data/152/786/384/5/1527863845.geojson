@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578982200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3486",
+    "flysfo:flight_number":"3486",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578982800,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022959,
     "wof:name":"AM3486 (SFO-JFK)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

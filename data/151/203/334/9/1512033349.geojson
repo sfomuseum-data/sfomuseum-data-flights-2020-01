@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SA7465",
+    "flysfo:flight_number":"7465",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578720600,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022499,
     "wof:name":"SA7465 (SFO-IAD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

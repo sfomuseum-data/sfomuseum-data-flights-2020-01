@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5309",
+    "flysfo:flight_number":"5309",
     "flysfo:gate":"F9",
     "flysfo:journey":"SAT-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022542,
     "wof:name":"UA5309 (SAT-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

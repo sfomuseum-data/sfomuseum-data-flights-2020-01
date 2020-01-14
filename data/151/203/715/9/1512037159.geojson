@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3003",
+    "flysfo:flight_number":"3003",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578771240,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948922,
+    "wof:lastmodified":1579022459,
     "wof:name":"EK3003 (LAX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

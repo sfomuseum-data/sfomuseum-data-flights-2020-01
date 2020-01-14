@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1348",
+    "flysfo:flight_number":"1348",
     "flysfo:gate":"D16",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578888600,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"SQ1348 (SAN-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

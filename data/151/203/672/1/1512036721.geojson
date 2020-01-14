@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5891",
+    "flysfo:flight_number":"5891",
     "flysfo:gate":"B7",
     "flysfo:journey":"FLL-SFO",
     "flysfo:scheduled_timestamp":1578771060,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948875,
+    "wof:lastmodified":1579022384,
     "wof:name":"JL5891 (FLL-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

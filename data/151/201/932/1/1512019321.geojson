@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5754",
+    "flysfo:flight_number":"5754",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022768,
     "wof:name":"UA5754 (SFO-YVR)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

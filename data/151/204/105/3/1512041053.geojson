@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578782220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA891",
+    "flysfo:flight_number":"891",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-PVG",
     "flysfo:scheduled_timestamp":1578782100,
@@ -104,7 +104,7 @@
         1477930463,
         1159289985
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022201,
     "wof:name":"UA891 (SFO-PVG)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CM208",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7164",
+    "flysfo:flight_number":"7164",
     "flysfo:gate":"G7",
     "flysfo:journey":"PTY-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930475,
         1159284211
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"UA7164 (PTY-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

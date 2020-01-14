@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578841200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1352",
+    "flysfo:flight_number":"1352",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578841200,
@@ -88,7 +88,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578948778,
+    "wof:lastmodified":1579022228,
     "wof:name":"AS1352 (SFO-BOS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

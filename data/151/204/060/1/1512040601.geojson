@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA234",
+    "flysfo:flight_number":"234",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-MCO",
     "flysfo:scheduled_timestamp":1578760500,
@@ -104,7 +104,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1578948842,
+    "wof:lastmodified":1579022334,
     "wof:name":"UA234 (SFO-MCO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

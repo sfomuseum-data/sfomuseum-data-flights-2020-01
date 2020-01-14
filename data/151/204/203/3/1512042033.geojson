@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7007",
+    "flysfo:flight_number":"7007",
     "flysfo:gate":"F12",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578850320,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948787,
+    "wof:lastmodified":1579022247,
     "wof:name":"NH7007 (EWR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

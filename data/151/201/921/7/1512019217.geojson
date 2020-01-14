@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5459",
+    "flysfo:flight_number":"5459",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SMF",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022822,
     "wof:name":"UA5459 (SFO-SMF)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

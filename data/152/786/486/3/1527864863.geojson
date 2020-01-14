@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1119",
+    "flysfo:flight_number":"1119",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578971100,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022996,
     "wof:name":"CM1119 (SFO-YVR)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

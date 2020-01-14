@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6332",
+    "flysfo:flight_number":"6332",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578753000,
@@ -94,7 +94,7 @@
         1477930481,
         1159284349
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022449,
     "wof:name":"TG6332 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

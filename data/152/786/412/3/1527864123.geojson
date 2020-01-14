@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578985980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9218",
+    "flysfo:flight_number":"9218",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-FAT",
     "flysfo:scheduled_timestamp":1578980520,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022932,
     "wof:name":"NZ9218 (SFO-FAT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

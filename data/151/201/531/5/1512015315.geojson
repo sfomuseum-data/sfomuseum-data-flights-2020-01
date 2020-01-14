@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA380",
+    "flysfo:flight_number":"380",
     "flysfo:gate":"F13",
     "flysfo:journey":"MCO-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022774,
     "wof:name":"UA380 (MCO-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

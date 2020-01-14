@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU767",
+    "flysfo:flight_number":"767",
     "flysfo:gate":"A15",
     "flysfo:journey":"TAO-SFO",
     "flysfo:scheduled_timestamp":1578766200,
@@ -96,7 +96,7 @@
         1159284157,
         1477930315
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022367,
     "wof:name":"MU767 (TAO-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

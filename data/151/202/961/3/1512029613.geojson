@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1899",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LA5067",
+    "flysfo:flight_number":"5067",
     "flysfo:gate":"D15",
     "flysfo:journey":"LAX-SFO",
     "flysfo:timestamp":1578688680,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578949022,
+    "wof:lastmodified":1579022651,
     "wof:name":"LA5067 (LAX-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

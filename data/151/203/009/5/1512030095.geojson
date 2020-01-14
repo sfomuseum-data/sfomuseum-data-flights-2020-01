@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1616",
+    "flysfo:flight_number":"1616",
     "flysfo:gate":"E9",
     "flysfo:journey":"SNA-SFO",
     "flysfo:timestamp":1578683940,
@@ -101,7 +101,7 @@
         1477930395,
         1159289407
     ],
-    "wof:lastmodified":1578948901,
+    "wof:lastmodified":1579022422,
     "wof:name":"UA1616 (SNA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

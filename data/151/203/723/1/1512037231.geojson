@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578791400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1243",
+    "flysfo:flight_number":"1243",
     "flysfo:gate":"G7",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578792240,
@@ -103,7 +103,7 @@
         1477930475,
         1159289871
     ],
-    "wof:lastmodified":1578948926,
+    "wof:lastmodified":1579022466,
     "wof:name":"UA1243 (PVR-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

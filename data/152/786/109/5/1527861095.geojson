@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7305",
+    "flysfo:flight_number":"7305",
     "flysfo:gate":"F1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578937500,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022975,
     "wof:name":"CA7305 (SEA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

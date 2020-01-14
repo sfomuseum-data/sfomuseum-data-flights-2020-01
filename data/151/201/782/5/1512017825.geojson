@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA917",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9323",
+    "flysfo:flight_number":"9323",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-AKL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930475,
         1159285413
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"LH9323 (SFO-AKL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

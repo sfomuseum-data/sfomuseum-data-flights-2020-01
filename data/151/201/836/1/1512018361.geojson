@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1894",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6735",
+    "flysfo:flight_number":"6735",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-CVG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022799,
     "wof:name":"KE6735 (SFO-CVG)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

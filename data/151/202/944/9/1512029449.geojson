@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS363",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5457",
+    "flysfo:flight_number":"5457",
     "flysfo:gate":"D7",
     "flysfo:journey":"EWR-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949049,
+    "wof:lastmodified":1579022672,
     "wof:name":"JL5457 (EWR-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3253",
+    "flysfo:flight_number":"3253",
     "flysfo:gate":"B9",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578852900,
@@ -104,7 +104,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022299,
     "wof:name":"WN3253 (DEN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL6962",
+    "flysfo:flight_number":"6962",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578945120,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023027,
     "wof:name":"KL6962 (SFO-ATL)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

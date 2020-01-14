@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4424",
+    "flysfo:flight_number":"4424",
     "flysfo:gate":"E1",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578861000,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948851,
+    "wof:lastmodified":1579022348,
     "wof:name":"AC4424 (ONT-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

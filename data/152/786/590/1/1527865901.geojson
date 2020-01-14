@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1296",
+    "flysfo:flight_number":"1296",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578947700,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022975,
     "wof:name":"SQ1296 (SFO-SLC)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

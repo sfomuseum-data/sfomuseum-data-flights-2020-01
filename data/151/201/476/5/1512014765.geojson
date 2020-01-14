@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC737",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1009",
+    "flysfo:flight_number":"1009",
     "flysfo:gate":"G12",
     "flysfo:journey":"YYZ-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159283597
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022721,
     "wof:name":"SQ1009 (YYZ-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

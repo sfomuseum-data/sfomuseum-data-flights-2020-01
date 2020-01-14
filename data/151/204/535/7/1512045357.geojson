@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6347",
+    "flysfo:flight_number":"6347",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578877200,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948766,
+    "wof:lastmodified":1579022206,
     "wof:name":"OZ6347 (SFO-LAX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

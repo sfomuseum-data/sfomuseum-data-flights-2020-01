@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578886380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4753",
+    "flysfo:flight_number":"4753",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578887400,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948852,
+    "wof:lastmodified":1579022349,
     "wof:name":"VS4753 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

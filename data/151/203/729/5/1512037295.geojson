@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1755",
+    "flysfo:flight_number":"1755",
     "flysfo:gate":"F2",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578783720,
@@ -104,7 +104,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948997,
+    "wof:lastmodified":1579022602,
     "wof:name":"UA1755 (LAS-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

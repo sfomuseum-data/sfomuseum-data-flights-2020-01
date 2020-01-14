@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CA985",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7614",
+    "flysfo:flight_number":"7614",
     "flysfo:gate":"G12",
     "flysfo:journey":"PEK-SFO",
     "flysfo:timestamp":1578684900,
@@ -91,7 +91,7 @@
         1477930485,
         1159283605
     ],
-    "wof:lastmodified":1578948895,
+    "wof:lastmodified":1579022415,
     "wof:name":"UA7614 (PEK-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578796740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5442",
+    "flysfo:flight_number":"5442",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578797040,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"UA5442 (SFO-PSP)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2388",
+    "flysfo:flight_number":"2388",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PHX",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930403,
         1377564285
     ],
-    "wof:lastmodified":1578948874,
+    "wof:lastmodified":1579022382,
     "wof:name":"UA2388 (SFO-PHX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

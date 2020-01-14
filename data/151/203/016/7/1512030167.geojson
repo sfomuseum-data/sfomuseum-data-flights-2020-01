@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2008",
+    "flysfo:flight_number":"2008",
     "flysfo:gate":"E11",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578699840,
@@ -102,7 +102,7 @@
         1477930399,
         1377564285
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022519,
     "wof:name":"UA2008 (IAD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

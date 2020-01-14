@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5383",
+    "flysfo:flight_number":"5383",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578717600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022562,
     "wof:name":"UA5383 (SFO-PSP)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

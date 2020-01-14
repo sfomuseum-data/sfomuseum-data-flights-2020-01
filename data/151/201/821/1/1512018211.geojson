@@ -7,7 +7,7 @@
     "flysfo:airline":"IB",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB2622",
+    "flysfo:flight_number":"2622",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-BCN",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284511,
         1477930303
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022726,
     "wof:name":"IB2622 (SFO-BCN)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

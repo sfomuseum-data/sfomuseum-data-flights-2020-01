@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578751200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL7211",
+    "flysfo:flight_number":"7211",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578751200,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948784,
+    "wof:lastmodified":1579022243,
     "wof:name":"KL7211 (SFO-ATL)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

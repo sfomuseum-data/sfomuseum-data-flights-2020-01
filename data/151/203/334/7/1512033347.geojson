@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA291",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SA7405",
+    "flysfo:flight_number":"7405",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930477,
         1159285413
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022499,
     "wof:name":"SA7405 (SFO-IAD)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

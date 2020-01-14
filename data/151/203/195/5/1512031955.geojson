@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS2827",
+    "flysfo:flight_number":"2827",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-PAE",
     "flysfo:timestamp":1578684360,
@@ -85,7 +85,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578948862,
+    "wof:lastmodified":1579022365,
     "wof:name":"AS2827 (SFO-PAE)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

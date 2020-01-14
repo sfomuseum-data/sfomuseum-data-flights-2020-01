@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7011",
+    "flysfo:flight_number":"7011",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-HND",
     "flysfo:scheduled_timestamp":1578767700,
@@ -94,7 +94,7 @@
         1477930475,
         1159285413
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022409,
     "wof:name":"NH7011 (SFO-HND)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

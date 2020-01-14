@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578838680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1724",
+    "flysfo:flight_number":"1724",
     "flysfo:gate":"E6",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578839640,
@@ -103,7 +103,7 @@
         1477930389,
         1377564285
     ],
-    "wof:lastmodified":1578948830,
+    "wof:lastmodified":1579022311,
     "wof:name":"UA1724 (KOA-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

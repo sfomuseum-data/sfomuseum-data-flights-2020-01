@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2334",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4475",
+    "flysfo:flight_number":"4475",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022792,
     "wof:name":"AC4475 (SFO-LAS)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

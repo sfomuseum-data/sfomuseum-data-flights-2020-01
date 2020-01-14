@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9213",
+    "flysfo:flight_number":"9213",
     "flysfo:gate":"E12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578864420,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948799,
+    "wof:lastmodified":1579022267,
     "wof:name":"LH9213 (LAS-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

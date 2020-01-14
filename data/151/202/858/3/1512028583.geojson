@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA698",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7306",
+    "flysfo:flight_number":"7306",
     "flysfo:gate":"F1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:timestamp":1578684120,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949014,
+    "wof:lastmodified":1579022637,
     "wof:name":"CA7306 (SEA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

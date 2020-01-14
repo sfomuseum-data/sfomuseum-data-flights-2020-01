@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5696",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2103",
+    "flysfo:flight_number":"2103",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBP",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022829,
     "wof:name":"AV2103 (SFO-SBP)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

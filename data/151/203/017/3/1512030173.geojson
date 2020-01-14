@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2059",
+    "flysfo:flight_number":"2059",
     "flysfo:gate":"F20",
     "flysfo:journey":"BWI-SFO",
     "flysfo:scheduled_timestamp":1578721740,
@@ -102,7 +102,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948963,
+    "wof:lastmodified":1579022530,
     "wof:name":"UA2059 (BWI-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

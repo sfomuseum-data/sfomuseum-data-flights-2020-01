@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5850",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ2829",
+    "flysfo:flight_number":"2829",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-MRY",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"NZ2829 (SFO-MRY)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

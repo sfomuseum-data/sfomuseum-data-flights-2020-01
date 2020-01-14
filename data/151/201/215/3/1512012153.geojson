@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS384",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA6974",
+    "flysfo:flight_number":"6974",
     "flysfo:gate":"D9",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022787,
     "wof:name":"AA6974 (PDX-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

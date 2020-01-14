@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578978060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SU3512",
+    "flysfo:flight_number":"3512",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578977700,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579023008,
     "wof:name":"SU3512 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

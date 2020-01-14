@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578764700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"F91911",
+    "flysfo:flight_number":"1911",
     "flysfo:gate":"A12",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578765360,
@@ -104,7 +104,7 @@
         1477930307,
         1159292085
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022554,
     "wof:name":"F91911 (AUS-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

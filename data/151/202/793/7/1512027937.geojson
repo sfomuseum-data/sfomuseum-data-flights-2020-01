@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA761",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9327",
+    "flysfo:flight_number":"9327",
     "flysfo:gate":"F17",
     "flysfo:journey":"ORD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022652,
     "wof:name":"NZ9327 (ORD-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

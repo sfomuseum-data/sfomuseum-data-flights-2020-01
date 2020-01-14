@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578799740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1491",
+    "flysfo:flight_number":"1491",
     "flysfo:gate":"F6",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578801360,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948939,
+    "wof:lastmodified":1579022487,
     "wof:name":"CM1491 (SNA-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

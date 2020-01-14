@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5599",
+    "flysfo:flight_number":"5599",
     "flysfo:gate":"E1",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578706380,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949048,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5599 (DFW-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

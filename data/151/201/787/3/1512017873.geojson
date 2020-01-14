@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA166",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3093",
+    "flysfo:flight_number":"3093",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022822,
     "wof:name":"QF3093 (SFO-JFK)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

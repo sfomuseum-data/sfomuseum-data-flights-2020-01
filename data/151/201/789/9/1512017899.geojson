@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA234",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3288",
+    "flysfo:flight_number":"3288",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"QF3288 (SFO-JFK)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

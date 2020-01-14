@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578937800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3660",
+    "flysfo:flight_number":"3660",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578937800,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022966,
     "wof:name":"QF3660 (SFO-HNL)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

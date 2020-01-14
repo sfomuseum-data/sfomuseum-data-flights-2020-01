@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3789",
+    "flysfo:flight_number":"3789",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578894900,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578950100,
+    "wof:lastmodified":1579022881,
     "wof:name":"QF3789 (SFO-PDX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

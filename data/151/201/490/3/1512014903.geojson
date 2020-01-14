@@ -7,7 +7,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1776",
+    "flysfo:flight_number":"1776",
     "flysfo:gate":"B12",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949512,
+    "wof:lastmodified":1579022735,
     "wof:name":"WN1776 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

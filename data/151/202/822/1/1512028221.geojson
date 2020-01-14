@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1973",
+    "flysfo:flight_number":"1973",
     "flysfo:gate":"D9",
     "flysfo:journey":"SEA-SFO",
     "flysfo:timestamp":1578685080,
@@ -85,7 +85,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"AS1973 (SEA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

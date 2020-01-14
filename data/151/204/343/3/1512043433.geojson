@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7917",
+    "flysfo:flight_number":"7917",
     "flysfo:gate":"F8",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578871980,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948852,
+    "wof:lastmodified":1579022349,
     "wof:name":"LH7917 (MRY-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

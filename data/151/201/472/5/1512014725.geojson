@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6833",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QR4044",
+    "flysfo:flight_number":"4044",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"QR4044 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

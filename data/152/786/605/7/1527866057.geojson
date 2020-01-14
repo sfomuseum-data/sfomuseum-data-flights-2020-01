@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578972600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2064",
+    "flysfo:flight_number":"2064",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578972600,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022940,
     "wof:name":"WN2064 (SFO-BUR)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

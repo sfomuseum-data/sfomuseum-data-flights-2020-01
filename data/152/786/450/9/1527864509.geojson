@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578933000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3404",
+    "flysfo:flight_number":"3404",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-DAL",
     "flysfo:scheduled_timestamp":1578933000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579023017,
     "wof:name":"AS3404 (SFO-DAL)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

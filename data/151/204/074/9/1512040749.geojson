@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5400",
+    "flysfo:flight_number":"5400",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-MTJ",
     "flysfo:scheduled_timestamp":1578776760,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022290,
     "wof:name":"UA5400 (SFO-MTJ)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

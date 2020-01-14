@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4390",
+    "flysfo:flight_number":"4390",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578774420,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022361,
     "wof:name":"IB4390 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

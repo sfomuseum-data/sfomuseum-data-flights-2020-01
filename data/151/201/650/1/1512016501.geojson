@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5573",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7372",
+    "flysfo:flight_number":"7372",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"NH7372 (SFO-DFW)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

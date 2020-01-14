@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1902",
+    "flysfo:flight_number":"1902",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578842700,
@@ -104,7 +104,7 @@
         1477930355,
         1159289407
     ],
-    "wof:lastmodified":1578948791,
+    "wof:lastmodified":1579022255,
     "wof:name":"AS1902 (SFO-LAS)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

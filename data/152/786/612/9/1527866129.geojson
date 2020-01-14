@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578989100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TG6331",
+    "flysfo:flight_number":"6331",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578989100,
@@ -94,7 +94,7 @@
         1477930469,
         1159284349
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579023000,
     "wof:name":"TG6331 (SFO-TPE)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

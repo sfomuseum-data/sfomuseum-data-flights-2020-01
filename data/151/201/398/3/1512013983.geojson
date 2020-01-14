@@ -11,7 +11,7 @@
     "flysfo:airline":"LH",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH454",
+    "flysfo:flight_number":"454",
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930485,
         1159289431
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"LH454 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5539",
+    "flysfo:flight_number":"5539",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578949523,
+    "wof:lastmodified":1579022753,
     "wof:name":"UA5539 (SFO-SLC)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

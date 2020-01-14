@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL505",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL6541",
+    "flysfo:flight_number":"6541",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022791,
     "wof:name":"KL6541 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5562",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4541",
+    "flysfo:flight_number":"4541",
     "flysfo:gate":"E3",
     "flysfo:journey":"SMF-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022803,
     "wof:name":"AC4541 (SMF-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7329",
+    "flysfo:flight_number":"7329",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578692100,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948875,
+    "wof:lastmodified":1579022384,
     "wof:name":"CA7329 (SFO-PDX)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

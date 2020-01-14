@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1347",
+    "flysfo:flight_number":"1347",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578934800,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022906,
     "wof:name":"SQ1347 (SFO-LAX)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2066",
+    "flysfo:flight_number":"2066",
     "flysfo:gate":"E2",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578898500,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948826,
+    "wof:lastmodified":1579022304,
     "wof:name":"AV2066 (SFO-SMF)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2512",
+    "flysfo:flight_number":"2512",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578711420,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948952,
+    "wof:lastmodified":1579022511,
     "wof:name":"CM2512 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

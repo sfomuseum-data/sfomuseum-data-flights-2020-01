@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1972",
+    "flysfo:flight_number":"1972",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930357,
         1377564285
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022765,
     "wof:name":"AS1972 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

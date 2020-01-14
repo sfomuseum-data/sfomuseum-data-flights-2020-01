@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578689760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1013",
+    "flysfo:flight_number":"1013",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578689700,
@@ -102,7 +102,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022601,
     "wof:name":"UA1013 (SFO-DEN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL404",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4745",
+    "flysfo:flight_number":"4745",
     "flysfo:gate":"C2",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022815,
     "wof:name":"VS4745 (JFK-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

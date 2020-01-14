@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2226",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS7689",
+    "flysfo:flight_number":"7689",
     "flysfo:gate":"C5",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022825,
     "wof:name":"WS7689 (LAX-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

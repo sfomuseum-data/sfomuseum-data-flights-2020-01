@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1859",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UX3323",
+    "flysfo:flight_number":"3323",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949516,
+    "wof:lastmodified":1579022740,
     "wof:name":"UX3323 (SFO-JFK)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

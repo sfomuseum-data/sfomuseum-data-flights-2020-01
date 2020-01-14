@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL757",
+    "flysfo:flight_number":"757",
     "flysfo:gate":"C4",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578854760,
@@ -104,7 +104,7 @@
         1477930321,
         1159289939
     ],
-    "wof:lastmodified":1578948807,
+    "wof:lastmodified":1579022278,
     "wof:name":"DL757 (JFK-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

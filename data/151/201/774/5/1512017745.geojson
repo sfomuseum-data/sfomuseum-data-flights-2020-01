@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA727",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7531",
+    "flysfo:flight_number":"7531",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-IAD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"LH7531 (SFO-IAD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

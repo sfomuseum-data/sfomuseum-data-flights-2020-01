@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS110",
+    "flysfo:flight_number":"110",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022737,
     "wof:name":"AS110 (SFO-JFK)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

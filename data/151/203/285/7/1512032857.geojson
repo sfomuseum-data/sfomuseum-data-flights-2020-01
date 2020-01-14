@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2944",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF4819",
+    "flysfo:flight_number":"4819",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-DFW",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948962,
+    "wof:lastmodified":1579022527,
     "wof:name":"QF4819 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA547",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA5678",
+    "flysfo:flight_number":"5678",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"BA5678 (SFO-PHL)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

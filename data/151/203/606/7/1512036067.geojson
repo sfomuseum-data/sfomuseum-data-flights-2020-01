@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7556",
+    "flysfo:flight_number":"7556",
     "flysfo:gate":"D14",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578808320,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022547,
     "wof:name":"CX7556 (MIA-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

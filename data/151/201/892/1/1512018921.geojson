@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1554",
+    "flysfo:flight_number":"1554",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578949509,
+    "wof:lastmodified":1579022731,
     "wof:name":"UA1554 (SFO-ATL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

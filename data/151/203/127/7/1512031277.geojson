@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1806",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5750",
+    "flysfo:flight_number":"5750",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948921,
+    "wof:lastmodified":1579022456,
     "wof:name":"AF5750 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

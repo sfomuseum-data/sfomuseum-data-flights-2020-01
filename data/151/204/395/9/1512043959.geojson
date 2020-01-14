@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6742",
+    "flysfo:flight_number":"6742",
     "flysfo:gate":"C4",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578889740,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948803,
+    "wof:lastmodified":1579022271,
     "wof:name":"KE6742 (MSP-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

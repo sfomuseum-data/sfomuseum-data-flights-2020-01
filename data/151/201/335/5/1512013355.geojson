@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2201",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2152",
+    "flysfo:flight_number":"2152",
     "flysfo:gate":"E3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949535,
+    "wof:lastmodified":1579022772,
     "wof:name":"AV2152 (LAX-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

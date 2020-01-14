@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1466",
+    "flysfo:flight_number":"1466",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-RDM",
     "flysfo:scheduled_timestamp":1578703800,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022420,
     "wof:name":"CM1466 (SFO-RDM)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

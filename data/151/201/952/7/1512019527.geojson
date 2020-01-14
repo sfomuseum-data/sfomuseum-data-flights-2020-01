@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA990",
+    "flysfo:flight_number":"990",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930465,
         1159289995
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022713,
     "wof:name":"UA990 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

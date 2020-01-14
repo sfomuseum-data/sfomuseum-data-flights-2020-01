@@ -11,7 +11,7 @@
     "flysfo:airline":"AC",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC754",
+    "flysfo:flight_number":"754",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-YYZ",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930481,
         1159289423
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"AC754 (SFO-YYZ)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

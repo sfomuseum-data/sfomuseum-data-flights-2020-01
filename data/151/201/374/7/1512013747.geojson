@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5946",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2506",
+    "flysfo:flight_number":"2506",
     "flysfo:gate":"F5",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949569,
+    "wof:lastmodified":1579022820,
     "wof:name":"CM2506 (SNA-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

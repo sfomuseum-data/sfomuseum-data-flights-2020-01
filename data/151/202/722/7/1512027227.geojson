@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC3722",
+    "flysfo:flight_number":"3722",
     "flysfo:gate":"F22",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578703620,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949015,
+    "wof:lastmodified":1579022639,
     "wof:name":"AC3722 (LAS-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

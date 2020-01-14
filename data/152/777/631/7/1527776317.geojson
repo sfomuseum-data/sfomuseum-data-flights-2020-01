@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6599",
+    "flysfo:flight_number":"6599",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-MIA",
     "flysfo:scheduled_timestamp":1578862380,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"LA6599 (SFO-MIA)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

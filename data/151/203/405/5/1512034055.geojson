@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5440",
+    "flysfo:flight_number":"5440",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-EUG",
     "flysfo:scheduled_timestamp":1578715800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022543,
     "wof:name":"UA5440 (SFO-EUG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

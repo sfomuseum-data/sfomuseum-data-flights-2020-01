@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"HA12",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE7861",
+    "flysfo:flight_number":"7861",
     "flysfo:gate":"A12",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930307,
         1159284489
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"KE7861 (HNL-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

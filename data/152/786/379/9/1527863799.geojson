@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578944460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF3517",
+    "flysfo:flight_number":"3517",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578944460,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022957,
     "wof:name":"AF3517 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578794400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5255",
+    "flysfo:flight_number":"5255",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578794760,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"UA5255 (SFO-MSP)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

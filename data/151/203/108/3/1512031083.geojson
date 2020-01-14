@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2384",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4466",
+    "flysfo:flight_number":"4466",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022503,
     "wof:name":"AC4466 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578959820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2327",
+    "flysfo:flight_number":"2327",
     "flysfo:gate":"F5",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578957300,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022961,
     "wof:name":"CM2327 (SEA-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

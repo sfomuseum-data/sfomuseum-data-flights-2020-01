@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5427",
+    "flysfo:flight_number":"5427",
     "flysfo:gate":"F7",
     "flysfo:journey":"OKC-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948892,
+    "wof:lastmodified":1579022409,
     "wof:name":"UA5427 (OKC-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

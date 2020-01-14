@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6303",
+    "flysfo:flight_number":"6303",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578881220,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948767,
+    "wof:lastmodified":1579022207,
     "wof:name":"OZ6303 (SFO-ORD)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

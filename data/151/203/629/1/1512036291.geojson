@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9052",
+    "flysfo:flight_number":"9052",
     "flysfo:gate":"G6",
     "flysfo:journey":"FRA-SFO",
     "flysfo:scheduled_timestamp":1578785400,
@@ -94,7 +94,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"LH9052 (FRA-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

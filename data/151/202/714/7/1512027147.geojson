@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA7397",
+    "flysfo:flight_number":"7397",
     "flysfo:gate":"A5",
     "flysfo:journey":"SYD-SFO",
     "flysfo:scheduled_timestamp":1578687900,
@@ -94,7 +94,7 @@
         1477930291,
         1159284313
     ],
-    "wof:lastmodified":1578949016,
+    "wof:lastmodified":1579022642,
     "wof:name":"AA7397 (SYD-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

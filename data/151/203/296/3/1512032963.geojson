@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2527",
+    "flysfo:flight_number":"2527",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578715500,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"AY2527 (SFO-LAS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

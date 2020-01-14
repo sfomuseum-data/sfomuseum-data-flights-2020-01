@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5747",
+    "flysfo:flight_number":"5747",
     "flysfo:gate":"F15M",
     "flysfo:journey":"ASE-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"UA5747 (ASE-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

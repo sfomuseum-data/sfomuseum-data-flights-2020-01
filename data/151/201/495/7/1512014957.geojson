@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN995",
+    "flysfo:flight_number":"995",
     "flysfo:gate":"B9",
     "flysfo:journey":"BUR-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022806,
     "wof:name":"WN995 (BUR-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

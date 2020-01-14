@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA639",
+    "flysfo:flight_number":"639",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578760200,
@@ -102,7 +102,7 @@
         1477930403,
         1159289945
     ],
-    "wof:lastmodified":1578948830,
+    "wof:lastmodified":1579022312,
     "wof:name":"UA639 (SFO-ORD)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

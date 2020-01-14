@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1949",
+    "flysfo:flight_number":"1949",
     "flysfo:gate":"D6",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022825,
     "wof:name":"AS1949 (LAX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

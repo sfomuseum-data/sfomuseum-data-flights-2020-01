@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1943",
+    "flysfo:flight_number":"1943",
     "flysfo:gate":"D2",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930341,
         1159289871
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022812,
     "wof:name":"AS1943 (LAX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

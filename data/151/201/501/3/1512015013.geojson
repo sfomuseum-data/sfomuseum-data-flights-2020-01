@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA372",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"TK8889",
+    "flysfo:flight_number":"8889",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"TK8889 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

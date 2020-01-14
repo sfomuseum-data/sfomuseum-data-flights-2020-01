@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578970680,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4396",
+    "flysfo:flight_number":"4396",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578968100,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022970,
     "wof:name":"AC4396 (SFO-BUR)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

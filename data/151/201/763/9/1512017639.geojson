@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2002",
+    "flysfo:flight_number":"2002",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578949486,
+    "wof:lastmodified":1579022693,
     "wof:name":"DL2002 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

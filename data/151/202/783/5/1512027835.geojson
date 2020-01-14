@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA572",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9184",
+    "flysfo:flight_number":"9184",
     "flysfo:gate":"F1",
     "flysfo:journey":"IAD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949020,
+    "wof:lastmodified":1579022648,
     "wof:name":"NZ9184 (IAD-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

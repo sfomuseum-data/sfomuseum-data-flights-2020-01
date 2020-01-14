@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7289",
+    "flysfo:flight_number":"7289",
     "flysfo:gate":"G7",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578693600,
@@ -94,7 +94,7 @@
         1477930475,
         1159283917
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022562,
     "wof:name":"UA7289 (ICN-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

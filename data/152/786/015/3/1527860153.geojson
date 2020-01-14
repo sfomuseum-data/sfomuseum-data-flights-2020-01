@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7325",
+    "flysfo:flight_number":"7325",
     "flysfo:gate":"F3",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578936420,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022918,
     "wof:name":"NH7325 (PDX-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

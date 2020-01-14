@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA268",
+    "flysfo:flight_number":"268",
     "flysfo:gate":"F17",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022747,
     "wof:name":"UA268 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

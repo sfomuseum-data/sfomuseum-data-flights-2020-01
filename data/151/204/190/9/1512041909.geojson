@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC6103",
+    "flysfo:flight_number":"6103",
     "flysfo:gate":"G12",
     "flysfo:journey":"AKL-SFO",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930485,
         1159283697
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022278,
     "wof:name":"AC6103 (AKL-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

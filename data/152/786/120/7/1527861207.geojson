@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2329",
+    "flysfo:flight_number":"2329",
     "flysfo:gate":"F16",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578980220,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022961,
     "wof:name":"CM2329 (SEA-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2934",
+    "flysfo:flight_number":"2934",
     "flysfo:gate":"F3A",
     "flysfo:journey":"MSN-SFO",
     "flysfo:scheduled_timestamp":1578709560,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022653,
     "wof:name":"NZ2934 (MSN-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

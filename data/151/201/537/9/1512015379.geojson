@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5276",
+    "flysfo:flight_number":"5276",
     "flysfo:gate":"E1",
     "flysfo:journey":"ACV-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022764,
     "wof:name":"UA5276 (ACV-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

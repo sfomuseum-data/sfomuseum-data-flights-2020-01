@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578969900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1246",
+    "flysfo:flight_number":"1246",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578969900,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022942,
     "wof:name":"CZ1246 (SFO-LAX)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

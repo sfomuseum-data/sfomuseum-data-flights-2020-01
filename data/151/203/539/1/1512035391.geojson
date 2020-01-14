@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9607",
+    "flysfo:flight_number":"9607",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578772020,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948933,
+    "wof:lastmodified":1579022478,
     "wof:name":"NZ9607 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

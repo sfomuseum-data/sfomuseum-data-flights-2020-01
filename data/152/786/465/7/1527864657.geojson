@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA1777",
+    "flysfo:flight_number":"1777",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578955080,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022956,
     "wof:name":"BA1777 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

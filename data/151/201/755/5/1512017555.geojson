@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1939",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7996",
+    "flysfo:flight_number":"7996",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022697,
     "wof:name":"CX7996 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

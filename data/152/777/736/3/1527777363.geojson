@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA875",
+    "flysfo:flight_number":"875",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-HND",
     "flysfo:scheduled_timestamp":1578854100,
@@ -103,7 +103,7 @@
         1477930475,
         1377564289
     ],
-    "wof:lastmodified":1578950089,
+    "wof:lastmodified":1579022865,
     "wof:name":"UA875 (SFO-HND)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

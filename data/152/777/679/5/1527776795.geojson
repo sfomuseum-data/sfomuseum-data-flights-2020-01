@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1554",
+    "flysfo:flight_number":"1554",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578897720,
@@ -88,7 +88,7 @@
         1159285413,
         1477930415
     ],
-    "wof:lastmodified":1578950106,
+    "wof:lastmodified":1579022891,
     "wof:name":"UA1554 (SFO-ATL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

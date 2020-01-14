@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578878100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2896",
+    "flysfo:flight_number":"2896",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578877200,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"WN2896 (SFO-LAS)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

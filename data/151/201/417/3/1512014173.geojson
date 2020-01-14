@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1203",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3675",
+    "flysfo:flight_number":"3675",
     "flysfo:gate":"D7",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022786,
     "wof:name":"QF3675 (ORD-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

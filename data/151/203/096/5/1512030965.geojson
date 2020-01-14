@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5299",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3849",
+    "flysfo:flight_number":"3849",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-FAT",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948895,
+    "wof:lastmodified":1579022414,
     "wof:name":"AC3849 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

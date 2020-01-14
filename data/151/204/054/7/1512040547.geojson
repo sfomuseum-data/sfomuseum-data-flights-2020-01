@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1973",
+    "flysfo:flight_number":"1973",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578798300,
@@ -88,7 +88,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578948782,
+    "wof:lastmodified":1579022238,
     "wof:name":"UA1973 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

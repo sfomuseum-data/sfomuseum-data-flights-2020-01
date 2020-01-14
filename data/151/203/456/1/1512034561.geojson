@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578772020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA8401",
+    "flysfo:flight_number":"8401",
     "flysfo:gate":"A13",
     "flysfo:journey":"HND-SFO",
     "flysfo:scheduled_timestamp":1578773400,
@@ -94,7 +94,7 @@
         1477930309,
         1159284563
     ],
-    "wof:lastmodified":1578948969,
+    "wof:lastmodified":1579022541,
     "wof:name":"AA8401 (HND-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

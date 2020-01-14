@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA422",
+    "flysfo:flight_number":"422",
     "flysfo:gate":"E13",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578891480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930405
     ],
-    "wof:lastmodified":1578948828,
+    "wof:lastmodified":1579022308,
     "wof:name":"UA422 (ORD-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS19",
+    "flysfo:flight_number":"19",
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578869100,
@@ -88,7 +88,7 @@
         1159285483,
         1477930307
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022268,
     "wof:name":"VS19 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

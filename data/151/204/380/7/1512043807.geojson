@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578852540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2477",
+    "flysfo:flight_number":"2477",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578851940,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948847,
+    "wof:lastmodified":1579022341,
     "wof:name":"HA2477 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

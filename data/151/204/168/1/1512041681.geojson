@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4127",
+    "flysfo:flight_number":"4127",
     "flysfo:gate":"E9",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578861420,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948760,
+    "wof:lastmodified":1579022192,
     "wof:name":"AC4127 (PSP-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

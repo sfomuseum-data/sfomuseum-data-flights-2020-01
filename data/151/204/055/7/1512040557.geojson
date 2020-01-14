@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578766560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2063",
+    "flysfo:flight_number":"2063",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-BWI",
     "flysfo:scheduled_timestamp":1578763800,
@@ -102,7 +102,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948788,
+    "wof:lastmodified":1579022250,
     "wof:name":"UA2063 (SFO-BWI)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

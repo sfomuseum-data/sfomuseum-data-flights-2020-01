@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL745",
+    "flysfo:flight_number":"745",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930317,
         1377564285
     ],
-    "wof:lastmodified":1578949011,
+    "wof:lastmodified":1579022633,
     "wof:name":"DL745 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

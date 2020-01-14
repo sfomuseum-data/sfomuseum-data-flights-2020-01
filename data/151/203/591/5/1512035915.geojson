@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU4372",
+    "flysfo:flight_number":"4372",
     "flysfo:gate":"C5",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578768660,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"MU4372 (DTW-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

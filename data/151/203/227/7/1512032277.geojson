@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA653",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7321",
+    "flysfo:flight_number":"7321",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948876,
+    "wof:lastmodified":1579022386,
     "wof:name":"CA7321 (SFO-LAX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

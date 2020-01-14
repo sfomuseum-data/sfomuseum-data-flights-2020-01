@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7962",
+    "flysfo:flight_number":"7962",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578773700,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022582,
     "wof:name":"CX7962 (SFO-PDX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

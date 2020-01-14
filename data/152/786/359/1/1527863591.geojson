@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578975720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4394",
+    "flysfo:flight_number":"4394",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578976200,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022970,
     "wof:name":"AC4394 (SFO-BUR)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

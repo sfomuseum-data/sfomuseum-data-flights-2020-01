@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578766140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1218",
+    "flysfo:flight_number":"1218",
     "flysfo:gate":"F19",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578764760,
@@ -104,7 +104,7 @@
         1477930451,
         1159289985
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022443,
     "wof:name":"UA1218 (LAS-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

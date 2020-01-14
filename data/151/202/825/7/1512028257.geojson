@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3395",
+    "flysfo:flight_number":"3395",
     "flysfo:gate":"D9",
     "flysfo:journey":"DAL-SFO",
     "flysfo:scheduled_timestamp":1578704400,
@@ -88,7 +88,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"AS3395 (DAL-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

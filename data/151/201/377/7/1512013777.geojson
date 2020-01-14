@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1266",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7485",
+    "flysfo:flight_number":"7485",
     "flysfo:gate":"D4",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022747,
     "wof:name":"CX7485 (PDX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2166",
+    "flysfo:flight_number":"2166",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-PDX",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022600,
     "wof:name":"UA2166 (SFO-PDX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

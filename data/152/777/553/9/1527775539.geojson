@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578901920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1697",
+    "flysfo:flight_number":"1697",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-MIA",
     "flysfo:scheduled_timestamp":1578898440,
@@ -94,7 +94,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"CZ1697 (SFO-MIA)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

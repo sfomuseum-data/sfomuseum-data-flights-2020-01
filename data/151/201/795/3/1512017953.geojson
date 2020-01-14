@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"FJ871",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3856",
+    "flysfo:flight_number":"3856",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-NAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930315,
         1159283715
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"QF3856 (SFO-NAN)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1742",
+    "flysfo:flight_number":"1742",
     "flysfo:gate":"F16",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578899880,
@@ -88,7 +88,7 @@
         1159285413,
         1477930445
     ],
-    "wof:lastmodified":1578948786,
+    "wof:lastmodified":1579022246,
     "wof:name":"UA1742 (ORD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

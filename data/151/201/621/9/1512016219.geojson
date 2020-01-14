@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1521",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5226",
+    "flysfo:flight_number":"5226",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"AC5226 (SFO-LAS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

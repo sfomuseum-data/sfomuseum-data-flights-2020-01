@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578796440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM8013",
+    "flysfo:flight_number":"8013",
     "flysfo:gate":"G7",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578796200,
@@ -94,7 +94,7 @@
         1477930475,
         1159284349
     ],
-    "wof:lastmodified":1578948897,
+    "wof:lastmodified":1579022418,
     "wof:name":"CM8013 (TPE-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

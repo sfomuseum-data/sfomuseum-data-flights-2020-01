@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3393",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1340",
+    "flysfo:flight_number":"1340",
     "flysfo:gate":"D8",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"SQ1340 (LAX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

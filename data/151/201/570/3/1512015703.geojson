@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"LH454",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA8829",
+    "flysfo:flight_number":"8829",
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159284711
     ],
-    "wof:lastmodified":1578949572,
+    "wof:lastmodified":1579022824,
     "wof:name":"UA8829 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

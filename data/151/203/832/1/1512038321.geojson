@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC780",
+    "flysfo:flight_number":"780",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-YUL",
     "flysfo:scheduled_timestamp":1578758400,
@@ -104,7 +104,7 @@
         1477930475,
         1159292085
     ],
-    "wof:lastmodified":1578948902,
+    "wof:lastmodified":1579022424,
     "wof:name":"AC780 (SFO-YUL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

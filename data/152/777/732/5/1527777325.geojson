@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA784",
+    "flysfo:flight_number":"784",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578846780,
@@ -104,7 +104,7 @@
         1477930397,
         1159292085
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022885,
     "wof:name":"UA784 (SFO-YVR)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

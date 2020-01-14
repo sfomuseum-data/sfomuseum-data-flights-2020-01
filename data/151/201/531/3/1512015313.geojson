@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA372",
+    "flysfo:flight_number":"372",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022774,
     "wof:name":"UA372 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

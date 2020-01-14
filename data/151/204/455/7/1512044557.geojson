@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA195",
+    "flysfo:flight_number":"195",
     "flysfo:gate":"G2",
     "flysfo:journey":"MUC-SFO",
     "flysfo:scheduled_timestamp":1578870000,
@@ -103,7 +103,7 @@
         1477930463,
         1159293215
     ],
-    "wof:lastmodified":1578948787,
+    "wof:lastmodified":1579022247,
     "wof:name":"UA195 (MUC-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

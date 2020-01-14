@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7210",
+    "flysfo:flight_number":"7210",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-PVG",
     "flysfo:scheduled_timestamp":1578863100,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022878,
     "wof:name":"CA7210 (SFO-PVG)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

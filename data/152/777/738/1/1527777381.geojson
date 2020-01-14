@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA917",
+    "flysfo:flight_number":"917",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578898800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930463
     ],
-    "wof:lastmodified":1578950090,
+    "wof:lastmodified":1579022866,
     "wof:name":"UA917 (SFO-AKL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

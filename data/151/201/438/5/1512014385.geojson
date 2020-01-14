@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS710",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5807",
+    "flysfo:flight_number":"5807",
     "flysfo:gate":"D1",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022740,
     "wof:name":"FJ5807 (HNL-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

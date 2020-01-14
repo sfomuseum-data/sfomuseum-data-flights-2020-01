@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4280",
+    "flysfo:flight_number":"4280",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578776940,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022519,
     "wof:name":"AC4280 (SFO-DFW)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

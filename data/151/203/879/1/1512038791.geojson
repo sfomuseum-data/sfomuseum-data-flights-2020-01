@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578777720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9481",
+    "flysfo:flight_number":"9481",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-HDN",
     "flysfo:scheduled_timestamp":1578778200,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022510,
     "wof:name":"NZ9481 (SFO-HDN)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

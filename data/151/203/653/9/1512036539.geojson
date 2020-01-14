@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"F9663",
+    "flysfo:flight_number":"663",
     "flysfo:gate":"A15",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578776700,
@@ -104,7 +104,7 @@
         1477930315,
         1377564295
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022553,
     "wof:name":"F9663 (DEN-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

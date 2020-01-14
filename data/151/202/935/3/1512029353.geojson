@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5843",
+    "flysfo:flight_number":"5843",
     "flysfo:gate":"D8",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578720600,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022653,
     "wof:name":"FJ5843 (LAS-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

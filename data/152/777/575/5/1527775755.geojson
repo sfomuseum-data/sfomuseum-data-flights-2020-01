@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9323",
+    "flysfo:flight_number":"9323",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578898800,
@@ -94,7 +94,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"LH9323 (SFO-AKL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578952560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5536",
+    "flysfo:flight_number":"5536",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578952500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022944,
     "wof:name":"UA5536 (SFO-PHX)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

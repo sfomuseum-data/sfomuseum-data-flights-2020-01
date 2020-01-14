@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1410",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9350",
+    "flysfo:flight_number":"9350",
     "flysfo:gate":"E13",
     "flysfo:journey":"PDX-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022652,
     "wof:name":"NZ9350 (PDX-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

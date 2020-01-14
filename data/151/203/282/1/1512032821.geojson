@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3748",
+    "flysfo:flight_number":"3748",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578707400,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948961,
+    "wof:lastmodified":1579022527,
     "wof:name":"QF3748 (SFO-SAN)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

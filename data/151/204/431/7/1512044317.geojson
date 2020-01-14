@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3048",
+    "flysfo:flight_number":"3048",
     "flysfo:gate":"G1",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578861000,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578948789,
+    "wof:lastmodified":1579022251,
     "wof:name":"LX3048 (LHR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

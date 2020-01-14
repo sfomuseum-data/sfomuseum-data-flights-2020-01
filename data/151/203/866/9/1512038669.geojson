@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9221",
+    "flysfo:flight_number":"9221",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578768240,
@@ -94,7 +94,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578948894,
+    "wof:lastmodified":1579022413,
     "wof:name":"NZ9221 (SFO-LAS)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

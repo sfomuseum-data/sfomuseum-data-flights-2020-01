@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1400",
+    "flysfo:flight_number":"1400",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578860700,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578950107,
+    "wof:lastmodified":1579022892,
     "wof:name":"SQ1400 (SFO-LAS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

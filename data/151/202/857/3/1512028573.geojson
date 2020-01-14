@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA731",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7300",
+    "flysfo:flight_number":"7300",
     "flysfo:gate":"F12",
     "flysfo:journey":"PHL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"CA7300 (PHL-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

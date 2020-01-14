@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9188",
+    "flysfo:flight_number":"9188",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-EUG",
     "flysfo:scheduled_timestamp":1578701640,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948858,
+    "wof:lastmodified":1579022358,
     "wof:name":"NZ9188 (SFO-EUG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

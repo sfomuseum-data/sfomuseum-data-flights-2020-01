@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9296",
+    "flysfo:flight_number":"9296",
     "flysfo:gate":"E7",
     "flysfo:journey":"MCO-SFO",
     "flysfo:scheduled_timestamp":1578892020,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022261,
     "wof:name":"NZ9296 (MCO-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

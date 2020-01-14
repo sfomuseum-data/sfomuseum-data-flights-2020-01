@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7380",
+    "flysfo:flight_number":"7380",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578777060,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"NH7380 (SFO-RNO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

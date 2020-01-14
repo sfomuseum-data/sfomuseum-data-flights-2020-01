@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA569",
+    "flysfo:flight_number":"569",
     "flysfo:gate":"E10",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578783300,
@@ -102,7 +102,7 @@
         1477930397,
         1159292085
     ],
-    "wof:lastmodified":1578948867,
+    "wof:lastmodified":1579022371,
     "wof:name":"UA569 (PDX-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

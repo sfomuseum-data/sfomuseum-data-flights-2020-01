@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5311",
+    "flysfo:flight_number":"5311",
     "flysfo:gate":"G1",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578705840,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5311 (PVR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

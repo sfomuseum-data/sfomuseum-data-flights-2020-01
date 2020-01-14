@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1273",
+    "flysfo:flight_number":"1273",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-OGG",
     "flysfo:scheduled_timestamp":1578770400,
@@ -103,7 +103,7 @@
         1477930397,
         1159289871
     ],
-    "wof:lastmodified":1578948777,
+    "wof:lastmodified":1579022227,
     "wof:name":"UA1273 (SFO-OGG)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

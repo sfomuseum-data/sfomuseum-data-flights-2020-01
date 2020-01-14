@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1952",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5460",
+    "flysfo:flight_number":"5460",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-SAN",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948992,
+    "wof:lastmodified":1579022591,
     "wof:name":"JL5460 (SFO-SAN)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

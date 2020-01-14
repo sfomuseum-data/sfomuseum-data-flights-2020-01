@@ -7,7 +7,7 @@
     "flysfo:airline":"AC",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC8579",
+    "flysfo:flight_number":"8579",
     "flysfo:gate":"G1",
     "flysfo:journey":"YYC-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283597,
         1477930461
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022811,
     "wof:name":"AC8579 (YYC-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

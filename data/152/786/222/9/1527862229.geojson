@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1006",
+    "flysfo:flight_number":"1006",
     "flysfo:gate":"G1",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578984000,
@@ -94,7 +94,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579023004,
     "wof:name":"SQ1006 (YVR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

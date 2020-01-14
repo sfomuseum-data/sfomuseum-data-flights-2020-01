@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA412",
+    "flysfo:flight_number":"412",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-MEX",
     "flysfo:scheduled_timestamp":1578984600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579023004,
     "wof:name":"UA412 (SFO-MEX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

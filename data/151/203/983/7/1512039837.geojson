@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5806",
+    "flysfo:flight_number":"5806",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578765000,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948914,
+    "wof:lastmodified":1579022445,
     "wof:name":"FJ5806 (SFO-HNL)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

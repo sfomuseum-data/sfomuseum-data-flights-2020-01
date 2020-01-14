@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578885000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DI7174",
+    "flysfo:flight_number":"7174",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-LGW",
     "flysfo:scheduled_timestamp":1578885000,
@@ -88,7 +88,7 @@
         1377649063,
         1477930303
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022876,
     "wof:name":"DI7174 (SFO-LGW)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

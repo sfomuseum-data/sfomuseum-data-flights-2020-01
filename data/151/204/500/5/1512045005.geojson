@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA708",
+    "flysfo:flight_number":"708",
     "flysfo:gate":"F20",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578856500,
@@ -104,7 +104,7 @@
         1477930453,
         1159292085
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022279,
     "wof:name":"UA708 (LAX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

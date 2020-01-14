@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2243",
+    "flysfo:flight_number":"2243",
     "flysfo:gate":"E7",
     "flysfo:journey":"MSY-SFO",
     "flysfo:scheduled_timestamp":1578799380,
@@ -88,7 +88,7 @@
         1159285413,
         1477930391
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022366,
     "wof:name":"UA2243 (MSY-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6434",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2356",
+    "flysfo:flight_number":"2356",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-BOS",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948936,
+    "wof:lastmodified":1579022483,
     "wof:name":"HA2356 (SFO-BOS)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

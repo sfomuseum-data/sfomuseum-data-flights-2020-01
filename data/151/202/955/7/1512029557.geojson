@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1390",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6746",
+    "flysfo:flight_number":"6746",
     "flysfo:gate":"C2",
     "flysfo:journey":"SLC-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578949005,
+    "wof:lastmodified":1579022619,
     "wof:name":"KE6746 (SLC-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

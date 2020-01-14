@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578772980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1998",
+    "flysfo:flight_number":"1998",
     "flysfo:gate":"F21",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578772920,
@@ -104,7 +104,7 @@
         1477930457,
         1377564285
     ],
-    "wof:lastmodified":1578948941,
+    "wof:lastmodified":1579022490,
     "wof:name":"UA1998 (IAH-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS8318",
+    "flysfo:flight_number":"8318",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578755400,
@@ -94,7 +94,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578948856,
+    "wof:lastmodified":1579022356,
     "wof:name":"OS8318 (SFO-YYZ)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

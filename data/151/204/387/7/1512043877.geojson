@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578853980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL7547",
+    "flysfo:flight_number":"7547",
     "flysfo:gate":"D12",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578853620,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948847,
+    "wof:lastmodified":1579022341,
     "wof:name":"JL7547 (MIA-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

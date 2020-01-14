@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5856",
+    "flysfo:flight_number":"5856",
     "flysfo:gate":"F15N",
     "flysfo:journey":"TUS-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578949494,
+    "wof:lastmodified":1579022708,
     "wof:name":"UA5856 (TUS-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

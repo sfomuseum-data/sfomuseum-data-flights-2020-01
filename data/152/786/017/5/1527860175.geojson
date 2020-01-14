@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578937560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7373",
+    "flysfo:flight_number":"7373",
     "flysfo:gate":"F6",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578937500,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023003,
     "wof:name":"NH7373 (DFW-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

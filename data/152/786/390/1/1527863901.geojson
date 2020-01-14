@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7308",
+    "flysfo:flight_number":"7308",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578960420,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022916,
     "wof:name":"NH7308 (SFO-LAS)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5226",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9368",
+    "flysfo:flight_number":"9368",
     "flysfo:gate":"F18",
     "flysfo:journey":"ASE-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930449,
         1159285413
     ],
-    "wof:lastmodified":1578949003,
+    "wof:lastmodified":1579022615,
     "wof:name":"NZ9368 (ASE-SFO)",
     "wof:parent_id":1477930449,
     "wof:placetype":"event",

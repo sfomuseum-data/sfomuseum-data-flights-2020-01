@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3772",
+    "flysfo:flight_number":"3772",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578979800,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022980,
     "wof:name":"QF3772 (SFO-EWR)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

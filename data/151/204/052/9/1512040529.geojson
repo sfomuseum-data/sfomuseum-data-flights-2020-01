@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578812700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1796",
+    "flysfo:flight_number":"1796",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578813300,
@@ -104,7 +104,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1578948787,
+    "wof:lastmodified":1579022248,
     "wof:name":"UA1796 (SFO-EWR)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

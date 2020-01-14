@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2115",
+    "flysfo:flight_number":"2115",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"UA2115 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

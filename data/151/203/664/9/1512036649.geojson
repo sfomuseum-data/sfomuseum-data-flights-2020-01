@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578734940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2353",
+    "flysfo:flight_number":"2353",
     "flysfo:gate":"B7",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578735060,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948969,
+    "wof:lastmodified":1579022541,
     "wof:name":"HA2353 (JFK-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

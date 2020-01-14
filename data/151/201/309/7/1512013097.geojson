@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA820",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9820",
+    "flysfo:flight_number":"9820",
     "flysfo:gate":"G1",
     "flysfo:journey":"MEX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022697,
     "wof:name":"NZ9820 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

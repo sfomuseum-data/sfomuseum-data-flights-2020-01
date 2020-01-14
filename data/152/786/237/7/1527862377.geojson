@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578973800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1794",
+    "flysfo:flight_number":"1794",
     "flysfo:gate":"B17",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578972300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579023020,
     "wof:name":"WN1794 (ONT-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

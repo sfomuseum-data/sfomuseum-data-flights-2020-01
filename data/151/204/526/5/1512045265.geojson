@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2839",
+    "flysfo:flight_number":"2839",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578904500,
@@ -104,7 +104,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578948796,
+    "wof:lastmodified":1579022263,
     "wof:name":"AA2839 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

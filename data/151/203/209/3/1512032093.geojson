@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5575",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2266",
+    "flysfo:flight_number":"2266",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-MFR",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022538,
     "wof:name":"AV2266 (SFO-MFR)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

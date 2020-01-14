@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1222",
+    "flysfo:flight_number":"1222",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930371,
         1159292085
     ],
-    "wof:lastmodified":1578949512,
+    "wof:lastmodified":1579022736,
     "wof:name":"AS1222 (SFO-AUS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

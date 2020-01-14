@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL7541",
+    "flysfo:flight_number":"7541",
     "flysfo:gate":"D14",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578688560,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949016,
+    "wof:lastmodified":1579022642,
     "wof:name":"JL7541 (PHX-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

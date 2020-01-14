@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1936",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5086",
+    "flysfo:flight_number":"5086",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"LA5086 (SFO-LAX)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1752",
+    "flysfo:flight_number":"1752",
     "flysfo:gate":"B12",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022788,
     "wof:name":"WN1752 (DEN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

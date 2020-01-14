@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578901800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1257",
+    "flysfo:flight_number":"1257",
     "flysfo:gate":"F17",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578901440,
@@ -88,7 +88,7 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1578948775,
+    "wof:lastmodified":1579022224,
     "wof:name":"UA1257 (EWR-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

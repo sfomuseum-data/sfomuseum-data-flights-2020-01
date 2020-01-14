@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2334",
+    "flysfo:flight_number":"2334",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-LAS",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"UA2334 (SFO-LAS)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA114",
+    "flysfo:flight_number":"114",
     "flysfo:gate":"G9",
     "flysfo:journey":"PPT-SFO",
     "flysfo:timestamp":0,
@@ -99,7 +99,7 @@
         1477930479,
         1159293215
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022554,
     "wof:name":"UA114 (PPT-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

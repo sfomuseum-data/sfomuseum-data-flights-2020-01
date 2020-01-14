@@ -7,7 +7,7 @@
     "flysfo:airline":"EK",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK225",
+    "flysfo:flight_number":"225",
     "flysfo:gate":"A6",
     "flysfo:journey":"DXB-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284333,
         1477930295
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022702,
     "wof:name":"EK225 (DXB-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

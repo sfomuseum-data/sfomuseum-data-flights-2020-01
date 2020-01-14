@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1773",
+    "flysfo:flight_number":"1773",
     "flysfo:gate":"D2",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578721740,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949050,
+    "wof:lastmodified":1579022673,
     "wof:name":"SQ1773 (LAX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

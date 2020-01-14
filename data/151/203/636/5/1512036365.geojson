@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3078",
+    "flysfo:flight_number":"3078",
     "flysfo:gate":"D15",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578801960,
@@ -94,7 +94,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022562,
     "wof:name":"QF3078 (JFK-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

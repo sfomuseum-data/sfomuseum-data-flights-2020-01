@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2115",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9057",
+    "flysfo:flight_number":"9057",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-DEN",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948858,
+    "wof:lastmodified":1579022359,
     "wof:name":"NZ9057 (SFO-DEN)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

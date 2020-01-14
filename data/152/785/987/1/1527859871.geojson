@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4510",
+    "flysfo:flight_number":"4510",
     "flysfo:gate":"F9",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578946800,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022858,
     "wof:name":"AC4510 (SLC-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

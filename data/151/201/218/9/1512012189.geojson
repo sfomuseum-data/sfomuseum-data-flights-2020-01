@@ -11,7 +11,7 @@
     "flysfo:airline":"OZ",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ212",
+    "flysfo:flight_number":"212",
     "flysfo:gate":"G6",
     "flysfo:journey":"ICN-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930471,
         1377564293
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"OZ212 (ICN-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

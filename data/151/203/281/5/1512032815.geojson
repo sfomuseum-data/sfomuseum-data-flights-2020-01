@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS819",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3698",
+    "flysfo:flight_number":"3698",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-OGG",
     "flysfo:timestamp":1578684840,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"QF3698 (SFO-OGG)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5860",
+    "flysfo:flight_number":"5860",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578722400,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948866,
+    "wof:lastmodified":1579022370,
     "wof:name":"FJ5860 (SFO-BOS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

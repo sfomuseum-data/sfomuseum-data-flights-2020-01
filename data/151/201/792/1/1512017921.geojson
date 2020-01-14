@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1001",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3673",
+    "flysfo:flight_number":"3673",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-DCA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"QF3673 (SFO-DCA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

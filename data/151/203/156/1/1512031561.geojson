@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA291",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9160",
+    "flysfo:flight_number":"9160",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930477,
         1159285413
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022382,
     "wof:name":"NZ9160 (SFO-IAD)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

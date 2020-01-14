@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2944",
+    "flysfo:flight_number":"2944",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-DFW",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578948890,
+    "wof:lastmodified":1579022406,
     "wof:name":"AA2944 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

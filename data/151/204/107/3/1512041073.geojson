@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA9725",
+    "flysfo:flight_number":"9725",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-ZRH",
     "flysfo:scheduled_timestamp":1578801000,
@@ -94,7 +94,7 @@
         1477930463,
         1159286475
     ],
-    "wof:lastmodified":1578948807,
+    "wof:lastmodified":1579022277,
     "wof:name":"UA9725 (SFO-ZRH)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

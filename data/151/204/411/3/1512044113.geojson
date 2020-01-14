@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY614",
+    "flysfo:flight_number":"614",
     "flysfo:gate":"A15",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578892200,
@@ -88,7 +88,7 @@
         1159285227,
         1477930315
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"SY614 (PSP-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

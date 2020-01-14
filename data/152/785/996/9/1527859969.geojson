@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5603",
+    "flysfo:flight_number":"5603",
     "flysfo:gate":"E4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578969720,
@@ -94,7 +94,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022852,
     "wof:name":"AC5603 (SAN-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

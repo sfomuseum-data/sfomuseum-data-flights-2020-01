@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1118",
+    "flysfo:flight_number":"1118",
     "flysfo:gate":"G3",
     "flysfo:journey":"CUN-SFO",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930465,
         1377564285
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022775,
     "wof:name":"UA1118 (CUN-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

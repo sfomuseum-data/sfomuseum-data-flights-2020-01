@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578951900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"IB7443",
+    "flysfo:flight_number":"7443",
     "flysfo:gate":"A10",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578952500,
@@ -94,7 +94,7 @@
         1477930303,
         1159284021
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022914,
     "wof:name":"IB7443 (LHR-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

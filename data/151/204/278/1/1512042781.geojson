@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578896760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2347",
+    "flysfo:flight_number":"2347",
     "flysfo:gate":"F7",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578885900,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022295,
     "wof:name":"AV2347 (BUR-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

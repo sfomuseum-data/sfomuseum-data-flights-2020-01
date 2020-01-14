@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1958",
+    "flysfo:flight_number":"1958",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578764760,
@@ -104,7 +104,7 @@
         1477930445,
         1159292085
     ],
-    "wof:lastmodified":1578948782,
+    "wof:lastmodified":1579022239,
     "wof:name":"UA1958 (SFO-IAH)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

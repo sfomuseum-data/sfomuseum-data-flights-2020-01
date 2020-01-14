@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1806",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7772",
+    "flysfo:flight_number":"7772",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022712,
     "wof:name":"WS7772 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

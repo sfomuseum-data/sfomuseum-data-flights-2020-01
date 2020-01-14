@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2803",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU4183",
+    "flysfo:flight_number":"4183",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"MU4183 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1722",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2494",
+    "flysfo:flight_number":"2494",
     "flysfo:gate":"F22",
     "flysfo:journey":"OGG-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022818,
     "wof:name":"CM2494 (OGG-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

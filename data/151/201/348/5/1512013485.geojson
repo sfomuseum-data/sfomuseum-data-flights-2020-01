@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"LH458",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN7252",
+    "flysfo:flight_number":"7252",
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022748,
     "wof:name":"SN7252 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

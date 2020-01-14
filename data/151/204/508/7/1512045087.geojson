@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA900",
+    "flysfo:flight_number":"900",
     "flysfo:gate":"G10",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578869100,
@@ -96,7 +96,7 @@
         1159285413,
         1477930481
     ],
-    "wof:lastmodified":1578948802,
+    "wof:lastmodified":1579022269,
     "wof:name":"UA900 (LHR-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

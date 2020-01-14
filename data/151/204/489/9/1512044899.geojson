@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5707",
+    "flysfo:flight_number":"5707",
     "flysfo:gate":"E2",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578882000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948825,
+    "wof:lastmodified":1579022303,
     "wof:name":"UA5707 (RNO-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

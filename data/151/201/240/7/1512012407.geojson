@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA927",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5031",
+    "flysfo:flight_number":"5031",
     "flysfo:gate":"G5",
     "flysfo:journey":"FRA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"AC5031 (FRA-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA893",
+    "flysfo:flight_number":"893",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578767700,
@@ -104,7 +104,7 @@
         1477930477,
         1159293215
     ],
-    "wof:lastmodified":1578948764,
+    "wof:lastmodified":1579022201,
     "wof:name":"UA893 (SFO-ICN)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

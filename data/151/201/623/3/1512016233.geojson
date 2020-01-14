@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA358",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5340",
+    "flysfo:flight_number":"5340",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"AC5340 (SFO-LAS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

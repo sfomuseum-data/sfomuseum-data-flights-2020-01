@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1178",
+    "flysfo:flight_number":"1178",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022722,
     "wof:name":"UA1178 (SFO-PDX)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

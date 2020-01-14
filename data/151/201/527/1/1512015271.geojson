@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2400",
+    "flysfo:flight_number":"2400",
     "flysfo:gate":"F21",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022755,
     "wof:name":"UA2400 (BOS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

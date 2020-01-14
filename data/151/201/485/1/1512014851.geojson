@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3385",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1762",
+    "flysfo:flight_number":"1762",
     "flysfo:gate":"D2",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"SQ1762 (PSP-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

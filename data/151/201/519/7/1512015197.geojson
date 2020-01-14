@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2054",
+    "flysfo:flight_number":"2054",
     "flysfo:gate":"F1",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578949521,
+    "wof:lastmodified":1579022750,
     "wof:name":"UA2054 (PDX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

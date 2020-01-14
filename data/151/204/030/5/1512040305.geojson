@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3816",
+    "flysfo:flight_number":"3816",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578756600,
@@ -96,7 +96,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948792,
+    "wof:lastmodified":1579022256,
     "wof:name":"WN3816 (SFO-LAX)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

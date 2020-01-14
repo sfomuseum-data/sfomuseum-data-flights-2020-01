@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA58",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5976",
+    "flysfo:flight_number":"5976",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159285413
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"AC5976 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578778500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA285",
+    "flysfo:flight_number":"285",
     "flysfo:gate":"A5",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578779700,
@@ -88,7 +88,7 @@
         1159284021,
         1477930291
     ],
-    "wof:lastmodified":1578948931,
+    "wof:lastmodified":1579022473,
     "wof:name":"BA285 (LHR-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

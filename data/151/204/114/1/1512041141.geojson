@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS6668",
+    "flysfo:flight_number":"6668",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578774360,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948849,
+    "wof:lastmodified":1579022344,
     "wof:name":"WS6668 (SFO-SEA)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

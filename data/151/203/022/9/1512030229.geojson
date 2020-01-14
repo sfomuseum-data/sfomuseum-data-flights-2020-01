@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA233",
+    "flysfo:flight_number":"233",
     "flysfo:gate":"F1",
     "flysfo:journey":"BUR-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948887,
+    "wof:lastmodified":1579022402,
     "wof:name":"UA233 (BUR-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

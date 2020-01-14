@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5516",
+    "flysfo:flight_number":"5516",
     "flysfo:gate":"F7",
     "flysfo:journey":"SMF-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"UA5516 (SMF-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

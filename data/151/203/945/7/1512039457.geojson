@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578753000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1845",
+    "flysfo:flight_number":"1845",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578753000,
@@ -104,7 +104,7 @@
         1477930317,
         1377564285
     ],
-    "wof:lastmodified":1578948991,
+    "wof:lastmodified":1579022585,
     "wof:name":"DL1845 (SFO-LAX)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

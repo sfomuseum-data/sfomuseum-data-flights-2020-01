@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B61635",
+    "flysfo:flight_number":"1635",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "flysfo:scheduled_timestamp":1578699720,
@@ -102,7 +102,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1578948929,
+    "wof:lastmodified":1579022471,
     "wof:name":"B61635 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

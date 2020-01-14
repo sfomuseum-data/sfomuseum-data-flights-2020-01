@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA58",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9800",
+    "flysfo:flight_number":"9800",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159285413
     ],
-    "wof:lastmodified":1578949504,
+    "wof:lastmodified":1579022725,
     "wof:name":"NZ9800 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

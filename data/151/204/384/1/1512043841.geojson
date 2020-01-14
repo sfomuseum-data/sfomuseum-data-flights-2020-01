@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL2",
+    "flysfo:flight_number":"2",
     "flysfo:gate":"A13",
     "flysfo:journey":"HND-SFO",
     "flysfo:scheduled_timestamp":1578859800,
@@ -103,7 +103,7 @@
         1477930309,
         1159289993
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022263,
     "wof:name":"JL2 (HND-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

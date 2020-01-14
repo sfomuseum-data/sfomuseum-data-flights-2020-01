@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1900",
+    "flysfo:flight_number":"1900",
     "flysfo:gate":"F4",
     "flysfo:journey":"ATL-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948885,
+    "wof:lastmodified":1579022400,
     "wof:name":"UA1900 (ATL-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

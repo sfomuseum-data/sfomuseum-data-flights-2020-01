@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP8495",
+    "flysfo:flight_number":"8495",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578762900,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948793,
+    "wof:lastmodified":1579022258,
     "wof:name":"TP8495 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

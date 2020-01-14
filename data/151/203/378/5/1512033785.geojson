@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1679",
+    "flysfo:flight_number":"1679",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-CUN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948927,
+    "wof:lastmodified":1579022467,
     "wof:name":"UA1679 (SFO-CUN)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

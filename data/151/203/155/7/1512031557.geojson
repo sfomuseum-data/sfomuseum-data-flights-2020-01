@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9144",
+    "flysfo:flight_number":"9144",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578694200,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"NZ9144 (SFO-HNL)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:airline":"LH",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH455",
+    "flysfo:flight_number":"455",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-FRA",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930485,
         1159289431
     ],
-    "wof:lastmodified":1578949570,
+    "wof:lastmodified":1579022821,
     "wof:name":"LH455 (SFO-FRA)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

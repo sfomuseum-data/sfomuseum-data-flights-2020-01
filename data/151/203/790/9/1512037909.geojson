@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS7638",
+    "flysfo:flight_number":"7638",
     "flysfo:gate":"C3",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578767460,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948854,
+    "wof:lastmodified":1579022353,
     "wof:name":"WS7638 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

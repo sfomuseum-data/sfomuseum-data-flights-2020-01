@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"MU767",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL6573",
+    "flysfo:flight_number":"6573",
     "flysfo:gate":"A5",
     "flysfo:journey":"TAO-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930291,
         1159284157
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022765,
     "wof:name":"DL6573 (TAO-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

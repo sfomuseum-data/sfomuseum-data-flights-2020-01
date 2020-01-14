@@ -7,7 +7,7 @@
     "flysfo:airline":"TK",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"TK79",
+    "flysfo:flight_number":"79",
     "flysfo:gate":"G2",
     "flysfo:journey":"IST-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285391,
         1477930463
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"TK79 (IST-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2132",
+    "flysfo:flight_number":"2132",
     "flysfo:gate":"E4",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578721500,
@@ -102,7 +102,7 @@
         1477930385,
         1159289407
     ],
-    "wof:lastmodified":1578948965,
+    "wof:lastmodified":1579022535,
     "wof:name":"UA2132 (PHL-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

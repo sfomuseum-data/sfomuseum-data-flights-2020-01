@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5601",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4361",
+    "flysfo:flight_number":"4361",
     "flysfo:gate":"E3",
     "flysfo:journey":"SBA-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949027,
+    "wof:lastmodified":1579022653,
     "wof:name":"AC4361 (SBA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

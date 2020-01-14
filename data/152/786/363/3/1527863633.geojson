@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578950940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4548",
+    "flysfo:flight_number":"4548",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578949980,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022915,
     "wof:name":"AC4548 (SFO-ONT)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

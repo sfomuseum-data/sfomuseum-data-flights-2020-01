@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF4741",
+    "flysfo:flight_number":"4741",
     "flysfo:gate":"C7",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578765240,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022398,
     "wof:name":"QF4741 (LAX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

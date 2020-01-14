@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5441",
+    "flysfo:flight_number":"5441",
     "flysfo:gate":"F2",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578933900,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022855,
     "wof:name":"AC5441 (LAS-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1007",
+    "flysfo:flight_number":"1007",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578876600,
@@ -94,7 +94,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"SQ1007 (SFO-YVR)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

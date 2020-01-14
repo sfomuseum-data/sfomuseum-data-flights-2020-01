@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2411",
+    "flysfo:flight_number":"2411",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-PHX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930385,
         1159289407
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022779,
     "wof:name":"UA2411 (SFO-PHX)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH458",
+    "flysfo:flight_number":"458",
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
     "flysfo:scheduled_timestamp":1578800100,
@@ -103,7 +103,7 @@
         1477930487,
         1159289437
     ],
-    "wof:lastmodified":1578948881,
+    "wof:lastmodified":1579022393,
     "wof:name":"LH458 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

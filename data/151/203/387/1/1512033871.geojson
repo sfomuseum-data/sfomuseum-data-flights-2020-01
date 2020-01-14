@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2229",
+    "flysfo:flight_number":"2229",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PIT",
     "flysfo:timestamp":0,
@@ -99,7 +99,7 @@
         1477930435,
         1159292085
     ],
-    "wof:lastmodified":1578948989,
+    "wof:lastmodified":1579022580,
     "wof:name":"UA2229 (SFO-PIT)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

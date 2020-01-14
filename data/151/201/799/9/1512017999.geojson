@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1218",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9367",
+    "flysfo:flight_number":"9367",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022697,
     "wof:name":"LY9367 (SFO-AUS)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

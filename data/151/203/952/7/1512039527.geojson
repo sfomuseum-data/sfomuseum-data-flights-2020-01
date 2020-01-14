@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8599",
+    "flysfo:flight_number":"8599",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-CDG",
     "flysfo:scheduled_timestamp":1578784500,
@@ -94,7 +94,7 @@
         1477930283,
         1159283627
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022379,
     "wof:name":"DL8599 (SFO-CDG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

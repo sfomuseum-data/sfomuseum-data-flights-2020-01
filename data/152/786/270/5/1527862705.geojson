@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2129",
+    "flysfo:flight_number":"2129",
     "flysfo:gate":"F4",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578976740,
@@ -88,7 +88,7 @@
         1159285413,
         1477930415
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022986,
     "wof:name":"UA2129 (PHX-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

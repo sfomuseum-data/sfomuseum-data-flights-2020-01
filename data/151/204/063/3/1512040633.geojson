@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578811560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA257",
+    "flysfo:flight_number":"257",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578811500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930389
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022253,
     "wof:name":"UA257 (SFO-LAX)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

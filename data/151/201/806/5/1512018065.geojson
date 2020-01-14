@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CM383",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR3181",
+    "flysfo:flight_number":"3181",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-PTY",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930283,
         1159284211
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022806,
     "wof:name":"BR3181 (SFO-PTY)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

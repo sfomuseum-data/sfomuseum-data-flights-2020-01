@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA984",
+    "flysfo:flight_number":"984",
     "flysfo:gate":"G6",
     "flysfo:journey":"CDG-SFO",
     "flysfo:timestamp":1578683640,
@@ -100,7 +100,7 @@
         1477930471,
         1159289995
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022557,
     "wof:name":"UA984 (CDG-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

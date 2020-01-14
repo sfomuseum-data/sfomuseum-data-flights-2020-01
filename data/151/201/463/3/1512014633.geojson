@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"VS19",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL4837",
+    "flysfo:flight_number":"4837",
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930307,
         1159285483
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"KL4837 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

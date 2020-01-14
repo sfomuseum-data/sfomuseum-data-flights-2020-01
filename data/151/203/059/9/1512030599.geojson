@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA718",
+    "flysfo:flight_number":"718",
     "flysfo:gate":"G3",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578703800,
@@ -103,7 +103,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1578948972,
+    "wof:lastmodified":1579022546,
     "wof:name":"UA718 (MEX-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS379",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3126",
+    "flysfo:flight_number":"3126",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022785,
     "wof:name":"EK3126 (SFO-SEA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

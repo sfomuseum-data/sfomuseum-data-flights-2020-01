@@ -9,7 +9,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN995",
+    "flysfo:flight_number":"995",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-STL",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"WN995 (SFO-STL)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

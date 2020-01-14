@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1096",
+    "flysfo:flight_number":"1096",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578700200,
@@ -101,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022492,
     "wof:name":"WN1096 (SFO-PHX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

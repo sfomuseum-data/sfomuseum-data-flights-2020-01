@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1282",
+    "flysfo:flight_number":"1282",
     "flysfo:gate":"D3",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022760,
     "wof:name":"AS1282 (PDX-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

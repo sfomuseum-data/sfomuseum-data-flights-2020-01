@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578727740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA643",
+    "flysfo:flight_number":"643",
     "flysfo:gate":"F2",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578716940,
@@ -103,7 +103,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022562,
     "wof:name":"UA643 (KOA-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS2835",
+    "flysfo:flight_number":"2835",
     "flysfo:gate":"D2",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578693000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"AS2835 (SAN-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

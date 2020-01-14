@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2123",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7333",
+    "flysfo:flight_number":"7333",
     "flysfo:gate":"E13",
     "flysfo:journey":"AUS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"NH7333 (AUS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

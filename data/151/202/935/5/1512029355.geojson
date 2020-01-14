@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1219",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5845",
+    "flysfo:flight_number":"5845",
     "flysfo:gate":"D8",
     "flysfo:journey":"AUS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022653,
     "wof:name":"FJ5845 (AUS-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

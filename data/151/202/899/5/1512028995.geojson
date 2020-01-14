@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7541",
+    "flysfo:flight_number":"7541",
     "flysfo:gate":"F6",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578688560,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578949040,
+    "wof:lastmodified":1579022665,
     "wof:name":"LH7541 (EUG-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

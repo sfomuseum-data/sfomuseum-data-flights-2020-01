@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1290",
+    "flysfo:flight_number":"1290",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-SJD",
     "flysfo:scheduled_timestamp":1578939900,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022967,
     "wof:name":"SQ1290 (SFO-SJD)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578953340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LA6982",
+    "flysfo:flight_number":"6982",
     "flysfo:gate":"D12",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578953820,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022916,
     "wof:name":"LA6982 (JFK-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

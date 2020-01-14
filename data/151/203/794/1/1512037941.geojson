@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2691",
+    "flysfo:flight_number":"2691",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578762000,
@@ -102,7 +102,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578948937,
+    "wof:lastmodified":1579022484,
     "wof:name":"AA2691 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

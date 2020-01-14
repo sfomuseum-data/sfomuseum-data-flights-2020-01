@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5473",
+    "flysfo:flight_number":"5473",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SMF",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022759,
     "wof:name":"UA5473 (SFO-SMF)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

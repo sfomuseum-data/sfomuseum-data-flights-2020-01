@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1848",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9135",
+    "flysfo:flight_number":"9135",
     "flysfo:gate":"F11",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"NZ9135 (EWR-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

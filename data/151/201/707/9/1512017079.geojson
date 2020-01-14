@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS340",
+    "flysfo:flight_number":"340",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1578949497,
+    "wof:lastmodified":1579022714,
     "wof:name":"AS340 (SFO-EWR)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

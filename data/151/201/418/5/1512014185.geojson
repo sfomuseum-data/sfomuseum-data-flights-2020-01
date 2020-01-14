@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS373",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3728",
+    "flysfo:flight_number":"3728",
     "flysfo:gate":"G8",
     "flysfo:journey":"PVR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930477,
         1159283813
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022791,
     "wof:name":"QF3728 (PVR-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

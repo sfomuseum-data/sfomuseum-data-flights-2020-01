@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1912",
+    "flysfo:flight_number":"1912",
     "flysfo:gate":"E3",
     "flysfo:journey":"BNA-SFO",
     "flysfo:scheduled_timestamp":1578892320,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948787,
+    "wof:lastmodified":1579022248,
     "wof:name":"UA1912 (BNA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

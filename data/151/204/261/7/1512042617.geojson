@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578861660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1927",
+    "flysfo:flight_number":"1927",
     "flysfo:gate":"D7",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578863040,
@@ -103,7 +103,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1578948783,
+    "wof:lastmodified":1579022240,
     "wof:name":"AS1927 (LAX-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

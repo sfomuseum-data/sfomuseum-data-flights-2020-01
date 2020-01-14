@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5769",
+    "flysfo:flight_number":"5769",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-RDD",
     "flysfo:scheduled_timestamp":1578810900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948815,
+    "wof:lastmodified":1579022289,
     "wof:name":"UA5769 (SFO-RDD)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

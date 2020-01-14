@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC8843",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX4663",
+    "flysfo:flight_number":"4663",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"LX4663 (SFO-YVR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

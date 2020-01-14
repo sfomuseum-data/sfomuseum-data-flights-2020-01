@@ -7,7 +7,7 @@
     "flysfo:airline":"4O",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"4O820",
+    "flysfo:flight_number":"820",
     "flysfo:gate":"A10",
     "flysfo:journey":"GDL-SFO",
     "flysfo:timestamp":1578683460,
@@ -85,7 +85,7 @@
         1159286485,
         1477930303
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022653,
     "wof:name":"4O820 (GDL-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

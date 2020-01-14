@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578986400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS8212",
+    "flysfo:flight_number":"8212",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578986400,
@@ -94,7 +94,7 @@
         1477930487,
         1159283597
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023010,
     "wof:name":"OS8212 (SFO-YYZ)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

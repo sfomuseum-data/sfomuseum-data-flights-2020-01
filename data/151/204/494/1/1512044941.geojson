@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578896580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5811",
+    "flysfo:flight_number":"5811",
     "flysfo:gate":"F6",
     "flysfo:journey":"MFR-SFO",
     "flysfo:scheduled_timestamp":1578894060,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948828,
+    "wof:lastmodified":1579022308,
     "wof:name":"UA5811 (MFR-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

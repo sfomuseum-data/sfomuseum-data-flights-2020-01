@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578819540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"F9662",
+    "flysfo:flight_number":"662",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578819540,
@@ -104,7 +104,7 @@
         1477930315,
         1377564295
     ],
-    "wof:lastmodified":1578948989,
+    "wof:lastmodified":1579022578,
     "wof:name":"F9662 (SFO-DEN)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

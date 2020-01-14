@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3124",
+    "flysfo:flight_number":"3124",
     "flysfo:gate":"D11",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578935580,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022979,
     "wof:name":"QF3124 (ORD-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

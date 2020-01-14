@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA616",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK8880",
+    "flysfo:flight_number":"8880",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578948855,
+    "wof:lastmodified":1579022355,
     "wof:name":"SK8880 (SFO-ORD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

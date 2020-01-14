@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4164",
+    "flysfo:flight_number":"4164",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578893100,
@@ -94,7 +94,7 @@
         1477930307,
         1159285483
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"NZ4164 (SFO-LHR)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

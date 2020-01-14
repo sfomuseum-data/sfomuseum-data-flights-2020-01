@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM382",
+    "flysfo:flight_number":"382",
     "flysfo:gate":"A10",
     "flysfo:journey":"PTY-SFO",
     "flysfo:scheduled_timestamp":1578812160,
@@ -101,7 +101,7 @@
         1477930303,
         1159289871
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022427,
     "wof:name":"CM382 (PTY-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

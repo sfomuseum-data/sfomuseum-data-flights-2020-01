@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4146",
+    "flysfo:flight_number":"4146",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578886440,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948848,
+    "wof:lastmodified":1579022343,
     "wof:name":"AC4146 (SFO-SMF)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

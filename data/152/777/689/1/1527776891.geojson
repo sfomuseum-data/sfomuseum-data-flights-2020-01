@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2242",
+    "flysfo:flight_number":"2242",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578873960,
@@ -88,7 +88,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578950093,
+    "wof:lastmodified":1579022870,
     "wof:name":"UA2242 (SFO-DEN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

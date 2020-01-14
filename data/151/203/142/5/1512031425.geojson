@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7394",
+    "flysfo:flight_number":"7394",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578701040,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022451,
     "wof:name":"NH7394 (SFO-YVR)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

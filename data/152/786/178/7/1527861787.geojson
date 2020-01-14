@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BR28",
+    "flysfo:flight_number":"28",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578969000,
@@ -88,7 +88,7 @@
         1159284349,
         1477930481
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579023035,
     "wof:name":"BR28 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

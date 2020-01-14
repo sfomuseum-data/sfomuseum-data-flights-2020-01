@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL1273",
+    "flysfo:flight_number":"1273",
     "flysfo:gate":"C3",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578857940,
@@ -104,7 +104,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1578948844,
+    "wof:lastmodified":1579022336,
     "wof:name":"DL1273 (MSP-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

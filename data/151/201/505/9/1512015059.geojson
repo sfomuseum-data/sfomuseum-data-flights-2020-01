@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1905",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3119",
+    "flysfo:flight_number":"3119",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"EK3119 (LAS-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

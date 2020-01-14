@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3884",
+    "flysfo:flight_number":"3884",
     "flysfo:gate":"B9",
     "flysfo:journey":"MDW-SFO",
     "flysfo:scheduled_timestamp":1578896700,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"WN3884 (MDW-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

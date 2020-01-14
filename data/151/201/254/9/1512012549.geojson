@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL540",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF2860",
+    "flysfo:flight_number":"2860",
     "flysfo:gate":"C8",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"AF2860 (MSP-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

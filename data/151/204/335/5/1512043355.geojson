@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL6558",
+    "flysfo:flight_number":"6558",
     "flysfo:gate":"A1",
     "flysfo:journey":"PVG-SFO",
     "flysfo:scheduled_timestamp":1578850200,
@@ -94,7 +94,7 @@
         1477930281,
         1159284157
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022278,
     "wof:name":"DL6558 (PVG-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

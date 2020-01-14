@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8200",
+    "flysfo:flight_number":"8200",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYC",
     "flysfo:scheduled_timestamp":1578886500,
@@ -94,7 +94,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022882,
     "wof:name":"UA8200 (SFO-YYC)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2688",
+    "flysfo:flight_number":"2688",
     "flysfo:gate":"D10",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578721920,
@@ -102,7 +102,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578949048,
+    "wof:lastmodified":1579022671,
     "wof:name":"AA2688 (MIA-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

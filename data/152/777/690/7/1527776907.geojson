@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2341",
+    "flysfo:flight_number":"2341",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578874020,
@@ -104,7 +104,7 @@
         1477930405,
         1159292085
     ],
-    "wof:lastmodified":1578950107,
+    "wof:lastmodified":1579022893,
     "wof:name":"UA2341 (SFO-LAS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

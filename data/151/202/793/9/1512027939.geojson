@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9333",
+    "flysfo:flight_number":"9333",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578689160,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022652,
     "wof:name":"NZ9333 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

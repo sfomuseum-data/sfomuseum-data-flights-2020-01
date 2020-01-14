@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF8710",
+    "flysfo:flight_number":"8710",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578774360,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948974,
+    "wof:lastmodified":1579022550,
     "wof:name":"AF8710 (SFO-SEA)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

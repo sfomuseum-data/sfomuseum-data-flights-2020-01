@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA284",
+    "flysfo:flight_number":"284",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578960600,
@@ -88,7 +88,7 @@
         1159284021,
         1477930303
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022956,
     "wof:name":"BA284 (SFO-LHR)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

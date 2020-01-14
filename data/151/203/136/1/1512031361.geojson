@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7263",
+    "flysfo:flight_number":"7263",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578688200,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948937,
+    "wof:lastmodified":1579022484,
     "wof:name":"NH7263 (SFO-LAX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

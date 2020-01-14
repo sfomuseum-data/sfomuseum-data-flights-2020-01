@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7344",
+    "flysfo:flight_number":"7344",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578956460,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022919,
     "wof:name":"CA7344 (SFO-IAH)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

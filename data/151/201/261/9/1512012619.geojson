@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA838",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7012",
+    "flysfo:flight_number":"7012",
     "flysfo:gate":"G8",
     "flysfo:journey":"NRT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930477,
         1159285413
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"NH7012 (NRT-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2429",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1259",
+    "flysfo:flight_number":"1259",
     "flysfo:gate":"C10",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022747,
     "wof:name":"CZ1259 (SEA-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

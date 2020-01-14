@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5997",
+    "flysfo:flight_number":"5997",
     "flysfo:gate":"F15N",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578764700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022571,
     "wof:name":"UA5997 (PSP-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1945",
+    "flysfo:flight_number":"1945",
     "flysfo:gate":"B13",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578719700,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578949045,
+    "wof:lastmodified":1579022669,
     "wof:name":"WN1945 (BUR-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

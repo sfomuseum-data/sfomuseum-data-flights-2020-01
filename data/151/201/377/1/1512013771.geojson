@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR28",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM8013",
+    "flysfo:flight_number":"8013",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930481,
         1159284349
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022747,
     "wof:name":"CM8013 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1762",
+    "flysfo:flight_number":"1762",
     "flysfo:gate":"B12",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022794,
     "wof:name":"WN1762 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

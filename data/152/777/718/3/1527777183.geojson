@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5720",
+    "flysfo:flight_number":"5720",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578888000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022903,
     "wof:name":"UA5720 (SFO-BOI)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

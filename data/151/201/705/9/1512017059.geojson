@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS334",
+    "flysfo:flight_number":"334",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022764,
     "wof:name":"AS334 (SFO-EWR)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

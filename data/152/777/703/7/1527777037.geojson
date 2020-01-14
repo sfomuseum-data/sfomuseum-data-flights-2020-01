@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5318",
+    "flysfo:flight_number":"5318",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578872940,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022885,
     "wof:name":"UA5318 (SFO-BUR)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889680,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5114",
+    "flysfo:flight_number":"5114",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578884700,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948813,
+    "wof:lastmodified":1579022286,
     "wof:name":"AC5114 (SFO-SAN)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

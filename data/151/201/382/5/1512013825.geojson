@@ -11,7 +11,7 @@
     "flysfo:airline":"CX",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX872",
+    "flysfo:flight_number":"872",
     "flysfo:gate":"A10",
     "flysfo:journey":"HKG-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930303,
         1159289993
     ],
-    "wof:lastmodified":1578949526,
+    "wof:lastmodified":1579022757,
     "wof:name":"CX872 (HKG-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

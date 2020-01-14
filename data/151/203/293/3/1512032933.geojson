@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BF710",
+    "flysfo:flight_number":"710",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-PPT",
     "flysfo:scheduled_timestamp":1578724800,
@@ -88,7 +88,7 @@
         1377649073,
         1477930477
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022430,
     "wof:name":"BF710 (SFO-PPT)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB7444",
+    "flysfo:flight_number":"7444",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578889500,
@@ -94,7 +94,7 @@
         1477930295,
         1159284021
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"IB7444 (SFO-LHR)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

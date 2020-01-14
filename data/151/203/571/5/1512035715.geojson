@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV6985",
+    "flysfo:flight_number":"6985",
     "flysfo:gate":"G4",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578811200,
@@ -94,7 +94,7 @@
         1477930467,
         1159283597
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022566,
     "wof:name":"AV6985 (YVR-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

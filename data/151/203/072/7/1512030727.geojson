@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4456",
+    "flysfo:flight_number":"4456",
     "flysfo:gate":"C2",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578688440,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578948960,
+    "wof:lastmodified":1579022524,
     "wof:name":"VS4456 (SLC-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

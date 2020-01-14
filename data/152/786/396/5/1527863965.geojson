@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578954360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ2889",
+    "flysfo:flight_number":"2889",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578954660,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022908,
     "wof:name":"NZ2889 (SFO-DTW)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

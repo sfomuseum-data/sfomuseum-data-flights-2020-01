@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3756",
+    "flysfo:flight_number":"3756",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SJD",
     "flysfo:scheduled_timestamp":1578767100,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022465,
     "wof:name":"QF3756 (SFO-SJD)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

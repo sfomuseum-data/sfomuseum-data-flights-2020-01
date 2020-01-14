@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NH8",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7950",
+    "flysfo:flight_number":"7950",
     "flysfo:gate":"G13",
     "flysfo:journey":"NRT-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930487,
         1159283875
     ],
-    "wof:lastmodified":1578948895,
+    "wof:lastmodified":1579022415,
     "wof:name":"UA7950 (NRT-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

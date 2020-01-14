@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA207",
+    "flysfo:flight_number":"207",
     "flysfo:gate":"F21",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578686880,
@@ -104,7 +104,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578948963,
+    "wof:lastmodified":1579022530,
     "wof:name":"UA207 (BOS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

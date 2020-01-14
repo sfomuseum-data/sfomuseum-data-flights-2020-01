@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578803760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7701",
+    "flysfo:flight_number":"7701",
     "flysfo:gate":"F19",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578804300,
@@ -94,7 +94,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578948960,
+    "wof:lastmodified":1579022524,
     "wof:name":"LH7701 (OGG-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

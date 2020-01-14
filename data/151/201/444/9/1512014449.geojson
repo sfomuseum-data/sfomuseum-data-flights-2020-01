@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6833",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2359",
+    "flysfo:flight_number":"2359",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022786,
     "wof:name":"HA2359 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

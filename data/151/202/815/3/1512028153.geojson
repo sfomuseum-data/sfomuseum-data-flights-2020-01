@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1391",
+    "flysfo:flight_number":"1391",
     "flysfo:gate":"D6",
     "flysfo:journey":"MSY-SFO",
     "flysfo:scheduled_timestamp":1578723300,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949033,
+    "wof:lastmodified":1579022659,
     "wof:name":"AS1391 (MSY-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

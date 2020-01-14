@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5866",
+    "flysfo:flight_number":"5866",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578760200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022253,
     "wof:name":"UA5866 (SFO-SEA)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

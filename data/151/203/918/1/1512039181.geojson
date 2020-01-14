@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA6916",
+    "flysfo:flight_number":"6916",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578760200,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022573,
     "wof:name":"BA6916 (SFO-PHL)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN2063",
+    "flysfo:flight_number":"2063",
     "flysfo:gate":"B9",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578709500,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949045,
+    "wof:lastmodified":1579022669,
     "wof:name":"WN2063 (BUR-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

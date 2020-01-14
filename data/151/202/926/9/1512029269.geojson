@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BF710",
+    "flysfo:flight_number":"710",
     "flysfo:gate":"G8",
     "flysfo:journey":"ORY-SFO",
     "flysfo:scheduled_timestamp":1578715800,
@@ -88,7 +88,7 @@
         1377649073,
         1477930477
     ],
-    "wof:lastmodified":1578949046,
+    "wof:lastmodified":1579022670,
     "wof:name":"BF710 (ORY-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

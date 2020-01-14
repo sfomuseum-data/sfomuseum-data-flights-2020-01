@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA390",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5730",
+    "flysfo:flight_number":"5730",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949506,
+    "wof:lastmodified":1579022728,
     "wof:name":"AC5730 (SFO-ORD)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

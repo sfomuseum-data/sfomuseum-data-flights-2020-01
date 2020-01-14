@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9803",
+    "flysfo:flight_number":"9803",
     "flysfo:gate":"G2",
     "flysfo:journey":"FRA-SFO",
     "flysfo:scheduled_timestamp":1578888300,
@@ -94,7 +94,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022252,
     "wof:name":"NZ9803 (FRA-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

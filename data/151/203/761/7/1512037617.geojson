@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA565",
+    "flysfo:flight_number":"565",
     "flysfo:gate":"F16",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578765000,
@@ -103,7 +103,7 @@
         1477930445,
         1159289871
     ],
-    "wof:lastmodified":1578948947,
+    "wof:lastmodified":1579022501,
     "wof:name":"UA565 (YYZ-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

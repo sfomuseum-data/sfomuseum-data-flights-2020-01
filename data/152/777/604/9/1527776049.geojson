@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2226",
+    "flysfo:flight_number":"2226",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578863520,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022875,
     "wof:name":"HA2226 (SFO-BOS)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

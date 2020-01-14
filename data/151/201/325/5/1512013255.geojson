@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3393",
+    "flysfo:flight_number":"3393",
     "flysfo:gate":"D8",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022763,
     "wof:name":"AS3393 (LAX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

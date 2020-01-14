@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3452",
+    "flysfo:flight_number":"3452",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"AS3452 (SFO-SLC)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

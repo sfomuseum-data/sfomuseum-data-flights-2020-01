@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5249",
+    "flysfo:flight_number":"5249",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-ONT",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948908,
+    "wof:lastmodified":1579022434,
     "wof:name":"UA5249 (SFO-ONT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

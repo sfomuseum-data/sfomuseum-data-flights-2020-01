@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5403",
+    "flysfo:flight_number":"5403",
     "flysfo:gate":"G5",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578762300,
@@ -94,7 +94,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022399,
     "wof:name":"AC5403 (MEX-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

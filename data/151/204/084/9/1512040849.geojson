@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5713",
+    "flysfo:flight_number":"5713",
     "flysfo:gate":"E2",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578768000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948773,
+    "wof:lastmodified":1579022220,
     "wof:name":"UA5713 (SFO-DEN)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

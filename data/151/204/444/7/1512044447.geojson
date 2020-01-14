@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1118",
+    "flysfo:flight_number":"1118",
     "flysfo:gate":"G11",
     "flysfo:journey":"CUN-SFO",
     "flysfo:scheduled_timestamp":1578892080,
@@ -101,7 +101,7 @@
         1477930483,
         1377564285
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022291,
     "wof:name":"UA1118 (CUN-SFO)",
     "wof:parent_id":1477930483,
     "wof:placetype":"event",

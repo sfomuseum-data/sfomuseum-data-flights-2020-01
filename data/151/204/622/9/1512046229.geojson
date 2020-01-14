@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9802",
+    "flysfo:flight_number":"9802",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578883500,
@@ -94,7 +94,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022290,
     "wof:name":"NZ9802 (SFO-FRA)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

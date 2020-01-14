@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1812",
+    "flysfo:flight_number":"1812",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578714540,
@@ -88,7 +88,7 @@
         1159285413,
         1477930415
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022583,
     "wof:name":"UA1812 (SFO-RNO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

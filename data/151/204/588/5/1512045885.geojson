@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578912600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4740",
+    "flysfo:flight_number":"4740",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578900000,
@@ -94,7 +94,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"NZ4740 (SFO-YYZ)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

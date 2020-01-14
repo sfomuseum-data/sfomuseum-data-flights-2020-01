@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5395",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2035",
+    "flysfo:flight_number":"2035",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022780,
     "wof:name":"AV2035 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

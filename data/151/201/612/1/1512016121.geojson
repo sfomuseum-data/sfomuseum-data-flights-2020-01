@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5334",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4347",
+    "flysfo:flight_number":"4347",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SAT",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022791,
     "wof:name":"AC4347 (SFO-SAT)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

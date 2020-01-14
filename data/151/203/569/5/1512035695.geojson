@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2351",
+    "flysfo:flight_number":"2351",
     "flysfo:gate":"E7",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578790200,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948855,
+    "wof:lastmodified":1579022354,
     "wof:name":"AV2351 (DEN-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

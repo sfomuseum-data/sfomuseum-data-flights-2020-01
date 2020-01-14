@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL610",
+    "flysfo:flight_number":"610",
     "flysfo:gate":"C3",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930319,
         1159289939
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022776,
     "wof:name":"DL610 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

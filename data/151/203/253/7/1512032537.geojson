@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1865",
+    "flysfo:flight_number":"1865",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930319,
         1159289939
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022543,
     "wof:name":"DL1865 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA517",
+    "flysfo:flight_number":"517",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-IAD",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930389
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022762,
     "wof:name":"UA517 (SFO-IAD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

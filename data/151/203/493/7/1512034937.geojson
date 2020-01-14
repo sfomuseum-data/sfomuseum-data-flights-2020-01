@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AI173",
+    "flysfo:flight_number":"173",
     "flysfo:gate":"G8",
     "flysfo:journey":"DEL-SFO",
     "flysfo:scheduled_timestamp":1578765240,
@@ -96,7 +96,7 @@
         1159283649,
         1477930477
     ],
-    "wof:lastmodified":1578948967,
+    "wof:lastmodified":1579022538,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

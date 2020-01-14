@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578902100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5821",
+    "flysfo:flight_number":"5821",
     "flysfo:gate":"D9",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578904020,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022965,
     "wof:name":"FJ5821 (KOA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

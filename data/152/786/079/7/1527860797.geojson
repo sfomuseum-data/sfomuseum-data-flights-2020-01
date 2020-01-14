@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578982620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS426",
+    "flysfo:flight_number":"426",
     "flysfo:gate":"D7",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578981780,
@@ -88,7 +88,7 @@
         1159283813,
         1477930353
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022920,
     "wof:name":"AS426 (PDX-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

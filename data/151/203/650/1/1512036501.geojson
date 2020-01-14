@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LY9416",
+    "flysfo:flight_number":"9416",
     "flysfo:gate":"A15",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578790020,
@@ -94,7 +94,7 @@
         1477930315,
         1159283813
     ],
-    "wof:lastmodified":1578948912,
+    "wof:lastmodified":1579022441,
     "wof:name":"LY9416 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

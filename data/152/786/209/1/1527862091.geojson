@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578931260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE7455",
+    "flysfo:flight_number":"7455",
     "flysfo:gate":"C5",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578933300,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579023009,
     "wof:name":"KE7455 (LAX-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

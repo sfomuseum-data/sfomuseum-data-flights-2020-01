@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS755",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9379",
+    "flysfo:flight_number":"9379",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-KOA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022795,
     "wof:name":"LY9379 (SFO-KOA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

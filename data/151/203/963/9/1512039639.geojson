@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9396",
+    "flysfo:flight_number":"9396",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-EUG",
     "flysfo:scheduled_timestamp":1578802200,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948867,
+    "wof:lastmodified":1579022372,
     "wof:name":"LH9396 (SFO-EUG)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

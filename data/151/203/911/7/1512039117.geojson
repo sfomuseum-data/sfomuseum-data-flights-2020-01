@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578817200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV4510",
+    "flysfo:flight_number":"4510",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578817200,
@@ -94,7 +94,7 @@
         1477930475,
         1159284349
     ],
-    "wof:lastmodified":1578948983,
+    "wof:lastmodified":1579022564,
     "wof:name":"AV4510 (SFO-TPE)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

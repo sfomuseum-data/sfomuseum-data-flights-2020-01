@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK41",
+    "flysfo:flight_number":"41",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-DXB",
     "flysfo:scheduled_timestamp":1578875700,
@@ -48,7 +48,7 @@
         1159284333,
         -1
     ],
-    "wof:lastmodified":1578932074,
+    "wof:lastmodified":1579022867,
     "wof:name":"EK41 (SFO-DXB)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

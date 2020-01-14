@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2359",
+    "flysfo:flight_number":"2359",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578980760,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579023001,
     "wof:name":"AV2359 (SLC-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9558",
+    "flysfo:flight_number":"9558",
     "flysfo:gate":"E6",
     "flysfo:journey":"RDU-SFO",
     "flysfo:scheduled_timestamp":1578851100,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578948772,
+    "wof:lastmodified":1579022220,
     "wof:name":"NZ9558 (RDU-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

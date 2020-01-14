@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9212",
+    "flysfo:flight_number":"9212",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578984900,
@@ -94,7 +94,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022964,
     "wof:name":"LH9212 (SFO-LAS)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

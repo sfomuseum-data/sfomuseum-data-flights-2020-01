@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578792540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1347",
+    "flysfo:flight_number":"1347",
     "flysfo:gate":"E2",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578789060,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948926,
+    "wof:lastmodified":1579022466,
     "wof:name":"UA1347 (DEN-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

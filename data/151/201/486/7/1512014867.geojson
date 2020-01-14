@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR18",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ5818",
+    "flysfo:flight_number":"5818",
     "flysfo:gate":"G13",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159284349
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"SQ5818 (TPE-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

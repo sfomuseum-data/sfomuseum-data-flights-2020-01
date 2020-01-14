@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1687",
+    "flysfo:flight_number":"1687",
     "flysfo:gate":"G1",
     "flysfo:journey":"SJD-SFO",
     "flysfo:scheduled_timestamp":1578701400,
@@ -101,7 +101,7 @@
         1477930461,
         1159289871
     ],
-    "wof:lastmodified":1578948964,
+    "wof:lastmodified":1579022532,
     "wof:name":"UA1687 (SJD-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

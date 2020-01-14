@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1729",
+    "flysfo:flight_number":"1729",
     "flysfo:gate":"B12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578686100,
@@ -99,7 +99,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949015,
+    "wof:lastmodified":1579022639,
     "wof:name":"WN1729 (LAS-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1294",
+    "flysfo:flight_number":"1294",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930405
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022810,
     "wof:name":"UA1294 (SFO-LAX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1824",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4215",
+    "flysfo:flight_number":"4215",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022811,
     "wof:name":"AC4215 (SFO-SLC)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1255",
+    "flysfo:flight_number":"1255",
     "flysfo:gate":"D7",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578690600,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949016,
+    "wof:lastmodified":1579022642,
     "wof:name":"SQ1255 (JFK-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

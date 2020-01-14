@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9010",
+    "flysfo:flight_number":"9010",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578845700,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022268,
     "wof:name":"NZ9010 (SFO-BOS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

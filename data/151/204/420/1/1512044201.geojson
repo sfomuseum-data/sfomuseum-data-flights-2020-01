@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1421",
+    "flysfo:flight_number":"1421",
     "flysfo:gate":"D9",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948821,
+    "wof:lastmodified":1579022297,
     "wof:name":"SQ1421 (EWR-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

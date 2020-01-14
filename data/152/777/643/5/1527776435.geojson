@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1305",
+    "flysfo:flight_number":"1305",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578851100,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"SQ1305 (SFO-IAD)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

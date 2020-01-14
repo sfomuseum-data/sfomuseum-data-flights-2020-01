@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA499",
+    "flysfo:flight_number":"499",
     "flysfo:gate":"E3",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578782160,
@@ -104,7 +104,7 @@
         1477930381,
         1159289871
     ],
-    "wof:lastmodified":1578948930,
+    "wof:lastmodified":1579022472,
     "wof:name":"UA499 (ORD-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

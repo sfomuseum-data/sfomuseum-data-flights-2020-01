@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TP237",
+    "flysfo:flight_number":"237",
     "flysfo:gate":"G4",
     "flysfo:journey":"LIS-SFO",
     "flysfo:scheduled_timestamp":1578696600,
@@ -94,7 +94,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1578949022,
+    "wof:lastmodified":1579022651,
     "wof:name":"TP237 (LIS-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5260",
+    "flysfo:flight_number":"5260",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-BFL",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578949522,
+    "wof:lastmodified":1579022750,
     "wof:name":"UA5260 (SFO-BFL)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

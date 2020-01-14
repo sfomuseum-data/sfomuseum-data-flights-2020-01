@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3239",
+    "flysfo:flight_number":"3239",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578697140,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022652,
     "wof:name":"LX3239 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

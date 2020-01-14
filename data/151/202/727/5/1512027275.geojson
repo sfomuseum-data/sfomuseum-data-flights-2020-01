@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4174",
+    "flysfo:flight_number":"4174",
     "flysfo:gate":"F6",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578687720,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578949051,
+    "wof:lastmodified":1579022673,
     "wof:name":"AC4174 (BUR-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

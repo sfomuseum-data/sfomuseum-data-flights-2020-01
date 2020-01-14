@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL9363",
+    "flysfo:flight_number":"9363",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-AMS",
     "flysfo:scheduled_timestamp":1578695700,
@@ -94,7 +94,7 @@
         1477930283,
         1159284613
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"DL9363 (SFO-AMS)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

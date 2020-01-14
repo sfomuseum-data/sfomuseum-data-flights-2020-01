@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2423",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9584",
+    "flysfo:flight_number":"9584",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022793,
     "wof:name":"NZ9584 (SFO-SAN)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

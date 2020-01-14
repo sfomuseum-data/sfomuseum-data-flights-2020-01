@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9409",
+    "flysfo:flight_number":"9409",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578699900,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022396,
     "wof:name":"LY9409 (SFO-PSP)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

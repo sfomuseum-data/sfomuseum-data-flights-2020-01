@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1769",
+    "flysfo:flight_number":"1769",
     "flysfo:gate":"F2",
     "flysfo:journey":"RDU-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578949576,
+    "wof:lastmodified":1579022831,
     "wof:name":"UA1769 (RDU-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

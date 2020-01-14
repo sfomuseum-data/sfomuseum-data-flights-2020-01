@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578950220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ5712",
+    "flysfo:flight_number":"5712",
     "flysfo:gate":"G5",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578952800,
@@ -94,7 +94,7 @@
         1477930469,
         1159283917
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022942,
     "wof:name":"SQ5712 (ICN-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578928500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL6231",
+    "flysfo:flight_number":"6231",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578928500,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022960,
     "wof:name":"KL6231 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

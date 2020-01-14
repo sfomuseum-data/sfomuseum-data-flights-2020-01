@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1806",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS7638",
+    "flysfo:flight_number":"7638",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022812,
     "wof:name":"WS7638 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

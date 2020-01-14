@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578799620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS7858",
+    "flysfo:flight_number":"7858",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578799800,
@@ -94,7 +94,7 @@
         1477930479,
         1159285413
     ],
-    "wof:lastmodified":1578948865,
+    "wof:lastmodified":1579022369,
     "wof:name":"OS7858 (SFO-LHR)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

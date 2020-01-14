@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578977220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA257",
+    "flysfo:flight_number":"257",
     "flysfo:gate":"F21",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578977340,
@@ -88,7 +88,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579023000,
     "wof:name":"UA257 (DEN-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

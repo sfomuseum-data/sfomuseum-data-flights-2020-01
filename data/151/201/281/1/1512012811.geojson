@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1162",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9130",
+    "flysfo:flight_number":"9130",
     "flysfo:gate":"F12",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"NZ9130 (EWR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

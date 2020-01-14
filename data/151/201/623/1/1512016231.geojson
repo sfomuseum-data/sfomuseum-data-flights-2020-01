@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA705",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5332",
+    "flysfo:flight_number":"5332",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"AC5332 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

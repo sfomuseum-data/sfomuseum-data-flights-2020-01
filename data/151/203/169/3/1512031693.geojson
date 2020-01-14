@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2166",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9343",
+    "flysfo:flight_number":"9343",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-PDX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022382,
     "wof:name":"NZ9343 (SFO-PDX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

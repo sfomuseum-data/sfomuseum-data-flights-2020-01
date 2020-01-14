@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS2951",
+    "flysfo:flight_number":"2951",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578935100,
@@ -48,7 +48,7 @@
         1159283813,
         -1
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022917,
     "wof:name":"AS2951 (SFO-SEA)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN103",
+    "flysfo:flight_number":"103",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022802,
     "wof:name":"WN103 (SFO-LAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1175",
+    "flysfo:flight_number":"1175",
     "flysfo:gate":"C9",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930333,
         1159289411
     ],
-    "wof:lastmodified":1578949517,
+    "wof:lastmodified":1579022742,
     "wof:name":"AA1175 (DFW-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

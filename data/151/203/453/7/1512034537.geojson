@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578811380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA6085",
+    "flysfo:flight_number":"6085",
     "flysfo:gate":"C9",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578812400,
@@ -88,7 +88,7 @@
         1159283849,
         1477930333
     ],
-    "wof:lastmodified":1578948911,
+    "wof:lastmodified":1579022440,
     "wof:name":"AA6085 (LAX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

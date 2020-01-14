@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ4220",
+    "flysfo:flight_number":"4220",
     "flysfo:gate":"G13",
     "flysfo:journey":"FRA-SFO",
     "flysfo:scheduled_timestamp":1578689400,
@@ -94,7 +94,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578949021,
+    "wof:lastmodified":1579022648,
     "wof:name":"NZ4220 (FRA-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

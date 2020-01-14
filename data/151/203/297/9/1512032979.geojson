@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS743",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5806",
+    "flysfo:flight_number":"5806",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-HNL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"FJ5806 (SFO-HNL)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

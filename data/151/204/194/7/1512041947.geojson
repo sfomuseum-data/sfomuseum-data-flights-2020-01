@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF2968",
+    "flysfo:flight_number":"2968",
     "flysfo:gate":"C5",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578889800,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948765,
+    "wof:lastmodified":1579022204,
     "wof:name":"AF2968 (ATL-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

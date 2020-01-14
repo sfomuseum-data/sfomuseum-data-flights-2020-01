@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7963",
+    "flysfo:flight_number":"7963",
     "flysfo:gate":"D8",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578895380,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948849,
+    "wof:lastmodified":1579022345,
     "wof:name":"CX7963 (PDX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

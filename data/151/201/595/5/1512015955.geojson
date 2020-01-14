@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3452",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7543",
+    "flysfo:flight_number":"7543",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"AA7543 (SFO-SLC)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

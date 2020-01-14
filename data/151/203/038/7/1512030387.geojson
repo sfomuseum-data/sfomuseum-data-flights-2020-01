@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5372",
+    "flysfo:flight_number":"5372",
     "flysfo:gate":"F8",
     "flysfo:journey":"PSC-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"UA5372 (PSC-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

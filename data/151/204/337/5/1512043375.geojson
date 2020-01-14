@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL8552",
+    "flysfo:flight_number":"8552",
     "flysfo:gate":"A1",
     "flysfo:journey":"CDG-SFO",
     "flysfo:scheduled_timestamp":1578863700,
@@ -94,7 +94,7 @@
         1477930281,
         1159283627
     ],
-    "wof:lastmodified":1578948764,
+    "wof:lastmodified":1579022202,
     "wof:name":"DL8552 (CDG-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

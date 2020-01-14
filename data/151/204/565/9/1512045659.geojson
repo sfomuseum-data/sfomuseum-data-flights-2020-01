@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC8839",
+    "flysfo:flight_number":"8839",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578846000,
@@ -48,7 +48,7 @@
         1159283597,
         -1
     ],
-    "wof:lastmodified":1578932067,
+    "wof:lastmodified":1579022285,
     "wof:name":"AC8839 (SFO-YVR)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578956280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4506",
+    "flysfo:flight_number":"4506",
     "flysfo:gate":"E12",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578956520,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022859,
     "wof:name":"AC4506 (PHX-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

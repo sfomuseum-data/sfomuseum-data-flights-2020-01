@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA735",
+    "flysfo:flight_number":"735",
     "flysfo:gate":"F17",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289995
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022779,
     "wof:name":"UA735 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578755700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA540",
+    "flysfo:flight_number":"540",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578756000,
@@ -104,7 +104,7 @@
         1477930393,
         1377564285
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022290,
     "wof:name":"UA540 (SFO-IAH)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

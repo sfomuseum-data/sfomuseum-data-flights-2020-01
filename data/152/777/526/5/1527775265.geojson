@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578886320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN9100",
+    "flysfo:flight_number":"9100",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578886200,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"SN9100 (SFO-LHR)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

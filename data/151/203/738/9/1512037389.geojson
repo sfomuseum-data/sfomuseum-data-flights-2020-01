@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578775500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2348",
+    "flysfo:flight_number":"2348",
     "flysfo:gate":"E12",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578777300,
@@ -104,7 +104,7 @@
         1477930403,
         1159292085
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022378,
     "wof:name":"UA2348 (PDX-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

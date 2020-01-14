@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578809460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1893",
+    "flysfo:flight_number":"1893",
     "flysfo:gate":"F16",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578808800,
@@ -104,7 +104,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1578948870,
+    "wof:lastmodified":1579022377,
     "wof:name":"UA1893 (IAD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

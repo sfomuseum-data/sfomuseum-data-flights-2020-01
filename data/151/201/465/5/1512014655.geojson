@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL610",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL5898",
+    "flysfo:flight_number":"5898",
     "flysfo:gate":"C3",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"KL5898 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5316",
+    "flysfo:flight_number":"5316",
     "flysfo:gate":"F9",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578757680,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"UA5316 (MRY-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

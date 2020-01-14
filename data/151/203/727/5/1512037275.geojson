@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1682",
+    "flysfo:flight_number":"1682",
     "flysfo:gate":"E4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578762600,
@@ -104,7 +104,7 @@
         1477930385,
         1377564285
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022605,
     "wof:name":"UA1682 (SAN-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

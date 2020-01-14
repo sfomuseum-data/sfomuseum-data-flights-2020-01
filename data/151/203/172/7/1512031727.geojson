@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578725460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9401",
+    "flysfo:flight_number":"9401",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578725820,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022464,
     "wof:name":"NZ9401 (SFO-SEA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

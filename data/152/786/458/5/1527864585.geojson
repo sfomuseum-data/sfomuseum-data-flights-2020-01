@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578930900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2039",
+    "flysfo:flight_number":"2039",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578931200,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023008,
     "wof:name":"AV2039 (SFO-LAX)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

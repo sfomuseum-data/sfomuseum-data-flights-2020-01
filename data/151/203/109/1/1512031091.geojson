@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4484",
+    "flysfo:flight_number":"4484",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578693600,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948938,
+    "wof:lastmodified":1579022485,
     "wof:name":"AC4484 (SFO-SBA)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

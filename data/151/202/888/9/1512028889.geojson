@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2054",
+    "flysfo:flight_number":"2054",
     "flysfo:gate":"C2",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578707040,
@@ -104,7 +104,7 @@
         1477930317,
         1377564285
     ],
-    "wof:lastmodified":1578949011,
+    "wof:lastmodified":1579022632,
     "wof:name":"DL2054 (ATL-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

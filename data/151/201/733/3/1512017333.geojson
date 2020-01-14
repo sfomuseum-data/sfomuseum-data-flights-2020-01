@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA720",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7308",
+    "flysfo:flight_number":"7308",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"CA7308 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

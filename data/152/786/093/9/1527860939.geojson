@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578992640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA4334",
+    "flysfo:flight_number":"4334",
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578992340,
@@ -94,7 +94,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579023024,
     "wof:name":"BA4334 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

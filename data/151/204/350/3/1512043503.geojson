@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9235",
+    "flysfo:flight_number":"9235",
     "flysfo:gate":"F1",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578857820,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948804,
+    "wof:lastmodified":1579022273,
     "wof:name":"LH9235 (PDX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

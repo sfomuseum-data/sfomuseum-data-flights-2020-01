@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578944100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS372",
+    "flysfo:flight_number":"372",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PVR",
     "flysfo:scheduled_timestamp":1578944100,
@@ -88,7 +88,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022944,
     "wof:name":"AS372 (SFO-PVR)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

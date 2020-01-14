@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA455",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5336",
+    "flysfo:flight_number":"5336",
     "flysfo:gate":"F3",
     "flysfo:journey":"AUS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"AC5336 (AUS-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

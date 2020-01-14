@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1162",
+    "flysfo:flight_number":"1162",
     "flysfo:gate":"F12",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022775,
     "wof:name":"UA1162 (EWR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

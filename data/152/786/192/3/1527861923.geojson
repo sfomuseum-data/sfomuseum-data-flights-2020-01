@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578990120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2361",
+    "flysfo:flight_number":"2361",
     "flysfo:gate":"",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578989940,
@@ -54,7 +54,7 @@
         -1,
         1159284583
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022909,
     "wof:name":"HA2361 (JFK-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

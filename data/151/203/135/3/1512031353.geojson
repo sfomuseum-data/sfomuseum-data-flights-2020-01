@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA875",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7011",
+    "flysfo:flight_number":"7011",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-HND",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"NH7011 (SFO-HND)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

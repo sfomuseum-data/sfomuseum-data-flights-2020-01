@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1002",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5805",
+    "flysfo:flight_number":"5805",
     "flysfo:gate":"D16",
     "flysfo:journey":"DCA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022740,
     "wof:name":"FJ5805 (DCA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

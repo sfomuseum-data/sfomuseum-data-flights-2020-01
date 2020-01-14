@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7243",
+    "flysfo:flight_number":"7243",
     "flysfo:gate":"E5",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578937500,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022911,
     "wof:name":"CA7243 (ATL-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

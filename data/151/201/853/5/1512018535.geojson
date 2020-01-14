@@ -7,7 +7,7 @@
     "flysfo:airline":"SY",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SY698",
+    "flysfo:flight_number":"698",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285227,
         1477930477
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022803,
     "wof:name":"SY698 (SFO-PDX)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

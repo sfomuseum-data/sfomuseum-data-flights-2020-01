@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2362",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7228",
+    "flysfo:flight_number":"7228",
     "flysfo:gate":"F19",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022712,
     "wof:name":"CA7228 (DEN-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

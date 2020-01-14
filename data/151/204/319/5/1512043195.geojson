@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7615",
+    "flysfo:flight_number":"7615",
     "flysfo:gate":"D10",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578847800,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948848,
+    "wof:lastmodified":1579022344,
     "wof:name":"CX7615 (DFW-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

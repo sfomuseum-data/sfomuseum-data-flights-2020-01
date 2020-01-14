@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH6492",
+    "flysfo:flight_number":"6492",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578770280,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948879,
+    "wof:lastmodified":1579022390,
     "wof:name":"NH6492 (SFO-IAH)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

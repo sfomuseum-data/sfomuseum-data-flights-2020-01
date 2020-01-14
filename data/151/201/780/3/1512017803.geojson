@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1152",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9212",
+    "flysfo:flight_number":"9212",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"LH9212 (SFO-LAS)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

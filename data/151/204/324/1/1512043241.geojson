@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1259",
+    "flysfo:flight_number":"1259",
     "flysfo:gate":"C10",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578858360,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"CZ1259 (SEA-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1066",
+    "flysfo:flight_number":"1066",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578877200,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022885,
     "wof:name":"CM1066 (SFO-LAX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

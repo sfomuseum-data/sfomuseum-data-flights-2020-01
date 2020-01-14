@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2055",
+    "flysfo:flight_number":"2055",
     "flysfo:gate":"F10",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578785580,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022366,
     "wof:name":"AV2055 (MRY-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

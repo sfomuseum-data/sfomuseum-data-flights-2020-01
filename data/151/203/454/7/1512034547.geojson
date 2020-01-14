@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578800160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA686",
+    "flysfo:flight_number":"686",
     "flysfo:gate":"C7",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578799860,
@@ -88,7 +88,7 @@
         1159283849,
         1477930327
     ],
-    "wof:lastmodified":1578948910,
+    "wof:lastmodified":1579022438,
     "wof:name":"AA686 (PHX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

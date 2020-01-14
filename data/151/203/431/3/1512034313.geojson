@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NH7",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA7949",
+    "flysfo:flight_number":"7949",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-NRT",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930487,
         1159283875
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022429,
     "wof:name":"UA7949 (SFO-NRT)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

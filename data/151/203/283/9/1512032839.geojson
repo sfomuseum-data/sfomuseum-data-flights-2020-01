@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1300",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3796",
+    "flysfo:flight_number":"3796",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-MCO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022509,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

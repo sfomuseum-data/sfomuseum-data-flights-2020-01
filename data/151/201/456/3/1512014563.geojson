@@ -11,7 +11,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"B62136",
+    "flysfo:flight_number":"2136",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1578949554,
+    "wof:lastmodified":1579022799,
     "wof:name":"B62136 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

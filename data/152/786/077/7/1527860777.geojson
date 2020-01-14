@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578939180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3471",
+    "flysfo:flight_number":"3471",
     "flysfo:gate":"D18",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578940320,
@@ -88,7 +88,7 @@
         1159283813,
         1477930375
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022923,
     "wof:name":"AS3471 (SNA-SFO)",
     "wof:parent_id":1477930375,
     "wof:placetype":"event",

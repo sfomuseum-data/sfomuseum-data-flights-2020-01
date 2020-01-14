@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA577",
+    "flysfo:flight_number":"577",
     "flysfo:gate":"F3",
     "flysfo:journey":"DTW-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930411,
         1159289871
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"UA577 (DTW-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

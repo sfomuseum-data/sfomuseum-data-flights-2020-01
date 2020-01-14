@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5477",
+    "flysfo:flight_number":"5477",
     "flysfo:gate":"F9",
     "flysfo:journey":"JAC-SFO",
     "flysfo:scheduled_timestamp":1578876060,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022221,
     "wof:name":"UA5477 (JAC-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1279",
+    "flysfo:flight_number":"1279",
     "flysfo:gate":"G11",
     "flysfo:journey":"SJD-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930483
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022761,
     "wof:name":"AS1279 (SJD-SFO)",
     "wof:parent_id":1477930483,
     "wof:placetype":"event",

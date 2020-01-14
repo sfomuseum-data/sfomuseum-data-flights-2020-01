@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA229",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2157",
+    "flysfo:flight_number":"2157",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022829,
     "wof:name":"AV2157 (SFO-LAX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

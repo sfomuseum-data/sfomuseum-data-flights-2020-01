@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5549",
+    "flysfo:flight_number":"5549",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-ACV",
     "flysfo:scheduled_timestamp":1578765360,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948770,
+    "wof:lastmodified":1579022214,
     "wof:name":"UA5549 (SFO-ACV)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

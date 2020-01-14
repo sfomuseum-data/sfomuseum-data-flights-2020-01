@@ -7,7 +7,7 @@
     "flysfo:airline":"AV",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV565",
+    "flysfo:flight_number":"565",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-SAL",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159283957,
         1477930303
     ],
-    "wof:lastmodified":1578948876,
+    "wof:lastmodified":1579022385,
     "wof:name":"AV565 (SFO-SAL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

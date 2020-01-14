@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL426",
+    "flysfo:flight_number":"426",
     "flysfo:gate":"C5",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578718500,
@@ -104,7 +104,7 @@
         1477930323,
         1159289939
     ],
-    "wof:lastmodified":1578949011,
+    "wof:lastmodified":1579022633,
     "wof:name":"DL426 (JFK-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1221",
+    "flysfo:flight_number":"1221",
     "flysfo:gate":"D3",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578705600,
@@ -104,7 +104,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"AS1221 (AUS-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

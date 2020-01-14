@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX873",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9183",
+    "flysfo:flight_number":"9183",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930303,
         1159284127
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022791,
     "wof:name":"MH9183 (SFO-HKG)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

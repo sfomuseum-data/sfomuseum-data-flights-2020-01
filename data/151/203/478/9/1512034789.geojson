@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5033",
+    "flysfo:flight_number":"5033",
     "flysfo:gate":"G1",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578790200,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578948876,
+    "wof:lastmodified":1579022386,
     "wof:name":"AC5033 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

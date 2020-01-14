@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1338",
+    "flysfo:flight_number":"1338",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578688200,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948915,
+    "wof:lastmodified":1579022448,
     "wof:name":"SQ1338 (SFO-LAX)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

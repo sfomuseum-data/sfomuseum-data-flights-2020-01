@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA890",
+    "flysfo:flight_number":"890",
     "flysfo:gate":"G1",
     "flysfo:journey":"PVG-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930461,
         1159289985
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022813,
     "wof:name":"UA890 (PVG-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

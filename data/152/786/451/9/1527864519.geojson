@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578964800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS357",
+    "flysfo:flight_number":"357",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578964800,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579023011,
     "wof:name":"AS357 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

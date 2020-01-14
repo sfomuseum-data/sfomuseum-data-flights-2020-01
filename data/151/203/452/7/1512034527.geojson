@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA362",
+    "flysfo:flight_number":"362",
     "flysfo:gate":"D10",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578813180,
@@ -88,7 +88,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578948901,
+    "wof:lastmodified":1579022423,
     "wof:name":"AA362 (ORD-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

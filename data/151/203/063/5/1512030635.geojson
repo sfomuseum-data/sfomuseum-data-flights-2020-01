@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA816",
+    "flysfo:flight_number":"816",
     "flysfo:gate":"F16",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578699780,
@@ -102,7 +102,7 @@
         1477930445,
         1159289871
     ],
-    "wof:lastmodified":1578948906,
+    "wof:lastmodified":1579022431,
     "wof:name":"UA816 (SEA-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

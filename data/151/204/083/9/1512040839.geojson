@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578805020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5700",
+    "flysfo:flight_number":"5700",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-RDM",
     "flysfo:scheduled_timestamp":1578805380,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948773,
+    "wof:lastmodified":1579022220,
     "wof:name":"UA5700 (SFO-RDM)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

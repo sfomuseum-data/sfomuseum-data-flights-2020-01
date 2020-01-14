@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3074",
+    "flysfo:flight_number":"3074",
     "flysfo:gate":"D10",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578855120,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022196,
     "wof:name":"QF3074 (JFK-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

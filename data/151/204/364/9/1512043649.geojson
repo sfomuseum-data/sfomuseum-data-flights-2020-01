@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF73",
+    "flysfo:flight_number":"73",
     "flysfo:gate":"A5",
     "flysfo:journey":"SYD-SFO",
     "flysfo:scheduled_timestamp":1578860700,
@@ -88,7 +88,7 @@
         1159284313,
         1477930291
     ],
-    "wof:lastmodified":1578948767,
+    "wof:lastmodified":1579022207,
     "wof:name":"QF73 (SYD-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

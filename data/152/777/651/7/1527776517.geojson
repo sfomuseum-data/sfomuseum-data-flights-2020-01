@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578906780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1491",
+    "flysfo:flight_number":"1491",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578902340,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"SQ1491 (SFO-JFK)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

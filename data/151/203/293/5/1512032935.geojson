@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578693600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"F91514",
+    "flysfo:flight_number":"1514",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578693600,
@@ -104,7 +104,7 @@
         1477930303,
         1377564295
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022430,
     "wof:name":"F91514 (SFO-ATL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

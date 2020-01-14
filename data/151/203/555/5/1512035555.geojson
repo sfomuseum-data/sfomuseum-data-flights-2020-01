@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS2792",
+    "flysfo:flight_number":"2792",
     "flysfo:gate":"D1",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578800100,
@@ -88,7 +88,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578948936,
+    "wof:lastmodified":1579022482,
     "wof:name":"AS2792 (SNA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3948",
+    "flysfo:flight_number":"3948",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578889620,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022279,
     "wof:name":"AC3948 (SFO-PHX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

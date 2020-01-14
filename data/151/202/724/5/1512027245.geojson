@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4033",
+    "flysfo:flight_number":"4033",
     "flysfo:gate":"F6",
     "flysfo:journey":"ABQ-SFO",
     "flysfo:scheduled_timestamp":1578705360,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578949019,
+    "wof:lastmodified":1579022646,
     "wof:name":"AC4033 (ABQ-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

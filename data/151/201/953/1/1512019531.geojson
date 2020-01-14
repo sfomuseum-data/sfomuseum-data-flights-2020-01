@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL854",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1796",
+    "flysfo:flight_number":"1796",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"VS1796 (SFO-DTW)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

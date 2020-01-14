@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1241",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6744",
+    "flysfo:flight_number":"6744",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022803,
     "wof:name":"KE6744 (SFO-SLC)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

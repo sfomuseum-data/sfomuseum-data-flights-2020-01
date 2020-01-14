@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703680,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5695",
+    "flysfo:flight_number":"5695",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-MCI",
     "flysfo:scheduled_timestamp":1578703500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948883,
+    "wof:lastmodified":1579022397,
     "wof:name":"UA5695 (SFO-MCI)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

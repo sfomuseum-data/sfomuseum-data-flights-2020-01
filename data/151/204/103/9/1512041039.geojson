@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA871",
+    "flysfo:flight_number":"871",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578778500,
@@ -104,7 +104,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1578948759,
+    "wof:lastmodified":1579022190,
     "wof:name":"UA871 (SFO-TPE)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

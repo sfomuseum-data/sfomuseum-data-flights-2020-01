@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5697",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4533",
+    "flysfo:flight_number":"4533",
     "flysfo:gate":"F5",
     "flysfo:journey":"SMF-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022803,
     "wof:name":"AC4533 (SMF-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

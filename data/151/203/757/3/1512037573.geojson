@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578806280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5523",
+    "flysfo:flight_number":"5523",
     "flysfo:gate":"F6",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578808560,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"UA5523 (MSP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

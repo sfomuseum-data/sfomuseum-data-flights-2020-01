@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2548",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5062",
+    "flysfo:flight_number":"5062",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-MIA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022789,
     "wof:name":"FJ5062 (SFO-MIA)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5976",
+    "flysfo:flight_number":"5976",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-MMH",
     "flysfo:scheduled_timestamp":1578933960,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022916,
     "wof:name":"UA5976 (SFO-MMH)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

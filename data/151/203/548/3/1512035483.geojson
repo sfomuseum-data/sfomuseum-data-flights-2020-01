@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1279",
+    "flysfo:flight_number":"1279",
     "flysfo:gate":"A15",
     "flysfo:journey":"SJD-SFO",
     "flysfo:scheduled_timestamp":1578796440,
@@ -101,7 +101,7 @@
         1477930315,
         1159292085
     ],
-    "wof:lastmodified":1578948994,
+    "wof:lastmodified":1579022594,
     "wof:name":"AS1279 (SJD-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

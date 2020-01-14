@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9314",
+    "flysfo:flight_number":"9314",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578708420,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022378,
     "wof:name":"NZ9314 (SFO-ORD)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

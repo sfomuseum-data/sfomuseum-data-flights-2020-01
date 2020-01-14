@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5514",
+    "flysfo:flight_number":"5514",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578959340,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022959,
     "wof:name":"AC5514 (SFO-BUR)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

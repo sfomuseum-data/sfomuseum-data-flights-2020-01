@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA271",
+    "flysfo:flight_number":"271",
     "flysfo:gate":"E5",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578877200,
@@ -104,7 +104,7 @@
         1477930387,
         1159292085
     ],
-    "wof:lastmodified":1578948838,
+    "wof:lastmodified":1579022326,
     "wof:name":"UA271 (AUS-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578948060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS430",
+    "flysfo:flight_number":"430",
     "flysfo:gate":"D5",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578948720,
@@ -88,7 +88,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022991,
     "wof:name":"AS430 (PDX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

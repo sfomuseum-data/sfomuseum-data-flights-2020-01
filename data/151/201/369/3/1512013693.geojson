@@ -11,7 +11,7 @@
     "flysfo:airline":"CM",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM208",
+    "flysfo:flight_number":"208",
     "flysfo:gate":"G7",
     "flysfo:journey":"PTY-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930475,
         1159289871
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"CM208 (PTY-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

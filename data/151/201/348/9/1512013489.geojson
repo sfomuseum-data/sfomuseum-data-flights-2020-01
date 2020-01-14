@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA560",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN8889",
+    "flysfo:flight_number":"8889",
     "flysfo:gate":"F16",
     "flysfo:journey":"IAD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022748,
     "wof:name":"SN8889 (IAD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7295",
+    "flysfo:flight_number":"7295",
     "flysfo:gate":"E11",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578933780,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022984,
     "wof:name":"CA7295 (ORD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

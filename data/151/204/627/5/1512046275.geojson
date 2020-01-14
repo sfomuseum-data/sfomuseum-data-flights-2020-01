@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1088",
+    "flysfo:flight_number":"1088",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578873300,
@@ -88,7 +88,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578948777,
+    "wof:lastmodified":1579022226,
     "wof:name":"AS1088 (SFO-IAD)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

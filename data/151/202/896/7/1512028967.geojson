@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AM662",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL8079",
+    "flysfo:flight_number":"8079",
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1578949037,
+    "wof:lastmodified":1579022663,
     "wof:name":"DL8079 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

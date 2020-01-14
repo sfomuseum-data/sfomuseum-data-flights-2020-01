@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9629",
+    "flysfo:flight_number":"9629",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578758160,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022222,
     "wof:name":"MH9629 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

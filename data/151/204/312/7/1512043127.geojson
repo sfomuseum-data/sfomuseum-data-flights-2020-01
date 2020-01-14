@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2423",
+    "flysfo:flight_number":"2423",
     "flysfo:gate":"F3A",
     "flysfo:journey":"MFR-SFO",
     "flysfo:scheduled_timestamp":1578875580,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"CM2423 (MFR-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

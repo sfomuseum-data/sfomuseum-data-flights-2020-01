@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AI7203",
+    "flysfo:flight_number":"7203",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578729000,
@@ -94,7 +94,7 @@
         1477930471,
         1159285163
     ],
-    "wof:lastmodified":1578948949,
+    "wof:lastmodified":1579022506,
     "wof:name":"AI7203 (SFO-HKG)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

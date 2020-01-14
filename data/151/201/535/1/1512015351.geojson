@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA481",
+    "flysfo:flight_number":"481",
     "flysfo:gate":"E8",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022714,
     "wof:name":"UA481 (LAX-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

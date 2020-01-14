@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1865",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5983",
+    "flysfo:flight_number":"5983",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948930,
+    "wof:lastmodified":1579022473,
     "wof:name":"AF5983 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

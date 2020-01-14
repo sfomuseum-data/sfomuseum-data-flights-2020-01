@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN4246",
+    "flysfo:flight_number":"4246",
     "flysfo:gate":"B13",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578799200,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022381,
     "wof:name":"WN4246 (BUR-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

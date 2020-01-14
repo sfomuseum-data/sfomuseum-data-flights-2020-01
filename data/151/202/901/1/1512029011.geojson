@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5876",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7838",
+    "flysfo:flight_number":"7838",
     "flysfo:gate":"F15N",
     "flysfo:journey":"FAT-SFO",
     "flysfo:timestamp":1578689340,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949002,
+    "wof:lastmodified":1579022614,
     "wof:name":"LH7838 (FAT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

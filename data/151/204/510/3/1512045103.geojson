@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA9728",
+    "flysfo:flight_number":"9728",
     "flysfo:gate":"G6",
     "flysfo:journey":"ZRH-SFO",
     "flysfo:scheduled_timestamp":1578874500,
@@ -94,7 +94,7 @@
         1477930471,
         1159286475
     ],
-    "wof:lastmodified":1578948795,
+    "wof:lastmodified":1579022261,
     "wof:name":"UA9728 (ZRH-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

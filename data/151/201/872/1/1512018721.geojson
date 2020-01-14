@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2171",
+    "flysfo:flight_number":"2171",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-ONT",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578949506,
+    "wof:lastmodified":1579022727,
     "wof:name":"WN2171 (SFO-ONT)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

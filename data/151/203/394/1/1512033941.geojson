@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA292",
+    "flysfo:flight_number":"292",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-MCO",
     "flysfo:scheduled_timestamp":1578690300,
@@ -104,7 +104,7 @@
         1477930435,
         1159289871
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022496,
     "wof:name":"UA292 (SFO-MCO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

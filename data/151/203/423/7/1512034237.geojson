@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5943",
+    "flysfo:flight_number":"5943",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578709140,
@@ -88,7 +88,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"UA5943 (SFO-DFW)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

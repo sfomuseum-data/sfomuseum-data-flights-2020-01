@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5579",
+    "flysfo:flight_number":"5579",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SBA",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022523,
     "wof:name":"UA5579 (SFO-SBA)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

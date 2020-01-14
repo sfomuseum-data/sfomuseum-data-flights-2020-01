@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7294",
+    "flysfo:flight_number":"7294",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578689160,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022635,
     "wof:name":"CA7294 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5920",
+    "flysfo:flight_number":"5920",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-BUR",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022711,
     "wof:name":"UA5920 (SFO-BUR)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

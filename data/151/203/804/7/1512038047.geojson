@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6403",
+    "flysfo:flight_number":"6403",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578790020,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"OZ6403 (SFO-AUS)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

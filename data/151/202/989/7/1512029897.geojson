@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN210",
+    "flysfo:flight_number":"210",
     "flysfo:gate":"B18",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578706800,
@@ -104,7 +104,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1578949045,
+    "wof:lastmodified":1579022669,
     "wof:name":"WN210 (LAS-SFO)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

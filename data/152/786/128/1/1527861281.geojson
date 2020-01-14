@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578973500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7480",
+    "flysfo:flight_number":"7480",
     "flysfo:gate":"D9",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578973200,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022969,
     "wof:name":"CX7480 (SEA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

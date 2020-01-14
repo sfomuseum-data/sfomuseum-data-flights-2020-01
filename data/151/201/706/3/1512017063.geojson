@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3352",
+    "flysfo:flight_number":"3352",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-DAL",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930337
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022702,
     "wof:name":"AS3352 (SFO-DAL)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

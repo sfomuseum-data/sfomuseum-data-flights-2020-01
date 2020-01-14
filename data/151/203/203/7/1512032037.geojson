@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS819",
+    "flysfo:flight_number":"819",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-OGG",
     "flysfo:timestamp":1578684840,
@@ -101,7 +101,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578948902,
+    "wof:lastmodified":1579022425,
     "wof:name":"AS819 (SFO-OGG)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

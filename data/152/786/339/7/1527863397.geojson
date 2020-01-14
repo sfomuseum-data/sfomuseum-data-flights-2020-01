@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA6045",
+    "flysfo:flight_number":"6045",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578963600,
@@ -88,7 +88,7 @@
         1159283849,
         1477930327
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579022913,
     "wof:name":"AA6045 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

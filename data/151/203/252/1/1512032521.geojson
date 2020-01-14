@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1390",
+    "flysfo:flight_number":"1390",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-SLC",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930317,
         1159289407
     ],
-    "wof:lastmodified":1578948982,
+    "wof:lastmodified":1579022563,
     "wof:name":"DL1390 (SFO-SLC)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

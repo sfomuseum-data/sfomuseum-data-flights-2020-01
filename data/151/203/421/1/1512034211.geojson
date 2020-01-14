@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5871",
+    "flysfo:flight_number":"5871",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-PAE",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022510,
     "wof:name":"UA5871 (SFO-PAE)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA555",
+    "flysfo:flight_number":"555",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-SAN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930451,
         1377564285
     ],
-    "wof:lastmodified":1578948953,
+    "wof:lastmodified":1579022512,
     "wof:name":"UA555 (SFO-SAN)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

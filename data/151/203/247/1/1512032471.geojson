@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7996",
+    "flysfo:flight_number":"7996",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578715800,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022523,
     "wof:name":"CX7996 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA954",
+    "flysfo:flight_number":"954",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-TLV",
     "flysfo:scheduled_timestamp":1578894000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930469
     ],
-    "wof:lastmodified":1578950085,
+    "wof:lastmodified":1579022862,
     "wof:name":"UA954 (SFO-TLV)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

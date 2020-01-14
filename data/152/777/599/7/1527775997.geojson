@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5816",
+    "flysfo:flight_number":"5816",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578875400,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022883,
     "wof:name":"FJ5816 (SFO-PDX)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

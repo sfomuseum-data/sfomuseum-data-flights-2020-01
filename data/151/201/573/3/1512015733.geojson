@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1505",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS1569",
+    "flysfo:flight_number":"1569",
     "flysfo:gate":"C5",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022763,
     "wof:name":"VS1569 (MSP-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

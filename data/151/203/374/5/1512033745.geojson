@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1175",
+    "flysfo:flight_number":"1175",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-HNL",
     "flysfo:timestamp":0,
@@ -100,7 +100,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022584,
     "wof:name":"UA1175 (SFO-HNL)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9068",
+    "flysfo:flight_number":"9068",
     "flysfo:gate":"F17",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578967440,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023005,
     "wof:name":"NZ9068 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

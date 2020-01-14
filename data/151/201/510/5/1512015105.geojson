@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1396",
+    "flysfo:flight_number":"1396",
     "flysfo:gate":"",
     "flysfo:journey":"BOI-SFO",
     "geom:area":0.0,
@@ -44,7 +44,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578693510,
+    "wof:lastmodified":1579022745,
     "wof:name":"UA1396 (BOI-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

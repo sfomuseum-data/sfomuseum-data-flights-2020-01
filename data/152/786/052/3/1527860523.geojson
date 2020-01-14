@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578943440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9444",
+    "flysfo:flight_number":"9444",
     "flysfo:gate":"E13",
     "flysfo:journey":"FLL-SFO",
     "flysfo:scheduled_timestamp":1578943740,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022946,
     "wof:name":"NZ9444 (FLL-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

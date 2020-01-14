@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5754",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7394",
+    "flysfo:flight_number":"7394",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"NH7394 (SFO-YVR)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

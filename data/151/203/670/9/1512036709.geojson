@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5449",
+    "flysfo:flight_number":"5449",
     "flysfo:gate":"D6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578773100,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948965,
+    "wof:lastmodified":1579022534,
     "wof:name":"JL5449 (BOS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

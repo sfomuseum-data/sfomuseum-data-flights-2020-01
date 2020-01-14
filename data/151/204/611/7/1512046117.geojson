@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9370",
+    "flysfo:flight_number":"9370",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578884460,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022229,
     "wof:name":"NZ9370 (SFO-PHX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2410",
+    "flysfo:flight_number":"2410",
     "flysfo:gate":"E8",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578869700,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"CM2410 (PDX-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

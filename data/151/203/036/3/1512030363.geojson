@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5319",
+    "flysfo:flight_number":"5319",
     "flysfo:gate":"F10",
     "flysfo:journey":"GEG-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948902,
+    "wof:lastmodified":1579022424,
     "wof:name":"UA5319 (GEG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

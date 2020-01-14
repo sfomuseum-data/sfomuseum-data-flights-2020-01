@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3404",
+    "flysfo:flight_number":"3404",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-DAL",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1578948969,
+    "wof:lastmodified":1579022540,
     "wof:name":"AS3404 (SFO-DAL)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

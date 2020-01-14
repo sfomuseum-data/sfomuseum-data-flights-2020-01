@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578907740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1330",
+    "flysfo:flight_number":"1330",
     "flysfo:gate":"D5",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578903480,
@@ -88,7 +88,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022231,
     "wof:name":"AS1330 (SEA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

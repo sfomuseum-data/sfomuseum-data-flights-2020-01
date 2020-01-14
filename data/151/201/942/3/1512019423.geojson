@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA705",
+    "flysfo:flight_number":"705",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930439
     ],
-    "wof:lastmodified":1578949569,
+    "wof:lastmodified":1579022819,
     "wof:name":"UA705 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

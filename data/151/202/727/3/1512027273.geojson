@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4164",
+    "flysfo:flight_number":"4164",
     "flysfo:gate":"F9",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578696900,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949050,
+    "wof:lastmodified":1579022673,
     "wof:name":"AC4164 (DFW-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

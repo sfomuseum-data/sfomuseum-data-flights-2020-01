@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578928560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5608",
+    "flysfo:flight_number":"5608",
     "flysfo:gate":"F15N",
     "flysfo:journey":"MFR-SFO",
     "flysfo:scheduled_timestamp":1578930000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579023022,
     "wof:name":"UA5608 (MFR-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

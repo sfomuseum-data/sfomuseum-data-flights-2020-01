@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS340",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1300",
+    "flysfo:flight_number":"1300",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022809,
     "wof:name":"SQ1300 (SFO-EWR)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

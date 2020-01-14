@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1706",
+    "flysfo:flight_number":"1706",
     "flysfo:gate":"D14",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578972660,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022912,
     "wof:name":"CZ1706 (PHX-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

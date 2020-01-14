@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5900",
+    "flysfo:flight_number":"5900",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578757320,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022235,
     "wof:name":"UA5900 (SFO-RNO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

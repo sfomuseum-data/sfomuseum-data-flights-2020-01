@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5961",
+    "flysfo:flight_number":"5961",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578761700,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022261,
     "wof:name":"KL5961 (SFO-MSP)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

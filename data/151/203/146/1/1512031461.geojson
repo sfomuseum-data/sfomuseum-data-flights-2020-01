@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC758",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4720",
+    "flysfo:flight_number":"4720",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930471,
         1159283597
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022585,
     "wof:name":"NZ4720 (SFO-YYZ)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

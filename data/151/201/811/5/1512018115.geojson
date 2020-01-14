@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA278",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5052",
+    "flysfo:flight_number":"5052",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022721,
     "wof:name":"FJ5052 (SFO-PHL)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

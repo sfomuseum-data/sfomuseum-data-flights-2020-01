@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"B61577",
+    "flysfo:flight_number":"1577",
     "flysfo:gate":"B6",
     "flysfo:journey":"FLL-SFO",
     "flysfo:scheduled_timestamp":1578864720,
@@ -104,7 +104,7 @@
         1477881719,
         1159289411
     ],
-    "wof:lastmodified":1578948767,
+    "wof:lastmodified":1579022208,
     "wof:name":"B61577 (FLL-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

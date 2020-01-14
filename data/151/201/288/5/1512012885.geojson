@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA728",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9237",
+    "flysfo:flight_number":"9237",
     "flysfo:gate":"F12",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949506,
+    "wof:lastmodified":1579022728,
     "wof:name":"NZ9237 (LAS-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

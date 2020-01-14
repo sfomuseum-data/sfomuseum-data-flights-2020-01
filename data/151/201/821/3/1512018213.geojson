@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA164",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4097",
+    "flysfo:flight_number":"4097",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -50,7 +50,7 @@
         -1,
         1159283849
     ],
-    "wof:lastmodified":1578693494,
+    "wof:lastmodified":1579022726,
     "wof:name":"IB4097 (SFO-JFK)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

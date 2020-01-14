@@ -11,7 +11,7 @@
     "flysfo:airline":"NZ",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ8",
+    "flysfo:flight_number":"8",
     "flysfo:gate":"G7",
     "flysfo:journey":"AKL-SFO",
     "flysfo:timestamp":0,
@@ -99,7 +99,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1578949043,
+    "wof:lastmodified":1579022667,
     "wof:name":"NZ8 (AKL-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

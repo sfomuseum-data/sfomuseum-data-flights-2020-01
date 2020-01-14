@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1069",
+    "flysfo:flight_number":"1069",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578705900,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948934,
+    "wof:lastmodified":1579022478,
     "wof:name":"WN1069 (SFO-BUR)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

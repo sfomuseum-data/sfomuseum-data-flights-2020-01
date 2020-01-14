@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5648",
+    "flysfo:flight_number":"5648",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-ABQ",
     "flysfo:scheduled_timestamp":1578798840,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948777,
+    "wof:lastmodified":1579022227,
     "wof:name":"UA5648 (SFO-ABQ)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

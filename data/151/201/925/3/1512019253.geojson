@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5555",
+    "flysfo:flight_number":"5555",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-ACV",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"UA5555 (SFO-ACV)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

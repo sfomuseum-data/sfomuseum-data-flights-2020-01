@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2355",
+    "flysfo:flight_number":"2355",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-LGB",
     "flysfo:scheduled_timestamp":1578934740,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022985,
     "wof:name":"HA2355 (SFO-LGB)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

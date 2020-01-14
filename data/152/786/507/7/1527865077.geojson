@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL4363",
+    "flysfo:flight_number":"4363",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578979500,
@@ -94,7 +94,7 @@
         1477930291,
         1159285483
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022979,
     "wof:name":"DL4363 (SFO-LHR)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

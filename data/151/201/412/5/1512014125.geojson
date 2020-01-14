@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA139",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3054",
+    "flysfo:flight_number":"3054",
     "flysfo:gate":"D10",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022728,
     "wof:name":"QF3054 (DFW-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

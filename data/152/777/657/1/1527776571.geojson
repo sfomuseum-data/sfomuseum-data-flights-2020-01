@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3143",
+    "flysfo:flight_number":"3143",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578850800,
@@ -104,7 +104,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022878,
     "wof:name":"WN3143 (SFO-LAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

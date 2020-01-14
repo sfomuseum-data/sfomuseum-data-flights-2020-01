@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578799800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3304",
+    "flysfo:flight_number":"3304",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578799800,
@@ -88,7 +88,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"AS3304 (SFO-SNA)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

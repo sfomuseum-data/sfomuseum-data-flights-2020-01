@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578764580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2372",
+    "flysfo:flight_number":"2372",
     "flysfo:gate":"F6",
     "flysfo:journey":"SAT-SFO",
     "flysfo:scheduled_timestamp":1578764280,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948934,
+    "wof:lastmodified":1579022479,
     "wof:name":"NZ2372 (SAT-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

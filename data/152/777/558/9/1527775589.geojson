@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578870540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2381",
+    "flysfo:flight_number":"2381",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578870540,
@@ -102,7 +102,7 @@
         1477930317,
         1159289945
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022861,
     "wof:name":"DL2381 (SFO-ATL)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

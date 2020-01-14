@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9264",
+    "flysfo:flight_number":"9264",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578888000,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948833,
+    "wof:lastmodified":1579022316,
     "wof:name":"NZ9264 (SFO-LAX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

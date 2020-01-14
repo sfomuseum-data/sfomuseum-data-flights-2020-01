@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2162",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9069",
+    "flysfo:flight_number":"9069",
     "flysfo:gate":"E11",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578949509,
+    "wof:lastmodified":1579022732,
     "wof:name":"LH9069 (PSP-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ4709",
+    "flysfo:flight_number":"4709",
     "flysfo:gate":"G8",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578955380,
@@ -94,7 +94,7 @@
         1477930477,
         1159283597
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022929,
     "wof:name":"NZ4709 (YYZ-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC780",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN9590",
+    "flysfo:flight_number":"9590",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YUL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022702,
     "wof:name":"SN9590 (SFO-YUL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

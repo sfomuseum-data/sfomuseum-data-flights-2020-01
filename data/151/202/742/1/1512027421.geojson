@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5293",
+    "flysfo:flight_number":"5293",
     "flysfo:gate":"E12",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578712080,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5293 (DEN-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1742",
+    "flysfo:flight_number":"1742",
     "flysfo:gate":"D16",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578816960,
@@ -88,7 +88,7 @@
         1159283849,
         1477930371
     ],
-    "wof:lastmodified":1578948878,
+    "wof:lastmodified":1579022389,
     "wof:name":"AA1742 (PHL-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9077",
+    "flysfo:flight_number":"9077",
     "flysfo:gate":"F16",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578884880,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"NZ9077 (DEN-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

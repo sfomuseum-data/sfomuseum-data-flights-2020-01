@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9138",
+    "flysfo:flight_number":"9138",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578789300,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948936,
+    "wof:lastmodified":1579022481,
     "wof:name":"LH9138 (SFO-HNL)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

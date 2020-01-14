@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2066",
+    "flysfo:flight_number":"2066",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -92,7 +92,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"WN2066 (SFO-LAS)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1957",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3092",
+    "flysfo:flight_number":"3092",
     "flysfo:gate":"D3",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948911,
+    "wof:lastmodified":1579022440,
     "wof:name":"EK3092 (SAN-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

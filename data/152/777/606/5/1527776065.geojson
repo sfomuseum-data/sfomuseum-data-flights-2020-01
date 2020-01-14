@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2365",
+    "flysfo:flight_number":"2365",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "flysfo:scheduled_timestamp":1578872520,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578950108,
+    "wof:lastmodified":1579022895,
     "wof:name":"HA2365 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

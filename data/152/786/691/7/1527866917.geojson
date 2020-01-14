@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578931200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4919",
+    "flysfo:flight_number":"4919",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578931200,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579023018,
     "wof:name":"VS4919 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

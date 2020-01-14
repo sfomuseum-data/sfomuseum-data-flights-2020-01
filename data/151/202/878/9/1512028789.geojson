@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7915",
+    "flysfo:flight_number":"7915",
     "flysfo:gate":"D1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578722760,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949035,
+    "wof:lastmodified":1579022660,
     "wof:name":"CX7915 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

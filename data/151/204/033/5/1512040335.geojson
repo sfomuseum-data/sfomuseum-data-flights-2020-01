@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578751800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN5570",
+    "flysfo:flight_number":"5570",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578751800,
@@ -96,7 +96,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948836,
+    "wof:lastmodified":1579022323,
     "wof:name":"WN5570 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA574",
+    "flysfo:flight_number":"574",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-FLL",
     "flysfo:scheduled_timestamp":1578867840,
@@ -104,7 +104,7 @@
         1477930403,
         1159289871
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022902,
     "wof:name":"UA574 (SFO-FLL)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

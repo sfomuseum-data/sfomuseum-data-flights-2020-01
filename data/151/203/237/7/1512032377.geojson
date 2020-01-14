@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1889",
+    "flysfo:flight_number":"1889",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578711600,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022555,
     "wof:name":"CM1889 (SFO-LAS)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

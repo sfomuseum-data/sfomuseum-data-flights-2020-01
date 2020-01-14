@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578942360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN9011",
+    "flysfo:flight_number":"9011",
     "flysfo:gate":"G12",
     "flysfo:journey":"CDG-SFO",
     "flysfo:scheduled_timestamp":1578943800,
@@ -94,7 +94,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022976,
     "wof:name":"SN9011 (CDG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2798",
+    "flysfo:flight_number":"2798",
     "flysfo:gate":"",
     "flysfo:journey":"SAT-SFO",
     "geom:area":0.0,
@@ -60,7 +60,7 @@
         -1,
         1159289939
     ],
-    "wof:lastmodified":1578693521,
+    "wof:lastmodified":1579022758,
     "wof:name":"UA2798 (SAT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

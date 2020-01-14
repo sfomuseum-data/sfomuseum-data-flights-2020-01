@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5327",
+    "flysfo:flight_number":"5327",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578966540,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022941,
     "wof:name":"UA5327 (SFO-BOI)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

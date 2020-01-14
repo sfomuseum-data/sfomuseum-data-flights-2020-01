@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1969",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7929",
+    "flysfo:flight_number":"7929",
     "flysfo:gate":"D9",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949569,
+    "wof:lastmodified":1579022819,
     "wof:name":"CX7929 (SAN-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

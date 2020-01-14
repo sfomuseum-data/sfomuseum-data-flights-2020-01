@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578849300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5945",
+    "flysfo:flight_number":"5945",
     "flysfo:gate":"F3A",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578851460,
@@ -88,7 +88,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022244,
     "wof:name":"UA5945 (TUS-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

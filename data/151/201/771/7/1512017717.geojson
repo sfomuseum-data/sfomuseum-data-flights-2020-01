@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AM1665",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8126",
+    "flysfo:flight_number":"8126",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-MEX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930301,
         1159283539
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022753,
     "wof:name":"DL8126 (SFO-MEX)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

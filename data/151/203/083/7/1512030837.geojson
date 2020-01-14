@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA234",
+    "flysfo:flight_number":"234",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930371,
         1159289411
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022394,
     "wof:name":"AA234 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

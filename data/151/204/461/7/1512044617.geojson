@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2230",
+    "flysfo:flight_number":"2230",
     "flysfo:gate":"E10",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578880500,
@@ -104,7 +104,7 @@
         1477930397,
         1159292085
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022324,
     "wof:name":"UA2230 (SLC-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2891",
+    "flysfo:flight_number":"2891",
     "flysfo:gate":"D10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578760380,
@@ -104,7 +104,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578948901,
+    "wof:lastmodified":1579022423,
     "wof:name":"AA2891 (LAX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

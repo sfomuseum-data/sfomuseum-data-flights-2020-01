@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4904",
+    "flysfo:flight_number":"4904",
     "flysfo:gate":"C3",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578983700,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023028,
     "wof:name":"VS4904 (MSP-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA639",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5904",
+    "flysfo:flight_number":"5904",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"AC5904 (SFO-ORD)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

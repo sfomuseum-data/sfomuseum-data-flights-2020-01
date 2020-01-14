@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS372",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3708",
+    "flysfo:flight_number":"3708",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-PVR",
     "flysfo:timestamp":1578684480,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"QF3708 (SFO-PVR)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

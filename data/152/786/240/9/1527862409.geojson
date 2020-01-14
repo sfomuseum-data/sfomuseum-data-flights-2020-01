@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN419",
+    "flysfo:flight_number":"419",
     "flysfo:gate":"B13",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578986100,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022998,
     "wof:name":"WN419 (PHX-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

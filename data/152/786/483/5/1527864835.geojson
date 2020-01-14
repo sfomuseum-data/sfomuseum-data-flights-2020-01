@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578950400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU4365",
+    "flysfo:flight_number":"4365",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578950100,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022926,
     "wof:name":"MU4365 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

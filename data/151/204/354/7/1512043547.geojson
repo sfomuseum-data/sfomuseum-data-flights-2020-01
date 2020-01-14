@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3076",
+    "flysfo:flight_number":"3076",
     "flysfo:gate":"D15",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578894720,
@@ -94,7 +94,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022196,
     "wof:name":"QF3076 (MIA-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

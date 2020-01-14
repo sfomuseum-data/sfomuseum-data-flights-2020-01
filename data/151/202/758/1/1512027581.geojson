@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM3627",
+    "flysfo:flight_number":"3627",
     "flysfo:gate":"C8",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578701580,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022652,
     "wof:name":"AM3627 (SLC-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

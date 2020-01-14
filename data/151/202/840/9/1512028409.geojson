@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ5906",
+    "flysfo:flight_number":"5906",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578687780,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949035,
+    "wof:lastmodified":1579022661,
     "wof:name":"AZ5906 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

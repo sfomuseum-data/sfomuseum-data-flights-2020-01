@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5876",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4349",
+    "flysfo:flight_number":"4349",
     "flysfo:gate":"F15N",
     "flysfo:journey":"FAT-SFO",
     "flysfo:timestamp":1578689340,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022617,
     "wof:name":"AC4349 (FAT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

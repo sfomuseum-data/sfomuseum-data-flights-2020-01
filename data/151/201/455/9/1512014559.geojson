@@ -7,7 +7,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"B61715",
+    "flysfo:flight_number":"1715",
     "flysfo:gate":"B6",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284583,
         1477881719
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022737,
     "wof:name":"B61715 (JFK-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

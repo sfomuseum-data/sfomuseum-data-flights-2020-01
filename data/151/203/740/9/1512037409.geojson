@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA268",
+    "flysfo:flight_number":"268",
     "flysfo:gate":"E11",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578770880,
@@ -104,7 +104,7 @@
         1477930399,
         1377564285
     ],
-    "wof:lastmodified":1578948918,
+    "wof:lastmodified":1579022453,
     "wof:name":"UA268 (DEN-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

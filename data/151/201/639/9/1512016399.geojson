@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL868",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3485",
+    "flysfo:flight_number":"3485",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022803,
     "wof:name":"AM3485 (SFO-JFK)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA343",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6899",
+    "flysfo:flight_number":"6899",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-MIA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022571,
     "wof:name":"LA6899 (SFO-MIA)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

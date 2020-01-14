@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5420",
+    "flysfo:flight_number":"5420",
     "flysfo:gate":"D8",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578843480,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"JL5420 (PSP-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

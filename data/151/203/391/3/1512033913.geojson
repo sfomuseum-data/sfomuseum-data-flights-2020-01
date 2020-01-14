@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716340,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2423",
+    "flysfo:flight_number":"2423",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578716580,
@@ -88,7 +88,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578948857,
+    "wof:lastmodified":1579022357,
     "wof:name":"UA2423 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5632",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2068",
+    "flysfo:flight_number":"2068",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-EUG",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022542,
     "wof:name":"AV2068 (SFO-EUG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

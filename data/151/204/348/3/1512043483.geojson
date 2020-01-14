@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9177",
+    "flysfo:flight_number":"9177",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578869940,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578948796,
+    "wof:lastmodified":1579022263,
     "wof:name":"LH9177 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

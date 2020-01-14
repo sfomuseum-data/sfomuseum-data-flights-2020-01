@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3051",
+    "flysfo:flight_number":"3051",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578968700,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579023002,
     "wof:name":"EK3051 (SFO-PSP)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

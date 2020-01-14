@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2384",
+    "flysfo:flight_number":"2384",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930387,
         1159292085
     ],
-    "wof:lastmodified":1578948874,
+    "wof:lastmodified":1579022382,
     "wof:name":"UA2384 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1588",
+    "flysfo:flight_number":"1588",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578854880,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578950085,
+    "wof:lastmodified":1579022862,
     "wof:name":"VS1588 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

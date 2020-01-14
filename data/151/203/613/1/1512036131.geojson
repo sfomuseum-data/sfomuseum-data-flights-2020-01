@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL1332",
+    "flysfo:flight_number":"1332",
     "flysfo:gate":"C11",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578811260,
@@ -104,7 +104,7 @@
         1477930337,
         1159289407
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022509,
     "wof:name":"DL1332 (LAX-SFO)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

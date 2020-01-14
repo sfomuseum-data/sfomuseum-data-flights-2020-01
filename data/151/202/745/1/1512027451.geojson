@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2123",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5483",
+    "flysfo:flight_number":"5483",
     "flysfo:gate":"E13",
     "flysfo:journey":"AUS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949048,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5483 (AUS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

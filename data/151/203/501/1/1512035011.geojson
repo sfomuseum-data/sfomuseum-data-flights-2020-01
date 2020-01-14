@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7309",
+    "flysfo:flight_number":"7309",
     "flysfo:gate":"F16",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578760800,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022479,
     "wof:name":"NH7309 (LAS-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

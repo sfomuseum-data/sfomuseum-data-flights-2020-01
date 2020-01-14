@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5912",
+    "flysfo:flight_number":"5912",
     "flysfo:gate":"F8",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578887160,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022259,
     "wof:name":"UA5912 (TUS-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

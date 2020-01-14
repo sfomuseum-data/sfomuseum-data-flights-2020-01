@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS7523",
+    "flysfo:flight_number":"7523",
     "flysfo:gate":"A10",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578946260,
@@ -94,7 +94,7 @@
         1477930303,
         1159283539
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023031,
     "wof:name":"VS7523 (MEX-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

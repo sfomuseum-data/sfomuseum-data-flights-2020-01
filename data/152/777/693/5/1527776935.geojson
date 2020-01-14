@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578864240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2489",
+    "flysfo:flight_number":"2489",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578864600,
@@ -104,7 +104,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022875,
     "wof:name":"UA2489 (SFO-AUS)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BA285",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EI8985",
+    "flysfo:flight_number":"8985",
     "flysfo:gate":"A5",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930291,
         1159284021
     ],
-    "wof:lastmodified":1578949501,
+    "wof:lastmodified":1579022722,
     "wof:name":"EI8985 (LHR-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

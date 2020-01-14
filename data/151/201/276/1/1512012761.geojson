@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2362",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9066",
+    "flysfo:flight_number":"9066",
     "flysfo:gate":"F19",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022791,
     "wof:name":"NZ9066 (DEN-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA61",
+    "flysfo:flight_number":"61",
     "flysfo:gate":"G2",
     "flysfo:journey":"MEL-SFO",
     "geom:area":0.0,
@@ -95,7 +95,7 @@
         1477930463,
         1159293215
     ],
-    "wof:lastmodified":1578949539,
+    "wof:lastmodified":1579022778,
     "wof:name":"UA61 (MEL-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

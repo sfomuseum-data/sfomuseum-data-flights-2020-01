@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1200",
+    "flysfo:flight_number":"1200",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578801600,
@@ -104,7 +104,7 @@
         1477930457,
         1159292085
     ],
-    "wof:lastmodified":1578948772,
+    "wof:lastmodified":1579022219,
     "wof:name":"UA1200 (SFO-LAX)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

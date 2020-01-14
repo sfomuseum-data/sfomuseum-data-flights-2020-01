@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3488",
+    "flysfo:flight_number":"3488",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578857400,
@@ -88,7 +88,7 @@
         1159283813,
         1477930337
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022300,
     "wof:name":"AS3488 (SFO-SNA)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

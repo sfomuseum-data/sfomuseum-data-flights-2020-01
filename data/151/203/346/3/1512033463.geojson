@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1022",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1426",
+    "flysfo:flight_number":"1426",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022442,
     "wof:name":"SQ1426 (SFO-JFK)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

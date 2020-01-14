@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA834",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7252",
+    "flysfo:flight_number":"7252",
     "flysfo:gate":"E13",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022702,
     "wof:name":"CA7252 (LAS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

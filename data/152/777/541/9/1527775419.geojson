@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM209",
+    "flysfo:flight_number":"209",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-PTY",
     "flysfo:scheduled_timestamp":1578887400,
@@ -88,7 +88,7 @@
         1159284211,
         1477930465
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022900,
     "wof:name":"CM209 (SFO-PTY)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

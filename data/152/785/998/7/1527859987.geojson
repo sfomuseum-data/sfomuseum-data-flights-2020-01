@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578961260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5789",
+    "flysfo:flight_number":"5789",
     "flysfo:gate":"E11",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578962400,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022850,
     "wof:name":"AC5789 (DEN-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

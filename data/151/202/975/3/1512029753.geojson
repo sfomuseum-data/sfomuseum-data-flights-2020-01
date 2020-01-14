@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1363",
+    "flysfo:flight_number":"1363",
     "flysfo:gate":"D4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578717240,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949050,
+    "wof:lastmodified":1579022673,
     "wof:name":"SQ1363 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

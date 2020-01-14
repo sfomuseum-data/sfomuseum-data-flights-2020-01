@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"OZ212",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6747",
+    "flysfo:flight_number":"6747",
     "flysfo:gate":"G6",
     "flysfo:journey":"ICN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930471,
         1159283917
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"TG6747 (ICN-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

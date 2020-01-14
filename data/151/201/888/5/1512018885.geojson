@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA115",
+    "flysfo:flight_number":"115",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-PPT",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930481,
         1159293215
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"UA115 (SFO-PPT)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

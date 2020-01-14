@@ -7,7 +7,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6834",
+    "flysfo:flight_number":"834",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284583,
         1477881719
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022737,
     "wof:name":"B6834 (SFO-BOS)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

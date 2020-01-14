@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3548",
+    "flysfo:flight_number":"3548",
     "flysfo:gate":"A2",
     "flysfo:journey":"CDG-SFO",
     "flysfo:scheduled_timestamp":1578777300,
@@ -94,7 +94,7 @@
         1477930283,
         1159283627
     ],
-    "wof:lastmodified":1578948918,
+    "wof:lastmodified":1579022454,
     "wof:name":"AZ3548 (CDG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

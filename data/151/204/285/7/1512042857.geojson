@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA5482",
+    "flysfo:flight_number":"5482",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578893400,
@@ -94,7 +94,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022298,
     "wof:name":"BA5482 (LAX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578803220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1943",
+    "flysfo:flight_number":"1943",
     "flysfo:gate":"D3",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578803640,
@@ -104,7 +104,7 @@
         1477930343,
         1159289871
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022505,
     "wof:name":"AS1943 (LAX-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

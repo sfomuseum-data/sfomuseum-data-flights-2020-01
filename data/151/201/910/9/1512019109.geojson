@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA365",
+    "flysfo:flight_number":"365",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930399,
         1159289407
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022824,
     "wof:name":"UA365 (SFO-PHL)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

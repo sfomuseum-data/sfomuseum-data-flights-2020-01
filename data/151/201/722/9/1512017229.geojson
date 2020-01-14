@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2634",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA1777",
+    "flysfo:flight_number":"1777",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022745,
     "wof:name":"BA1777 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC757",
+    "flysfo:flight_number":"757",
     "flysfo:gate":"G3",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578868980,
@@ -101,7 +101,7 @@
         1477930465,
         1159292085
     ],
-    "wof:lastmodified":1578948805,
+    "wof:lastmodified":1579022275,
     "wof:name":"AC757 (YYZ-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

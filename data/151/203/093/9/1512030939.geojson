@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6345",
+    "flysfo:flight_number":"6345",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578714540,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022559,
     "wof:name":"OZ6345 (SFO-RNO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

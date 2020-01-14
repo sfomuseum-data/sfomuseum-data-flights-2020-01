@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5731",
+    "flysfo:flight_number":"5731",
     "flysfo:gate":"E2",
     "flysfo:journey":"HDN-SFO",
     "flysfo:scheduled_timestamp":1578799260,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"UA5731 (HDN-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

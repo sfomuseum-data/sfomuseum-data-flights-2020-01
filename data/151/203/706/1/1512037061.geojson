@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3836",
+    "flysfo:flight_number":"3836",
     "flysfo:gate":"B12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578798300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022359,
     "wof:name":"WN3836 (LAS-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

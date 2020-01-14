@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578702840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9677",
+    "flysfo:flight_number":"9677",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578703920,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949039,
+    "wof:lastmodified":1579022664,
     "wof:name":"NZ9677 (SMF-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578811380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3217",
+    "flysfo:flight_number":"3217",
     "flysfo:gate":"C9",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578812400,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022559,
     "wof:name":"QF3217 (LAX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

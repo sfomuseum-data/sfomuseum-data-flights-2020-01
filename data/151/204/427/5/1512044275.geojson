@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3146",
+    "flysfo:flight_number":"3146",
     "flysfo:gate":"B12",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578864900,
@@ -104,7 +104,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022299,
     "wof:name":"WN3146 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

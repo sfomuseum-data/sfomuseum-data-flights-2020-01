@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2235",
+    "flysfo:flight_number":"2235",
     "flysfo:gate":"F4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022537,
     "wof:name":"UA2235 (SAN-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

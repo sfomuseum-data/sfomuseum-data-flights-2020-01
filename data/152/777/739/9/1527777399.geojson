@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1792",
+    "flysfo:flight_number":"1792",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578848400,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578950085,
+    "wof:lastmodified":1579022861,
     "wof:name":"VS1792 (SFO-DTW)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

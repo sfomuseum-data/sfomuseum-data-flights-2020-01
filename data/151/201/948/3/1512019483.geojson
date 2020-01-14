@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC561",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8564",
+    "flysfo:flight_number":"8564",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159283597
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022745,
     "wof:name":"UA8564 (SFO-YVR)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

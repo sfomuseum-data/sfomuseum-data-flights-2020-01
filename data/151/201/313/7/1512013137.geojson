@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1203",
+    "flysfo:flight_number":"1203",
     "flysfo:gate":"D7",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022759,
     "wof:name":"AS1203 (ORD-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

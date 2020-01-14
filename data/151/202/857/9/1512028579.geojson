@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1806",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7304",
+    "flysfo:flight_number":"7304",
     "flysfo:gate":"E5",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":1578684540,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"CA7304 (SAN-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

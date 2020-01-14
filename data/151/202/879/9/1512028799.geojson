@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1897",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7933",
+    "flysfo:flight_number":"7933",
     "flysfo:gate":"D5",
     "flysfo:journey":"LAS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949031,
+    "wof:lastmodified":1579022657,
     "wof:name":"CX7933 (LAS-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

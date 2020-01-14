@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9174",
+    "flysfo:flight_number":"9174",
     "flysfo:gate":"F10",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578961620,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023018,
     "wof:name":"NZ9174 (EUG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

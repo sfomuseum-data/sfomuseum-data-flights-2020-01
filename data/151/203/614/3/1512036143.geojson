@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578788760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL1838",
+    "flysfo:flight_number":"1838",
     "flysfo:gate":"C10",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578787740,
@@ -103,7 +103,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022508,
     "wof:name":"DL1838 (SLC-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

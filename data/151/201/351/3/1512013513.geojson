@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1806",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CI9868",
+    "flysfo:flight_number":"9868",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022773,
     "wof:name":"CI9868 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

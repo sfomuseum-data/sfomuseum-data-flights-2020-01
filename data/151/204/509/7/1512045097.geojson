@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA949",
+    "flysfo:flight_number":"949",
     "flysfo:gate":"G1",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578861000,
@@ -96,7 +96,7 @@
         1159285413,
         1477930461
     ],
-    "wof:lastmodified":1578948810,
+    "wof:lastmodified":1579022281,
     "wof:name":"UA949 (LHR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4848",
+    "flysfo:flight_number":"4848",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578701700,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948965,
+    "wof:lastmodified":1579022534,
     "wof:name":"VS4848 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

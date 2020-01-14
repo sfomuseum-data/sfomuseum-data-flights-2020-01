@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL8079",
+    "flysfo:flight_number":"8079",
     "flysfo:gate":"A10",
     "flysfo:journey":"GDL-SFO",
     "flysfo:scheduled_timestamp":1578855000,
@@ -94,7 +94,7 @@
         1477930303,
         1159283539
     ],
-    "wof:lastmodified":1578948758,
+    "wof:lastmodified":1579022189,
     "wof:name":"DL8079 (GDL-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

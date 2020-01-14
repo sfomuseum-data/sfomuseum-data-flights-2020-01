@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS373",
+    "flysfo:flight_number":"373",
     "flysfo:gate":"A15",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578802920,
@@ -88,7 +88,7 @@
         1159283813,
         1477930315
     ],
-    "wof:lastmodified":1578948855,
+    "wof:lastmodified":1579022356,
     "wof:name":"AS373 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

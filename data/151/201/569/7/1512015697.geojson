@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA872",
+    "flysfo:flight_number":"872",
     "flysfo:gate":"G13",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930487
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022695,
     "wof:name":"UA872 (TPE-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

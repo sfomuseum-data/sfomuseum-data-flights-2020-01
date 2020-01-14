@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578871740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1735",
+    "flysfo:flight_number":"1735",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578870060,
@@ -102,7 +102,7 @@
         1477930395,
         1159289871
     ],
-    "wof:lastmodified":1578950093,
+    "wof:lastmodified":1579022870,
     "wof:name":"UA1735 (SFO-IAH)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

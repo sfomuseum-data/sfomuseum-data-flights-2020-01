@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3067",
+    "flysfo:flight_number":"3067",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578697800,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"QF3067 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

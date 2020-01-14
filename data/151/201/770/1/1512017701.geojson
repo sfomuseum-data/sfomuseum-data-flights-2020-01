@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"KE26",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL7693",
+    "flysfo:flight_number":"7693",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-ICN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930301,
         1159284623
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"DL7693 (SFO-ICN)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

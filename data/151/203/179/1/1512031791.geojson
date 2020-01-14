@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9695",
+    "flysfo:flight_number":"9695",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578694500,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948991,
+    "wof:lastmodified":1579022588,
     "wof:name":"NZ9695 (SFO-SMF)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

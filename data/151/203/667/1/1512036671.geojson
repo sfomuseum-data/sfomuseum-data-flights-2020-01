@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578800640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"IB4098",
+    "flysfo:flight_number":"4098",
     "flysfo:gate":"D14",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578799980,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022425,
     "wof:name":"IB4098 (LAX-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

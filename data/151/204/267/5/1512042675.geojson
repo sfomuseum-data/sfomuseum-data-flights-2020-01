@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3445",
+    "flysfo:flight_number":"3445",
     "flysfo:gate":"D4",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578845880,
@@ -88,7 +88,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578948788,
+    "wof:lastmodified":1579022250,
     "wof:name":"AS3445 (SLC-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"BF",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BF711",
+    "flysfo:flight_number":"711",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-ORY",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1377649073,
         1477930467
     ],
-    "wof:lastmodified":1578949553,
+    "wof:lastmodified":1579022796,
     "wof:name":"BF711 (SFO-ORY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

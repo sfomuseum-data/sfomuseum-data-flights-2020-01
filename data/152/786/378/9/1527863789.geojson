@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578931200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF2411",
+    "flysfo:flight_number":"2411",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578931200,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022966,
     "wof:name":"AF2411 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

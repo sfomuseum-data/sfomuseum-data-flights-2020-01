@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2049",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU4362",
+    "flysfo:flight_number":"4362",
     "flysfo:gate":"C3",
     "flysfo:journey":"ATL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949539,
+    "wof:lastmodified":1579022777,
     "wof:name":"MU4362 (ATL-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6113",
+    "flysfo:flight_number":"6113",
     "flysfo:gate":"D7",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578701580,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"KE6113 (SEA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

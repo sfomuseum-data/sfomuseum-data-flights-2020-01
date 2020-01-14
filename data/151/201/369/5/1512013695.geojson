@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA816",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2328",
+    "flysfo:flight_number":"2328",
     "flysfo:gate":"F20",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"CM2328 (SEA-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

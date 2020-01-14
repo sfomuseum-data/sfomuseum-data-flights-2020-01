@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA234",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9290",
+    "flysfo:flight_number":"9290",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-MCO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"NZ9290 (SFO-MCO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

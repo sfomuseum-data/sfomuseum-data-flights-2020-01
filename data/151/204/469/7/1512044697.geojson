@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578871620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA420",
+    "flysfo:flight_number":"420",
     "flysfo:gate":"F20",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578872160,
@@ -102,7 +102,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948828,
+    "wof:lastmodified":1579022309,
     "wof:name":"UA420 (LAX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

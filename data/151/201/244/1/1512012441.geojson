@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA737",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5293",
+    "flysfo:flight_number":"5293",
     "flysfo:gate":"F12",
     "flysfo:journey":"DEN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"AC5293 (DEN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

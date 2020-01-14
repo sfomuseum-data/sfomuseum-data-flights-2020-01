@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9309",
+    "flysfo:flight_number":"9309",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578754800,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948889,
+    "wof:lastmodified":1579022405,
     "wof:name":"NZ9309 (SFO-ORD)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

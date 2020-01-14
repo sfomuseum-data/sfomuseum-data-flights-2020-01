@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA616",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI6222",
+    "flysfo:flight_number":"6222",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949493,
+    "wof:lastmodified":1579022707,
     "wof:name":"EI6222 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

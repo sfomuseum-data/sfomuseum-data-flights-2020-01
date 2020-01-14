@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA471",
+    "flysfo:flight_number":"471",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930399,
         1159289407
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022702,
     "wof:name":"UA471 (LAX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

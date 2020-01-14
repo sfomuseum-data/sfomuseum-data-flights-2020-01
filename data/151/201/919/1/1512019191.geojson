@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA540",
+    "flysfo:flight_number":"540",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-IAH",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022822,
     "wof:name":"UA540 (SFO-IAH)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

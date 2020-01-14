@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7540",
+    "flysfo:flight_number":"7540",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578720960,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"LH7540 (SFO-LAS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

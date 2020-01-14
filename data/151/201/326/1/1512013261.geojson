@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3409",
+    "flysfo:flight_number":"3409",
     "flysfo:gate":"C11",
     "flysfo:journey":"DAL-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930337
     ],
-    "wof:lastmodified":1578949572,
+    "wof:lastmodified":1579022824,
     "wof:name":"AS3409 (DAL-SFO)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

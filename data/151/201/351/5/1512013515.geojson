@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2313",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CI9869",
+    "flysfo:flight_number":"9869",
     "flysfo:gate":"C3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022773,
     "wof:name":"CI9869 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

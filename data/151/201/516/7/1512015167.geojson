@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1844",
+    "flysfo:flight_number":"1844",
     "flysfo:gate":"E10",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1578949526,
+    "wof:lastmodified":1579022757,
     "wof:name":"UA1844 (IAH-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

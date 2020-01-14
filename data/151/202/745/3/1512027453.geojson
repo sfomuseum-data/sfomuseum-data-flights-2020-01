@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2166",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5573",
+    "flysfo:flight_number":"5573",
     "flysfo:gate":"F16",
     "flysfo:journey":"ORD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949048,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5573 (ORD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

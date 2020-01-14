@@ -11,7 +11,7 @@
     "flysfo:airline":"OZ",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ211",
+    "flysfo:flight_number":"211",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-ICN",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930477,
         1377564293
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"OZ211 (SFO-ICN)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

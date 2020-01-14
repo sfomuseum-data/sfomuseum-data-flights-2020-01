@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578886020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL3613",
+    "flysfo:flight_number":"3613",
     "flysfo:gate":"C6",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578881940,
@@ -88,7 +88,7 @@
         1159284261,
         1477930325
     ],
-    "wof:lastmodified":1578948807,
+    "wof:lastmodified":1579022277,
     "wof:name":"DL3613 (SLC-SFO)",
     "wof:parent_id":1477930325,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578933000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4579",
+    "flysfo:flight_number":"4579",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-TUS",
     "flysfo:scheduled_timestamp":1578933000,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022915,
     "wof:name":"AC4579 (SFO-TUS)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

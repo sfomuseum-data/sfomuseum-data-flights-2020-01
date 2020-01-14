@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3743",
+    "flysfo:flight_number":"3743",
     "flysfo:gate":"D4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578875700,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948811,
+    "wof:lastmodified":1579022283,
     "wof:name":"QF3743 (SAN-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

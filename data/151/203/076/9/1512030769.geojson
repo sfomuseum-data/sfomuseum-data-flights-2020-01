@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS6580",
+    "flysfo:flight_number":"6580",
     "flysfo:gate":"C4",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578700800,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"WS6580 (SEA-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

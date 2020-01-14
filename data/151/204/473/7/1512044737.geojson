@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578841440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5219",
+    "flysfo:flight_number":"5219",
     "flysfo:gate":"F3A",
     "flysfo:journey":"BFL-SFO",
     "flysfo:scheduled_timestamp":1578842280,
@@ -88,7 +88,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022300,
     "wof:name":"UA5219 (BFL-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

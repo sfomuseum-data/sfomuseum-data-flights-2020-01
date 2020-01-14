@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"F9664",
+    "flysfo:flight_number":"664",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578688500,
@@ -102,7 +102,7 @@
         1477930315,
         1377564295
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022426,
     "wof:name":"F9664 (SFO-DEN)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

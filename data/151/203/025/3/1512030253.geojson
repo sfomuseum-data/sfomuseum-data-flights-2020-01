@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA248",
+    "flysfo:flight_number":"248",
     "flysfo:gate":"F11",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578711240,
@@ -104,7 +104,7 @@
         1477930433,
         1159289945
     ],
-    "wof:lastmodified":1578948888,
+    "wof:lastmodified":1579022404,
     "wof:name":"UA248 (ORD-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

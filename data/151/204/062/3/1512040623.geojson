@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578779400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA242",
+    "flysfo:flight_number":"242",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578779400,
@@ -104,7 +104,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1578948781,
+    "wof:lastmodified":1579022238,
     "wof:name":"UA242 (SFO-BOS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

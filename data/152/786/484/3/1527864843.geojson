@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578965280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU4373",
+    "flysfo:flight_number":"4373",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578963120,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022926,
     "wof:name":"MU4373 (SFO-SEA)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

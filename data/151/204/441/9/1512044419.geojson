@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578853020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3138",
+    "flysfo:flight_number":"3138",
     "flysfo:gate":"D4",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578853920,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"EK3138 (SNA-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2950",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA7632",
+    "flysfo:flight_number":"7632",
     "flysfo:gate":"D6",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"AA7632 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

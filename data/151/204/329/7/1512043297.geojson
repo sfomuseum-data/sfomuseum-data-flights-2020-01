@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2226",
+    "flysfo:flight_number":"2226",
     "flysfo:gate":"C8",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578892440,
@@ -88,7 +88,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022337,
     "wof:name":"DL2226 (LAX-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA768",
+    "flysfo:flight_number":"768",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578845700,
@@ -104,7 +104,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022884,
     "wof:name":"UA768 (SFO-BOS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

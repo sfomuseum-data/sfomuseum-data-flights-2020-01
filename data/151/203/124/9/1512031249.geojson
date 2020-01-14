@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC8744",
+    "flysfo:flight_number":"8744",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YEG",
     "flysfo:scheduled_timestamp":1578686400,
@@ -88,7 +88,7 @@
         1159283597,
         1477930461
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022572,
     "wof:name":"AC8744 (SFO-YEG)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

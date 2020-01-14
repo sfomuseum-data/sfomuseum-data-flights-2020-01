@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3445",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7486",
+    "flysfo:flight_number":"7486",
     "flysfo:gate":"D15",
     "flysfo:journey":"SLC-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578949032,
+    "wof:lastmodified":1579022657,
     "wof:name":"CX7486 (SLC-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

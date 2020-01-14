@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578895020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1357",
+    "flysfo:flight_number":"1357",
     "flysfo:gate":"D6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578892440,
@@ -102,7 +102,7 @@
         1477930351,
         1377564285
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022231,
     "wof:name":"AS1357 (BOS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

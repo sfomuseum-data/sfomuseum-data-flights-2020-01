@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE25",
+    "flysfo:flight_number":"25",
     "flysfo:gate":"A10",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578693300,
@@ -88,7 +88,7 @@
         1159284623,
         1477930303
     ],
-    "wof:lastmodified":1578949005,
+    "wof:lastmodified":1579022617,
     "wof:name":"KE25 (ICN-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

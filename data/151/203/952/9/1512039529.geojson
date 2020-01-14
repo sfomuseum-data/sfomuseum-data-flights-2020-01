@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578752100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL868",
+    "flysfo:flight_number":"868",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578752100,
@@ -104,7 +104,7 @@
         1477930323,
         1159289939
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022379,
     "wof:name":"DL868 (SFO-JFK)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

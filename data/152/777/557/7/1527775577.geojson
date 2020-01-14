@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1938",
+    "flysfo:flight_number":"1938",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578854880,
@@ -104,7 +104,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1578950088,
+    "wof:lastmodified":1579022864,
     "wof:name":"DL1938 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

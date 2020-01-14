@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578985560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3293",
+    "flysfo:flight_number":"3293",
     "flysfo:gate":"C2",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578986940,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022936,
     "wof:name":"AZ3293 (JFK-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

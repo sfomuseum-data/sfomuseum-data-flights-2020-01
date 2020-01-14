@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7327",
+    "flysfo:flight_number":"7327",
     "flysfo:gate":"F19",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578851100,
@@ -94,7 +94,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578948835,
+    "wof:lastmodified":1579022321,
     "wof:name":"NH7327 (SEA-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1385",
+    "flysfo:flight_number":"1385",
     "flysfo:gate":"D4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578875700,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022289,
     "wof:name":"SQ1385 (SAN-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

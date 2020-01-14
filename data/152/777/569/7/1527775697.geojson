@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH8594",
+    "flysfo:flight_number":"8594",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-KOA",
     "flysfo:scheduled_timestamp":1578882780,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578950083,
+    "wof:lastmodified":1579022860,
     "wof:name":"LH8594 (SFO-KOA)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5647",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4362",
+    "flysfo:flight_number":"4362",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SBA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022791,
     "wof:name":"AC4362 (SFO-SBA)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

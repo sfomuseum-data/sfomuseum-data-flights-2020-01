@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2370",
+    "flysfo:flight_number":"2370",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930331,
         1377564285
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022695,
     "wof:name":"DL2370 (SFO-DTW)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

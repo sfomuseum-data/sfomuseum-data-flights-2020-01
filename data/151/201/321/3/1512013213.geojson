@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1957",
+    "flysfo:flight_number":"1957",
     "flysfo:gate":"D6",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930351,
         1159292085
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022825,
     "wof:name":"AS1957 (SAN-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

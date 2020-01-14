@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA893",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6615",
+    "flysfo:flight_number":"6615",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-ICN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022733,
     "wof:name":"OZ6615 (SFO-ICN)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

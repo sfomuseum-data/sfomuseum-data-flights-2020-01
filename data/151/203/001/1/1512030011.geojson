@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3445",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3070",
+    "flysfo:flight_number":"3070",
     "flysfo:gate":"D15",
     "flysfo:journey":"SLC-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578948912,
+    "wof:lastmodified":1579022440,
     "wof:name":"EK3070 (SLC-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

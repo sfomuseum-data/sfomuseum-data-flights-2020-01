@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS7884",
+    "flysfo:flight_number":"7884",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578843000,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948824,
+    "wof:lastmodified":1579022302,
     "wof:name":"OS7884 (SFO-IAD)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

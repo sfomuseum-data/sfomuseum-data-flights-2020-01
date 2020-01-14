@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS712",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7932",
+    "flysfo:flight_number":"7932",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"CX7932 (SFO-LAS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578943980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5446",
+    "flysfo:flight_number":"5446",
     "flysfo:gate":"F10",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578944820,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022938,
     "wof:name":"UA5446 (SBA-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

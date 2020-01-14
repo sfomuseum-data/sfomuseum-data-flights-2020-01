@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1865",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL6231",
+    "flysfo:flight_number":"6231",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948919,
+    "wof:lastmodified":1579022454,
     "wof:name":"KL6231 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

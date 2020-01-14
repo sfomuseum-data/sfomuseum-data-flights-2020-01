@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7961",
+    "flysfo:flight_number":"7961",
     "flysfo:gate":"D2",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578797280,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948971,
+    "wof:lastmodified":1579022545,
     "wof:name":"CX7961 (PDX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

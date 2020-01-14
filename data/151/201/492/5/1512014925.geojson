@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1843",
+    "flysfo:flight_number":"1843",
     "flysfo:gate":"",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -59,7 +59,7 @@
         -1,
         1159289869
     ],
-    "wof:lastmodified":1578693560,
+    "wof:lastmodified":1579022808,
     "wof:name":"WN1843 (LAS-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

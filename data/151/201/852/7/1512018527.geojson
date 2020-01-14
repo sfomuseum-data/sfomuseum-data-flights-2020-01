@@ -7,7 +7,7 @@
     "flysfo:airline":"SK",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK936",
+    "flysfo:flight_number":"936",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-CPH",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285129,
         1477930481
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"SK936 (SFO-CPH)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

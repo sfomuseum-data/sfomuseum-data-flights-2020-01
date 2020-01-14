@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578786900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3805",
+    "flysfo:flight_number":"3805",
     "flysfo:gate":"B9",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578787800,
@@ -102,7 +102,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578948932,
+    "wof:lastmodified":1579022476,
     "wof:name":"WN3805 (SAN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

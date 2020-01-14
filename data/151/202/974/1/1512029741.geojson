@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3393",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1342",
+    "flysfo:flight_number":"1342",
     "flysfo:gate":"D8",
     "flysfo:journey":"LAX-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949044,
+    "wof:lastmodified":1579022668,
     "wof:name":"SQ1342 (LAX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

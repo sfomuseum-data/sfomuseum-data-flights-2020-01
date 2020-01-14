@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH8908",
+    "flysfo:flight_number":"8908",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578984300,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022965,
     "wof:name":"LH8908 (SFO-RNO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

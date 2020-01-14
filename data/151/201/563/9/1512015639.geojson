@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA718",
+    "flysfo:flight_number":"718",
     "flysfo:gate":"G6",
     "flysfo:journey":"MEX-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930471,
         1159289407
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"UA718 (MEX-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

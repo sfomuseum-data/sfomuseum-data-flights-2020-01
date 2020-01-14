@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1832",
+    "flysfo:flight_number":"1832",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930321,
         1159289871
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022711,
     "wof:name":"DL1832 (SFO-SEA)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

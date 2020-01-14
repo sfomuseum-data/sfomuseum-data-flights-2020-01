@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2652",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3146",
+    "flysfo:flight_number":"3146",
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022724,
     "wof:name":"QF3146 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

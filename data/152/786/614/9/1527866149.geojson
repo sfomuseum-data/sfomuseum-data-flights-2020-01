@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578964560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK226",
+    "flysfo:flight_number":"226",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-DXB",
     "flysfo:scheduled_timestamp":1578960300,
@@ -88,7 +88,7 @@
         1159284333,
         1477930295
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022986,
     "wof:name":"EK226 (SFO-DXB)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

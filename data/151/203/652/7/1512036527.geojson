@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BR8",
+    "flysfo:flight_number":"8",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578753000,
@@ -88,7 +88,7 @@
         1159284349,
         1477930481
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022539,
     "wof:name":"BR8 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7222",
+    "flysfo:flight_number":"7222",
     "flysfo:gate":"F21",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578686880,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022635,
     "wof:name":"CA7222 (BOS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

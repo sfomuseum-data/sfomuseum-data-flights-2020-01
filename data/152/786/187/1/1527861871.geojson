@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578932460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5831",
+    "flysfo:flight_number":"5831",
     "flysfo:gate":"D15",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578932280,
@@ -94,7 +94,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022957,
     "wof:name":"FJ5831 (SLC-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4292",
+    "flysfo:flight_number":"4292",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578790200,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022519,
     "wof:name":"AC4292 (SFO-SAN)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

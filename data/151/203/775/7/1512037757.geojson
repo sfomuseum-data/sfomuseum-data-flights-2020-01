@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA731",
+    "flysfo:flight_number":"731",
     "flysfo:gate":"F2",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578769440,
@@ -104,7 +104,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022569,
     "wof:name":"UA731 (PHL-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

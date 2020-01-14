@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578713460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7284",
+    "flysfo:flight_number":"7284",
     "flysfo:gate":"E6",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578714660,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949039,
+    "wof:lastmodified":1579022664,
     "wof:name":"CA7284 (LAX-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

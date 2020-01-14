@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA394",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5421",
+    "flysfo:flight_number":"5421",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"AC5421 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA343",
+    "flysfo:flight_number":"343",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-MIA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022770,
     "wof:name":"AA343 (SFO-MIA)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

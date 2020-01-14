@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1554",
+    "flysfo:flight_number":"1554",
     "flysfo:gate":"E6",
     "flysfo:journey":"DCA-SFO",
     "flysfo:scheduled_timestamp":1578717960,
@@ -104,7 +104,7 @@
         1477930389,
         1159289871
     ],
-    "wof:lastmodified":1578948910,
+    "wof:lastmodified":1579022438,
     "wof:name":"UA1554 (DCA-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

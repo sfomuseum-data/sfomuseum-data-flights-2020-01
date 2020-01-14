@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5900",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4598",
+    "flysfo:flight_number":"4598",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RNO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"AC4598 (SFO-RNO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

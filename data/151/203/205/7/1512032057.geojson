@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA295",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS7990",
+    "flysfo:flight_number":"7990",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578948911,
+    "wof:lastmodified":1579022440,
     "wof:name":"OS7990 (SFO-EWR)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

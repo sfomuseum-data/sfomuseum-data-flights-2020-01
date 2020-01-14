@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9185",
+    "flysfo:flight_number":"9185",
     "flysfo:gate":"F9",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578946800,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022916,
     "wof:name":"LH9185 (SLC-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

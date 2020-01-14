@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1568",
+    "flysfo:flight_number":"1568",
     "flysfo:gate":"G6",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578801540,
@@ -88,7 +88,7 @@
         1159285413,
         1477930471
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"UA1568 (PVR-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX879",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8932",
+    "flysfo:flight_number":"8932",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930301,
         1159284127
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"AA8932 (SFO-HKG)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

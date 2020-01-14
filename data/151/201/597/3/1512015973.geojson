@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX893",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8943",
+    "flysfo:flight_number":"8943",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930295,
         1159284127
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"AA8943 (SFO-HKG)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

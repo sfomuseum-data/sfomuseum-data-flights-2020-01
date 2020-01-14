@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA892",
+    "flysfo:flight_number":"892",
     "flysfo:gate":"D10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578807000,
@@ -88,7 +88,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578948969,
+    "wof:lastmodified":1579022541,
     "wof:name":"AA892 (LAX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

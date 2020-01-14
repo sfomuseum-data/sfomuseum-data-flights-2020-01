@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578775500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"4O821",
+    "flysfo:flight_number":"821",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-GDL",
     "flysfo:scheduled_timestamp":1578775500,
@@ -104,7 +104,7 @@
         1477930307,
         1159292085
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022539,
     "wof:name":"4O821 (SFO-GDL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

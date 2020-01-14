@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578906180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"B61415",
+    "flysfo:flight_number":"1415",
     "flysfo:gate":"B8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578903540,
@@ -104,7 +104,7 @@
         1477881723,
         1159289411
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022338,
     "wof:name":"B61415 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

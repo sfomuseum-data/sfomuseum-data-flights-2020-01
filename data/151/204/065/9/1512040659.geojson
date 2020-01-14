@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA352",
+    "flysfo:flight_number":"352",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-TPA",
     "flysfo:scheduled_timestamp":1578763800,
@@ -104,7 +104,7 @@
         1477930441,
         1159289871
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022232,
     "wof:name":"UA352 (SFO-TPA)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

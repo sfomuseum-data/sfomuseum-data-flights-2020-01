@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1912",
+    "flysfo:flight_number":"1912",
     "flysfo:gate":"E10",
     "flysfo:journey":"BNA-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930397,
         1159289407
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022746,
     "wof:name":"UA1912 (BNA-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

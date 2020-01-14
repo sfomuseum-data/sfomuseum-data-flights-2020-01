@@ -9,7 +9,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA1260",
+    "flysfo:flight_number":"1260",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930327,
         1159289871
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022814,
     "wof:name":"AA1260 (SFO-DFW)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

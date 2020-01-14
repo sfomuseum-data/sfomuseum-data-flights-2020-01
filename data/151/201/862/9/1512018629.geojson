@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61516",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1491",
+    "flysfo:flight_number":"1491",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"SQ1491 (SFO-JFK)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5971",
+    "flysfo:flight_number":"5971",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578868200,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022278,
     "wof:name":"AC5971 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

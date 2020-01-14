@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1779",
+    "flysfo:flight_number":"1779",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578692400,
@@ -102,7 +102,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578948862,
+    "wof:lastmodified":1579022365,
     "wof:name":"WN1779 (SFO-SAN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

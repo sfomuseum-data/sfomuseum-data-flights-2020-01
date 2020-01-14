@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA736",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5603",
+    "flysfo:flight_number":"5603",
     "flysfo:gate":"E4",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022790,
     "wof:name":"AC5603 (SAN-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

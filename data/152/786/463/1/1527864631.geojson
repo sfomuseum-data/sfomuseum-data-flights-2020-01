@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578932400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV6980",
+    "flysfo:flight_number":"6980",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578932400,
@@ -94,7 +94,7 @@
         1477930481,
         1159283597
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022941,
     "wof:name":"AV6980 (SFO-YVR)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

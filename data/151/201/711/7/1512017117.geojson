@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS743",
+    "flysfo:flight_number":"743",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-HNL",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930349,
         1159289871
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022826,
     "wof:name":"AS743 (SFO-HNL)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

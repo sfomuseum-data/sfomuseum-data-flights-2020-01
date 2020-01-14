@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9419",
+    "flysfo:flight_number":"9419",
     "flysfo:gate":"E2",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578708900,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022443,
     "wof:name":"NZ9419 (SFO-MSP)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

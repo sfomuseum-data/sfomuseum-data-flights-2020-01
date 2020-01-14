@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2064",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7307",
+    "flysfo:flight_number":"7307",
     "flysfo:gate":"F2",
     "flysfo:journey":"PHX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"NH7307 (PHX-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

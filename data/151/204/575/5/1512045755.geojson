@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM663",
+    "flysfo:flight_number":"663",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-GDL",
     "flysfo:scheduled_timestamp":1578860700,
@@ -101,7 +101,7 @@
         1477930303,
         1159289871
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"AM663 (SFO-GDL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

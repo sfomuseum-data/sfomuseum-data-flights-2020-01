@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5945",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4155",
+    "flysfo:flight_number":"4155",
     "flysfo:gate":"F3A",
     "flysfo:journey":"TUS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949050,
+    "wof:lastmodified":1579022673,
     "wof:name":"AC4155 (TUS-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

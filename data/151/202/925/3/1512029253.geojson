@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LY9383",
+    "flysfo:flight_number":"9383",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578702300,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949020,
+    "wof:lastmodified":1579022648,
     "wof:name":"LY9383 (LAS-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

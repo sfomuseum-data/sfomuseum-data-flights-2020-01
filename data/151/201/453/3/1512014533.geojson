@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA6045",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL7552",
+    "flysfo:flight_number":"7552",
     "flysfo:gate":"D14",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949517,
+    "wof:lastmodified":1579022742,
     "wof:name":"JL7552 (LAX-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

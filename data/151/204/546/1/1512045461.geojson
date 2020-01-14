@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4350",
+    "flysfo:flight_number":"4350",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578873900,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948848,
+    "wof:lastmodified":1579022344,
     "wof:name":"AC4350 (SFO-SBA)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

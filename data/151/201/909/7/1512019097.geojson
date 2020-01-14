@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA317",
+    "flysfo:flight_number":"317",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-IND",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930409,
         1159292085
     ],
-    "wof:lastmodified":1578949486,
+    "wof:lastmodified":1579022692,
     "wof:name":"UA317 (SFO-IND)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

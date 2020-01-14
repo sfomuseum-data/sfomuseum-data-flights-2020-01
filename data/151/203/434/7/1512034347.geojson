@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA877",
+    "flysfo:flight_number":"877",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578725400,
@@ -102,7 +102,7 @@
         1477930465,
         1159289985
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022548,
     "wof:name":"UA877 (SFO-HKG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

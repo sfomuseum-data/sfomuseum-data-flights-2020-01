@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6340",
+    "flysfo:flight_number":"6340",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578793440,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022421,
     "wof:name":"OZ6340 (SFO-LAS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

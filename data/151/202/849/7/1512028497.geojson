@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA984",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN9011",
+    "flysfo:flight_number":"9011",
     "flysfo:gate":"G6",
     "flysfo:journey":"CDG-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1578949034,
+    "wof:lastmodified":1579022660,
     "wof:name":"SN9011 (CDG-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

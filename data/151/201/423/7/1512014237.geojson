@@ -7,7 +7,7 @@
     "flysfo:airline":"QF",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF49",
+    "flysfo:flight_number":"49",
     "flysfo:gate":"A5",
     "flysfo:journey":"MEL-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284313,
         1477930291
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"QF49 (MEL-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

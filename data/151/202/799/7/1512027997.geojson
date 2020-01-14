@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA698",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9424",
+    "flysfo:flight_number":"9424",
     "flysfo:gate":"F1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:timestamp":1578684120,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"NZ9424 (SEA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

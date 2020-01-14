@@ -7,7 +7,7 @@
     "flysfo:airline":"SQ",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1",
+    "flysfo:flight_number":"1",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022803,
     "wof:name":"SQ1 (SFO-HKG)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

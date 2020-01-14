@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578728520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2266",
+    "flysfo:flight_number":"2266",
     "flysfo:gate":"C3",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578729540,
@@ -88,7 +88,7 @@
         1159284261,
         1477930319
     ],
-    "wof:lastmodified":1578949008,
+    "wof:lastmodified":1579022625,
     "wof:name":"DL2266 (ATL-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

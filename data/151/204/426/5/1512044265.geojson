@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN2861",
+    "flysfo:flight_number":"2861",
     "flysfo:gate":"B14",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578861900,
@@ -103,7 +103,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578948814,
+    "wof:lastmodified":1579022287,
     "wof:name":"WN2861 (BUR-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

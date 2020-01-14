@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578779400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA7615",
+    "flysfo:flight_number":"7615",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-PEK",
     "flysfo:scheduled_timestamp":1578779400,
@@ -94,7 +94,7 @@
         1477930481,
         1159283605
     ],
-    "wof:lastmodified":1578948788,
+    "wof:lastmodified":1579022250,
     "wof:name":"UA7615 (SFO-PEK)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

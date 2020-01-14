@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1248",
+    "flysfo:flight_number":"1248",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578866400,
@@ -102,7 +102,7 @@
         1477930399,
         1159292085
     ],
-    "wof:lastmodified":1578950106,
+    "wof:lastmodified":1579022892,
     "wof:name":"UA1248 (SFO-LAX)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

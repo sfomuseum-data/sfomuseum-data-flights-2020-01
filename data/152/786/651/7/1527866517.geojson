@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5334",
+    "flysfo:flight_number":"5334",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SAT",
     "flysfo:scheduled_timestamp":1578940800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022941,
     "wof:name":"UA5334 (SFO-SAT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5850",
+    "flysfo:flight_number":"5850",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578959700,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022975,
     "wof:name":"FJ5850 (SFO-IAD)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

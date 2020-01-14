@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9199",
+    "flysfo:flight_number":"9199",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578770100,
@@ -94,7 +94,7 @@
         1477930291,
         1159284127
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022221,
     "wof:name":"MH9199 (SFO-HKG)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

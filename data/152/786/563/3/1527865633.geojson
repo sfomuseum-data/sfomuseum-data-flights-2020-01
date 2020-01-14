@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL7548",
+    "flysfo:flight_number":"7548",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578955080,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022977,
     "wof:name":"JL7548 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

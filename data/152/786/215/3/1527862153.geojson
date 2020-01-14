@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LA6609",
+    "flysfo:flight_number":"6609",
     "flysfo:gate":"C9",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578945240,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022993,
     "wof:name":"LA6609 (LAX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

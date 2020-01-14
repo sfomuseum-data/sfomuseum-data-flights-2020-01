@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1873",
+    "flysfo:flight_number":"1873",
     "flysfo:gate":"F1",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578807960,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022362,
     "wof:name":"UA1873 (SLC-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

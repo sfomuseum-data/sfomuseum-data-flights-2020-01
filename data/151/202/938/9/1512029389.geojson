@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61136",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2354",
+    "flysfo:flight_number":"2354",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"HA2354 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

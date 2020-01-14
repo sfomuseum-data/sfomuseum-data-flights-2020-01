@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1753",
+    "flysfo:flight_number":"1753",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578866400,
@@ -104,7 +104,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1578948832,
+    "wof:lastmodified":1579022315,
     "wof:name":"AS1753 (SFO-SEA)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

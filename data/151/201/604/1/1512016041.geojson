@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1409",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3942",
+    "flysfo:flight_number":"3942",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022738,
     "wof:name":"AC3942 (SFO-LAS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

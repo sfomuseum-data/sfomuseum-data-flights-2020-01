@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1742",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5029",
+    "flysfo:flight_number":"5029",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"AC5029 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QR4043",
+    "flysfo:flight_number":"4043",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578846000,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"QR4043 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

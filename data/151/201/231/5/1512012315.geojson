@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5466",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4229",
+    "flysfo:flight_number":"4229",
     "flysfo:gate":"F5",
     "flysfo:journey":"BOI-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022796,
     "wof:name":"AC4229 (BOI-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

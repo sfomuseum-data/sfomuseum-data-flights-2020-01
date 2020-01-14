@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1749",
+    "flysfo:flight_number":"1749",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578844800,
@@ -96,7 +96,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1578948832,
+    "wof:lastmodified":1579022315,
     "wof:name":"AS1749 (SFO-SEA)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

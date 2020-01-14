@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS371",
+    "flysfo:flight_number":"371",
     "flysfo:gate":"D1",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578727680,
@@ -104,7 +104,7 @@
         1477930339,
         1159289871
     ],
-    "wof:lastmodified":1578949006,
+    "wof:lastmodified":1579022620,
     "wof:name":"AS371 (EWR-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

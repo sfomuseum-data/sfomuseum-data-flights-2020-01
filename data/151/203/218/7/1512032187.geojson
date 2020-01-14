@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA651",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA6710",
+    "flysfo:flight_number":"6710",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-PHL",
     "flysfo:timestamp":1578684120,
@@ -91,7 +91,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948877,
+    "wof:lastmodified":1579022387,
     "wof:name":"BA6710 (SFO-PHL)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

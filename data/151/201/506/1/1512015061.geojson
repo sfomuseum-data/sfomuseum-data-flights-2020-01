@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS368",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3120",
+    "flysfo:flight_number":"3120",
     "flysfo:gate":"D7",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022767,
     "wof:name":"EK3120 (SEA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

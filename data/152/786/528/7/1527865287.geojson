@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3339",
+    "flysfo:flight_number":"3339",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578976200,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022958,
     "wof:name":"QF3339 (SFO-PHL)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

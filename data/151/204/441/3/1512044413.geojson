@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3119",
+    "flysfo:flight_number":"3119",
     "flysfo:gate":"D6",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578863700,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"EK3119 (LAS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

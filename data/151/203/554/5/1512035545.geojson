@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578766200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1935",
+    "flysfo:flight_number":"1935",
     "flysfo:gate":"D4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578764040,
@@ -104,7 +104,7 @@
         1477930345,
         1159289871
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022505,
     "wof:name":"AS1935 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

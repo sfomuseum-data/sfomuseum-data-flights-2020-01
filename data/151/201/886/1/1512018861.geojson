@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6434",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK6106",
+    "flysfo:flight_number":"6106",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578949506,
+    "wof:lastmodified":1579022728,
     "wof:name":"EK6106 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

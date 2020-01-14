@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578973200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DY7076",
+    "flysfo:flight_number":"7076",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-BCN",
     "flysfo:scheduled_timestamp":1578973200,
@@ -88,7 +88,7 @@
         1159286401,
         1477930303
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023034,
     "wof:name":"DY7076 (SFO-BCN)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

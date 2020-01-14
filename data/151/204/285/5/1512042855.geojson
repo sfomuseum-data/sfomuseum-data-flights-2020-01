@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA5322",
+    "flysfo:flight_number":"5322",
     "flysfo:gate":"C7",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578903360,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022298,
     "wof:name":"BA5322 (PHL-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

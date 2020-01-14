@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578702300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8828",
+    "flysfo:flight_number":"8828",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578696000,
@@ -94,7 +94,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022548,
     "wof:name":"UA8828 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

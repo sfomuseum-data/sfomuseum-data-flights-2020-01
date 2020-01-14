@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7306",
+    "flysfo:flight_number":"7306",
     "flysfo:gate":"E5",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578772560,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"CA7306 (SEA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

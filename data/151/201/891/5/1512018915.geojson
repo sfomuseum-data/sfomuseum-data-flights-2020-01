@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1509",
+    "flysfo:flight_number":"1509",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-HNL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022802,
     "wof:name":"UA1509 (SFO-HNL)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

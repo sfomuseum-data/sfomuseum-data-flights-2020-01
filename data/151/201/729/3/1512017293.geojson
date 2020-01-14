@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA500",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN8820",
+    "flysfo:flight_number":"8820",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022830,
     "wof:name":"SN8820 (SFO-ORD)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM383",
+    "flysfo:flight_number":"383",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-PTY",
     "flysfo:scheduled_timestamp":1578904200,
@@ -88,7 +88,7 @@
         1159284211,
         1477930291
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"CM383 (SFO-PTY)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

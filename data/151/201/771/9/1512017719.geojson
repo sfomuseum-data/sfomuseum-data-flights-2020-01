@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL854",
+    "flysfo:flight_number":"854",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022753,
     "wof:name":"DL854 (SFO-DTW)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA283",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7262",
+    "flysfo:flight_number":"7262",
     "flysfo:gate":"E3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022802,
     "wof:name":"NH7262 (LAX-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

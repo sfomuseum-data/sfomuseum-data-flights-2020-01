@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5396",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9747",
+    "flysfo:flight_number":"9747",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-TUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"NZ9747 (SFO-TUS)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

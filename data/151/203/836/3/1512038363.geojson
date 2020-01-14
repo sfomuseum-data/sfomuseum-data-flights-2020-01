@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578781800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5963",
+    "flysfo:flight_number":"5963",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578777420,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948969,
+    "wof:lastmodified":1579022541,
     "wof:name":"AF5963 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN7249",
+    "flysfo:flight_number":"7249",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578868800,
@@ -94,7 +94,7 @@
         1477930485,
         1159284711
     ],
-    "wof:lastmodified":1578950111,
+    "wof:lastmodified":1579022900,
     "wof:name":"SN7249 (SFO-FRA)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

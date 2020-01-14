@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA399",
+    "flysfo:flight_number":"399",
     "flysfo:gate":"E4",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930385,
         1159289871
     ],
-    "wof:lastmodified":1578949497,
+    "wof:lastmodified":1579022716,
     "wof:name":"UA399 (IAH-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

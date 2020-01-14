@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4213",
+    "flysfo:flight_number":"4213",
     "flysfo:gate":"F4",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578865920,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022338,
     "wof:name":"AC4213 (PHX-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

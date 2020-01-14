@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6338",
+    "flysfo:flight_number":"6338",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578874020,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022194,
     "wof:name":"OZ6338 (SFO-LAS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

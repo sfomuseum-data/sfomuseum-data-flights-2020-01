@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2803",
+    "flysfo:flight_number":"2803",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930335,
         1159292085
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022700,
     "wof:name":"DL2803 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

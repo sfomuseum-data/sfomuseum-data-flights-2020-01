@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578689640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4479",
+    "flysfo:flight_number":"4479",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578689760,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022503,
     "wof:name":"AC4479 (SFO-BOI)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

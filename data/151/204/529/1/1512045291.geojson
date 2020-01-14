@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA651",
+    "flysfo:flight_number":"651",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578857700,
@@ -104,7 +104,7 @@
         1477930363,
         1159289965
     ],
-    "wof:lastmodified":1578948800,
+    "wof:lastmodified":1579022267,
     "wof:name":"AA651 (SFO-PHL)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

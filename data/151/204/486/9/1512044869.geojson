@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578840960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5601",
+    "flysfo:flight_number":"5601",
     "flysfo:gate":"E3",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578842460,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022295,
     "wof:name":"UA5601 (SBA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

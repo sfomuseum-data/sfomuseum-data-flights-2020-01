@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2498",
+    "flysfo:flight_number":"2498",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578867360,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578950108,
+    "wof:lastmodified":1579022895,
     "wof:name":"HA2498 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

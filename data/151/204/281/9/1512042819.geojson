@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578871200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3508",
+    "flysfo:flight_number":"3508",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578871080,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022231,
     "wof:name":"AZ3508 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

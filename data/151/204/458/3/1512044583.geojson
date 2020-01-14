@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2064",
+    "flysfo:flight_number":"2064",
     "flysfo:gate":"E9",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578842100,
@@ -104,7 +104,7 @@
         1477930395,
         1159289871
     ],
-    "wof:lastmodified":1578948826,
+    "wof:lastmodified":1579022305,
     "wof:name":"UA2064 (PHX-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

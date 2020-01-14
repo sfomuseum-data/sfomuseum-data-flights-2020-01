@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC758",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS8318",
+    "flysfo:flight_number":"8318",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930471,
         1159283597
     ],
-    "wof:lastmodified":1578948975,
+    "wof:lastmodified":1579022551,
     "wof:name":"OS8318 (SFO-YYZ)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

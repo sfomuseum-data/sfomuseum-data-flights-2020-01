@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578899460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1366",
+    "flysfo:flight_number":"1366",
     "flysfo:gate":"",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578885600,
@@ -48,7 +48,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578932064,
+    "wof:lastmodified":1579022224,
     "wof:name":"UA1366 (BOI-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

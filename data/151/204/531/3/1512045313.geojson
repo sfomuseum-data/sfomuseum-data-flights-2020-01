@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8932",
+    "flysfo:flight_number":"8932",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578856500,
@@ -94,7 +94,7 @@
         1477930283,
         1159284127
     ],
-    "wof:lastmodified":1578948809,
+    "wof:lastmodified":1579022280,
     "wof:name":"AA8932 (SFO-HKG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

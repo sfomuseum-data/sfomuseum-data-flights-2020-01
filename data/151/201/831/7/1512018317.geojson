@@ -11,7 +11,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6534",
+    "flysfo:flight_number":"534",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1578949554,
+    "wof:lastmodified":1579022798,
     "wof:name":"B6534 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

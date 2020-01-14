@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF2100",
+    "flysfo:flight_number":"2100",
     "flysfo:gate":"C8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578971940,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579023008,
     "wof:name":"AF2100 (SEA-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7335",
+    "flysfo:flight_number":"7335",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578691860,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578948875,
+    "wof:lastmodified":1579022384,
     "wof:name":"CA7335 (SFO-SAN)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

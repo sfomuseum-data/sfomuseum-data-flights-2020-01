@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1354",
+    "flysfo:flight_number":"1354",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578722400,
@@ -104,7 +104,7 @@
         1477930357,
         1159289871
     ],
-    "wof:lastmodified":1578948914,
+    "wof:lastmodified":1579022445,
     "wof:name":"AS1354 (SFO-BOS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

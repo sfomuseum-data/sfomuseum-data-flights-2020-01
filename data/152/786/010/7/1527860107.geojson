@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578970140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM7672",
+    "flysfo:flight_number":"7672",
     "flysfo:gate":"A5",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578972000,
@@ -94,7 +94,7 @@
         1477930291,
         1159285483
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023004,
     "wof:name":"AM7672 (LHR-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

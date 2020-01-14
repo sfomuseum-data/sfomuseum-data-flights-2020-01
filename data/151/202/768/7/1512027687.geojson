@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA500",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2728",
+    "flysfo:flight_number":"2728",
     "flysfo:gate":"E5",
     "flysfo:journey":"IND-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949030,
+    "wof:lastmodified":1579022656,
     "wof:name":"NZ2728 (IND-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

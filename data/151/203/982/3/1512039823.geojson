@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578803700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY5526",
+    "flysfo:flight_number":"5526",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578803700,
@@ -94,7 +94,7 @@
         1477930295,
         1159284021
     ],
-    "wof:lastmodified":1578948926,
+    "wof:lastmodified":1579022467,
     "wof:name":"AY5526 (SFO-LHR)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

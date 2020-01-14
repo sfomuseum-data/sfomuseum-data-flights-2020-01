@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578965040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3237",
+    "flysfo:flight_number":"3237",
     "flysfo:gate":"E7",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578966300,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022931,
     "wof:name":"LX3237 (SAN-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

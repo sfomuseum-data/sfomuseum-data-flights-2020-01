@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL505",
+    "flysfo:flight_number":"505",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930323,
         1377564285
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022781,
     "wof:name":"DL505 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

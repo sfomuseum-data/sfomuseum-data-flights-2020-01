@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578814200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE26",
+    "flysfo:flight_number":"26",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578814200,
@@ -88,7 +88,7 @@
         1159284623,
         1477930295
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022244,
     "wof:name":"KE26 (SFO-ICN)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

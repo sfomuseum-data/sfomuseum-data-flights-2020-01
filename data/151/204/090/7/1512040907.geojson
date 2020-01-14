@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5878",
+    "flysfo:flight_number":"5878",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578811140,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022253,
     "wof:name":"UA5878 (SFO-SBA)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

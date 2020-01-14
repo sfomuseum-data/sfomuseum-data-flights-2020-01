@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS9803",
+    "flysfo:flight_number":"9803",
     "flysfo:gate":"",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578965040,
@@ -48,7 +48,7 @@
         1159283813,
         -1
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022931,
     "wof:name":"AS9803 (RNO-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

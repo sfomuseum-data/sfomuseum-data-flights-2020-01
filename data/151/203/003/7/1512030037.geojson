@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6577",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK6050",
+    "flysfo:flight_number":"6050",
     "flysfo:gate":"B7",
     "flysfo:journey":"FLL-SFO",
     "flysfo:timestamp":1578684240,
@@ -91,7 +91,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948967,
+    "wof:lastmodified":1579022538,
     "wof:name":"EK6050 (FLL-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

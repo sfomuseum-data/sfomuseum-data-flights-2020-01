@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578989040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM3335",
+    "flysfo:flight_number":"3335",
     "flysfo:gate":"C2",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578988740,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022954,
     "wof:name":"AM3335 (ATL-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

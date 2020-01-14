@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5709",
+    "flysfo:flight_number":"5709",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-STS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022814,
     "wof:name":"UA5709 (SFO-STS)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9421",
+    "flysfo:flight_number":"9421",
     "flysfo:gate":"F14",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578786180,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578948857,
+    "wof:lastmodified":1579022357,
     "wof:name":"NZ9421 (SEA-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

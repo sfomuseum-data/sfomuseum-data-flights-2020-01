@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA876",
+    "flysfo:flight_number":"876",
     "flysfo:gate":"G5",
     "flysfo:journey":"HND-SFO",
     "flysfo:timestamp":0,
@@ -100,7 +100,7 @@
         1477930469,
         1377564289
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022412,
     "wof:name":"UA876 (HND-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

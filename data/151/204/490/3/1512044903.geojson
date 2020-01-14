@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA572",
+    "flysfo:flight_number":"572",
     "flysfo:gate":"E8",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578851160,
@@ -104,7 +104,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022244,
     "wof:name":"UA572 (IAD-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

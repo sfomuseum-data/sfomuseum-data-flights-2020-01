@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"OZ211",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA7290",
+    "flysfo:flight_number":"7290",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-ICN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930477,
         1159283917
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022829,
     "wof:name":"UA7290 (SFO-ICN)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

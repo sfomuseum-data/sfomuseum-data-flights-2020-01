@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5312",
+    "flysfo:flight_number":"5312",
     "flysfo:gate":"E13",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578758400,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948877,
+    "wof:lastmodified":1579022388,
     "wof:name":"AC5312 (SAN-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

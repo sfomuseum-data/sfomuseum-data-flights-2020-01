@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1673",
+    "flysfo:flight_number":"1673",
     "flysfo:gate":"E13",
     "flysfo:journey":"CLE-SFO",
     "flysfo:scheduled_timestamp":1578764580,
@@ -104,7 +104,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022605,
     "wof:name":"UA1673 (CLE-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

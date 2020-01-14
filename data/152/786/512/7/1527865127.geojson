@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578975180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7156",
+    "flysfo:flight_number":"7156",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578973200,
@@ -94,7 +94,7 @@
         1477930475,
         1159283697
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579023037,
     "wof:name":"LH7156 (SFO-AKL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

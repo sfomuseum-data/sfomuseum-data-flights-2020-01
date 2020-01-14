@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578990000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM8014",
+    "flysfo:flight_number":"8014",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578990000,
@@ -94,7 +94,7 @@
         1477930481,
         1159284349
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579023010,
     "wof:name":"CM8014 (SFO-TPE)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

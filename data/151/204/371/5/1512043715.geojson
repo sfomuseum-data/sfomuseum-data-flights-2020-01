@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2524",
+    "flysfo:flight_number":"2524",
     "flysfo:gate":"D8",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578843480,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948799,
+    "wof:lastmodified":1579022266,
     "wof:name":"AY2524 (PSP-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

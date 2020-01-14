@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC569",
+    "flysfo:flight_number":"569",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578790200,
@@ -88,7 +88,7 @@
         1159283597,
         1477930465
     ],
-    "wof:lastmodified":1578948885,
+    "wof:lastmodified":1579022400,
     "wof:name":"AC569 (SFO-YVR)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

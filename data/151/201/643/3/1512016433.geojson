@@ -11,7 +11,7 @@
     "flysfo:airline":"NH",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7",
+    "flysfo:flight_number":"7",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-NRT",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022720,
     "wof:name":"NH7 (SFO-NRT)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

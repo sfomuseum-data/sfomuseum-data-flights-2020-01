@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1721",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2356",
+    "flysfo:flight_number":"2356",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-KOA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948887,
+    "wof:lastmodified":1579022403,
     "wof:name":"AV2356 (SFO-KOA)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

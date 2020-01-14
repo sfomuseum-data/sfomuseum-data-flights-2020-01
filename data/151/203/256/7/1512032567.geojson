@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2803",
+    "flysfo:flight_number":"2803",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578715200,
@@ -88,7 +88,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578948908,
+    "wof:lastmodified":1579022433,
     "wof:name":"DL2803 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

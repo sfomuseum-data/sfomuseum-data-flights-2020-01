@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2489",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7407",
+    "flysfo:flight_number":"7407",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022713,
     "wof:name":"CA7407 (SFO-AUS)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

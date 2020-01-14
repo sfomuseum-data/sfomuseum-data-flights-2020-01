@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6615",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK6127",
+    "flysfo:flight_number":"6127",
     "flysfo:gate":"",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -50,7 +50,7 @@
         -1,
         1159284583
     ],
-    "wof:lastmodified":1578693525,
+    "wof:lastmodified":1579022764,
     "wof:name":"EK6127 (JFK-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

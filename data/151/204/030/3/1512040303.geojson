@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3808",
+    "flysfo:flight_number":"3808",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578790200,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578948792,
+    "wof:lastmodified":1579022256,
     "wof:name":"WN3808 (SFO-SAN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

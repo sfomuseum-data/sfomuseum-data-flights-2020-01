@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ871",
+    "flysfo:flight_number":"871",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-NAN",
     "flysfo:scheduled_timestamp":1578808800,
@@ -88,7 +88,7 @@
         1159283715,
         1477930291
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"FJ871 (SFO-NAN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

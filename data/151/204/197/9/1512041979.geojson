@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AI183",
+    "flysfo:flight_number":"183",
     "flysfo:gate":"G4",
     "flysfo:journey":"DEL-SFO",
     "flysfo:scheduled_timestamp":1578889800,
@@ -103,7 +103,7 @@
         1477930467,
         1159289989
     ],
-    "wof:lastmodified":1578948809,
+    "wof:lastmodified":1579022280,
     "wof:name":"AI183 (DEL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

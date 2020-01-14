@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578702060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1462",
+    "flysfo:flight_number":"1462",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RDD",
     "flysfo:scheduled_timestamp":1578702600,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022420,
     "wof:name":"CM1462 (SFO-RDD)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

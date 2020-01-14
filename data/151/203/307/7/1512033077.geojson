@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B616",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FI7888",
+    "flysfo:flight_number":"7888",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"FI7888 (SFO-JFK)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

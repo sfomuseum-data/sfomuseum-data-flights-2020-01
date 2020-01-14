@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1395",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL6339",
+    "flysfo:flight_number":"6339",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"JL6339 (SFO-SEA)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

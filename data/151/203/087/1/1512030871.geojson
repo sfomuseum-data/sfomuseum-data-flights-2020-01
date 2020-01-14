@@ -7,7 +7,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA6034",
+    "flysfo:flight_number":"6034",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159283849,
         1477930333
     ],
-    "wof:lastmodified":1578948952,
+    "wof:lastmodified":1579022511,
     "wof:name":"AA6034 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

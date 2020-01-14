@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2235",
+    "flysfo:flight_number":"2235",
     "flysfo:gate":"E13",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578758400,
@@ -104,7 +104,7 @@
         1477930405,
         1159292085
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022366,
     "wof:name":"UA2235 (SAN-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

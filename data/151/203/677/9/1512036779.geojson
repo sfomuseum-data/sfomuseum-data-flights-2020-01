@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE23",
+    "flysfo:flight_number":"23",
     "flysfo:gate":"A10",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578763500,
@@ -88,7 +88,7 @@
         1159284623,
         1477930303
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022536,
     "wof:name":"KE23 (ICN-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1092",
+    "flysfo:flight_number":"1092",
     "flysfo:gate":"D1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578809160,
@@ -88,7 +88,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022568,
     "wof:name":"AS1092 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

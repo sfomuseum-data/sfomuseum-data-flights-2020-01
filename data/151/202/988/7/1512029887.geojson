@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1871",
+    "flysfo:flight_number":"1871",
     "flysfo:gate":"B14",
     "flysfo:journey":"MDW-SFO",
     "flysfo:scheduled_timestamp":1578720900,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578949049,
+    "wof:lastmodified":1579022672,
     "wof:name":"WN1871 (MDW-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

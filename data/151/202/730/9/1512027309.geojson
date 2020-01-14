@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5723",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4345",
+    "flysfo:flight_number":"4345",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949001,
+    "wof:lastmodified":1579022612,
     "wof:name":"AC4345 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"SY",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SY392",
+    "flysfo:flight_number":"392",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-MSP",
     "flysfo:timestamp":0,
@@ -93,7 +93,7 @@
         1159285227,
         1477930303
     ],
-    "wof:lastmodified":1578948864,
+    "wof:lastmodified":1579022367,
     "wof:name":"SY392 (SFO-MSP)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

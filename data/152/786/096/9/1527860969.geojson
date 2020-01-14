@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA6147",
+    "flysfo:flight_number":"6147",
     "flysfo:gate":"G5",
     "flysfo:journey":"DUB-SFO",
     "flysfo:scheduled_timestamp":1578958800,
@@ -94,7 +94,7 @@
         1477930469,
         1159283495
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022937,
     "wof:name":"BA6147 (DUB-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

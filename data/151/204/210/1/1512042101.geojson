@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578852000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH8",
+    "flysfo:flight_number":"8",
     "flysfo:gate":"G5",
     "flysfo:journey":"NRT-SFO",
     "flysfo:scheduled_timestamp":1578849300,
@@ -103,7 +103,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1578948775,
+    "wof:lastmodified":1579022224,
     "wof:name":"NH8 (NRT-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

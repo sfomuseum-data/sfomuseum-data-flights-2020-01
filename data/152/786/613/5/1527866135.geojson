@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578970500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TK80",
+    "flysfo:flight_number":"80",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-IST",
     "flysfo:scheduled_timestamp":1578968100,
@@ -88,7 +88,7 @@
         1159285391,
         1477930463
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022987,
     "wof:name":"TK80 (SFO-IST)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

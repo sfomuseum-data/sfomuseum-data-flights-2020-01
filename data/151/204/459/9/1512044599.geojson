@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578886620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2128",
+    "flysfo:flight_number":"2128",
     "flysfo:gate":"F20",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578880800,
@@ -104,7 +104,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022325,
     "wof:name":"UA2128 (PHX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

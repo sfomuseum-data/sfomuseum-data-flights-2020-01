@@ -7,7 +7,7 @@
     "flysfo:airline":"BR",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR27",
+    "flysfo:flight_number":"27",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-TPE",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284349,
         1477930487
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"BR27 (SFO-TPE)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

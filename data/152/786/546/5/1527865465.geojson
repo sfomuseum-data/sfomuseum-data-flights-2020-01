@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2511",
+    "flysfo:flight_number":"2511",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578979800,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579023032,
     "wof:name":"AY2511 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

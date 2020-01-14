@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5105",
+    "flysfo:flight_number":"5105",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578701220,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948994,
+    "wof:lastmodified":1579022595,
     "wof:name":"AC5105 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

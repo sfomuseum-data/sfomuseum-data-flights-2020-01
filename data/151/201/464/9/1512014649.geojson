@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL540",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL5406",
+    "flysfo:flight_number":"5406",
     "flysfo:gate":"C8",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949512,
+    "wof:lastmodified":1579022735,
     "wof:name":"KL5406 (MSP-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

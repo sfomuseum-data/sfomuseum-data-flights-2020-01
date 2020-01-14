@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1354",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5448",
+    "flysfo:flight_number":"5448",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022794,
     "wof:name":"JL5448 (SFO-BOS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9040",
+    "flysfo:flight_number":"9040",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-CLE",
     "flysfo:scheduled_timestamp":1578940920,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022936,
     "wof:name":"NZ9040 (SFO-CLE)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

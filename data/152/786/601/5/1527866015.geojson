@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578972300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1756",
+    "flysfo:flight_number":"1756",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578972300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023016,
     "wof:name":"WN1756 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

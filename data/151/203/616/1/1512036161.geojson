@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578819900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2857",
+    "flysfo:flight_number":"2857",
     "flysfo:gate":"C4",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578810480,
@@ -104,7 +104,7 @@
         1477930321,
         1377564285
     ],
-    "wof:lastmodified":1578948892,
+    "wof:lastmodified":1579022410,
     "wof:name":"DL2857 (ATL-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

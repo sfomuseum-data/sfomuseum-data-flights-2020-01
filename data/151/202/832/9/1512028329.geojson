@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2010",
+    "flysfo:flight_number":"2010",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578730800,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022635,
     "wof:name":"AV2010 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

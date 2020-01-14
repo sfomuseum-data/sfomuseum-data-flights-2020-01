@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578981780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1301",
+    "flysfo:flight_number":"1301",
     "flysfo:gate":"D3",
     "flysfo:journey":"MCO-SFO",
     "flysfo:scheduled_timestamp":1578982440,
@@ -88,7 +88,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579023012,
     "wof:name":"AS1301 (MCO-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7509",
+    "flysfo:flight_number":"7509",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578839400,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578948848,
+    "wof:lastmodified":1579022344,
     "wof:name":"NH7509 (SFO-LAX)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578786120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS627",
+    "flysfo:flight_number":"627",
     "flysfo:gate":"D3",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578777000,
@@ -103,7 +103,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022499,
     "wof:name":"AS627 (JFK-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

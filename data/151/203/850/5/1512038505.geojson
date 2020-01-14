@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7388",
+    "flysfo:flight_number":"7388",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578780900,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"NH7388 (SFO-SMF)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

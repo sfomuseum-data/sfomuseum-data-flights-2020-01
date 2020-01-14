@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL592",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4801",
+    "flysfo:flight_number":"4801",
     "flysfo:gate":"C3",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022815,
     "wof:name":"VS4801 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

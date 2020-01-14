@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5664",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4080",
+    "flysfo:flight_number":"4080",
     "flysfo:gate":"F15K",
     "flysfo:journey":"ONT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022719,
     "wof:name":"AC4080 (ONT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

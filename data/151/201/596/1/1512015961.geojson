@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2834",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7606",
+    "flysfo:flight_number":"7606",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949539,
+    "wof:lastmodified":1579022777,
     "wof:name":"AA7606 (SFO-SAN)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578799800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3766",
+    "flysfo:flight_number":"3766",
     "flysfo:gate":"B17",
     "flysfo:journey":"MDW-SFO",
     "flysfo:scheduled_timestamp":1578799800,
@@ -102,7 +102,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022497,
     "wof:name":"WN3766 (MDW-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

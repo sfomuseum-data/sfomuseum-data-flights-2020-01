@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5743",
+    "flysfo:flight_number":"5743",
     "flysfo:gate":"F15L",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578706800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022548,
     "wof:name":"UA5743 (BOI-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3348",
+    "flysfo:flight_number":"3348",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-DAL",
     "flysfo:scheduled_timestamp":1578960000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022926,
     "wof:name":"AS3348 (SFO-DAL)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

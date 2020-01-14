@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM662",
+    "flysfo:flight_number":"662",
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
     "flysfo:scheduled_timestamp":1578768600,
@@ -103,7 +103,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022420,
     "wof:name":"AM662 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

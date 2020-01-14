@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1350",
+    "flysfo:flight_number":"1350",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578754800,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948775,
+    "wof:lastmodified":1579022224,
     "wof:name":"SQ1350 (SFO-BOS)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

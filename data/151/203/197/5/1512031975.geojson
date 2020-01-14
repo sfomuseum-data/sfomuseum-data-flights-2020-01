@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3320",
+    "flysfo:flight_number":"3320",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578717000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022493,
     "wof:name":"AS3320 (SFO-SNA)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1419",
+    "flysfo:flight_number":"1419",
     "flysfo:gate":"E5",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578786900,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948864,
+    "wof:lastmodified":1579022367,
     "wof:name":"CM1419 (PDX-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

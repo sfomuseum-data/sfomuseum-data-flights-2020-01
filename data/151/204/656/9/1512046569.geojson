@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA4684",
+    "flysfo:flight_number":"4684",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578860820,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022245,
     "wof:name":"BA4684 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

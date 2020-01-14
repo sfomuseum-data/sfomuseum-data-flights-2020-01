@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3256",
+    "flysfo:flight_number":"3256",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578855600,
@@ -99,7 +99,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022875,
     "wof:name":"WN3256 (SFO-BUR)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

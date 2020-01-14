@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS657",
+    "flysfo:flight_number":"657",
     "flysfo:gate":"D9",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578717540,
@@ -104,7 +104,7 @@
         1477930357,
         1159289871
     ],
-    "wof:lastmodified":1578949039,
+    "wof:lastmodified":1579022664,
     "wof:name":"AS657 (JFK-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

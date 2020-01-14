@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578972540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ9530",
+    "flysfo:flight_number":"9530",
     "flysfo:gate":"F14",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578971820,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022859,
     "wof:name":"OZ9530 (BOS-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

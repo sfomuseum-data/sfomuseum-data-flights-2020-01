@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2930",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS1751",
+    "flysfo:flight_number":"1751",
     "flysfo:gate":"C8",
     "flysfo:journey":"DTW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022763,
     "wof:name":"VS1751 (DTW-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

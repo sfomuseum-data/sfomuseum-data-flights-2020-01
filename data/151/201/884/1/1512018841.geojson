@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3318",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3111",
+    "flysfo:flight_number":"3111",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SNA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022785,
     "wof:name":"EK3111 (SFO-SNA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2305",
+    "flysfo:flight_number":"2305",
     "flysfo:gate":"C9",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930333,
         1159289411
     ],
-    "wof:lastmodified":1578949553,
+    "wof:lastmodified":1579022797,
     "wof:name":"AA2305 (JFK-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

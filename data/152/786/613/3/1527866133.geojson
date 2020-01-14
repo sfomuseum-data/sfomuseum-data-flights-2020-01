@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578987000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TG6748",
+    "flysfo:flight_number":"6748",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578987000,
@@ -94,7 +94,7 @@
         1477930475,
         1159283917
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022987,
     "wof:name":"TG6748 (SFO-ICN)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7301",
+    "flysfo:flight_number":"7301",
     "flysfo:gate":"E10",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578755220,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948930,
+    "wof:lastmodified":1579022473,
     "wof:name":"CA7301 (PHX-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

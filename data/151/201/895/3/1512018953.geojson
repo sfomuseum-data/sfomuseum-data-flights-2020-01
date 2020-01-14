@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1824",
+    "flysfo:flight_number":"1824",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578949509,
+    "wof:lastmodified":1579022732,
     "wof:name":"UA1824 (SFO-SLC)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

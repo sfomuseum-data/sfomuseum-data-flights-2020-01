@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5991",
+    "flysfo:flight_number":"5991",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-RNO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022696,
     "wof:name":"UA5991 (SFO-RNO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

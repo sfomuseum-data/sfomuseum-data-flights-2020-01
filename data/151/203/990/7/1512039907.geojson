@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA41",
+    "flysfo:flight_number":"41",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-OGG",
     "flysfo:scheduled_timestamp":1578761700,
@@ -104,7 +104,7 @@
         1477930307,
         1377564297
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022375,
     "wof:name":"HA41 (SFO-OGG)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

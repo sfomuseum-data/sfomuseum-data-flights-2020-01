@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1757",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7910",
+    "flysfo:flight_number":"7910",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022696,
     "wof:name":"CX7910 (SFO-SEA)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1411",
+    "flysfo:flight_number":"1411",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578874260,
@@ -88,7 +88,7 @@
         1159284261,
         1477930321
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022882,
     "wof:name":"DL1411 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

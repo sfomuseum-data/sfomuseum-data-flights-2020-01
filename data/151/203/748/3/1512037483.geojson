@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5228",
+    "flysfo:flight_number":"5228",
     "flysfo:gate":"F15M",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578778800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948927,
+    "wof:lastmodified":1579022468,
     "wof:name":"UA5228 (ONT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

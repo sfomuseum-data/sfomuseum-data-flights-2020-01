@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"F91910",
+    "flysfo:flight_number":"1910",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578768660,
@@ -96,7 +96,7 @@
         1159284401,
         1477930307
     ],
-    "wof:lastmodified":1578948988,
+    "wof:lastmodified":1579022577,
     "wof:name":"F91910 (SFO-AUS)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578954600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7995",
+    "flysfo:flight_number":"7995",
     "flysfo:gate":"G1",
     "flysfo:journey":"MUC-SFO",
     "flysfo:scheduled_timestamp":1578956400,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022981,
     "wof:name":"LH7995 (MUC-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

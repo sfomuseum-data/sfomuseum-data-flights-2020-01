@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2548",
+    "flysfo:flight_number":"2548",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-MIA",
     "flysfo:scheduled_timestamp":1578725640,
@@ -104,7 +104,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022394,
     "wof:name":"AA2548 (SFO-MIA)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

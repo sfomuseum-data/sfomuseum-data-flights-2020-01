@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA35",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7071",
+    "flysfo:flight_number":"7071",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-KIX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"NH7071 (SFO-KIX)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

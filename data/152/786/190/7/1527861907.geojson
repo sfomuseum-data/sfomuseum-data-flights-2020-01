@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578983580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2119",
+    "flysfo:flight_number":"2119",
     "flysfo:gate":"B7",
     "flysfo:journey":"FLL-SFO",
     "flysfo:scheduled_timestamp":1578984420,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022978,
     "wof:name":"HA2119 (FLL-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

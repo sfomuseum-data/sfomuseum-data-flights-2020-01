@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578809700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"B65812",
+    "flysfo:flight_number":"5812",
     "flysfo:gate":"A5",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578809700,
@@ -94,7 +94,7 @@
         1477930291,
         1159284489
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022536,
     "wof:name":"B65812 (HNL-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

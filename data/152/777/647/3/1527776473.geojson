@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1381",
+    "flysfo:flight_number":"1381",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578860100,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"SQ1381 (SFO-PDX)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

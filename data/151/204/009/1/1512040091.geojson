@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5084",
+    "flysfo:flight_number":"5084",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578762000,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948786,
+    "wof:lastmodified":1579022246,
     "wof:name":"LA5084 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

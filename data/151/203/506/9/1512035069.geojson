@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2828",
+    "flysfo:flight_number":"2828",
     "flysfo:gate":"F9",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578757680,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578948934,
+    "wof:lastmodified":1579022479,
     "wof:name":"NZ2828 (MRY-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

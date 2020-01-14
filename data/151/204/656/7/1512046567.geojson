@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA4388",
+    "flysfo:flight_number":"4388",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578858120,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022245,
     "wof:name":"BA4388 (SFO-JFK)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

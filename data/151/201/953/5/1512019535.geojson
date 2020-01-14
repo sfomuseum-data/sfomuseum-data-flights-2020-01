@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2429",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1900",
+    "flysfo:flight_number":"1900",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"VS1900 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

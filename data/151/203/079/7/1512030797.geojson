@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA1037",
+    "flysfo:flight_number":"1037",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578701460,
@@ -88,7 +88,7 @@
         1159283849,
         1477930361
     ],
-    "wof:lastmodified":1578948879,
+    "wof:lastmodified":1579022389,
     "wof:name":"AA1037 (SFO-PHX)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

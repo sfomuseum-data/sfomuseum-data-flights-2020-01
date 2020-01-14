@@ -7,7 +7,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1828",
+    "flysfo:flight_number":"1828",
     "flysfo:gate":"B9",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022808,
     "wof:name":"WN1828 (LAX-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2517",
+    "flysfo:flight_number":"2517",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578793800,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948997,
+    "wof:lastmodified":1579022603,
     "wof:name":"AY2517 (SFO-SAN)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

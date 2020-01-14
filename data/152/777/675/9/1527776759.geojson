@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1111",
+    "flysfo:flight_number":"1111",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LIH",
     "flysfo:scheduled_timestamp":1578848700,
@@ -104,7 +104,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"UA1111 (SFO-LIH)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

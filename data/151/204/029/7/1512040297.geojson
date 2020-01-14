@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3797",
+    "flysfo:flight_number":"3797",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578773400,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022295,
     "wof:name":"WN3797 (SFO-ONT)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

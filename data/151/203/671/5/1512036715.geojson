@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5457",
+    "flysfo:flight_number":"5457",
     "flysfo:gate":"D2",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578769200,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948955,
+    "wof:lastmodified":1579022516,
     "wof:name":"JL5457 (EWR-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

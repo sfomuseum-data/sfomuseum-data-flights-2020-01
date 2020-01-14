@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1812",
+    "flysfo:flight_number":"1812",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578886440,
@@ -104,7 +104,7 @@
         1477930445,
         1159292085
     ],
-    "wof:lastmodified":1578950104,
+    "wof:lastmodified":1579022888,
     "wof:name":"UA1812 (SFO-SMF)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4097",
+    "flysfo:flight_number":"4097",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578846480,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"IB4097 (SFO-JFK)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

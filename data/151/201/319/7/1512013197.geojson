@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1923",
+    "flysfo:flight_number":"1923",
     "flysfo:gate":"D4",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1578949572,
+    "wof:lastmodified":1579022823,
     "wof:name":"AS1923 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

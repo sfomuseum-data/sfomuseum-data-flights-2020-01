@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4479",
+    "flysfo:flight_number":"4479",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022899,
     "wof:name":"VS4479 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

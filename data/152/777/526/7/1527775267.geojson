@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN9102",
+    "flysfo:flight_number":"9102",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578870300,
@@ -94,7 +94,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"SN9102 (SFO-LHR)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

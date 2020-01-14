@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578816300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CI3",
+    "flysfo:flight_number":"3",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578816300,
@@ -88,7 +88,7 @@
         1159284153,
         1477930309
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"CI3 (SFO-TPE)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

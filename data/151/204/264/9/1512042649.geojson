@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS304",
+    "flysfo:flight_number":"304",
     "flysfo:gate":"D16",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578874380,
@@ -103,7 +103,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1578948839,
+    "wof:lastmodified":1579022328,
     "wof:name":"AS304 (SEA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

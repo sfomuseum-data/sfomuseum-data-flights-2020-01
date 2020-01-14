@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1957",
+    "flysfo:flight_number":"1957",
     "flysfo:gate":"D5",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578763080,
@@ -103,7 +103,7 @@
         1477930349,
         1159292085
     ],
-    "wof:lastmodified":1578948936,
+    "wof:lastmodified":1579022482,
     "wof:name":"AS1957 (SAN-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

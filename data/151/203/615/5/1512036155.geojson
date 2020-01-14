@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2588",
+    "flysfo:flight_number":"2588",
     "flysfo:gate":"C2",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578787080,
@@ -101,7 +101,7 @@
         1477930317,
         1159289407
     ],
-    "wof:lastmodified":1578948962,
+    "wof:lastmodified":1579022528,
     "wof:name":"DL2588 (SEA-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

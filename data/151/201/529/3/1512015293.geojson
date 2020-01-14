@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2797",
+    "flysfo:flight_number":"2797",
     "flysfo:gate":"",
     "flysfo:journey":"SAT-SFO",
     "geom:area":0.0,
@@ -44,7 +44,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578693521,
+    "wof:lastmodified":1579022758,
     "wof:name":"UA2797 (SAT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2061",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1889",
+    "flysfo:flight_number":"1889",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022825,
     "wof:name":"CM1889 (SFO-LAS)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

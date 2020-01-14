@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5523",
+    "flysfo:flight_number":"5523",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-ACV",
     "flysfo:scheduled_timestamp":1578724680,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"UA5523 (SFO-ACV)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

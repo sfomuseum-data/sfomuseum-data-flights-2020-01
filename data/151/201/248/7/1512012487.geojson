@@ -11,7 +11,7 @@
     "flysfo:airline":"AC",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC568",
+    "flysfo:flight_number":"568",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022784,
     "wof:name":"AC568 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2925",
+    "flysfo:flight_number":"2925",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578885000,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"WN2925 (SFO-ONT)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

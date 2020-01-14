@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5252",
+    "flysfo:flight_number":"5252",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578948806,
+    "wof:lastmodified":1579022275,
     "wof:name":"AC5252 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

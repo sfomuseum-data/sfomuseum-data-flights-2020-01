@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2050",
+    "flysfo:flight_number":"2050",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-BUR",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930409,
         1159292085
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022811,
     "wof:name":"UA2050 (SFO-BUR)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578727800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ211",
+    "flysfo:flight_number":"211",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578727800,
@@ -88,7 +88,7 @@
         1159283917,
         1477930469
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022432,
     "wof:name":"OZ211 (SFO-ICN)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

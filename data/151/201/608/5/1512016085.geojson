@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA809",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4168",
+    "flysfo:flight_number":"4168",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"AC4168 (SFO-SLC)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

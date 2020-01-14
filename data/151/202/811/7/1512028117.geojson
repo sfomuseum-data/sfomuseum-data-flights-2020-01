@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1002",
+    "flysfo:flight_number":"1002",
     "flysfo:gate":"D3",
     "flysfo:journey":"DCA-SFO",
     "flysfo:scheduled_timestamp":1578717000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1578949007,
+    "wof:lastmodified":1579022624,
     "wof:name":"AS1002 (DCA-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

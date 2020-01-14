@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1213",
+    "flysfo:flight_number":"1213",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578717000,
@@ -104,7 +104,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578948995,
+    "wof:lastmodified":1579022596,
     "wof:name":"UA1213 (SFO-BOS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

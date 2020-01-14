@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1095",
+    "flysfo:flight_number":"1095",
     "flysfo:gate":"D10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578886380,
@@ -104,7 +104,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578948850,
+    "wof:lastmodified":1579022345,
     "wof:name":"AA1095 (LAX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

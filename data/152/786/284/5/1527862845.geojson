@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578969360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5223",
+    "flysfo:flight_number":"5223",
     "flysfo:gate":"F8",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578967020,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022986,
     "wof:name":"UA5223 (BUR-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578895200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN4534",
+    "flysfo:flight_number":"4534",
     "flysfo:gate":"B13",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578891000,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"WN4534 (LAS-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

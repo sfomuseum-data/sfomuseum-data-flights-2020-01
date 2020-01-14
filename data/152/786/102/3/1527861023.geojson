@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578939420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CI9868",
+    "flysfo:flight_number":"9868",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578940680,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022911,
     "wof:name":"CI9868 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

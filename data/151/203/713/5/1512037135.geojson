@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578782880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6328",
+    "flysfo:flight_number":"6328",
     "flysfo:gate":"G8",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578783000,
@@ -94,7 +94,7 @@
         1477930477,
         1159284349
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"TG6328 (TPE-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

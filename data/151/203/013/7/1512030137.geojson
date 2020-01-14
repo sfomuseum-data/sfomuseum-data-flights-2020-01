@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1848",
+    "flysfo:flight_number":"1848",
     "flysfo:gate":"F11",
     "flysfo:journey":"EWR-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022398,
     "wof:name":"UA1848 (EWR-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

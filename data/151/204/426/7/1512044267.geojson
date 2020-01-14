@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN2875",
+    "flysfo:flight_number":"2875",
     "flysfo:gate":"B9",
     "flysfo:journey":"TPA-SFO",
     "flysfo:scheduled_timestamp":1578902100,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578948814,
+    "wof:lastmodified":1579022287,
     "wof:name":"WN2875 (TPA-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

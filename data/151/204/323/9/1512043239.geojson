@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1257",
+    "flysfo:flight_number":"1257",
     "flysfo:gate":"C8",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578881640,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"CZ1257 (MSP-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578883500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3326",
+    "flysfo:flight_number":"3326",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578883500,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948802,
+    "wof:lastmodified":1579022269,
     "wof:name":"AM3326 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

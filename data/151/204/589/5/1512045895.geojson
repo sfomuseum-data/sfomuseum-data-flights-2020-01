@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9001",
+    "flysfo:flight_number":"9001",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578854520,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022268,
     "wof:name":"NZ9001 (SFO-ATL)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

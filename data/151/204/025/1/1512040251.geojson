@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1426",
+    "flysfo:flight_number":"1426",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578762000,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"SQ1426 (SFO-JFK)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

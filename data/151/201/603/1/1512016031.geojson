@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA213",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ9523",
+    "flysfo:flight_number":"9523",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022739,
     "wof:name":"OZ9523 (SFO-EWR)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

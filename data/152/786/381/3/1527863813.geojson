@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF8403",
+    "flysfo:flight_number":"8403",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-AMS",
     "flysfo:scheduled_timestamp":1578954900,
@@ -94,7 +94,7 @@
         1477930291,
         1159284613
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579023035,
     "wof:name":"AF8403 (SFO-AMS)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

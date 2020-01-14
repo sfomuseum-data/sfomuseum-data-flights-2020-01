@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3357",
+    "flysfo:flight_number":"3357",
     "flysfo:gate":"D6",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578706800,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949032,
+    "wof:lastmodified":1579022658,
     "wof:name":"AS3357 (PSP-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

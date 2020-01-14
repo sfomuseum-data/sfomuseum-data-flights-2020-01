@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"PR105",
+    "flysfo:flight_number":"105",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-MNL",
     "flysfo:scheduled_timestamp":1578979800,
@@ -88,7 +88,7 @@
         1159285015,
         1477930309
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023034,
     "wof:name":"PR105 (SFO-MNL)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

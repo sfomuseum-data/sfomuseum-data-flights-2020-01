@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1266",
+    "flysfo:flight_number":"1266",
     "flysfo:gate":"D5",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578849600,
@@ -96,7 +96,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578948791,
+    "wof:lastmodified":1579022254,
     "wof:name":"AS1266 (PDX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

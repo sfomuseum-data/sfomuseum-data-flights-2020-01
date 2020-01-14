@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA840",
+    "flysfo:flight_number":"840",
     "flysfo:gate":"F16",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578695700,
@@ -104,7 +104,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022433,
     "wof:name":"UA840 (EWR-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

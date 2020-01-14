@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3806",
+    "flysfo:flight_number":"3806",
     "flysfo:gate":"B9",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578770700,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578948932,
+    "wof:lastmodified":1579022476,
     "wof:name":"WN3806 (SAN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

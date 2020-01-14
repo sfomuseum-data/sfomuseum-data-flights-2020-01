@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1413",
+    "flysfo:flight_number":"1413",
     "flysfo:gate":"D6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578978840,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022930,
     "wof:name":"SQ1413 (BOS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

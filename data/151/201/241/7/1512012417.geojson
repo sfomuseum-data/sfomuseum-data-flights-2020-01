@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1687",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5098",
+    "flysfo:flight_number":"5098",
     "flysfo:gate":"G5",
     "flysfo:journey":"SJD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022785,
     "wof:name":"AC5098 (SJD-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

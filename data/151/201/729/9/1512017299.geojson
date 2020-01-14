@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA990",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN9010",
+    "flysfo:flight_number":"9010",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930465,
         1159285413
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022830,
     "wof:name":"SN9010 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

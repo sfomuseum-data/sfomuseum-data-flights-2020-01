@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM664",
+    "flysfo:flight_number":"664",
     "flysfo:gate":"A15",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578807900,
@@ -103,7 +103,7 @@
         1477930315,
         1159289871
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022420,
     "wof:name":"AM664 (MEX-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

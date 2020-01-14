@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7241",
+    "flysfo:flight_number":"7241",
     "flysfo:gate":"E12",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578937440,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022905,
     "wof:name":"CA7241 (IAD-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

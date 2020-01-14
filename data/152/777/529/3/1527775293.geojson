@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7307",
+    "flysfo:flight_number":"7307",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578889800,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578950099,
+    "wof:lastmodified":1579022880,
     "wof:name":"CA7307 (SFO-BOS)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

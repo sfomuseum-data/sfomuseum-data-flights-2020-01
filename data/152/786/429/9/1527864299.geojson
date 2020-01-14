@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9619",
+    "flysfo:flight_number":"9619",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578960300,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022998,
     "wof:name":"NZ9619 (SFO-SBA)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

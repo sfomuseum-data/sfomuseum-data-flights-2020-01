@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA4377",
+    "flysfo:flight_number":"4377",
     "flysfo:gate":"D10",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578813180,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948930,
+    "wof:lastmodified":1579022473,
     "wof:name":"BA4377 (ORD-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

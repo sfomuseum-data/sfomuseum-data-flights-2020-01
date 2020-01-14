@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5396",
+    "flysfo:flight_number":"5396",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-TUS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"UA5396 (SFO-TUS)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

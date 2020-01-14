@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578859200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU590",
+    "flysfo:flight_number":"590",
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-PVG",
     "flysfo:scheduled_timestamp":1578859200,
@@ -88,7 +88,7 @@
         1159284157,
         1477930281
     ],
-    "wof:lastmodified":1578950100,
+    "wof:lastmodified":1579022881,
     "wof:name":"MU590 (SFO-PVG)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

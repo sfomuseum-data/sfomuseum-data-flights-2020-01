@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1973",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LY9426",
+    "flysfo:flight_number":"9426",
     "flysfo:gate":"D1",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022790,
     "wof:name":"LY9426 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

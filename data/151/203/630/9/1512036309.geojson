@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9178",
+    "flysfo:flight_number":"9178",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578797640,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948972,
+    "wof:lastmodified":1579022546,
     "wof:name":"LH9178 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

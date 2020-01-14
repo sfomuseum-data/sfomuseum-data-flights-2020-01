@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1865",
+    "flysfo:flight_number":"1865",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578769500,
@@ -104,7 +104,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1578948783,
+    "wof:lastmodified":1579022241,
     "wof:name":"UA1865 (SFO-BOS)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3332",
+    "flysfo:flight_number":"3332",
     "flysfo:gate":"C3",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578864660,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022231,
     "wof:name":"AZ3332 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

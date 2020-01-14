@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7908",
+    "flysfo:flight_number":"7908",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-MSY",
     "flysfo:scheduled_timestamp":1578859500,
@@ -94,7 +94,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"CX7908 (SFO-MSY)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

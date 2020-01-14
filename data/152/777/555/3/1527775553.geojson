@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578870000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1327",
+    "flysfo:flight_number":"1327",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578870000,
@@ -102,7 +102,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022883,
     "wof:name":"DL1327 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

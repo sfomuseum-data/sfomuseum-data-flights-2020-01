@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B6416",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP4390",
+    "flysfo:flight_number":"4390",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":1578684180,
@@ -91,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022359,
     "wof:name":"TP4390 (SFO-JFK)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

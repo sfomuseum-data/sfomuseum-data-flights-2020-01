@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5788",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2347",
+    "flysfo:flight_number":"2347",
     "flysfo:gate":"F10",
     "flysfo:journey":"BUR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"AV2347 (BUR-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

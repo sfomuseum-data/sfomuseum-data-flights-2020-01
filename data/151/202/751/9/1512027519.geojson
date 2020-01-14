@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578725280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC8844",
+    "flysfo:flight_number":"8844",
     "flysfo:gate":"G1",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578715380,
@@ -88,7 +88,7 @@
         1159283597,
         1477930461
     ],
-    "wof:lastmodified":1578949025,
+    "wof:lastmodified":1579022653,
     "wof:name":"AC8844 (YVR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

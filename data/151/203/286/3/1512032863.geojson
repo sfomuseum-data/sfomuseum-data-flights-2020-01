@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578706200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI146",
+    "flysfo:flight_number":"146",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-DUB",
     "flysfo:scheduled_timestamp":1578706200,
@@ -104,7 +104,7 @@
         1477930485,
         1159289423
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022409,
     "wof:name":"EI146 (SFO-DUB)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

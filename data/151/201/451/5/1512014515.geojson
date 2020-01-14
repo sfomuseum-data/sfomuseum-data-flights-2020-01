@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61577",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5891",
+    "flysfo:flight_number":"5891",
     "flysfo:gate":"B6",
     "flysfo:journey":"FLL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022800,
     "wof:name":"JL5891 (FLL-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2128",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4369",
+    "flysfo:flight_number":"4369",
     "flysfo:gate":"F19",
     "flysfo:journey":"PHX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022744,
     "wof:name":"AC4369 (PHX-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

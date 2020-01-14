@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5780",
+    "flysfo:flight_number":"5780",
     "flysfo:gate":"E1",
     "flysfo:journey":"MSN-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022768,
     "wof:name":"UA5780 (MSN-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

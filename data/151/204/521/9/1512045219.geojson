@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578905100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA1253",
+    "flysfo:flight_number":"1253",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578902340,
@@ -88,7 +88,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578948796,
+    "wof:lastmodified":1579022262,
     "wof:name":"AA1253 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

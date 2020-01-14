@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578942600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK6330",
+    "flysfo:flight_number":"6330",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578942600,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022932,
     "wof:name":"EK6330 (SFO-BOS)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

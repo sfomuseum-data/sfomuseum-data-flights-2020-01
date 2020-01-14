@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA59",
+    "flysfo:flight_number":"59",
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930485,
         1159289993
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022705,
     "wof:name":"UA59 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

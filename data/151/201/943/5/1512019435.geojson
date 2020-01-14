@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA726",
+    "flysfo:flight_number":"726",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022829,
     "wof:name":"UA726 (SFO-EWR)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

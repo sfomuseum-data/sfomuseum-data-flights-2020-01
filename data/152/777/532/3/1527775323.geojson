@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7322",
+    "flysfo:flight_number":"7322",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578844800,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578950090,
+    "wof:lastmodified":1579022866,
     "wof:name":"CA7322 (SFO-LAX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

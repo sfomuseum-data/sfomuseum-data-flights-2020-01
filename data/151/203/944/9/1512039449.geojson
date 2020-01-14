@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1241",
+    "flysfo:flight_number":"1241",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578790260,
@@ -103,7 +103,7 @@
         1477930317,
         1159289407
     ],
-    "wof:lastmodified":1578948995,
+    "wof:lastmodified":1579022598,
     "wof:name":"DL1241 (SFO-SLC)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2531",
+    "flysfo:flight_number":"2531",
     "flysfo:gate":"F8",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578804540,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022427,
     "wof:name":"CM2531 (ONT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

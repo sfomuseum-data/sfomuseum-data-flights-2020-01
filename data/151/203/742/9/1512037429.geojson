@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578782940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA372",
+    "flysfo:flight_number":"372",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578783540,
@@ -103,7 +103,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022592,
     "wof:name":"UA372 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

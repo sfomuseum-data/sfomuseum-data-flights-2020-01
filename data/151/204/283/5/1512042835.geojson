@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578880920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA287",
+    "flysfo:flight_number":"287",
     "flysfo:gate":"A6",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578882000,
@@ -96,7 +96,7 @@
         1159284021,
         1477930295
     ],
-    "wof:lastmodified":1578948814,
+    "wof:lastmodified":1579022288,
     "wof:name":"BA287 (LHR-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

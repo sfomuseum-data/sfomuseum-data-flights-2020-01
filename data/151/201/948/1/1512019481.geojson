@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC758",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8514",
+    "flysfo:flight_number":"8514",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYZ",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022745,
     "wof:name":"UA8514 (SFO-YYZ)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

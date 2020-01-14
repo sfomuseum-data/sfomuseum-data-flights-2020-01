@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3824",
+    "flysfo:flight_number":"3824",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578789300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948792,
+    "wof:lastmodified":1579022256,
     "wof:name":"WN3824 (SFO-LAX)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

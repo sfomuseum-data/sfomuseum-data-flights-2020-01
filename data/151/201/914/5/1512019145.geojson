@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5201",
+    "flysfo:flight_number":"5201",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-MRY",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022762,
     "wof:name":"UA5201 (SFO-MRY)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

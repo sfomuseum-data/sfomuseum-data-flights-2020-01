@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2054",
+    "flysfo:flight_number":"2054",
     "flysfo:gate":"F4",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578872880,
@@ -102,7 +102,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022324,
     "wof:name":"UA2054 (PDX-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

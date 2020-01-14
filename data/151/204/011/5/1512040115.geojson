@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578791580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6680",
+    "flysfo:flight_number":"6680",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578790800,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578948818,
+    "wof:lastmodified":1579022293,
     "wof:name":"LA6680 (SFO-LAX)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

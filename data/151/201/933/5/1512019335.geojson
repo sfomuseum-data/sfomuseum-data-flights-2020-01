@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA58",
+    "flysfo:flight_number":"58",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930487,
         1159289993
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022783,
     "wof:name":"UA58 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

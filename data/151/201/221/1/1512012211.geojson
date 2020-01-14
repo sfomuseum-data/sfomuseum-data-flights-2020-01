@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA834",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6339",
+    "flysfo:flight_number":"6339",
     "flysfo:gate":"E13",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022725,
     "wof:name":"OZ6339 (LAS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

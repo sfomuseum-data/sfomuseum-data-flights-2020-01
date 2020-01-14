@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5449",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4385",
+    "flysfo:flight_number":"4385",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-BOI",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022499,
     "wof:name":"AC4385 (SFO-BOI)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

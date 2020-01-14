@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BA287",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY5527",
+    "flysfo:flight_number":"5527",
     "flysfo:gate":"A6",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930295,
         1159284021
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022738,
     "wof:name":"AY5527 (LHR-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

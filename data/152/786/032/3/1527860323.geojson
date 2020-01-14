@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578977460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9151",
+    "flysfo:flight_number":"9151",
     "flysfo:gate":"F13",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578978420,
@@ -94,7 +94,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023010,
     "wof:name":"NZ9151 (HNL-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

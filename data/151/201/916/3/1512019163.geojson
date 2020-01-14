@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5299",
+    "flysfo:flight_number":"5299",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-FAT",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022813,
     "wof:name":"UA5299 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

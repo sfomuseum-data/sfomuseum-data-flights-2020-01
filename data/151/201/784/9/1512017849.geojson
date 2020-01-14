@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5524",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9400",
+    "flysfo:flight_number":"9400",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SMF",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022761,
     "wof:name":"LH9400 (SFO-SMF)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

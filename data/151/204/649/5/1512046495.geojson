@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2157",
+    "flysfo:flight_number":"2157",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578877200,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948817,
+    "wof:lastmodified":1579022292,
     "wof:name":"AV2157 (SFO-LAX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

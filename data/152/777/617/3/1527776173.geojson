@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6334",
+    "flysfo:flight_number":"334",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578856200,
@@ -104,7 +104,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1578950092,
+    "wof:lastmodified":1579022869,
     "wof:name":"B6334 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

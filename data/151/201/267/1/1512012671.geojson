@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA820",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7369",
+    "flysfo:flight_number":"7369",
     "flysfo:gate":"G1",
     "flysfo:journey":"MEX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022738,
     "wof:name":"NH7369 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

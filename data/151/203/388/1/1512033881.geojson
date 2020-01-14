@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2262",
+    "flysfo:flight_number":"2262",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-CLE",
     "flysfo:timestamp":0,
@@ -99,7 +99,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578948999,
+    "wof:lastmodified":1579022608,
     "wof:name":"UA2262 (SFO-CLE)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

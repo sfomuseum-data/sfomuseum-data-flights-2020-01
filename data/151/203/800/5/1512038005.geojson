@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578823140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ285",
+    "flysfo:flight_number":"285",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578825000,
@@ -48,7 +48,7 @@
         1159283917,
         -1
     ],
-    "wof:lastmodified":1578845528,
+    "wof:lastmodified":1579022538,
     "wof:name":"OZ285 (SFO-ICN)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

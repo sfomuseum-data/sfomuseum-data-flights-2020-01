@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BA284",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA6187",
+    "flysfo:flight_number":"6187",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930291,
         1159284021
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022780,
     "wof:name":"AA6187 (SFO-LHR)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

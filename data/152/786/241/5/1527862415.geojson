@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN756",
+    "flysfo:flight_number":"756",
     "flysfo:gate":"B9",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578972900,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022988,
     "wof:name":"WN756 (SAN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

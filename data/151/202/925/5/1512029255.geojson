@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"ET1358",
+    "flysfo:flight_number":"1358",
     "flysfo:gate":"E11",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578699840,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578949020,
+    "wof:lastmodified":1579022648,
     "wof:name":"ET1358 (IAD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578689760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5438",
+    "flysfo:flight_number":"5438",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578689700,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948931,
+    "wof:lastmodified":1579022474,
     "wof:name":"AC5438 (SFO-DEN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

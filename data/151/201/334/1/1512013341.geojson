@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5214",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2046",
+    "flysfo:flight_number":"2046",
     "flysfo:gate":"F15N",
     "flysfo:journey":"ACV-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949539,
+    "wof:lastmodified":1579022778,
     "wof:name":"AV2046 (ACV-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

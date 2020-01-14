@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1283",
+    "flysfo:flight_number":"1283",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578765600,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578948818,
+    "wof:lastmodified":1579022293,
     "wof:name":"SQ1283 (SFO-PDX)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

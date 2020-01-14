@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA6034",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL7555",
+    "flysfo:flight_number":"7555",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578949504,
+    "wof:lastmodified":1579022725,
     "wof:name":"JL7555 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

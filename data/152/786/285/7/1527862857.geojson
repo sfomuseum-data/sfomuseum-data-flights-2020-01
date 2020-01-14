@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578958920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5265",
+    "flysfo:flight_number":"5265",
     "flysfo:gate":"F10",
     "flysfo:journey":"RDM-SFO",
     "flysfo:scheduled_timestamp":1578960420,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579023002,
     "wof:name":"UA5265 (RDM-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

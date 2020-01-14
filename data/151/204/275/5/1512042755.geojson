@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2104",
+    "flysfo:flight_number":"2104",
     "flysfo:gate":"F7",
     "flysfo:journey":"SBP-SFO",
     "flysfo:scheduled_timestamp":1578886020,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022231,
     "wof:name":"AV2104 (SBP-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

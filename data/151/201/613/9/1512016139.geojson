@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5717",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4388",
+    "flysfo:flight_number":"4388",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-BUR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022785,
     "wof:name":"AC4388 (SFO-BUR)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

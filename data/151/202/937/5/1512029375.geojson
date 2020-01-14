@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2828",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5869",
+    "flysfo:flight_number":"5869",
     "flysfo:gate":"D9",
     "flysfo:journey":"PAE-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022615,
     "wof:name":"FJ5869 (PAE-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

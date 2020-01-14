@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1954",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1345",
+    "flysfo:flight_number":"1345",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022733,
     "wof:name":"SQ1345 (SFO-SAN)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578967500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC8567",
+    "flysfo:flight_number":"8567",
     "flysfo:gate":"G3",
     "flysfo:journey":"YYC-SFO",
     "flysfo:scheduled_timestamp":1578967560,
@@ -88,7 +88,7 @@
         1159283597,
         1477930465
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022955,
     "wof:name":"AC8567 (YYC-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

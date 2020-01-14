@@ -11,7 +11,7 @@
     "flysfo:airline":"SY",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY391",
+    "flysfo:flight_number":"391",
     "flysfo:gate":"A10",
     "flysfo:journey":"MSP-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930303,
         1159289871
     ],
-    "wof:lastmodified":1578949028,
+    "wof:lastmodified":1579022654,
     "wof:name":"SY391 (MSP-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

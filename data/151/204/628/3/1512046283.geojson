@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1222",
+    "flysfo:flight_number":"1222",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578882300,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578948771,
+    "wof:lastmodified":1579022216,
     "wof:name":"AS1222 (SFO-AUS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1898",
+    "flysfo:flight_number":"1898",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-LAS",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930341,
         1159292085
     ],
-    "wof:lastmodified":1578948940,
+    "wof:lastmodified":1579022489,
     "wof:name":"AS1898 (SFO-LAS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

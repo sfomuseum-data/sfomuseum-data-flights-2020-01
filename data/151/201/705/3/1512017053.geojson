@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3318",
+    "flysfo:flight_number":"3318",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SNA",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022765,
     "wof:name":"AS3318 (SFO-SNA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA901",
+    "flysfo:flight_number":"901",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578783900,
@@ -102,7 +102,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022200,
     "wof:name":"UA901 (SFO-LHR)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

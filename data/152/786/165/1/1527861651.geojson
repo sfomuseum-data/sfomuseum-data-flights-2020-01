@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578939360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3337",
+    "flysfo:flight_number":"3337",
     "flysfo:gate":"D10",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578940020,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022973,
     "wof:name":"QF3337 (MIA-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1800",
+    "flysfo:flight_number":"1800",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578881220,
@@ -88,7 +88,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578950104,
+    "wof:lastmodified":1579022888,
     "wof:name":"UA1800 (SFO-ORD)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

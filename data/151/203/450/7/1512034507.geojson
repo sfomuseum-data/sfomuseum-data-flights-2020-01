@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2305",
+    "flysfo:flight_number":"2305",
     "flysfo:gate":"D15",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578801960,
@@ -104,7 +104,7 @@
         1477930369,
         1159289411
     ],
-    "wof:lastmodified":1578948975,
+    "wof:lastmodified":1579022550,
     "wof:name":"AA2305 (JFK-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

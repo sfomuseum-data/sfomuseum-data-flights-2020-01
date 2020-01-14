@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2127",
+    "flysfo:flight_number":"2127",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-MIA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"UA2127 (SFO-MIA)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

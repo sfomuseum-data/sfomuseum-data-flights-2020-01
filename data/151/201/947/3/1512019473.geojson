@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC8568",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8200",
+    "flysfo:flight_number":"8200",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578949526,
+    "wof:lastmodified":1579022757,
     "wof:name":"UA8200 (SFO-YYC)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

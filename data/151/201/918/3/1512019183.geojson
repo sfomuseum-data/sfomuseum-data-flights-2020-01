@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5373",
+    "flysfo:flight_number":"5373",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-FAT",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"UA5373 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

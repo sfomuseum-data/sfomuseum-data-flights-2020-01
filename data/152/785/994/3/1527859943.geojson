@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578944520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5339",
+    "flysfo:flight_number":"5339",
     "flysfo:gate":"F4",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578944160,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022858,
     "wof:name":"AC5339 (ORD-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

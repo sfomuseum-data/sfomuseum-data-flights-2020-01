@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UX3323",
+    "flysfo:flight_number":"3323",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578846600,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948762,
+    "wof:lastmodified":1579022197,
     "wof:name":"UX3323 (SFO-JFK)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

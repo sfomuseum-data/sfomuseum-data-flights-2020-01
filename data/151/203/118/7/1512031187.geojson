@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA701",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5502",
+    "flysfo:flight_number":"5502",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-AUS",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"AC5502 (SFO-AUS)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

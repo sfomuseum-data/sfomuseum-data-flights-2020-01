@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5910",
+    "flysfo:flight_number":"5910",
     "flysfo:gate":"E1",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578722040,
@@ -88,7 +88,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022429,
     "wof:name":"UA5910 (YVR-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2496",
+    "flysfo:flight_number":"2496",
     "flysfo:gate":"F2",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578900420,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022268,
     "wof:name":"CM2496 (OGG-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

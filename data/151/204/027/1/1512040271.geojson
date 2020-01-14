@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578814200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ5711",
+    "flysfo:flight_number":"5711",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578814200,
@@ -94,7 +94,7 @@
         1477930469,
         1159283917
     ],
-    "wof:lastmodified":1578948817,
+    "wof:lastmodified":1579022292,
     "wof:name":"SQ5711 (SFO-ICN)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

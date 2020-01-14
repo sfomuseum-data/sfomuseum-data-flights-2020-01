@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA132",
+    "flysfo:flight_number":"132",
     "flysfo:gate":"D10",
     "flysfo:journey":"MIA-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930359,
         1159289965
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022804,
     "wof:name":"AA132 (MIA-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

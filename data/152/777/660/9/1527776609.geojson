@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN5327",
+    "flysfo:flight_number":"5327",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578862200,
@@ -103,7 +103,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022874,
     "wof:name":"WN5327 (SFO-LAS)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

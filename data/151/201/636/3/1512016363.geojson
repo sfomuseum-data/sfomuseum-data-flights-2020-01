@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2313",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5962",
+    "flysfo:flight_number":"5962",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022810,
     "wof:name":"AF5962 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

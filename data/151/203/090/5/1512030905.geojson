@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA922",
+    "flysfo:flight_number":"922",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930333,
         1159289871
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022432,
     "wof:name":"AA922 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

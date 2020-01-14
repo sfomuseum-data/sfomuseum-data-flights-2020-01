@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4095",
+    "flysfo:flight_number":"4095",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578708600,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022428,
     "wof:name":"AC4095 (SFO-LAS)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

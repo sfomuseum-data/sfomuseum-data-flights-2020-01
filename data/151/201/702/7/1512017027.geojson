@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1962",
+    "flysfo:flight_number":"1962",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022766,
     "wof:name":"AS1962 (SFO-SAN)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2313",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7686",
+    "flysfo:flight_number":"7686",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022536,
     "wof:name":"WS7686 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

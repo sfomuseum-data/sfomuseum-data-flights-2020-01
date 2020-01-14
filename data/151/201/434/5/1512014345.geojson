@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3307",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2522",
+    "flysfo:flight_number":"2522",
     "flysfo:gate":"D4",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022802,
     "wof:name":"AY2522 (SNA-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

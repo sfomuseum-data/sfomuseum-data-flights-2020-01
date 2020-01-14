@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA724",
+    "flysfo:flight_number":"724",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578949535,
+    "wof:lastmodified":1579022770,
     "wof:name":"UA724 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

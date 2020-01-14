@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1357",
+    "flysfo:flight_number":"1357",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578845700,
@@ -48,7 +48,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578932074,
+    "wof:lastmodified":1579022889,
     "wof:name":"UA1357 (SFO-ORD)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

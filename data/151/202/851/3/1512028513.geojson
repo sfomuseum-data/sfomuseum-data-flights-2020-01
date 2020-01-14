@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7205",
+    "flysfo:flight_number":"7205",
     "flysfo:gate":"G5",
     "flysfo:journey":"PEK-SFO",
     "flysfo:scheduled_timestamp":1578689700,
@@ -94,7 +94,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022635,
     "wof:name":"CA7205 (PEK-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

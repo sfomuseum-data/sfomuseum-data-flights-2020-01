@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL745",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE3471",
+    "flysfo:flight_number":"3471",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578949516,
+    "wof:lastmodified":1579022741,
     "wof:name":"KE3471 (SFO-DTW)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

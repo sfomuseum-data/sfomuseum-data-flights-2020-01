@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578787260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6350",
+    "flysfo:flight_number":"6350",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578787560,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"OZ6350 (SFO-DEN)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

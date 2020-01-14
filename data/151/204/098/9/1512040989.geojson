@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA733",
+    "flysfo:flight_number":"733",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578800760,
@@ -104,7 +104,7 @@
         1477930445,
         1159289407
     ],
-    "wof:lastmodified":1578948784,
+    "wof:lastmodified":1579022242,
     "wof:name":"UA733 (SFO-SEA)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

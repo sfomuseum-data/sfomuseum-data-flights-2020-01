@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1430",
+    "flysfo:flight_number":"1430",
     "flysfo:gate":"D10",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578891540,
@@ -88,7 +88,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1578948846,
+    "wof:lastmodified":1579022340,
     "wof:name":"AA1430 (DFW-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

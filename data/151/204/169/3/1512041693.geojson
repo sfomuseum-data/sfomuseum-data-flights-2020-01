@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4193",
+    "flysfo:flight_number":"4193",
     "flysfo:gate":"F2",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578849000,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948767,
+    "wof:lastmodified":1579022206,
     "wof:name":"AC4193 (SAN-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

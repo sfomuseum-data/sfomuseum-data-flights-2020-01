@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578981240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5515",
+    "flysfo:flight_number":"5515",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-PSC",
     "flysfo:scheduled_timestamp":1578977700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022955,
     "wof:name":"UA5515 (SFO-PSC)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

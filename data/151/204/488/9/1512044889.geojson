@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5667",
+    "flysfo:flight_number":"5667",
     "flysfo:gate":"F6",
     "flysfo:journey":"SBP-SFO",
     "flysfo:scheduled_timestamp":1578844800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948818,
+    "wof:lastmodified":1579022292,
     "wof:name":"UA5667 (SBP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

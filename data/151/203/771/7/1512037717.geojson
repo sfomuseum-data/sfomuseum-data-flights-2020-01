@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5984",
+    "flysfo:flight_number":"5984",
     "flysfo:gate":"F10",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578785580,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"UA5984 (MRY-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

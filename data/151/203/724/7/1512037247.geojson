@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1410",
+    "flysfo:flight_number":"1410",
     "flysfo:gate":"F21",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578763620,
@@ -104,7 +104,7 @@
         1477930457,
         1377564285
     ],
-    "wof:lastmodified":1578948924,
+    "wof:lastmodified":1579022463,
     "wof:name":"UA1410 (PDX-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

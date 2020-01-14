@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578693300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BR3186",
+    "flysfo:flight_number":"3186",
     "flysfo:gate":"G8",
     "flysfo:journey":"PTY-SFO",
     "flysfo:scheduled_timestamp":1578693300,
@@ -94,7 +94,7 @@
         1477930477,
         1159284211
     ],
-    "wof:lastmodified":1578949046,
+    "wof:lastmodified":1579022670,
     "wof:name":"BR3186 (PTY-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

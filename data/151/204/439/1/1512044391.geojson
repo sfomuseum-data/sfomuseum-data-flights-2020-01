@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3029",
+    "flysfo:flight_number":"3029",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578882840,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948782,
+    "wof:lastmodified":1579022238,
     "wof:name":"EK3029 (LAX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

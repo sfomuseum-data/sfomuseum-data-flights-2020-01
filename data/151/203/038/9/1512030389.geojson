@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5377",
+    "flysfo:flight_number":"5377",
     "flysfo:gate":"F6",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578687720,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"UA5377 (BUR-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

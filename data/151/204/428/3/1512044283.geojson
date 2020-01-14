@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3529",
+    "flysfo:flight_number":"3529",
     "flysfo:gate":"B12",
     "flysfo:journey":"STL-SFO",
     "flysfo:scheduled_timestamp":1578897000,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948815,
+    "wof:lastmodified":1579022288,
     "wof:name":"WN3529 (STL-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

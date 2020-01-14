@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA7540",
+    "flysfo:flight_number":"7540",
     "flysfo:gate":"D16",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578689520,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949034,
+    "wof:lastmodified":1579022660,
     "wof:name":"BA7540 (PDX-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

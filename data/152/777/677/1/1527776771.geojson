@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1212",
+    "flysfo:flight_number":"1212",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PVR",
     "flysfo:scheduled_timestamp":1578847500,
@@ -104,7 +104,7 @@
         1477930403,
         1377564285
     ],
-    "wof:lastmodified":1578950106,
+    "wof:lastmodified":1579022892,
     "wof:name":"UA1212 (SFO-PVR)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4359",
+    "flysfo:flight_number":"4359",
     "flysfo:gate":"E2",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578774120,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022520,
     "wof:name":"AC4359 (SMF-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

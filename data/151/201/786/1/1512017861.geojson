@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2839",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3065",
+    "flysfo:flight_number":"3065",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022815,
     "wof:name":"QF3065 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

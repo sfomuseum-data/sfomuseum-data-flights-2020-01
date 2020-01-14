@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578945600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL6557",
+    "flysfo:flight_number":"6557",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-PVG",
     "flysfo:scheduled_timestamp":1578945600,
@@ -94,7 +94,7 @@
         1477930303,
         1159284157
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022980,
     "wof:name":"DL6557 (SFO-PVG)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1684",
+    "flysfo:flight_number":"1684",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-LIH",
     "flysfo:scheduled_timestamp":1578791100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578948840,
+    "wof:lastmodified":1579022330,
     "wof:name":"UA1684 (SFO-LIH)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

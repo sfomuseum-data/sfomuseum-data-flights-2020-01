@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2229",
+    "flysfo:flight_number":"2229",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-PIT",
     "flysfo:scheduled_timestamp":1578768000,
@@ -102,7 +102,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948834,
+    "wof:lastmodified":1579022319,
     "wof:name":"UA2229 (SFO-PIT)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

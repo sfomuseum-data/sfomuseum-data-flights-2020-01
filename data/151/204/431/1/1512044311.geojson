@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN5510",
+    "flysfo:flight_number":"5510",
     "flysfo:gate":"B12",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578882600,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948789,
+    "wof:lastmodified":1579022251,
     "wof:name":"WN5510 (DEN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

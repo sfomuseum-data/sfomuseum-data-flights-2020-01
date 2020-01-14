@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686340,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4078",
+    "flysfo:flight_number":"4078",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578686100,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022428,
     "wof:name":"AC4078 (SFO-LAS)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

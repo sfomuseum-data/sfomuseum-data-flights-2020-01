@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578981540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2183",
+    "flysfo:flight_number":"2183",
     "flysfo:gate":"F9",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578981240,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022999,
     "wof:name":"AV2183 (YVR-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

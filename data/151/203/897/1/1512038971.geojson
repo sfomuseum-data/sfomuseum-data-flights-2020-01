@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1972",
+    "flysfo:flight_number":"1972",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578768300,
@@ -104,7 +104,7 @@
         1477930345,
         1159289871
     ],
-    "wof:lastmodified":1578948982,
+    "wof:lastmodified":1579022564,
     "wof:name":"AS1972 (SFO-LAX)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

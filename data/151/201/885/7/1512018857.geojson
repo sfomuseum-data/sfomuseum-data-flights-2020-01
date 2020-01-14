@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61635",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK6047",
+    "flysfo:flight_number":"6047",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"EK6047 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

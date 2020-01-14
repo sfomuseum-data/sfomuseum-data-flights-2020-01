@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS629",
+    "flysfo:flight_number":"629",
     "flysfo:gate":"D3",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578698400,
@@ -88,7 +88,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1578949039,
+    "wof:lastmodified":1579022664,
     "wof:name":"AS629 (JFK-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

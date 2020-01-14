@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1062",
+    "flysfo:flight_number":"1062",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578725100,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949037,
+    "wof:lastmodified":1579022663,
     "wof:name":"CM1062 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7477",
+    "flysfo:flight_number":"7477",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578763800,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948897,
+    "wof:lastmodified":1579022418,
     "wof:name":"CX7477 (LAS-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3356",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1301",
+    "flysfo:flight_number":"1301",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-PSP",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022809,
     "wof:name":"SQ1301 (SFO-PSP)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

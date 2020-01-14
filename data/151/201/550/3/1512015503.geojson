@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5620",
+    "flysfo:flight_number":"5620",
     "flysfo:gate":"F6",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578949494,
+    "wof:lastmodified":1579022710,
     "wof:name":"UA5620 (MSP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

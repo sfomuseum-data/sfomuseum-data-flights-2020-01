@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL522",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4457",
+    "flysfo:flight_number":"4457",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022774,
     "wof:name":"VS4457 (SFO-SLC)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

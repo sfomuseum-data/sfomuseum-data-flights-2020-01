@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2503",
+    "flysfo:flight_number":"2503",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578715800,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022427,
     "wof:name":"AY2503 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

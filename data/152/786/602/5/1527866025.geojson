@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578980400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1765",
+    "flysfo:flight_number":"1765",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578980400,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022939,
     "wof:name":"WN1765 (SFO-LAX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

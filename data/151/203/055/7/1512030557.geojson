@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA59",
+    "flysfo:flight_number":"59",
     "flysfo:gate":"G5",
     "flysfo:journey":"FRA-SFO",
     "flysfo:scheduled_timestamp":1578699000,
@@ -101,7 +101,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022429,
     "wof:name":"UA59 (FRA-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

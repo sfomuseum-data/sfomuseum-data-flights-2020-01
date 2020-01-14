@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3786",
+    "flysfo:flight_number":"3786",
     "flysfo:gate":"D2",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578769200,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948886,
+    "wof:lastmodified":1579022401,
     "wof:name":"QF3786 (EWR-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

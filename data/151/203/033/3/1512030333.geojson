@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5226",
+    "flysfo:flight_number":"5226",
     "flysfo:gate":"F18",
     "flysfo:journey":"ASE-SFO",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930449
     ],
-    "wof:lastmodified":1578948976,
+    "wof:lastmodified":1579022552,
     "wof:name":"UA5226 (ASE-SFO)",
     "wof:parent_id":1477930449,
     "wof:placetype":"event",

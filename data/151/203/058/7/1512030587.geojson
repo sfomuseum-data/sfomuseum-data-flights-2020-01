@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NZ8",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA6754",
+    "flysfo:flight_number":"6754",
     "flysfo:gate":"G7",
     "flysfo:journey":"AKL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930475,
         1159283697
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022561,
     "wof:name":"UA6754 (AKL-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

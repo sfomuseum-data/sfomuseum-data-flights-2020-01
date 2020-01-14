@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS6973",
+    "flysfo:flight_number":"6973",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578888000,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"WS6973 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

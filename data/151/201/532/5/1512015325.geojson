@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA420",
+    "flysfo:flight_number":"420",
     "flysfo:gate":"F16",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930445,
         1159289871
     ],
-    "wof:lastmodified":1578949497,
+    "wof:lastmodified":1579022716,
     "wof:name":"UA420 (LAX-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

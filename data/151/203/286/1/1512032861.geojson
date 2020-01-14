@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF74",
+    "flysfo:flight_number":"74",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-SYD",
     "flysfo:scheduled_timestamp":1578717000,
@@ -88,7 +88,7 @@
         1159284313,
         1477930291
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022409,
     "wof:name":"QF74 (SFO-SYD)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

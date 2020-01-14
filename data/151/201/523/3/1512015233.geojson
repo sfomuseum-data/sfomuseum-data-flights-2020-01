@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2186",
+    "flysfo:flight_number":"2186",
     "flysfo:gate":"E7",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930391,
         1377564285
     ],
-    "wof:lastmodified":1578949574,
+    "wof:lastmodified":1579022826,
     "wof:name":"UA2186 (LAX-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

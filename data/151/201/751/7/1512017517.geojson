@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS357",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7484",
+    "flysfo:flight_number":"7484",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949535,
+    "wof:lastmodified":1579022772,
     "wof:name":"CX7484 (SFO-SEA)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

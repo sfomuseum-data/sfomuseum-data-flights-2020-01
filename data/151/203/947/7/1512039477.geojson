@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2490",
+    "flysfo:flight_number":"2490",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578767820,
@@ -104,7 +104,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1578948924,
+    "wof:lastmodified":1579022462,
     "wof:name":"DL2490 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

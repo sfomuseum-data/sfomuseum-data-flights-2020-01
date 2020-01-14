@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI8984",
+    "flysfo:flight_number":"8984",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578960600,
@@ -94,7 +94,7 @@
         1477930303,
         1159284021
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022981,
     "wof:name":"EI8984 (SFO-LHR)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

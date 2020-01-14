@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578784380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2150",
+    "flysfo:flight_number":"2150",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578785760,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948856,
+    "wof:lastmodified":1579022356,
     "wof:name":"AV2150 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

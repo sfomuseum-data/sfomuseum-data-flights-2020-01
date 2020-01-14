@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578792120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1978",
+    "flysfo:flight_number":"1978",
     "flysfo:gate":"F13",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578792540,
@@ -104,7 +104,7 @@
         1477930439,
         1159289939
     ],
-    "wof:lastmodified":1578948941,
+    "wof:lastmodified":1579022490,
     "wof:name":"UA1978 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

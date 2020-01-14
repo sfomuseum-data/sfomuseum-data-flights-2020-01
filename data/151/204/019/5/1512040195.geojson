@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578753000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1292",
+    "flysfo:flight_number":"1292",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578753000,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578948825,
+    "wof:lastmodified":1579022303,
     "wof:name":"SQ1292 (SFO-SNA)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

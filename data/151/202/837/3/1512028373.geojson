@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578727740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2355",
+    "flysfo:flight_number":"2355",
     "flysfo:gate":"F2",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578716940,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949038,
+    "wof:lastmodified":1579022663,
     "wof:name":"AV2355 (KOA-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

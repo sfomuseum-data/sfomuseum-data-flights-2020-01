@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2477",
+    "flysfo:flight_number":"2477",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-EUG",
     "flysfo:scheduled_timestamp":1578701640,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948952,
+    "wof:lastmodified":1579022511,
     "wof:name":"CM2477 (SFO-EUG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

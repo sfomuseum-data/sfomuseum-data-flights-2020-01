@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9549",
+    "flysfo:flight_number":"9549",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578703200,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948997,
+    "wof:lastmodified":1579022603,
     "wof:name":"NZ9549 (SFO-PSP)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

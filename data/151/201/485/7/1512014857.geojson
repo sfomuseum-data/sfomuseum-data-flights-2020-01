@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"VS19",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ2519",
+    "flysfo:flight_number":"2519",
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930307,
         1159285483
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"SQ2519 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

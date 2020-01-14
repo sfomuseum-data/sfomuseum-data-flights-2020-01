@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI8986",
+    "flysfo:flight_number":"8986",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578716700,
@@ -94,7 +94,7 @@
         1477930301,
         1159284021
     ],
-    "wof:lastmodified":1578948881,
+    "wof:lastmodified":1579022392,
     "wof:name":"EI8986 (SFO-LHR)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA500",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9301",
+    "flysfo:flight_number":"9301",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578949504,
+    "wof:lastmodified":1579022726,
     "wof:name":"NZ9301 (SFO-ORD)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

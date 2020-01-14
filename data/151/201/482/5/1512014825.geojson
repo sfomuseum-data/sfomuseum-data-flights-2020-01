@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1357",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1413",
+    "flysfo:flight_number":"1413",
     "flysfo:gate":"D7",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"SQ1413 (BOS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

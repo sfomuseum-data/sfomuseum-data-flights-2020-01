@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL430",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4848",
+    "flysfo:flight_number":"4848",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"VS4848 (SFO-JFK)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

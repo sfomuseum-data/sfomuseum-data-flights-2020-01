@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578756780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8514",
+    "flysfo:flight_number":"8514",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578755400,
@@ -94,7 +94,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022199,
     "wof:name":"UA8514 (SFO-YYZ)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578752400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2115",
+    "flysfo:flight_number":"2115",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578752700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930435
     ],
-    "wof:lastmodified":1578948839,
+    "wof:lastmodified":1579022327,
     "wof:name":"UA2115 (SFO-DEN)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

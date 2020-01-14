@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578791520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA780",
+    "flysfo:flight_number":"780",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578779700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930445
     ],
-    "wof:lastmodified":1578948807,
+    "wof:lastmodified":1579022277,
     "wof:name":"UA780 (SFO-ORD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

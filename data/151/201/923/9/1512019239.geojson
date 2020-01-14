@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5536",
+    "flysfo:flight_number":"5536",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-TUS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"UA5536 (SFO-TUS)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5957",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2330",
+    "flysfo:flight_number":"2330",
     "flysfo:gate":"E3",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"CM2330 (SEA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

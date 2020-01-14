@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA759",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7285",
+    "flysfo:flight_number":"7285",
     "flysfo:gate":"F20",
     "flysfo:journey":"MCO-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022773,
     "wof:name":"CA7285 (MCO-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

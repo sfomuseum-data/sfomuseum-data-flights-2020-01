@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5495",
+    "flysfo:flight_number":"5495",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578691020,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948919,
+    "wof:lastmodified":1579022455,
     "wof:name":"KL5495 (SFO-JFK)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

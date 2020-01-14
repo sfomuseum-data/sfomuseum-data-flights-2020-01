@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5251",
+    "flysfo:flight_number":"5251",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578866400,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578950100,
+    "wof:lastmodified":1579022882,
     "wof:name":"UA5251 (SFO-SBA)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

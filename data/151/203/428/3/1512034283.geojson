@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA7167",
+    "flysfo:flight_number":"7167",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-PTY",
     "flysfo:scheduled_timestamp":1578714600,
@@ -94,7 +94,7 @@
         1477930467,
         1159284211
     ],
-    "wof:lastmodified":1578948952,
+    "wof:lastmodified":1579022511,
     "wof:name":"UA7167 (SFO-PTY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

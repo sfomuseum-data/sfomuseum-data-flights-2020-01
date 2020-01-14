@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL7540",
+    "flysfo:flight_number":"7540",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578787860,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948861,
+    "wof:lastmodified":1579022363,
     "wof:name":"JL7540 (SFO-PHX)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

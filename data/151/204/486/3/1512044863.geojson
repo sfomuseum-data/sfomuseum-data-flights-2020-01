@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA560",
+    "flysfo:flight_number":"560",
     "flysfo:gate":"E8",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578885120,
@@ -104,7 +104,7 @@
         1477930393,
         1377564285
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022295,
     "wof:name":"UA560 (IAD-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

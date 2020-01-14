@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA516",
+    "flysfo:flight_number":"516",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578850200,
@@ -104,7 +104,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022861,
     "wof:name":"UA516 (SFO-IAD)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

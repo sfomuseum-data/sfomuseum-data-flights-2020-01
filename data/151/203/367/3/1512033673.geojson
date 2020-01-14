@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1946",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3068",
+    "flysfo:flight_number":"3068",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"EK3068 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

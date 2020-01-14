@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1784",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9345",
+    "flysfo:flight_number":"9345",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022794,
     "wof:name":"NZ9345 (SFO-PDX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

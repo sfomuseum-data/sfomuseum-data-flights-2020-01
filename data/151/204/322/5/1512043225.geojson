@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX892",
+    "flysfo:flight_number":"892",
     "flysfo:gate":"A13",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578871500,
@@ -104,7 +104,7 @@
         1477930309,
         1377564293
     ],
-    "wof:lastmodified":1578948801,
+    "wof:lastmodified":1579022269,
     "wof:name":"CX892 (HKG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

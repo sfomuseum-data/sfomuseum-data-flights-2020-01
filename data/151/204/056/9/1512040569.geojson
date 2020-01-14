@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2127",
+    "flysfo:flight_number":"2127",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-MIA",
     "flysfo:scheduled_timestamp":1578760200,
@@ -104,7 +104,7 @@
         1477930445,
         1377564285
     ],
-    "wof:lastmodified":1578948838,
+    "wof:lastmodified":1579022327,
     "wof:name":"UA2127 (SFO-MIA)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

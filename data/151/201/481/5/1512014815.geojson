@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3395",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1383",
+    "flysfo:flight_number":"1383",
     "flysfo:gate":"D2",
     "flysfo:journey":"DAL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"SQ1383 (DAL-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

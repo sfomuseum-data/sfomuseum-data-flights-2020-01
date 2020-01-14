@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SA7438",
+    "flysfo:flight_number":"7438",
     "flysfo:gate":"E4",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578958920,
@@ -94,7 +94,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022920,
     "wof:name":"SA7438 (IAD-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

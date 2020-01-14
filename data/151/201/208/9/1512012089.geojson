@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2061",
+    "flysfo:flight_number":"2061",
     "flysfo:gate":"D12",
     "flysfo:journey":"CLT-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930363,
         1159289411
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022806,
     "wof:name":"AA2061 (CLT-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578982920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5868",
+    "flysfo:flight_number":"5868",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PAE",
     "flysfo:scheduled_timestamp":1578979200,
@@ -94,7 +94,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022984,
     "wof:name":"FJ5868 (SFO-PAE)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

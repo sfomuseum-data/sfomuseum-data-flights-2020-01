@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK6127",
+    "flysfo:flight_number":"6127",
     "flysfo:gate":"B8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578960540,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579023024,
     "wof:name":"EK6127 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

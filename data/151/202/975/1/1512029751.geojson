@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1360",
+    "flysfo:flight_number":"1360",
     "flysfo:gate":"D8",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578731040,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949050,
+    "wof:lastmodified":1579022673,
     "wof:name":"SQ1360 (HNL-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

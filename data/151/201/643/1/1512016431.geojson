@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA685",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH6495",
+    "flysfo:flight_number":"6495",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022720,
     "wof:name":"NH6495 (SFO-YVR)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

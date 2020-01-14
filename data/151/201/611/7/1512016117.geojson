@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5452",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4336",
+    "flysfo:flight_number":"4336",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-FAT",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"AC4336 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

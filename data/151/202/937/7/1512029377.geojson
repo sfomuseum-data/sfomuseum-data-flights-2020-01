@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA12",
+    "flysfo:flight_number":"12",
     "flysfo:gate":"A2",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578723300,
@@ -103,7 +103,7 @@
         1477930283,
         1159289421
     ],
-    "wof:lastmodified":1578949003,
+    "wof:lastmodified":1579022615,
     "wof:name":"HA12 (HNL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

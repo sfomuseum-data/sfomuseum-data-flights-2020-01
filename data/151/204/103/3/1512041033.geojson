@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA857",
+    "flysfo:flight_number":"857",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-PVG",
     "flysfo:scheduled_timestamp":1578776700,
@@ -104,7 +104,7 @@
         1477930479,
         1159293215
     ],
-    "wof:lastmodified":1578948759,
+    "wof:lastmodified":1579022191,
     "wof:name":"UA857 (SFO-PVG)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

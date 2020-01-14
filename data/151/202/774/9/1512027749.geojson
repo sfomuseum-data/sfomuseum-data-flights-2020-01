@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9065",
+    "flysfo:flight_number":"9065",
     "flysfo:gate":"F12",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578703200,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022670,
     "wof:name":"NZ9065 (DEN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

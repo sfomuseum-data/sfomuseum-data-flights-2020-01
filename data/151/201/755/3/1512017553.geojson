@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS441",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7962",
+    "flysfo:flight_number":"7962",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022697,
     "wof:name":"CX7962 (SFO-PDX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

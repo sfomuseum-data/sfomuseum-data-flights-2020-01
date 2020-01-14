@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773040,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM668",
+    "flysfo:flight_number":"668",
     "flysfo:gate":"A4",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578773460,
@@ -103,7 +103,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022421,
     "wof:name":"AM668 (MEX-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

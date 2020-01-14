@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS590",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9456",
+    "flysfo:flight_number":"9456",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"LY9456 (SFO-EWR)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

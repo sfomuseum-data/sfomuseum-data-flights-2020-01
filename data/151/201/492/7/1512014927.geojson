@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1855",
+    "flysfo:flight_number":"1855",
     "flysfo:gate":"B12",
     "flysfo:journey":"MDW-SFO",
     "geom:area":0.0,
@@ -92,7 +92,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022808,
     "wof:name":"WN1855 (MDW-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

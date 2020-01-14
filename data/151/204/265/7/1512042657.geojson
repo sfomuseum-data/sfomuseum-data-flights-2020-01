@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3313",
+    "flysfo:flight_number":"3313",
     "flysfo:gate":"D18",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578900660,
@@ -88,7 +88,7 @@
         1159283813,
         1477930375
     ],
-    "wof:lastmodified":1578948834,
+    "wof:lastmodified":1579022319,
     "wof:name":"AS3313 (LAX-SFO)",
     "wof:parent_id":1477930375,
     "wof:placetype":"event",

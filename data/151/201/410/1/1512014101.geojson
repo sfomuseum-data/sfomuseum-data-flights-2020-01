@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA722",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9297",
+    "flysfo:flight_number":"9297",
     "flysfo:gate":"F20",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022786,
     "wof:name":"LH9297 (SAN-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

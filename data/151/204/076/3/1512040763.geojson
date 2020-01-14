@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5449",
+    "flysfo:flight_number":"5449",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578762420,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948778,
+    "wof:lastmodified":1579022227,
     "wof:name":"UA5449 (SFO-BOI)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

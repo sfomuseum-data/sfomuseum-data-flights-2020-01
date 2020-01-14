@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FI7659",
+    "flysfo:flight_number":"7659",
     "flysfo:gate":"D1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578809160,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948911,
+    "wof:lastmodified":1579022440,
     "wof:name":"FI7659 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

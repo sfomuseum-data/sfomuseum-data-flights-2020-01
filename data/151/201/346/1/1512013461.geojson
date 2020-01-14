@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"EI147",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA6147",
+    "flysfo:flight_number":"6147",
     "flysfo:gate":"G2",
     "flysfo:journey":"DUB-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159283495
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022744,
     "wof:name":"BA6147 (DUB-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5076",
+    "flysfo:flight_number":"5076",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578866400,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022872,
     "wof:name":"LA5076 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

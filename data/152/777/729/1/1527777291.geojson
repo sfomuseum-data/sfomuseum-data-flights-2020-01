@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA705",
+    "flysfo:flight_number":"705",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578877740,
@@ -104,7 +104,7 @@
         1477930445,
         1159289945
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022902,
     "wof:name":"UA705 (SFO-ORD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

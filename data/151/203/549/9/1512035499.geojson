@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578809580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1601",
+    "flysfo:flight_number":"1601",
     "flysfo:gate":"D7",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578811200,
@@ -88,7 +88,7 @@
         1159283813,
         1477930353
     ],
-    "wof:lastmodified":1578948982,
+    "wof:lastmodified":1579022564,
     "wof:name":"AS1601 (LAS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

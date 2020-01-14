@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BA284",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI8984",
+    "flysfo:flight_number":"8984",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930291,
         1159284021
     ],
-    "wof:lastmodified":1578949493,
+    "wof:lastmodified":1579022706,
     "wof:name":"EI8984 (SFO-LHR)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

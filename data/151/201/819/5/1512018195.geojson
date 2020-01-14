@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61516",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2360",
+    "flysfo:flight_number":"2360",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"HA2360 (SFO-JFK)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

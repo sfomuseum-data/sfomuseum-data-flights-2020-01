@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5458",
+    "flysfo:flight_number":"5458",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578694500,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"AC5458 (SFO-SNA)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

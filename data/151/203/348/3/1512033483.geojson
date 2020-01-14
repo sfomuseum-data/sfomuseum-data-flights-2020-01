@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1761",
+    "flysfo:flight_number":"1761",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578709500,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"SQ1761 (SFO-PSP)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"B61635",
+    "flysfo:flight_number":"1635",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1578949559,
+    "wof:lastmodified":1579022805,
     "wof:name":"B61635 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578987300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN954",
+    "flysfo:flight_number":"954",
     "flysfo:gate":"B14",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578984300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022924,
     "wof:name":"WN954 (BUR-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

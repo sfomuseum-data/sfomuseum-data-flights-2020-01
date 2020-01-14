@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578895800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6523",
+    "flysfo:flight_number":"6523",
     "flysfo:gate":"F1",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578894360,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948804,
+    "wof:lastmodified":1579022273,
     "wof:name":"OZ6523 (SLC-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

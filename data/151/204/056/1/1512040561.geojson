@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2068",
+    "flysfo:flight_number":"2068",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578759180,
@@ -104,7 +104,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578948839,
+    "wof:lastmodified":1579022327,
     "wof:name":"UA2068 (SFO-LAS)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

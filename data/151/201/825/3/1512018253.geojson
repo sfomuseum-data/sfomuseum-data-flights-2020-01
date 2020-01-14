@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1222",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5444",
+    "flysfo:flight_number":"5444",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-AUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022793,
     "wof:name":"JL5444 (SFO-AUS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

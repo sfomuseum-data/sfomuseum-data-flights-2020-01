@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2042",
+    "flysfo:flight_number":"2042",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578843420,
@@ -104,7 +104,7 @@
         1477930371,
         1159289411
     ],
-    "wof:lastmodified":1578948851,
+    "wof:lastmodified":1579022348,
     "wof:name":"AA2042 (SFO-PHX)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA435",
+    "flysfo:flight_number":"435",
     "flysfo:gate":"F17",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578812640,
@@ -88,7 +88,7 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1578948994,
+    "wof:lastmodified":1579022595,
     "wof:name":"UA435 (KOA-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

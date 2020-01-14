@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5714",
+    "flysfo:flight_number":"5714",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBP",
     "flysfo:scheduled_timestamp":1578888900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578950111,
+    "wof:lastmodified":1579022899,
     "wof:name":"UA5714 (SFO-SBP)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

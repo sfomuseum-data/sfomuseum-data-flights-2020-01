@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578718920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA380",
+    "flysfo:flight_number":"380",
     "flysfo:gate":"F16",
     "flysfo:journey":"MCO-SFO",
     "flysfo:scheduled_timestamp":1578719220,
@@ -102,7 +102,7 @@
         1477930445,
         1159289945
     ],
-    "wof:lastmodified":1578948955,
+    "wof:lastmodified":1579022516,
     "wof:name":"UA380 (MCO-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

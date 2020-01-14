@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3655",
+    "flysfo:flight_number":"3655",
     "flysfo:gate":"D3",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578698400,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949041,
+    "wof:lastmodified":1579022666,
     "wof:name":"QF3655 (JFK-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

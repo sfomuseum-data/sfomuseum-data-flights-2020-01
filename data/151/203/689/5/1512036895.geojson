@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578788100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"PR114",
+    "flysfo:flight_number":"114",
     "flysfo:gate":"A1",
     "flysfo:journey":"MNL-SFO",
     "flysfo:scheduled_timestamp":1578791100,
@@ -96,7 +96,7 @@
         1159285015,
         1477930281
     ],
-    "wof:lastmodified":1578948886,
+    "wof:lastmodified":1579022401,
     "wof:name":"PR114 (MNL-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

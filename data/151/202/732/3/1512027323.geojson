@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5446",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4367",
+    "flysfo:flight_number":"4367",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SBA-SFO",
     "flysfo:timestamp":1578684720,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949027,
+    "wof:lastmodified":1579022653,
     "wof:name":"AC4367 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

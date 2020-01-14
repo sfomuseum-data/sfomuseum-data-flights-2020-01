@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5459",
+    "flysfo:flight_number":"5459",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578854400,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578950086,
+    "wof:lastmodified":1579022862,
     "wof:name":"UA5459 (SFO-SMF)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

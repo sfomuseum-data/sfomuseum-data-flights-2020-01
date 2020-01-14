@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5579",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4058",
+    "flysfo:flight_number":"4058",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SBA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"AC4058 (SFO-SBA)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

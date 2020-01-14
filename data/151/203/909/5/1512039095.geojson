@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578762840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2163",
+    "flysfo:flight_number":"2163",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578762900,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"AV2163 (SFO-LAX)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

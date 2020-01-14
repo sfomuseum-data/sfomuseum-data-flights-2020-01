@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC574",
+    "flysfo:flight_number":"574",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578849120,
@@ -103,7 +103,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1578948799,
+    "wof:lastmodified":1579022266,
     "wof:name":"AC574 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

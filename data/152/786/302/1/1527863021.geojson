@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5745",
+    "flysfo:flight_number":"5745",
     "flysfo:gate":"F6",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578930480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022985,
     "wof:name":"UA5745 (BOI-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

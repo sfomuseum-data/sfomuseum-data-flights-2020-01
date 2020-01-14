@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578782280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA229",
+    "flysfo:flight_number":"229",
     "flysfo:gate":"F3",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578782940,
@@ -104,7 +104,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022379,
     "wof:name":"UA229 (SAN-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

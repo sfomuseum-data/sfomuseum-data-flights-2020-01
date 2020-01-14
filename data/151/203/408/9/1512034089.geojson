@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5524",
+    "flysfo:flight_number":"5524",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578712020,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"UA5524 (SFO-SMF)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

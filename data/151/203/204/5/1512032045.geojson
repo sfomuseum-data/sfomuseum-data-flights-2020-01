@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS7334",
+    "flysfo:flight_number":"7334",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-MUC",
     "flysfo:scheduled_timestamp":1578721200,
@@ -94,7 +94,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578948901,
+    "wof:lastmodified":1579022424,
     "wof:name":"OS7334 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

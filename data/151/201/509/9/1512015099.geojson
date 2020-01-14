@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1243",
+    "flysfo:flight_number":"1243",
     "flysfo:gate":"G3",
     "flysfo:journey":"PVR-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930465,
         1159292085
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022775,
     "wof:name":"UA1243 (PVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

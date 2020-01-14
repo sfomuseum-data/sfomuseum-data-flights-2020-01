@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1294",
+    "flysfo:flight_number":"1294",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578720900,
@@ -104,7 +104,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022460,
     "wof:name":"UA1294 (SFO-LAX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

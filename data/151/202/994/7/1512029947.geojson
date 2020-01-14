@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX38",
+    "flysfo:flight_number":"38",
     "flysfo:gate":"G7",
     "flysfo:journey":"ZRH-SFO",
     "flysfo:scheduled_timestamp":1578701700,
@@ -103,7 +103,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1578949027,
+    "wof:lastmodified":1579022654,
     "wof:name":"LX38 (ZRH-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

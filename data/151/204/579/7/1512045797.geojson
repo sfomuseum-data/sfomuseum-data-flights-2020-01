@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7310",
+    "flysfo:flight_number":"7310",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578862500,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948848,
+    "wof:lastmodified":1579022343,
     "wof:name":"NH7310 (SFO-DEN)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

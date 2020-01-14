@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA888",
+    "flysfo:flight_number":"888",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-PEK",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930467,
         1159289985
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022764,
     "wof:name":"UA888 (SFO-PEK)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

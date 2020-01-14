@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL7507",
+    "flysfo:flight_number":"7507",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578933000,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023034,
     "wof:name":"KL7507 (SFO-JFK)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2703",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5710",
+    "flysfo:flight_number":"5710",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022739,
     "wof:name":"AF5710 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

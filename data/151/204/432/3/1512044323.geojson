@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3257",
+    "flysfo:flight_number":"3257",
     "flysfo:gate":"E12",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578872580,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948839,
+    "wof:lastmodified":1579022328,
     "wof:name":"LX3257 (SEA-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

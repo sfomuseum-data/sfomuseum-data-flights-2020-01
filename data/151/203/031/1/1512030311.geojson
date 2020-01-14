@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA477",
+    "flysfo:flight_number":"477",
     "flysfo:gate":"F17",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578696540,
@@ -104,7 +104,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578948902,
+    "wof:lastmodified":1579022424,
     "wof:name":"UA477 (BOS-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

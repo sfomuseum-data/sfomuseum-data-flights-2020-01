@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA863",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9327",
+    "flysfo:flight_number":"9327",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-SYD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"LH9327 (SFO-SYD)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

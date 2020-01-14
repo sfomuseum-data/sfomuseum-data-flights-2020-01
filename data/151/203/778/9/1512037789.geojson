@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA858",
+    "flysfo:flight_number":"858",
     "flysfo:gate":"G4",
     "flysfo:journey":"PVG-SFO",
     "flysfo:scheduled_timestamp":1578760200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930467
     ],
-    "wof:lastmodified":1578948919,
+    "wof:lastmodified":1579022454,
     "wof:name":"UA858 (PVG-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

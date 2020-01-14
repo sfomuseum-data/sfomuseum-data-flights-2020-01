@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA681",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3307",
+    "flysfo:flight_number":"3307",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022728,
     "wof:name":"LX3307 (SFO-LAS)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

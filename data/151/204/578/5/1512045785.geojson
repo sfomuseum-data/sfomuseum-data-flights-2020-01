@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578838740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7285",
+    "flysfo:flight_number":"7285",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578839100,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948844,
+    "wof:lastmodified":1579022337,
     "wof:name":"NH7285 (SFO-SEA)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

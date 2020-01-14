@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1900",
+    "flysfo:flight_number":"1900",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578688020,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022432,
     "wof:name":"VS1900 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

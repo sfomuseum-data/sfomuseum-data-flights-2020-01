@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578871560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7496",
+    "flysfo:flight_number":"7496",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578871800,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022860,
     "wof:name":"LH7496 (SFO-LAX)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

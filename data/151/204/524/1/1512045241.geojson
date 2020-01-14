@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA1960",
+    "flysfo:flight_number":"1960",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-CLT",
     "flysfo:scheduled_timestamp":1578842220,
@@ -104,7 +104,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1578948851,
+    "wof:lastmodified":1579022348,
     "wof:name":"AA1960 (SFO-CLT)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

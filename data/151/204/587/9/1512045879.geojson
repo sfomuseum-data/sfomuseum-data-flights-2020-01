@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4618",
+    "flysfo:flight_number":"4618",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578883500,
@@ -94,7 +94,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1578948802,
+    "wof:lastmodified":1579022269,
     "wof:name":"NZ4618 (SFO-YVR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

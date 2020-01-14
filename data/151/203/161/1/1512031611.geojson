@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9222",
+    "flysfo:flight_number":"9222",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578720960,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022366,
     "wof:name":"NZ9222 (SFO-LAS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

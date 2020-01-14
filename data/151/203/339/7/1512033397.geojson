@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1084",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1305",
+    "flysfo:flight_number":"1305",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948867,
+    "wof:lastmodified":1579022371,
     "wof:name":"SQ1305 (SFO-IAD)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

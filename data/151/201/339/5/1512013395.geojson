@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC568",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV6985",
+    "flysfo:flight_number":"6985",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022711,
     "wof:name":"AV6985 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

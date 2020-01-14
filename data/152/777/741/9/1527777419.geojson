@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4114",
+    "flysfo:flight_number":"4114",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578879000,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578950100,
+    "wof:lastmodified":1579022881,
     "wof:name":"VS4114 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

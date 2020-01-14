@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4432",
+    "flysfo:flight_number":"4432",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-TUS",
     "flysfo:scheduled_timestamp":1578971280,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022970,
     "wof:name":"AC4432 (SFO-TUS)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

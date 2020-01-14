@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA569",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2410",
+    "flysfo:flight_number":"2410",
     "flysfo:gate":"E11",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022755,
     "wof:name":"CM2410 (PDX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

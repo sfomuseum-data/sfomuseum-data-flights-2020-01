@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1092",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7911",
+    "flysfo:flight_number":"7911",
     "flysfo:gate":"D2",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022746,
     "wof:name":"CX7911 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

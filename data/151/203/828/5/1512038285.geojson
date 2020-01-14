@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC563",
+    "flysfo:flight_number":"563",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578765600,
@@ -104,7 +104,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1578948885,
+    "wof:lastmodified":1579022400,
     "wof:name":"AC563 (SFO-YVR)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

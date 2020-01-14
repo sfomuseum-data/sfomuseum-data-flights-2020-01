@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2421",
+    "flysfo:flight_number":"2421",
     "flysfo:gate":"D14",
     "flysfo:journey":"MIA-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578949553,
+    "wof:lastmodified":1579022797,
     "wof:name":"AA2421 (MIA-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

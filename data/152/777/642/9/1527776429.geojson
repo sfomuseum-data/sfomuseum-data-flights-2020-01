@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578841200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1300",
+    "flysfo:flight_number":"1300",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578841200,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578950092,
+    "wof:lastmodified":1579022869,
     "wof:name":"SQ1300 (SFO-EWR)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1409",
+    "flysfo:flight_number":"1409",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578720960,
@@ -104,7 +104,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022460,
     "wof:name":"UA1409 (SFO-LAS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

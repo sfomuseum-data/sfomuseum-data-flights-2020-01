@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS326",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1437",
+    "flysfo:flight_number":"1437",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949556,
+    "wof:lastmodified":1579022801,
     "wof:name":"SQ1437 (SFO-JFK)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

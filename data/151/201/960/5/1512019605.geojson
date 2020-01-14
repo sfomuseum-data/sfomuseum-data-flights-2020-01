@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NZ7",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS7651",
+    "flysfo:flight_number":"7651",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-AKL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930469,
         1159283697
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022773,
     "wof:name":"VS7651 (SFO-AKL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

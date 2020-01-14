@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ34",
+    "flysfo:flight_number":"34",
     "flysfo:gate":"G9",
     "flysfo:journey":"SIN-SFO",
     "flysfo:scheduled_timestamp":1578693000,
@@ -96,7 +96,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1578949020,
+    "wof:lastmodified":1579022647,
     "wof:name":"SQ34 (SIN-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

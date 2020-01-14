@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK6886",
+    "flysfo:flight_number":"6886",
     "flysfo:gate":"G9",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578892800,
@@ -94,7 +94,7 @@
         1477930479,
         1159285413
     ],
-    "wof:lastmodified":1578948816,
+    "wof:lastmodified":1579022290,
     "wof:name":"SK6886 (EWR-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

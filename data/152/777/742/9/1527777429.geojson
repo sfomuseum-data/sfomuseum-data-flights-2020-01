@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4457",
+    "flysfo:flight_number":"4457",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578864720,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"VS4457 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

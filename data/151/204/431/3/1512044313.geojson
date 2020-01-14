@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578864360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3014",
+    "flysfo:flight_number":"3014",
     "flysfo:gate":"G4",
     "flysfo:journey":"CDG-SFO",
     "flysfo:scheduled_timestamp":1578857400,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578948789,
+    "wof:lastmodified":1579022251,
     "wof:name":"LX3014 (CDG-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

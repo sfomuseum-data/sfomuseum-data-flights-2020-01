@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS759",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3695",
+    "flysfo:flight_number":"3695",
     "flysfo:gate":"D7",
     "flysfo:journey":"KOA-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949043,
+    "wof:lastmodified":1579022667,
     "wof:name":"QF3695 (KOA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

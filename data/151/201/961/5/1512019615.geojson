@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2757",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7687",
+    "flysfo:flight_number":"7687",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022767,
     "wof:name":"WS7687 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

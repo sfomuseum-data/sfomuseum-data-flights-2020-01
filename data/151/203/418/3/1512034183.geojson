@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5767",
+    "flysfo:flight_number":"5767",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-STL",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948962,
+    "wof:lastmodified":1579022527,
     "wof:name":"UA5767 (SFO-STL)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

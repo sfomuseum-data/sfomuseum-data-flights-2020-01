@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1204",
+    "flysfo:flight_number":"1204",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578766500,
@@ -88,7 +88,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022561,
     "wof:name":"AS1204 (SFO-ORD)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

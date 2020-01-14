@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5213",
+    "flysfo:flight_number":"5213",
     "flysfo:gate":"F20",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578764100,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948956,
+    "wof:lastmodified":1579022518,
     "wof:name":"AC5213 (SNA-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

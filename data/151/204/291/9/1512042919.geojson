@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CI9160",
+    "flysfo:flight_number":"9160",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578867540,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948834,
+    "wof:lastmodified":1579022319,
     "wof:name":"CI9160 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

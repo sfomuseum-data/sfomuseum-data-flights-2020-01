@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL757",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5299",
+    "flysfo:flight_number":"5299",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022807,
     "wof:name":"KL5299 (SFO-JFK)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

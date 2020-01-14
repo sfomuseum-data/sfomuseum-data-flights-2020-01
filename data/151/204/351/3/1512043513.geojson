@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9324",
+    "flysfo:flight_number":"9324",
     "flysfo:gate":"G7",
     "flysfo:journey":"AKL-SFO",
     "flysfo:scheduled_timestamp":1578839400,
@@ -94,7 +94,7 @@
         1477930475,
         1159285413
     ],
-    "wof:lastmodified":1578948809,
+    "wof:lastmodified":1579022279,
     "wof:name":"LH9324 (AKL-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

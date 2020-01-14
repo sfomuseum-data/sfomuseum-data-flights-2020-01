@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1843",
+    "flysfo:flight_number":"1843",
     "flysfo:gate":"B17",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578726000,
@@ -88,7 +88,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578949049,
+    "wof:lastmodified":1579022672,
     "wof:name":"WN1843 (LAS-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN356",
+    "flysfo:flight_number":"356",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-MDW",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949506,
+    "wof:lastmodified":1579022727,
     "wof:name":"WN356 (SFO-MDW)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

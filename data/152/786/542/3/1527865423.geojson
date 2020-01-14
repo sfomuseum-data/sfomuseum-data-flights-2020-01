@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9465",
+    "flysfo:flight_number":"9465",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578947100,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022968,
     "wof:name":"LY9465 (SFO-SAN)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

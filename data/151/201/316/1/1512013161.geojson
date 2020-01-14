@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1601",
+    "flysfo:flight_number":"1601",
     "flysfo:gate":"D6",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"AS1601 (LAS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

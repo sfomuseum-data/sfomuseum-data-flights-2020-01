@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2405",
+    "flysfo:flight_number":"2405",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-PHX",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930451
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022772,
     "wof:name":"UA2405 (SFO-PHX)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

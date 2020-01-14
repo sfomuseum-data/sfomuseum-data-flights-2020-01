@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BF711",
+    "flysfo:flight_number":"711",
     "flysfo:gate":"G8",
     "flysfo:journey":"PPT-SFO",
     "flysfo:scheduled_timestamp":1578964500,
@@ -88,7 +88,7 @@
         1377649073,
         1477930477
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579023031,
     "wof:name":"BF711 (PPT-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

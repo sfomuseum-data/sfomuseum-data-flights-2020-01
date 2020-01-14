@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA500",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EI6226",
+    "flysfo:flight_number":"6226",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022409,
     "wof:name":"EI6226 (SFO-ORD)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

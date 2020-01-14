@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578854340,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1900",
+    "flysfo:flight_number":"1900",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578854400,
@@ -104,7 +104,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578950106,
+    "wof:lastmodified":1579022892,
     "wof:name":"UA1900 (SFO-SAN)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

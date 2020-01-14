@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1425",
+    "flysfo:flight_number":"1425",
     "flysfo:gate":"D7",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578848700,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948821,
+    "wof:lastmodified":1579022297,
     "wof:name":"SQ1425 (AUS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

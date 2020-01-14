@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1276",
+    "flysfo:flight_number":"1276",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SJD",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022464,
     "wof:name":"AS1276 (SFO-SJD)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

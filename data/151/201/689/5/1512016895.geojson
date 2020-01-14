@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5536",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9749",
+    "flysfo:flight_number":"9749",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-TUS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949504,
+    "wof:lastmodified":1579022725,
     "wof:name":"NZ9749 (SFO-TUS)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

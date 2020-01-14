@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN7252",
+    "flysfo:flight_number":"7252",
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
     "flysfo:scheduled_timestamp":1578800100,
@@ -94,7 +94,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"SN7252 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

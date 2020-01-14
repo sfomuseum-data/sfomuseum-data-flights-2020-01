@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578838680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9393",
+    "flysfo:flight_number":"9393",
     "flysfo:gate":"E6",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578839640,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578948765,
+    "wof:lastmodified":1579022204,
     "wof:name":"LH9393 (KOA-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

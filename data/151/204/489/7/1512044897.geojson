@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5697",
+    "flysfo:flight_number":"5697",
     "flysfo:gate":"F9",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578857100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948825,
+    "wof:lastmodified":1579022303,
     "wof:name":"UA5697 (SMF-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

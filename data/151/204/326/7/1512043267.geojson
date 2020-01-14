@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ657",
+    "flysfo:flight_number":"657",
     "flysfo:gate":"A2",
     "flysfo:journey":"CAN-SFO",
     "flysfo:scheduled_timestamp":1578881400,
@@ -103,7 +103,7 @@
         1477930283,
         1159289993
     ],
-    "wof:lastmodified":1578948849,
+    "wof:lastmodified":1579022344,
     "wof:name":"CZ657 (CAN-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA613",
+    "flysfo:flight_number":"613",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"UA613 (SFO-LAX)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

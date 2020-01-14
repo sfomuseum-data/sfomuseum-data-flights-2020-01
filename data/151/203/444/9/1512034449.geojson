@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716340,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS7651",
+    "flysfo:flight_number":"7651",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578714000,
@@ -94,7 +94,7 @@
         1477930477,
         1159283697
     ],
-    "wof:lastmodified":1578948954,
+    "wof:lastmodified":1579022514,
     "wof:name":"VS7651 (SFO-AKL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

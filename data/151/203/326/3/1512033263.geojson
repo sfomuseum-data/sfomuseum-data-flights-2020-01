@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1390",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL7738",
+    "flysfo:flight_number":"7738",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-SLC",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578948994,
+    "wof:lastmodified":1579022594,
     "wof:name":"KL7738 (SFO-SLC)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

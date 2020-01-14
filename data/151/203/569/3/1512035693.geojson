@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578806100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2349",
+    "flysfo:flight_number":"2349",
     "flysfo:gate":"F10",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578808080,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948855,
+    "wof:lastmodified":1579022354,
     "wof:name":"AV2349 (BUR-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

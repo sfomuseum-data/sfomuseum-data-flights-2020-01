@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578978180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5897",
+    "flysfo:flight_number":"5897",
     "flysfo:gate":"E1",
     "flysfo:journey":"PAE-SFO",
     "flysfo:scheduled_timestamp":1578979200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022912,
     "wof:name":"UA5897 (PAE-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

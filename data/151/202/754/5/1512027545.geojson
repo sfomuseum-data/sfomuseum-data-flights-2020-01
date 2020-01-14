@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF5849",
+    "flysfo:flight_number":"5849",
     "flysfo:gate":"C3",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578710220,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949002,
+    "wof:lastmodified":1579022614,
     "wof:name":"AF5849 (DTW-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

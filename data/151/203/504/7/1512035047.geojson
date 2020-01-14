@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578753660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7391",
+    "flysfo:flight_number":"7391",
     "flysfo:gate":"F5",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578754800,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022374,
     "wof:name":"NH7391 (SMF-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

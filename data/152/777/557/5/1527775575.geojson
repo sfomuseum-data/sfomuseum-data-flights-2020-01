@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578899400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1894",
+    "flysfo:flight_number":"1894",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-CVG",
     "flysfo:scheduled_timestamp":1578896100,
@@ -88,7 +88,7 @@
         1159284261,
         1477930321
     ],
-    "wof:lastmodified":1578950088,
+    "wof:lastmodified":1579022864,
     "wof:name":"DL1894 (SFO-CVG)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

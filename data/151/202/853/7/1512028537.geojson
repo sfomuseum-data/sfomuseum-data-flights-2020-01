@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7242",
+    "flysfo:flight_number":"7242",
     "flysfo:gate":"E8",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578686520,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949038,
+    "wof:lastmodified":1579022663,
     "wof:name":"CA7242 (IAH-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

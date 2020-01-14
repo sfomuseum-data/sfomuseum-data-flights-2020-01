@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6731",
+    "flysfo:flight_number":"6731",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578689400,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022592,
     "wof:name":"KE6731 (SFO-BOS)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

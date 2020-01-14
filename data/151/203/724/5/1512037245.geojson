@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1401",
+    "flysfo:flight_number":"1401",
     "flysfo:gate":"F14",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578760380,
@@ -104,7 +104,7 @@
         1477930441,
         1159289871
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022464,
     "wof:name":"UA1401 (SNA-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

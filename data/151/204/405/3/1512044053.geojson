@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MH9494",
+    "flysfo:flight_number":"9494",
     "flysfo:gate":"C7",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578874980,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948831,
+    "wof:lastmodified":1579022313,
     "wof:name":"MH9494 (LAX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

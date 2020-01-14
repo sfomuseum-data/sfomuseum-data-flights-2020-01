@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3404",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1777",
+    "flysfo:flight_number":"1777",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-DAL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578949563,
+    "wof:lastmodified":1579022811,
     "wof:name":"SQ1777 (SFO-DAL)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

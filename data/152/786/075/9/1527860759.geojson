@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578941100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3391",
+    "flysfo:flight_number":"3391",
     "flysfo:gate":"D17",
     "flysfo:journey":"DAL-SFO",
     "flysfo:scheduled_timestamp":1578941700,
@@ -88,7 +88,7 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022997,
     "wof:name":"AS3391 (DAL-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

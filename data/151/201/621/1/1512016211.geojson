@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1973",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5114",
+    "flysfo:flight_number":"5114",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"AC5114 (SFO-SAN)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

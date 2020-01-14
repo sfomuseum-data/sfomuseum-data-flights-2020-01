@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5179",
+    "flysfo:flight_number":"5179",
     "flysfo:gate":"E9",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578771900,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948887,
+    "wof:lastmodified":1579022403,
     "wof:name":"AC5179 (SAN-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

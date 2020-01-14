@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH8883",
+    "flysfo:flight_number":"8883",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-FAT",
     "flysfo:scheduled_timestamp":1578807720,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022493,
     "wof:name":"LH8883 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

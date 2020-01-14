@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578880920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA6190",
+    "flysfo:flight_number":"6190",
     "flysfo:gate":"A6",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578882000,
@@ -94,7 +94,7 @@
         1477930295,
         1159284021
     ],
-    "wof:lastmodified":1578948810,
+    "wof:lastmodified":1579022281,
     "wof:name":"AA6190 (LHR-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

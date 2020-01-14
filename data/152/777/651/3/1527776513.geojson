@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1444",
+    "flysfo:flight_number":"1444",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578887100,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"SQ1444 (SFO-SAN)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

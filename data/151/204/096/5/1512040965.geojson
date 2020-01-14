@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA685",
+    "flysfo:flight_number":"685",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578768360,
@@ -104,7 +104,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1578948781,
+    "wof:lastmodified":1579022237,
     "wof:name":"UA685 (SFO-YVR)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3661",
+    "flysfo:flight_number":"3661",
     "flysfo:gate":"D6",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578817440,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"QF3661 (HNL-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

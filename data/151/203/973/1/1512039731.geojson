@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3796",
+    "flysfo:flight_number":"3796",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-MCO",
     "flysfo:scheduled_timestamp":1578764400,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948988,
+    "wof:lastmodified":1579022576,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

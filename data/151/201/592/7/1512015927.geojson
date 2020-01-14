@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS357",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA6792",
+    "flysfo:flight_number":"6792",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022704,
     "wof:name":"AA6792 (SFO-SEA)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

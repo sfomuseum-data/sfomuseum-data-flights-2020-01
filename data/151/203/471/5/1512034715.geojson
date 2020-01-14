@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578765900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4345",
+    "flysfo:flight_number":"4345",
     "flysfo:gate":"F10",
     "flysfo:journey":"FAT-SFO",
     "flysfo:scheduled_timestamp":1578765000,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948877,
+    "wof:lastmodified":1579022387,
     "wof:name":"AC4345 (FAT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

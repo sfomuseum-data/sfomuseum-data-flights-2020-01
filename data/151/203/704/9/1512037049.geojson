@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3779",
+    "flysfo:flight_number":"3779",
     "flysfo:gate":"B14",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578762000,
@@ -103,7 +103,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022497,
     "wof:name":"WN3779 (LAX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

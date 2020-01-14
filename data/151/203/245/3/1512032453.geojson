@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7926",
+    "flysfo:flight_number":"7926",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578687900,
@@ -94,7 +94,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022394,
     "wof:name":"CX7926 (SFO-SAN)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

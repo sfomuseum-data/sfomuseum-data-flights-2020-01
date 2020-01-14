@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7324",
+    "flysfo:flight_number":"7324",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-MCO",
     "flysfo:scheduled_timestamp":1578690300,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948889,
+    "wof:lastmodified":1579022405,
     "wof:name":"CA7324 (SFO-MCO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1716",
+    "flysfo:flight_number":"1716",
     "flysfo:gate":"D11",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578761400,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"CZ1716 (DFW-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

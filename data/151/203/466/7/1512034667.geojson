@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4110",
+    "flysfo:flight_number":"4110",
     "flysfo:gate":"F21",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578790800,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022556,
     "wof:name":"AC4110 (AUS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

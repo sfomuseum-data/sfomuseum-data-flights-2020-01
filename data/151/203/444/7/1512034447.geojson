@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS7522",
+    "flysfo:flight_number":"7522",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-MEX",
     "flysfo:scheduled_timestamp":1578692460,
@@ -94,7 +94,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1578948954,
+    "wof:lastmodified":1579022514,
     "wof:name":"VS7522 (SFO-MEX)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

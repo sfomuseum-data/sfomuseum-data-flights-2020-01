@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OS8217",
+    "flysfo:flight_number":"8217",
     "flysfo:gate":"G13",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578808380,
@@ -94,7 +94,7 @@
         1477930487,
         1159283597
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"OS8217 (YYZ-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

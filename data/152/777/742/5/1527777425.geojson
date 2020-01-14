@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578849600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4118",
+    "flysfo:flight_number":"4118",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578849600,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"VS4118 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

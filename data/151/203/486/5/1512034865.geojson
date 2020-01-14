@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578784560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5695",
+    "flysfo:flight_number":"5695",
     "flysfo:gate":"E8",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578785640,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948958,
+    "wof:lastmodified":1579022521,
     "wof:name":"AC5695 (DEN-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

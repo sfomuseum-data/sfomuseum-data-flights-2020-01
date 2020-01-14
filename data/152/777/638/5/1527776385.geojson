@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK3924",
+    "flysfo:flight_number":"3924",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578845700,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"SK3924 (SFO-EWR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

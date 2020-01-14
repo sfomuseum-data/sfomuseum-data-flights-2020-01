@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5358",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7335",
+    "flysfo:flight_number":"7335",
     "flysfo:gate":"F15N",
     "flysfo:journey":"BOI-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022803,
     "wof:name":"NH7335 (BOI-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

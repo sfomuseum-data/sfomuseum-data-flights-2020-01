@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578987600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TK9406",
+    "flysfo:flight_number":"9406",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-SAL",
     "flysfo:scheduled_timestamp":1578987600,
@@ -94,7 +94,7 @@
         1477930289,
         1159283957
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022987,
     "wof:name":"TK9406 (SFO-SAL)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

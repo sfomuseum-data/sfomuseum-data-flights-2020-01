@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL6339",
+    "flysfo:flight_number":"6339",
     "flysfo:gate":"A13",
     "flysfo:journey":"CAN-SFO",
     "flysfo:scheduled_timestamp":1578708600,
@@ -94,7 +94,7 @@
         1477930309,
         1159284165
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022636,
     "wof:name":"DL6339 (CAN-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

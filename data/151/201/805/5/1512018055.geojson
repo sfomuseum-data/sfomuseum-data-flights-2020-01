@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1952",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9467",
+    "flysfo:flight_number":"9467",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022744,
     "wof:name":"LY9467 (SFO-SAN)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

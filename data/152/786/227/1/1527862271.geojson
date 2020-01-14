@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1355",
+    "flysfo:flight_number":"1355",
     "flysfo:gate":"D6",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578977280,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022918,
     "wof:name":"SQ1355 (ORD-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

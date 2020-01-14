@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1865",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7330",
+    "flysfo:flight_number":"7330",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-BOS",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"NH7330 (SFO-BOS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

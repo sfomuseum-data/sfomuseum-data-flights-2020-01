@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6616",
+    "flysfo:flight_number":"616",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578700020,
@@ -102,7 +102,7 @@
         1477881723,
         1159289411
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022573,
     "wof:name":"B6616 (SFO-JFK)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

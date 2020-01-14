@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578800280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TK9589",
+    "flysfo:flight_number":"9589",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578800700,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022259,
     "wof:name":"TK9589 (SFO-PDX)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

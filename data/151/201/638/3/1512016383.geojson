@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"SQ1",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AI7203",
+    "flysfo:flight_number":"7203",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930479,
         1159285163
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022810,
     "wof:name":"AI7203 (SFO-HKG)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

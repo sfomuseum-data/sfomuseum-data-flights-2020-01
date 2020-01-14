@@ -7,7 +7,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA276",
+    "flysfo:flight_number":"276",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283849,
         1477930371
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"AA276 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

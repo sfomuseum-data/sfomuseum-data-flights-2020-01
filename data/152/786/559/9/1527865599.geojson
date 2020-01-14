@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5429",
+    "flysfo:flight_number":"5429",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578956400,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022911,
     "wof:name":"JL5429 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

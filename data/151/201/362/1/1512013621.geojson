@@ -7,7 +7,7 @@
     "flysfo:airline":"MU",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU589",
+    "flysfo:flight_number":"589",
     "flysfo:gate":"A2",
     "flysfo:journey":"PVG-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284157,
         1477930283
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"MU589 (PVG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578814980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7829",
+    "flysfo:flight_number":"7829",
     "flysfo:gate":"A12",
     "flysfo:journey":"SAL-SFO",
     "flysfo:scheduled_timestamp":1578816900,
@@ -94,7 +94,7 @@
         1477930307,
         1159283957
     ],
-    "wof:lastmodified":1578948863,
+    "wof:lastmodified":1579022366,
     "wof:name":"NH7829 (SAL-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

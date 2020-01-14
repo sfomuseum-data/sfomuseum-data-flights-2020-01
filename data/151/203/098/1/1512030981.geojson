@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5448",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4030",
+    "flysfo:flight_number":"4030",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-ABQ",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"AC4030 (SFO-ABQ)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

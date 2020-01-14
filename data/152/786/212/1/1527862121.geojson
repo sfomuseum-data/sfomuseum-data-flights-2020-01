@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL605",
+    "flysfo:flight_number":"605",
     "flysfo:gate":"A5",
     "flysfo:journey":"AMS-SFO",
     "flysfo:scheduled_timestamp":1578947100,
@@ -88,7 +88,7 @@
         1159284613,
         1477930291
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022992,
     "wof:name":"KL605 (AMS-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

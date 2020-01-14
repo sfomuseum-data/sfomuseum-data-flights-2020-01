@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5539",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4162",
+    "flysfo:flight_number":"4162",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SLC",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"AC4162 (SFO-SLC)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

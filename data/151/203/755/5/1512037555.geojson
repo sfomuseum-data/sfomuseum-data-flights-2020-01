@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5452",
+    "flysfo:flight_number":"5452",
     "flysfo:gate":"F10",
     "flysfo:journey":"RDD-SFO",
     "flysfo:scheduled_timestamp":1578770640,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948856,
+    "wof:lastmodified":1579022356,
     "wof:name":"UA5452 (RDD-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

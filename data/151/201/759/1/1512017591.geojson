@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA1671",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1703",
+    "flysfo:flight_number":"1703",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022783,
     "wof:name":"CZ1703 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

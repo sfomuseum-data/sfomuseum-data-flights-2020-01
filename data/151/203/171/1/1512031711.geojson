@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2388",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9373",
+    "flysfo:flight_number":"9373",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PHX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022606,
     "wof:name":"NZ9373 (SFO-PHX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1722",
+    "flysfo:flight_number":"1722",
     "flysfo:gate":"F22",
     "flysfo:journey":"OGG-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"UA1722 (OGG-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

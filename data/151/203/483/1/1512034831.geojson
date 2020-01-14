@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5375",
+    "flysfo:flight_number":"5375",
     "flysfo:gate":"G9",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578782700,
@@ -94,7 +94,7 @@
         1477930479,
         1159285413
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022399,
     "wof:name":"AC5375 (LHR-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

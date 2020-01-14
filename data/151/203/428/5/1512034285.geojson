@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA720",
+    "flysfo:flight_number":"720",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578694980,
@@ -104,7 +104,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1578948952,
+    "wof:lastmodified":1579022511,
     "wof:name":"UA720 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

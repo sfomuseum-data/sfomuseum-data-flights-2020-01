@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2254",
+    "flysfo:flight_number":"2254",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578892020,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948815,
+    "wof:lastmodified":1579022288,
     "wof:name":"AV2254 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

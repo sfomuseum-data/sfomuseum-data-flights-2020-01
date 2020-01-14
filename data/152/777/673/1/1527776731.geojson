@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578907320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK6049",
+    "flysfo:flight_number":"6049",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-FLL",
     "flysfo:scheduled_timestamp":1578902340,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578950093,
+    "wof:lastmodified":1579022871,
     "wof:name":"EK6049 (SFO-FLL)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1282",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3790",
+    "flysfo:flight_number":"3790",
     "flysfo:gate":"D3",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022791,
     "wof:name":"QF3790 (PDX-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

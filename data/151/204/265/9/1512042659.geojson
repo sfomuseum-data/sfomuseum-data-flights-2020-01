@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3317",
+    "flysfo:flight_number":"3317",
     "flysfo:gate":"D17",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578850620,
@@ -88,7 +88,7 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1578948834,
+    "wof:lastmodified":1579022319,
     "wof:name":"AS3317 (SNA-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

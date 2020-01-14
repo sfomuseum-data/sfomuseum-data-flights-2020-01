@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578766320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA404",
+    "flysfo:flight_number":"404",
     "flysfo:gate":"E5",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578765000,
@@ -104,7 +104,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1578948983,
+    "wof:lastmodified":1579022565,
     "wof:name":"UA404 (IAH-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

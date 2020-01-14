@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA990",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5940",
+    "flysfo:flight_number":"5940",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930465,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"AC5940 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

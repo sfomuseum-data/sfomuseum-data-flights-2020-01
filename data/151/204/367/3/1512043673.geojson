@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BR18",
+    "flysfo:flight_number":"18",
     "flysfo:gate":"G9",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578869400,
@@ -88,7 +88,7 @@
         1159284349,
         1477930479
     ],
-    "wof:lastmodified":1578948810,
+    "wof:lastmodified":1579022280,
     "wof:name":"BR18 (TPE-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

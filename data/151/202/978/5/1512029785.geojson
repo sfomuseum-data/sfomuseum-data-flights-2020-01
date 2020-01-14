@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS623",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1418",
+    "flysfo:flight_number":"1418",
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949018,
+    "wof:lastmodified":1579022645,
     "wof:name":"SQ1418 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

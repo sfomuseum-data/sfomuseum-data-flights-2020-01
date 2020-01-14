@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA768",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9010",
+    "flysfo:flight_number":"9010",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949512,
+    "wof:lastmodified":1579022735,
     "wof:name":"NZ9010 (SFO-BOS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

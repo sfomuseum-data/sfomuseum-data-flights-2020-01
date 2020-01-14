@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA424",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SA7408",
+    "flysfo:flight_number":"7408",
     "flysfo:gate":"F14",
     "flysfo:journey":"IAD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022651,
     "wof:name":"SA7408 (IAD-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

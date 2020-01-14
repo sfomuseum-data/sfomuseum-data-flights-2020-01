@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578903960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2060",
+    "flysfo:flight_number":"2060",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-BNA",
     "flysfo:scheduled_timestamp":1578899100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930411
     ],
-    "wof:lastmodified":1578950104,
+    "wof:lastmodified":1579022889,
     "wof:name":"UA2060 (SFO-BNA)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

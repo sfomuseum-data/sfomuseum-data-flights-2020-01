@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3270",
+    "flysfo:flight_number":"3270",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578803220,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948835,
+    "wof:lastmodified":1579022321,
     "wof:name":"LX3270 (SFO-PHX)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

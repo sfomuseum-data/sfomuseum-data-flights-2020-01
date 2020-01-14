@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA916",
+    "flysfo:flight_number":"916",
     "flysfo:gate":"G9",
     "flysfo:journey":"AKL-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930479,
         1159289993
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022813,
     "wof:name":"UA916 (AKL-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

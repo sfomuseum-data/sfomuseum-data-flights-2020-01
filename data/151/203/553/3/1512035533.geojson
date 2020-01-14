@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1911",
+    "flysfo:flight_number":"1911",
     "flysfo:gate":"D7",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578791400,
@@ -102,7 +102,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1578948947,
+    "wof:lastmodified":1579022502,
     "wof:name":"AS1911 (LAS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

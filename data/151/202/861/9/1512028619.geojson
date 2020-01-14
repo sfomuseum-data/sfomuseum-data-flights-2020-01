@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2313",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU8827",
+    "flysfo:flight_number":"8827",
     "flysfo:gate":"C4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"MU8827 (LAX-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

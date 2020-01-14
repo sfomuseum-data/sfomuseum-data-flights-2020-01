@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5362",
+    "flysfo:flight_number":"5362",
     "flysfo:gate":"F6",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578700440,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948898,
+    "wof:lastmodified":1579022419,
     "wof:name":"UA5362 (BUR-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

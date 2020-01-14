@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5682",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9082",
+    "flysfo:flight_number":"9082",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-DFW",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578948872,
+    "wof:lastmodified":1579022381,
     "wof:name":"NZ9082 (SFO-DFW)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

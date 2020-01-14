@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578975900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7913",
+    "flysfo:flight_number":"7913",
     "flysfo:gate":"F8",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578973560,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022915,
     "wof:name":"LH7913 (TUS-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1509",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7311",
+    "flysfo:flight_number":"7311",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-HNL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"CA7311 (SFO-HNL)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

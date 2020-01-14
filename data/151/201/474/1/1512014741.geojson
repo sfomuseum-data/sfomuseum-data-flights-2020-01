@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1742",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK3945",
+    "flysfo:flight_number":"3945",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"SK3945 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

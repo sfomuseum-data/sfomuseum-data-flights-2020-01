@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578929580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3085",
+    "flysfo:flight_number":"3085",
     "flysfo:gate":"D5",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578929880,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579023026,
     "wof:name":"EK3085 (PSP-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

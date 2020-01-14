@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9428",
+    "flysfo:flight_number":"9428",
     "flysfo:gate":"E11",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578721020,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"NZ9428 (SEA-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

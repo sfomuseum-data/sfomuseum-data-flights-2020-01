@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7482",
+    "flysfo:flight_number":"7482",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578715500,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948889,
+    "wof:lastmodified":1579022406,
     "wof:name":"CX7482 (SFO-LAS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

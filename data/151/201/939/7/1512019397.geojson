@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA612",
+    "flysfo:flight_number":"612",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930435,
         1159292085
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"UA612 (SFO-PDX)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

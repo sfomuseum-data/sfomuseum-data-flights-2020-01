@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8400",
+    "flysfo:flight_number":"8400",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-HND",
     "flysfo:scheduled_timestamp":1578695100,
@@ -94,7 +94,7 @@
         1477930309,
         1159284563
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022507,
     "wof:name":"AA8400 (SFO-HND)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

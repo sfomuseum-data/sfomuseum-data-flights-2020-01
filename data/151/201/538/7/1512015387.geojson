@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5286",
+    "flysfo:flight_number":"5286",
     "flysfo:gate":"F8",
     "flysfo:journey":"ONT-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022773,
     "wof:name":"UA5286 (ONT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

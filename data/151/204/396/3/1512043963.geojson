@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6746",
+    "flysfo:flight_number":"6746",
     "flysfo:gate":"C10",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578850740,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022194,
     "wof:name":"KE6746 (SLC-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

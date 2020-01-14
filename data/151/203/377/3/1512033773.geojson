@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1549",
+    "flysfo:flight_number":"1549",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930381,
         1159289407
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022449,
     "wof:name":"UA1549 (SFO-SEA)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

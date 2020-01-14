@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA291",
+    "flysfo:flight_number":"291",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -85,7 +85,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"UA291 (SFO-IAD)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

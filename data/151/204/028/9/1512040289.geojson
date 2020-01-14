@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578775200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3746",
+    "flysfo:flight_number":"3746",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578773700,
@@ -104,7 +104,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022300,
     "wof:name":"WN3746 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

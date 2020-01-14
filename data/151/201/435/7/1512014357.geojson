@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA892",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY4125",
+    "flysfo:flight_number":"4125",
     "flysfo:gate":"D15",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"AY4125 (LAX-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

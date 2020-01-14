@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2507",
+    "flysfo:flight_number":"2507",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578894900,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"AY2507 (SFO-PDX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

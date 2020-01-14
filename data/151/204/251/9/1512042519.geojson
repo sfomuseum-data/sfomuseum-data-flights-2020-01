@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9822",
+    "flysfo:flight_number":"9822",
     "flysfo:gate":"G12",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578876600,
@@ -94,7 +94,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022252,
     "wof:name":"NZ9822 (MEX-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

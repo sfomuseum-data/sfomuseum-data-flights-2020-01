@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1302",
+    "flysfo:flight_number":"1302",
     "flysfo:gate":"D8",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578843480,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948772,
+    "wof:lastmodified":1579022219,
     "wof:name":"SQ1302 (PSP-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1164",
+    "flysfo:flight_number":"1164",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-YYZ",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"UA1164 (SFO-YYZ)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3037",
+    "flysfo:flight_number":"3037",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578876000,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"WN3037 (SFO-LAX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

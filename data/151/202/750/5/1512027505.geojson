@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578722640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC739",
+    "flysfo:flight_number":"739",
     "flysfo:gate":"G13",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578722580,
@@ -103,7 +103,7 @@
         1477930487,
         1159289423
     ],
-    "wof:lastmodified":1578949029,
+    "wof:lastmodified":1579022656,
     "wof:name":"AC739 (YYZ-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2063",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9031",
+    "flysfo:flight_number":"9031",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-BWI",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948988,
+    "wof:lastmodified":1579022577,
     "wof:name":"NZ9031 (SFO-BWI)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

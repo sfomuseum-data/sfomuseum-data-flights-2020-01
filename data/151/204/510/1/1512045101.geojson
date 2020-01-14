@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578837360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA955",
+    "flysfo:flight_number":"955",
     "flysfo:gate":"G13",
     "flysfo:journey":"TLV-SFO",
     "flysfo:scheduled_timestamp":1578837600,
@@ -94,7 +94,7 @@
         1159285413,
         1477930487
     ],
-    "wof:lastmodified":1578948795,
+    "wof:lastmodified":1579022261,
     "wof:name":"UA955 (TLV-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

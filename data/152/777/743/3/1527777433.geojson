@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4507",
+    "flysfo:flight_number":"4507",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578875940,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022899,
     "wof:name":"VS4507 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

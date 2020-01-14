@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5838",
+    "flysfo:flight_number":"5838",
     "flysfo:gate":"F10",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578774960,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948936,
+    "wof:lastmodified":1579022482,
     "wof:name":"UA5838 (EUG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

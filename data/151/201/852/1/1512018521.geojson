@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2065",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK6783",
+    "flysfo:flight_number":"6783",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"SK6783 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

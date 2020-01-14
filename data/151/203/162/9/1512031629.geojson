@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9231",
+    "flysfo:flight_number":"9231",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578701220,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948934,
+    "wof:lastmodified":1579022478,
     "wof:name":"NZ9231 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

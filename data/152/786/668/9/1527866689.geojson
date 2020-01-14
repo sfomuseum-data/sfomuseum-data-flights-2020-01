@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1579014000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5854",
+    "flysfo:flight_number":"5854",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-MFR",
     "flysfo:scheduled_timestamp":1578975000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022955,
     "wof:name":"UA5854 (SFO-MFR)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

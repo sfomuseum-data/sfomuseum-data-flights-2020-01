@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1218",
+    "flysfo:flight_number":"1218",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-AUS",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930341,
         1159292085
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022464,
     "wof:name":"AS1218 (SFO-AUS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

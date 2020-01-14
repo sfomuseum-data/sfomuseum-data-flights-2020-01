@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578808800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3856",
+    "flysfo:flight_number":"3856",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-NAN",
     "flysfo:scheduled_timestamp":1578808800,
@@ -94,7 +94,7 @@
         1477930291,
         1159283715
     ],
-    "wof:lastmodified":1578948988,
+    "wof:lastmodified":1579022576,
     "wof:name":"QF3856 (SFO-NAN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

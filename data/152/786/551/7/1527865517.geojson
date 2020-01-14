@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5844",
+    "flysfo:flight_number":"5844",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578934200,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022903,
     "wof:name":"FJ5844 (SFO-AUS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

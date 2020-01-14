@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1403",
+    "flysfo:flight_number":"1403",
     "flysfo:gate":"D4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578981600,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022930,
     "wof:name":"SQ1403 (SAN-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA396",
+    "flysfo:flight_number":"396",
     "flysfo:gate":"F19",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930451,
         1159289985
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022774,
     "wof:name":"UA396 (HNL-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578959400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL6338",
+    "flysfo:flight_number":"6338",
     "flysfo:gate":"D6",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578960780,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022980,
     "wof:name":"JL6338 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

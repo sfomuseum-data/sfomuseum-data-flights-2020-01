@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3331",
+    "flysfo:flight_number":"3331",
     "flysfo:gate":"E13",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578708720,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949028,
+    "wof:lastmodified":1579022654,
     "wof:name":"LX3331 (LAS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2031",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5818",
+    "flysfo:flight_number":"5818",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949501,
+    "wof:lastmodified":1579022722,
     "wof:name":"AC5818 (SFO-DEN)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

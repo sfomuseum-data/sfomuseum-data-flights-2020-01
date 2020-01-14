@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX879",
+    "flysfo:flight_number":"879",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578770100,
@@ -104,7 +104,7 @@
         1477930291,
         1377564293
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022582,
     "wof:name":"CX879 (SFO-HKG)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

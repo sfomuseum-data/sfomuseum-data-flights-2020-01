@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5336",
+    "flysfo:flight_number":"5336",
     "flysfo:gate":"E2",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578977220,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022858,
     "wof:name":"AC5336 (AUS-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578841200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5562",
+    "flysfo:flight_number":"5562",
     "flysfo:gate":"E2",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578841200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"UA5562 (SMF-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

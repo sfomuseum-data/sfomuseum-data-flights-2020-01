@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA728",
+    "flysfo:flight_number":"728",
     "flysfo:gate":"F12",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930435,
         1377564285
     ],
-    "wof:lastmodified":1578949535,
+    "wof:lastmodified":1579022770,
     "wof:name":"UA728 (LAS-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

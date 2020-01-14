@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578806820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1458",
+    "flysfo:flight_number":"1458",
     "flysfo:gate":"E13",
     "flysfo:journey":"TPA-SFO",
     "flysfo:scheduled_timestamp":1578807120,
@@ -102,7 +102,7 @@
         1477930405,
         1159289871
     ],
-    "wof:lastmodified":1578948915,
+    "wof:lastmodified":1579022447,
     "wof:name":"UA1458 (TPA-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA351",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2036",
+    "flysfo:flight_number":"2036",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022754,
     "wof:name":"AV2036 (SFO-SEA)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

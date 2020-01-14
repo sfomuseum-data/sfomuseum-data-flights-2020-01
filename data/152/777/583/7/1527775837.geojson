@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3656",
+    "flysfo:flight_number":"3656",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578868200,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022901,
     "wof:name":"QF3656 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

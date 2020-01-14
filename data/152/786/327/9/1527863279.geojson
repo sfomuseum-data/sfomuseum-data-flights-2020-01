@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578983340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS5291",
+    "flysfo:flight_number":"5291",
     "flysfo:gate":"C8",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578983280,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023028,
     "wof:name":"VS5291 (ATL-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC3947",
+    "flysfo:flight_number":"3947",
     "flysfo:gate":"E9",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578842100,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022279,
     "wof:name":"AC3947 (PHX-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

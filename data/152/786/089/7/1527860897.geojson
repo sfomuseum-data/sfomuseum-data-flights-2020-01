@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578989460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV560",
+    "flysfo:flight_number":"560",
     "flysfo:gate":"A15",
     "flysfo:journey":"SAL-SFO",
     "flysfo:scheduled_timestamp":1578989700,
@@ -88,7 +88,7 @@
         1159283957,
         1477930315
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022985,
     "wof:name":"AV560 (SAL-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

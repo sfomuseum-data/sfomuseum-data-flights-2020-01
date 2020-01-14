@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2358",
+    "flysfo:flight_number":"2358",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578894240,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022873,
     "wof:name":"HA2358 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

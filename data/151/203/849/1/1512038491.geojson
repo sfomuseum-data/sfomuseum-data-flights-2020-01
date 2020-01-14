@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7354",
+    "flysfo:flight_number":"7354",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578801600,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022523,
     "wof:name":"NH7354 (SFO-LAX)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

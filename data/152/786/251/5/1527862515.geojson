@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578945300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3053",
+    "flysfo:flight_number":"3053",
     "flysfo:gate":"D1",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578946080,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022949,
     "wof:name":"EK3053 (SEA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

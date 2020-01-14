@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3728",
+    "flysfo:flight_number":"3728",
     "flysfo:gate":"A15",
     "flysfo:journey":"PVR-SFO",
     "flysfo:scheduled_timestamp":1578716520,
@@ -94,7 +94,7 @@
         1477930315,
         1159283813
     ],
-    "wof:lastmodified":1578949043,
+    "wof:lastmodified":1579022667,
     "wof:name":"QF3728 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

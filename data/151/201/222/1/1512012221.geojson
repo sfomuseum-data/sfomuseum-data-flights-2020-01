@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA283",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6348",
+    "flysfo:flight_number":"6348",
     "flysfo:gate":"E3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"OZ6348 (LAX-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

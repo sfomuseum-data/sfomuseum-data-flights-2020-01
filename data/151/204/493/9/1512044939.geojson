@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5800",
+    "flysfo:flight_number":"5800",
     "flysfo:gate":"E3",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578873660,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948826,
+    "wof:lastmodified":1579022305,
     "wof:name":"UA5800 (SLC-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

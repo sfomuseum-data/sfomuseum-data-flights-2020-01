@@ -11,7 +11,7 @@
     "flysfo:airline":"AC",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC758",
+    "flysfo:flight_number":"758",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930471,
         1159289411
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022572,
     "wof:name":"AC758 (SFO-YYZ)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

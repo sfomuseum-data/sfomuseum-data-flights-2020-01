@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5754",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1120",
+    "flysfo:flight_number":"1120",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-YVR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022814,
     "wof:name":"CM1120 (SFO-YVR)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

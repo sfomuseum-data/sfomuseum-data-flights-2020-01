@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1723",
+    "flysfo:flight_number":"1723",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-KOA",
     "flysfo:scheduled_timestamp":1578709980,
@@ -88,7 +88,7 @@
         1159285413,
         1477930395
     ],
-    "wof:lastmodified":1578948914,
+    "wof:lastmodified":1579022445,
     "wof:name":"UA1723 (SFO-KOA)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

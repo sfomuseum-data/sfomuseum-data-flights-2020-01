@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA612",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7690",
+    "flysfo:flight_number":"7690",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022823,
     "wof:name":"LH7690 (SFO-PDX)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

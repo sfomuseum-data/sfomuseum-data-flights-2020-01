@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK8880",
+    "flysfo:flight_number":"8880",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578754800,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022300,
     "wof:name":"SK8880 (SFO-ORD)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

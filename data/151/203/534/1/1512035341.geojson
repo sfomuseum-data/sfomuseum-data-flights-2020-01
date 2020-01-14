@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9422",
+    "flysfo:flight_number":"9422",
     "flysfo:gate":"E8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578804420,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022360,
     "wof:name":"NZ9422 (SEA-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

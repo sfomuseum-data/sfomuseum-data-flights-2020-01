@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ33",
+    "flysfo:flight_number":"33",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-SIN",
     "flysfo:scheduled_timestamp":1578715800,
@@ -88,7 +88,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1578948924,
+    "wof:lastmodified":1579022463,
     "wof:name":"SQ33 (SFO-SIN)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

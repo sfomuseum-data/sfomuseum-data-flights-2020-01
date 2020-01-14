@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CI9120",
+    "flysfo:flight_number":"9120",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578936000,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023004,
     "wof:name":"CI9120 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

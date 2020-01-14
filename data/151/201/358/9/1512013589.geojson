@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1998",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7372",
+    "flysfo:flight_number":"7372",
     "flysfo:gate":"F4",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578949537,
+    "wof:lastmodified":1579022774,
     "wof:name":"CA7372 (IAH-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5469",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9596",
+    "flysfo:flight_number":"9596",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-RNO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022787,
     "wof:name":"NZ9596 (SFO-RNO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

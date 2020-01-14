@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY5739",
+    "flysfo:flight_number":"5739",
     "flysfo:gate":"D11",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578888360,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578948851,
+    "wof:lastmodified":1579022348,
     "wof:name":"AY5739 (JFK-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578752400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5879",
+    "flysfo:flight_number":"5879",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578752400,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022261,
     "wof:name":"KL5879 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

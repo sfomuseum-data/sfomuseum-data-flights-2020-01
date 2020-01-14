@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5779",
+    "flysfo:flight_number":"5779",
     "flysfo:gate":"F10",
     "flysfo:journey":"BZN-SFO",
     "flysfo:scheduled_timestamp":1578708480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022428,
     "wof:name":"UA5779 (BZN-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

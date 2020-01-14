@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578725880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1152",
+    "flysfo:flight_number":"1152",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578725700,
@@ -104,7 +104,7 @@
         1477930381,
         1159292085
     ],
-    "wof:lastmodified":1578948989,
+    "wof:lastmodified":1579022578,
     "wof:name":"UA1152 (SFO-LAS)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

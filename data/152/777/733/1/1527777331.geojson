@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8020",
+    "flysfo:flight_number":"8020",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-YUL",
     "flysfo:scheduled_timestamp":1578844800,
@@ -94,7 +94,7 @@
         1477930463,
         1159283597
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022882,
     "wof:name":"UA8020 (SFO-YUL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

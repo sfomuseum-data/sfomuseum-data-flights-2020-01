@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9629",
+    "flysfo:flight_number":"9629",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578862680,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948777,
+    "wof:lastmodified":1579022227,
     "wof:name":"NZ9629 (SFO-SLC)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

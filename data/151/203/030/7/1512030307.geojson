@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578722700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA455",
+    "flysfo:flight_number":"455",
     "flysfo:gate":"E8",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578717780,
@@ -104,7 +104,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578948909,
+    "wof:lastmodified":1579022437,
     "wof:name":"UA455 (AUS-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

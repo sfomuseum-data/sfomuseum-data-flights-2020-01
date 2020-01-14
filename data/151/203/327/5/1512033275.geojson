@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5140",
+    "flysfo:flight_number":"5140",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578701700,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"LA5140 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

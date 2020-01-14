@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2162",
+    "flysfo:flight_number":"2162",
     "flysfo:gate":"E6",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578775020,
@@ -104,7 +104,7 @@
         1477930389,
         1159289407
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022493,
     "wof:name":"UA2162 (PSP-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

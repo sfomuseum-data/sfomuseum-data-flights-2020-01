@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA785",
+    "flysfo:flight_number":"785",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-CLT",
     "flysfo:scheduled_timestamp":1578769800,
@@ -102,7 +102,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578948865,
+    "wof:lastmodified":1579022368,
     "wof:name":"AA785 (SFO-CLT)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

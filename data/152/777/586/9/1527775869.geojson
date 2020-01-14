@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578870000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3787",
+    "flysfo:flight_number":"3787",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578870000,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"QF3787 (SFO-SEA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

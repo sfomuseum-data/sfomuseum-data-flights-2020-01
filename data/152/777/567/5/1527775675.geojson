@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578896280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7498",
+    "flysfo:flight_number":"7498",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578893700,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022860,
     "wof:name":"LH7498 (SFO-LAX)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

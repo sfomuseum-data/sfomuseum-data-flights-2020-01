@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5620",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7266",
+    "flysfo:flight_number":"7266",
     "flysfo:gate":"F9",
     "flysfo:journey":"MSP-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949038,
+    "wof:lastmodified":1579022663,
     "wof:name":"CA7266 (MSP-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

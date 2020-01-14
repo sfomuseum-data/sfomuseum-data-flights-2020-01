@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9196",
+    "flysfo:flight_number":"9196",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578697260,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022361,
     "wof:name":"NZ9196 (SFO-IAH)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA821",
+    "flysfo:flight_number":"821",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-MEX",
     "flysfo:scheduled_timestamp":1578690420,
@@ -103,7 +103,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022557,
     "wof:name":"UA821 (SFO-MEX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

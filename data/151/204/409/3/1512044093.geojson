@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK3941",
+    "flysfo:flight_number":"3941",
     "flysfo:gate":"F12",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578884040,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948788,
+    "wof:lastmodified":1579022250,
     "wof:name":"SK3941 (ORD-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS7650",
+    "flysfo:flight_number":"7650",
     "flysfo:gate":"G6",
     "flysfo:journey":"AKL-SFO",
     "flysfo:scheduled_timestamp":1578769200,
@@ -94,7 +94,7 @@
         1477930471,
         1159283697
     ],
-    "wof:lastmodified":1578948983,
+    "wof:lastmodified":1579022566,
     "wof:name":"VS7650 (AKL-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

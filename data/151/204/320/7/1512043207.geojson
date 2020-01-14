@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7931",
+    "flysfo:flight_number":"7931",
     "flysfo:gate":"D16",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578888600,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948843,
+    "wof:lastmodified":1579022335,
     "wof:name":"CX7931 (SAN-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"KE",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE23",
+    "flysfo:flight_number":"23",
     "flysfo:gate":"A13",
     "flysfo:journey":"ICN-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284623,
         1477930309
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022795,
     "wof:name":"KE23 (ICN-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA4919",
+    "flysfo:flight_number":"4919",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578963600,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023008,
     "wof:name":"BA4919 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

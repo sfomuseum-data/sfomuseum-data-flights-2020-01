@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3327",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2524",
+    "flysfo:flight_number":"2524",
     "flysfo:gate":"D17",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578949557,
+    "wof:lastmodified":1579022802,
     "wof:name":"AY2524 (PSP-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

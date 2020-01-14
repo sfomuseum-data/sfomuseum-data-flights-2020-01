@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5018",
+    "flysfo:flight_number":"5018",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578858060,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578950092,
+    "wof:lastmodified":1579022869,
     "wof:name":"KL5018 (SFO-JFK)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

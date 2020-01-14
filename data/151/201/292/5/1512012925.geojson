@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA380",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9296",
+    "flysfo:flight_number":"9296",
     "flysfo:gate":"F13",
     "flysfo:journey":"MCO-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022733,
     "wof:name":"NZ9296 (MCO-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

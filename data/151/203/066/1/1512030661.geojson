@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA878",
+    "flysfo:flight_number":"878",
     "flysfo:gate":"G1",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578711000,
@@ -96,7 +96,7 @@
         1159285413,
         1477930461
     ],
-    "wof:lastmodified":1578948971,
+    "wof:lastmodified":1579022545,
     "wof:name":"UA878 (HKG-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

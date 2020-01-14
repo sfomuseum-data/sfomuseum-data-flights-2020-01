@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1387",
+    "flysfo:flight_number":"1387",
     "flysfo:gate":"D7",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578791400,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022539,
     "wof:name":"SQ1387 (LAS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

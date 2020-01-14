@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF8402",
+    "flysfo:flight_number":"8402",
     "flysfo:gate":"A2",
     "flysfo:journey":"AMS-SFO",
     "flysfo:scheduled_timestamp":1578860400,
@@ -94,7 +94,7 @@
         1477930283,
         1159284613
     ],
-    "wof:lastmodified":1578948804,
+    "wof:lastmodified":1579022273,
     "wof:name":"AF8402 (AMS-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1106",
+    "flysfo:flight_number":"1106",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-SNA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930397,
         1159289871
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"UA1106 (SFO-SNA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

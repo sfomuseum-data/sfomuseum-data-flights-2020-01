@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1845",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3350",
+    "flysfo:flight_number":"3350",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948949,
+    "wof:lastmodified":1579022506,
     "wof:name":"AM3350 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3404",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1370",
+    "flysfo:flight_number":"1370",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-DAL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"SQ1370 (SFO-DAL)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

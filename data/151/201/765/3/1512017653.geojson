@@ -9,7 +9,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2429",
+    "flysfo:flight_number":"2429",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1578949493,
+    "wof:lastmodified":1579022708,
     "wof:name":"DL2429 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7334",
+    "flysfo:flight_number":"7334",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578862560,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"NH7334 (SFO-BOI)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

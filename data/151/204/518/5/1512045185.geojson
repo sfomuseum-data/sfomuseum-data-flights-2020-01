@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WS6970",
+    "flysfo:flight_number":"6970",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578867540,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948799,
+    "wof:lastmodified":1579022266,
     "wof:name":"WS6970 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578725280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA8084",
+    "flysfo:flight_number":"8084",
     "flysfo:gate":"G1",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578715380,
@@ -94,7 +94,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1578948906,
+    "wof:lastmodified":1579022431,
     "wof:name":"UA8084 (YVR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

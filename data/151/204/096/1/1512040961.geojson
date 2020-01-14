@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA6755",
+    "flysfo:flight_number":"6755",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578800400,
@@ -94,7 +94,7 @@
         1477930477,
         1159283697
     ],
-    "wof:lastmodified":1578948781,
+    "wof:lastmodified":1579022236,
     "wof:name":"UA6755 (SFO-AKL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578782220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1815",
+    "flysfo:flight_number":"1815",
     "flysfo:gate":"F20",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578781080,
@@ -104,7 +104,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022362,
     "wof:name":"UA1815 (IAH-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578797760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2428",
+    "flysfo:flight_number":"2428",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578798060,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948854,
+    "wof:lastmodified":1579022352,
     "wof:name":"CM2428 (SFO-PHX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

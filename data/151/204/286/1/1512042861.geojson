@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA5723",
+    "flysfo:flight_number":"5723",
     "flysfo:gate":"D14",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578869520,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948778,
+    "wof:lastmodified":1579022228,
     "wof:name":"BA5723 (DFW-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

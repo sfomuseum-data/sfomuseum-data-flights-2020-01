@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7518",
+    "flysfo:flight_number":"7518",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578708000,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948889,
+    "wof:lastmodified":1579022406,
     "wof:name":"CX7518 (SFO-DFW)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

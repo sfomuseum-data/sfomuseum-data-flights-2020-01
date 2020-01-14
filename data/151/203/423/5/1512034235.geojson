@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5934",
+    "flysfo:flight_number":"5934",
     "flysfo:gate":"F15L",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578690360,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"UA5934 (SFO-RNO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

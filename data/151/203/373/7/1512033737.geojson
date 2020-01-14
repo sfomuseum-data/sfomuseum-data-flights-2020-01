@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1111",
+    "flysfo:flight_number":"1111",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-LIH",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930399,
         1159289939
     ],
-    "wof:lastmodified":1578948989,
+    "wof:lastmodified":1579022579,
     "wof:name":"UA1111 (SFO-LIH)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1660",
+    "flysfo:flight_number":"1660",
     "flysfo:gate":"E13",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578686760,
@@ -104,7 +104,7 @@
         1477930405,
         1159292085
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022422,
     "wof:name":"UA1660 (RNO-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

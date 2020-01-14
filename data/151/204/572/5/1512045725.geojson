@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578837600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3241",
+    "flysfo:flight_number":"3241",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578837600,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948797,
+    "wof:lastmodified":1579022264,
     "wof:name":"AM3241 (SFO-SLC)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

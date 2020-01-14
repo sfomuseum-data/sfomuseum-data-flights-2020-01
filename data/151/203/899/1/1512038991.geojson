@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3314",
+    "flysfo:flight_number":"3314",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578760200,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"AS3314 (SFO-SNA)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

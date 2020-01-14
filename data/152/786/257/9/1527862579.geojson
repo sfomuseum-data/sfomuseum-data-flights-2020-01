@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578958500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1382",
+    "flysfo:flight_number":"1382",
     "flysfo:gate":"",
     "flysfo:journey":"GJT-SFO",
     "flysfo:scheduled_timestamp":1578957600,
@@ -48,7 +48,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022935,
     "wof:name":"UA1382 (GJT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA152",
+    "flysfo:flight_number":"152",
     "flysfo:gate":"D11",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578761400,
@@ -104,7 +104,7 @@
         1477930361,
         1159289871
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022399,
     "wof:name":"AA152 (DFW-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

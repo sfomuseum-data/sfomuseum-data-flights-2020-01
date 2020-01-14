@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578864540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5657",
+    "flysfo:flight_number":"5657",
     "flysfo:gate":"F7",
     "flysfo:journey":"SBP-SFO",
     "flysfo:scheduled_timestamp":1578863640,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948818,
+    "wof:lastmodified":1579022293,
     "wof:name":"UA5657 (SBP-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

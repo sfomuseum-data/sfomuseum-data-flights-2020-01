@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2488",
+    "flysfo:flight_number":"2488",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578689400,
@@ -104,7 +104,7 @@
         1477930321,
         1159289939
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022559,
     "wof:name":"DL2488 (SFO-BOS)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

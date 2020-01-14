@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5728",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4509",
+    "flysfo:flight_number":"4509",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-SNA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"AC4509 (SFO-SNA)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

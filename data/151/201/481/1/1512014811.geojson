@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3391",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1367",
+    "flysfo:flight_number":"1367",
     "flysfo:gate":"C11",
     "flysfo:journey":"DAL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"SQ1367 (DAL-SFO)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

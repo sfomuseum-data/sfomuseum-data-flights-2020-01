@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA340",
+    "flysfo:flight_number":"340",
     "flysfo:gate":"F11",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578803340,
@@ -102,7 +102,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022593,
     "wof:name":"UA340 (IAD-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

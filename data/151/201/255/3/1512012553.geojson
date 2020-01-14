@@ -7,7 +7,7 @@
     "flysfo:airline":"AF",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF84",
+    "flysfo:flight_number":"84",
     "flysfo:gate":"A13",
     "flysfo:journey":"CDG-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283627,
         1477930309
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022810,
     "wof:name":"AF84 (CDG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

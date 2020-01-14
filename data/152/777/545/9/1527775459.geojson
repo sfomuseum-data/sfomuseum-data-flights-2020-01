@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578883620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2522",
+    "flysfo:flight_number":"2522",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578877800,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578950099,
+    "wof:lastmodified":1579022880,
     "wof:name":"CM2522 (SFO-ONT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

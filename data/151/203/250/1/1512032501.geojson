@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA890",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1661",
+    "flysfo:flight_number":"1661",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578948895,
+    "wof:lastmodified":1579022415,
     "wof:name":"CZ1661 (SFO-LAX)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

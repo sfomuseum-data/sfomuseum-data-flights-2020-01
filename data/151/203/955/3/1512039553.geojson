@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578788940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7850",
+    "flysfo:flight_number":"7850",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578789600,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022381,
     "wof:name":"LH7850 (SFO-PSP)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

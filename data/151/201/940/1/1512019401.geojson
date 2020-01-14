@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA616",
+    "flysfo:flight_number":"616",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930435,
         1159292085
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022755,
     "wof:name":"UA616 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

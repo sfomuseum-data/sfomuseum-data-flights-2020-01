@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4720",
+    "flysfo:flight_number":"4720",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578841800,
@@ -94,7 +94,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"NZ4720 (SFO-YYZ)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

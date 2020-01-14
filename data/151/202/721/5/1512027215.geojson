@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1673",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ9526",
+    "flysfo:flight_number":"9526",
     "flysfo:gate":"F2",
     "flysfo:journey":"CLE-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949044,
+    "wof:lastmodified":1579022668,
     "wof:name":"OZ9526 (CLE-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

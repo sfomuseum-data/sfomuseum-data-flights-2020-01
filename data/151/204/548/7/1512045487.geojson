@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4444",
+    "flysfo:flight_number":"4444",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578876420,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948849,
+    "wof:lastmodified":1579022344,
     "wof:name":"AC4444 (SFO-AUS)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

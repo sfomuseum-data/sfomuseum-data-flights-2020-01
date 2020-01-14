@@ -7,7 +7,7 @@
     "flysfo:airline":"TP",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP236",
+    "flysfo:flight_number":"236",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-LIS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"TP236 (SFO-LIS)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

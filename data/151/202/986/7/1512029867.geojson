@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578722700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1782",
+    "flysfo:flight_number":"1782",
     "flysfo:gate":"B12",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578723300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949051,
+    "wof:lastmodified":1579022674,
     "wof:name":"WN1782 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

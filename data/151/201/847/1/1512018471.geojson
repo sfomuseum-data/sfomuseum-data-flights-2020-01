@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA500",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LO4410",
+    "flysfo:flight_number":"4410",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"LO4410 (SFO-ORD)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

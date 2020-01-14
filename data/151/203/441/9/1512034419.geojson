@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2401",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4543",
+    "flysfo:flight_number":"4543",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578948888,
+    "wof:lastmodified":1579022404,
     "wof:name":"VS4543 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

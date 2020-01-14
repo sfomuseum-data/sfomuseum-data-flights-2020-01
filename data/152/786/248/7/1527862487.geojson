@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TK9132",
+    "flysfo:flight_number":"9132",
     "flysfo:gate":"G4",
     "flysfo:journey":"YUL-SFO",
     "flysfo:scheduled_timestamp":1578977220,
@@ -94,7 +94,7 @@
         1477930467,
         1159283597
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022986,
     "wof:name":"TK9132 (YUL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

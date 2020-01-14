@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9322",
+    "flysfo:flight_number":"9322",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LIH",
     "flysfo:scheduled_timestamp":1578848700,
@@ -94,7 +94,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"LH9322 (SFO-LIH)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

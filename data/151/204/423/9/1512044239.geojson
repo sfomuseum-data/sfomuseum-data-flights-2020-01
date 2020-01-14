@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ5818",
+    "flysfo:flight_number":"5818",
     "flysfo:gate":"G9",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578869400,
@@ -94,7 +94,7 @@
         1477930479,
         1159284349
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022229,
     "wof:name":"SQ5818 (TPE-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

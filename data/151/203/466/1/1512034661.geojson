@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4057",
+    "flysfo:flight_number":"4057",
     "flysfo:gate":"F7",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578784380,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022556,
     "wof:name":"AC4057 (SBA-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

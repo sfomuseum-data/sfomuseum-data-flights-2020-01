@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE24",
+    "flysfo:flight_number":"24",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578857400,
@@ -88,7 +88,7 @@
         1159284623,
         1477930295
     ],
-    "wof:lastmodified":1578950092,
+    "wof:lastmodified":1579022869,
     "wof:name":"KE24 (SFO-ICN)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

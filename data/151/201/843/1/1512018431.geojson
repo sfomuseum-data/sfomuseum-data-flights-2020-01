@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1972",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5077",
+    "flysfo:flight_number":"5077",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"LA5077 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

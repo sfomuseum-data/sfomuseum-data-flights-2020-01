@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MH9180",
+    "flysfo:flight_number":"9180",
     "flysfo:gate":"A5",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578762600,
@@ -94,7 +94,7 @@
         1477930291,
         1159284127
     ],
-    "wof:lastmodified":1578948877,
+    "wof:lastmodified":1579022387,
     "wof:name":"MH9180 (HKG-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

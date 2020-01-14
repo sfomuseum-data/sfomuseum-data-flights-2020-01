@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4107",
+    "flysfo:flight_number":"4107",
     "flysfo:gate":"C8",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578719640,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948960,
+    "wof:lastmodified":1579022524,
     "wof:name":"VS4107 (LAX-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

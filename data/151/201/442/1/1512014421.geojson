@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3357",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5853",
+    "flysfo:flight_number":"5853",
     "flysfo:gate":"D5",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022793,
     "wof:name":"FJ5853 (PSP-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

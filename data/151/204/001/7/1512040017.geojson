@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6093",
+    "flysfo:flight_number":"6093",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578773700,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948793,
+    "wof:lastmodified":1579022258,
     "wof:name":"KE6093 (SFO-PDX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

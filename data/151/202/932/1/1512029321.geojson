@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY5747",
+    "flysfo:flight_number":"5747",
     "flysfo:gate":"D11",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578722100,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022652,
     "wof:name":"AY5747 (JFK-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

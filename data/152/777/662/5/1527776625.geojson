@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578891240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3280",
+    "flysfo:flight_number":"3280",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578883800,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578950108,
+    "wof:lastmodified":1579022895,
     "wof:name":"LX3280 (SFO-LAS)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

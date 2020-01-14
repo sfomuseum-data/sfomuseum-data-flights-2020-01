@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6315",
+    "flysfo:flight_number":"6315",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578876300,
@@ -94,7 +94,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578948760,
+    "wof:lastmodified":1579022192,
     "wof:name":"OZ6315 (SFO-IAD)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

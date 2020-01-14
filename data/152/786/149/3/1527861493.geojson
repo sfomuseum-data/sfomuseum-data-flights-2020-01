@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578959880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7581",
+    "flysfo:flight_number":"7581",
     "flysfo:gate":"E13",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578959100,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579023037,
     "wof:name":"LH7581 (PSP-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578864300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1024",
+    "flysfo:flight_number":"1024",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578864300,
@@ -104,7 +104,7 @@
         1477930341,
         1377564297
     ],
-    "wof:lastmodified":1578948777,
+    "wof:lastmodified":1579022226,
     "wof:name":"AS1024 (SFO-JFK)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

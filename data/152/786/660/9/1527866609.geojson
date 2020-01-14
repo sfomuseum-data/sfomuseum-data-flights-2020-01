@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578932460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5617",
+    "flysfo:flight_number":"5617",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SUN",
     "flysfo:scheduled_timestamp":1578933180,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022944,
     "wof:name":"UA5617 (SFO-SUN)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

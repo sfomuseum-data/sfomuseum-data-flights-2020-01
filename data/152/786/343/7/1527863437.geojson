@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578962280,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6307",
+    "flysfo:flight_number":"6307",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578962580,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023037,
     "wof:name":"OZ6307 (SFO-SAN)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

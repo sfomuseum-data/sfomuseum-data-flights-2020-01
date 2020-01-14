@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA396",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9153",
+    "flysfo:flight_number":"9153",
     "flysfo:gate":"F19",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022791,
     "wof:name":"NZ9153 (HNL-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5483",
+    "flysfo:flight_number":"5483",
     "flysfo:gate":"F6",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"UA5483 (DFW-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY397",
+    "flysfo:flight_number":"397",
     "flysfo:gate":"G8",
     "flysfo:journey":"MSP-SFO",
     "flysfo:scheduled_timestamp":1578898920,
@@ -88,7 +88,7 @@
         1159285227,
         1477930477
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022295,
     "wof:name":"SY397 (MSP-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

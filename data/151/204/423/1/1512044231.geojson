@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ32",
+    "flysfo:flight_number":"32",
     "flysfo:gate":"G5",
     "flysfo:journey":"SIN-SFO",
     "flysfo:scheduled_timestamp":1578844200,
@@ -103,7 +103,7 @@
         1477930469,
         1377564293
     ],
-    "wof:lastmodified":1578948779,
+    "wof:lastmodified":1579022229,
     "wof:name":"SQ32 (SIN-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

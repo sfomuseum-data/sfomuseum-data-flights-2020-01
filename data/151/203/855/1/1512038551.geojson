@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4808",
+    "flysfo:flight_number":"4808",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-YUL",
     "flysfo:scheduled_timestamp":1578758400,
@@ -94,7 +94,7 @@
         1477930475,
         1159283597
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022557,
     "wof:name":"NZ4808 (SFO-YUL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

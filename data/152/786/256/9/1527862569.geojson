@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1152",
+    "flysfo:flight_number":"1152",
     "flysfo:gate":"E12",
     "flysfo:journey":"LIH-SFO",
     "flysfo:scheduled_timestamp":1578979800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930403
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579022951,
     "wof:name":"UA1152 (LIH-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

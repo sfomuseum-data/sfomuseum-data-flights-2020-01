@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2034",
+    "flysfo:flight_number":"2034",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-FAT",
     "flysfo:scheduled_timestamp":1578846600,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948818,
+    "wof:lastmodified":1579022293,
     "wof:name":"AV2034 (SFO-FAT)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

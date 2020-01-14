@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578804480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3675",
+    "flysfo:flight_number":"3675",
     "flysfo:gate":"D1",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578804480,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"QF3675 (ORD-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

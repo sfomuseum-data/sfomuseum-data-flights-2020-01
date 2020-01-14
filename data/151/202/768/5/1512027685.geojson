@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5550",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2444",
+    "flysfo:flight_number":"2444",
     "flysfo:gate":"E1",
     "flysfo:journey":"XNA-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949030,
+    "wof:lastmodified":1579022656,
     "wof:name":"NZ2444 (XNA-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA901",
+    "flysfo:flight_number":"901",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930479,
         1159289985
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022776,
     "wof:name":"UA901 (SFO-LHR)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

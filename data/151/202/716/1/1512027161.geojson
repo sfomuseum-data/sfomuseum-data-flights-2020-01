@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX870",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA8929",
+    "flysfo:flight_number":"8929",
     "flysfo:gate":"A2",
     "flysfo:journey":"HKG-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930283,
         1159284127
     ],
-    "wof:lastmodified":1578949049,
+    "wof:lastmodified":1579022672,
     "wof:name":"AA8929 (HKG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

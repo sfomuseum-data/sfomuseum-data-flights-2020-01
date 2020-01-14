@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578840780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC561",
+    "flysfo:flight_number":"561",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578838800,
@@ -103,7 +103,7 @@
         1477930467,
         1159289407
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022200,
     "wof:name":"AC561 (SFO-YVR)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

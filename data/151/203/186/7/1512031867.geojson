@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1300",
+    "flysfo:flight_number":"1300",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-MCO",
     "flysfo:timestamp":0,
@@ -99,7 +99,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022464,
     "wof:name":"AS1300 (SFO-MCO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

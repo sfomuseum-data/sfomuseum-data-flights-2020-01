@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578689640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5328",
+    "flysfo:flight_number":"5328",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578689760,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948972,
+    "wof:lastmodified":1579022546,
     "wof:name":"UA5328 (SFO-BOI)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

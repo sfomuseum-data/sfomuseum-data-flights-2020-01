@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578709140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1291",
+    "flysfo:flight_number":"1291",
     "flysfo:gate":"A15",
     "flysfo:journey":"SJD-SFO",
     "flysfo:scheduled_timestamp":1578710040,
@@ -94,7 +94,7 @@
         1477930315,
         1159283813
     ],
-    "wof:lastmodified":1578949016,
+    "wof:lastmodified":1579022642,
     "wof:name":"SQ1291 (SJD-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

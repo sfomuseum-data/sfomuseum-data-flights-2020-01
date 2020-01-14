@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3390",
+    "flysfo:flight_number":"3390",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578979800,
@@ -88,7 +88,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022920,
     "wof:name":"AS3390 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

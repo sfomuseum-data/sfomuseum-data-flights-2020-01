@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA295",
+    "flysfo:flight_number":"295",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930485,
         1159293215
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022496,
     "wof:name":"UA295 (SFO-EWR)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

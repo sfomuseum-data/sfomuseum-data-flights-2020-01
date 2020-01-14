@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6615",
+    "flysfo:flight_number":"6615",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-ICN",
     "flysfo:scheduled_timestamp":1578940500,
@@ -94,7 +94,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022966,
     "wof:name":"OZ6615 (SFO-ICN)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

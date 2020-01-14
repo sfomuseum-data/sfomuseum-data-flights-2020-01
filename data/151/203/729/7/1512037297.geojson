@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578777540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1757",
+    "flysfo:flight_number":"1757",
     "flysfo:gate":"E8",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578778800,
@@ -104,7 +104,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022602,
     "wof:name":"UA1757 (LAS-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

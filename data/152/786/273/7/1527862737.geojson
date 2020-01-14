@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578977940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2278",
+    "flysfo:flight_number":"2278",
     "flysfo:gate":"F1",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578977100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022922,
     "wof:name":"UA2278 (PSP-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

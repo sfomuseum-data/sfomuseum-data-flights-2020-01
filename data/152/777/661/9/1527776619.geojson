@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3256",
+    "flysfo:flight_number":"3256",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578887160,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022877,
     "wof:name":"LX3256 (SFO-SEA)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA834",
+    "flysfo:flight_number":"834",
     "flysfo:gate":"F21",
     "flysfo:journey":"LAS-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930457,
         1377564285
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022433,
     "wof:name":"UA834 (LAS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

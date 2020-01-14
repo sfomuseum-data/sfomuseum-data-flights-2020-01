@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5466",
+    "flysfo:flight_number":"5466",
     "flysfo:gate":"F5",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578870720,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"UA5466 (BOI-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

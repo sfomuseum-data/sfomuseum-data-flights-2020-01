@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578778380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA194",
+    "flysfo:flight_number":"194",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-MUC",
     "flysfo:scheduled_timestamp":1578778500,
@@ -104,7 +104,7 @@
         1477930467,
         1159293215
     ],
-    "wof:lastmodified":1578948782,
+    "wof:lastmodified":1579022238,
     "wof:name":"UA194 (SFO-MUC)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

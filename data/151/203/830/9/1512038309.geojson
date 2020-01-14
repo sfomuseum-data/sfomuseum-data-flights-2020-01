@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5976",
+    "flysfo:flight_number":"5976",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578779400,
@@ -94,7 +94,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1578948975,
+    "wof:lastmodified":1579022552,
     "wof:name":"AC5976 (SFO-FRA)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

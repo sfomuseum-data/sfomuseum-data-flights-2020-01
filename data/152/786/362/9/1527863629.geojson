@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578974220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4540",
+    "flysfo:flight_number":"4540",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-SMF",
     "flysfo:scheduled_timestamp":1578971220,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022907,
     "wof:name":"AC4540 (SFO-SMF)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

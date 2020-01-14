@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AM662",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS7575",
+    "flysfo:flight_number":"7575",
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"VS7575 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

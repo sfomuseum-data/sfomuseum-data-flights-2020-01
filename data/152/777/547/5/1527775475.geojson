@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7578",
+    "flysfo:flight_number":"7578",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578904500,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578950111,
+    "wof:lastmodified":1579022899,
     "wof:name":"CX7578 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

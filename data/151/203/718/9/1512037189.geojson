@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3086",
+    "flysfo:flight_number":"3086",
     "flysfo:gate":"D1",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578775020,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022607,
     "wof:name":"EK3086 (SNA-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

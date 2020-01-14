@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2391",
+    "flysfo:flight_number":"2391",
     "flysfo:gate":"F2",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578789780,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022594,
     "wof:name":"AV2391 (YVR-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

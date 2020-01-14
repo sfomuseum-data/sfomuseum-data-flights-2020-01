@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4606",
+    "flysfo:flight_number":"4606",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578752400,
@@ -94,7 +94,7 @@
         1477930467,
         1159283597
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022549,
     "wof:name":"NZ4606 (SFO-YVR)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7314",
+    "flysfo:flight_number":"7314",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578860880,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948802,
+    "wof:lastmodified":1579022269,
     "wof:name":"NH7314 (SFO-LAS)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

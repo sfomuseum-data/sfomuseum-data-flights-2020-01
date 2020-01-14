@@ -11,7 +11,7 @@
     "flysfo:airline":"SY",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY397",
+    "flysfo:flight_number":"397",
     "flysfo:gate":"A4",
     "flysfo:journey":"MSP-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"SY397 (MSP-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

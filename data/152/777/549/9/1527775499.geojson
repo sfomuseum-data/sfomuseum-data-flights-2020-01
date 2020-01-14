@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7936",
+    "flysfo:flight_number":"7936",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578878700,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578950110,
+    "wof:lastmodified":1579022898,
     "wof:name":"CX7936 (SFO-LAS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

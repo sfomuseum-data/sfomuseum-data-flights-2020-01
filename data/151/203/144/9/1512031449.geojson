@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC561",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4606",
+    "flysfo:flight_number":"4606",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YVR",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022461,
     "wof:name":"NZ4606 (SFO-YVR)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

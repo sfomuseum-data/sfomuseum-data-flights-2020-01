@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC8843",
+    "flysfo:flight_number":"8843",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578883500,
@@ -88,7 +88,7 @@
         1159283597,
         1477930461
     ],
-    "wof:lastmodified":1578948762,
+    "wof:lastmodified":1579022197,
     "wof:name":"AC8843 (SFO-YVR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

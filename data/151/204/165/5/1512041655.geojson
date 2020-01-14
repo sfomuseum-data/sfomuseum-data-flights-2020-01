@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4015",
+    "flysfo:flight_number":"4015",
     "flysfo:gate":"F10",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578890940,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948805,
+    "wof:lastmodified":1579022275,
     "wof:name":"AC4015 (ONT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

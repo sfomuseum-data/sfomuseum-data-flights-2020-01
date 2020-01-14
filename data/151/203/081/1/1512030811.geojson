@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA139",
+    "flysfo:flight_number":"139",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578700920,
@@ -102,7 +102,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022522,
     "wof:name":"AA139 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5946",
+    "flysfo:flight_number":"5946",
     "flysfo:gate":"F5",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578708480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022556,
     "wof:name":"UA5946 (SNA-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

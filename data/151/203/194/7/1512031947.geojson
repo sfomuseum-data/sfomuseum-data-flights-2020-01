@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1962",
+    "flysfo:flight_number":"1962",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578714300,
@@ -104,7 +104,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022374,
     "wof:name":"AS1962 (SFO-SAN)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

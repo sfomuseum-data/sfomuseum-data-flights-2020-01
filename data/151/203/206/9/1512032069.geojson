@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2024",
+    "flysfo:flight_number":"2024",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578725100,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948975,
+    "wof:lastmodified":1579022551,
     "wof:name":"AV2024 (SFO-RNO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2839",
+    "flysfo:flight_number":"2839",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"AA2839 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

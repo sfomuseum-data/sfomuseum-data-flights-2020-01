@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1809",
+    "flysfo:flight_number":"1809",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930341,
         1377564285
     ],
-    "wof:lastmodified":1578949559,
+    "wof:lastmodified":1579022806,
     "wof:name":"AS1809 (SFO-SEA)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

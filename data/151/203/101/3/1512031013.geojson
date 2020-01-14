@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5682",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4163",
+    "flysfo:flight_number":"4163",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-DFW",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"AC4163 (SFO-DFW)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

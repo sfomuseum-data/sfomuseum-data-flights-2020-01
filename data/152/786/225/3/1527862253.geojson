@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578919860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1314",
+    "flysfo:flight_number":"1314",
     "flysfo:gate":"D7",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578920400,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579023003,
     "wof:name":"SQ1314 (OGG-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

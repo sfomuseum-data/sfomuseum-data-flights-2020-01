@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA555",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5618",
+    "flysfo:flight_number":"5618",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022724,
     "wof:name":"AC5618 (SFO-SAN)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

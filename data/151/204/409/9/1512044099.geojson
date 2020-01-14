@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK6884",
+    "flysfo:flight_number":"6884",
     "flysfo:gate":"F13",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578889680,
@@ -94,7 +94,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578948788,
+    "wof:lastmodified":1579022250,
     "wof:name":"SK6884 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

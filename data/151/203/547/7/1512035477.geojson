@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578804480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1203",
+    "flysfo:flight_number":"1203",
     "flysfo:gate":"D1",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578804480,
@@ -96,7 +96,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022568,
     "wof:name":"AS1203 (ORD-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

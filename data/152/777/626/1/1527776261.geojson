@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KL5007",
+    "flysfo:flight_number":"5007",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578950092,
+    "wof:lastmodified":1579022869,
     "wof:name":"KL5007 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

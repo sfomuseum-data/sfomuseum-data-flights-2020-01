@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2404",
+    "flysfo:flight_number":"2404",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578714300,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948974,
+    "wof:lastmodified":1579022550,
     "wof:name":"CM2404 (SFO-PDX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

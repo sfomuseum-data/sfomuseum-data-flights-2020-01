@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578942000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TG6095",
+    "flysfo:flight_number":"6095",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-NRT",
     "flysfo:scheduled_timestamp":1578942000,
@@ -94,7 +94,7 @@
         1477930469,
         1159283875
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579023000,
     "wof:name":"TG6095 (SFO-NRT)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

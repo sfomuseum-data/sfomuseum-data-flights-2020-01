@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6735",
+    "flysfo:flight_number":"6735",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-CVG",
     "flysfo:scheduled_timestamp":1578723300,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022592,
     "wof:name":"KE6735 (SFO-CVG)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

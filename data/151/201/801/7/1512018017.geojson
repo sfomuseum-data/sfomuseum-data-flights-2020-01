@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1972",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9395",
+    "flysfo:flight_number":"9395",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022807,
     "wof:name":"LY9395 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1178",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9341",
+    "flysfo:flight_number":"9341",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-PDX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578948857,
+    "wof:lastmodified":1579022357,
     "wof:name":"NZ9341 (SFO-PDX)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

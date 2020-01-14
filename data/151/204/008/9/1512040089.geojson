@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA5077",
+    "flysfo:flight_number":"5077",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578768300,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948792,
+    "wof:lastmodified":1579022257,
     "wof:name":"LA5077 (SFO-LAX)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

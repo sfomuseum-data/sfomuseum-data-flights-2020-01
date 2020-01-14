@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578840000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7774",
+    "flysfo:flight_number":"7774",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578840000,
@@ -94,7 +94,7 @@
         1477930337,
         1159284261
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"WS7774 (SFO-LAX)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL442",
+    "flysfo:flight_number":"442",
     "flysfo:gate":"C8",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578701580,
@@ -100,7 +100,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578949014,
+    "wof:lastmodified":1579022637,
     "wof:name":"DL442 (SLC-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

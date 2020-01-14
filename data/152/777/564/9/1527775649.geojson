@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578860700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8080",
+    "flysfo:flight_number":"8080",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-GDL",
     "flysfo:scheduled_timestamp":1578860700,
@@ -94,7 +94,7 @@
         1477930303,
         1159283539
     ],
-    "wof:lastmodified":1578950101,
+    "wof:lastmodified":1579022884,
     "wof:name":"DL8080 (SFO-GDL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

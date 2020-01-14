@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL592",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ5906",
+    "flysfo:flight_number":"5906",
     "flysfo:gate":"C3",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022747,
     "wof:name":"AZ5906 (JFK-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

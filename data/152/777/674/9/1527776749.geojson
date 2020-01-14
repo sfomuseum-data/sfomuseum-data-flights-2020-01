@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578885420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA104",
+    "flysfo:flight_number":"104",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-DEL",
     "flysfo:scheduled_timestamp":1578885300,
@@ -104,7 +104,7 @@
         1477930463,
         1159293215
     ],
-    "wof:lastmodified":1578950093,
+    "wof:lastmodified":1579022871,
     "wof:name":"UA104 (SFO-DEL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

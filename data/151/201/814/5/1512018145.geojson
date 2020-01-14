@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1390",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5826",
+    "flysfo:flight_number":"5826",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-MSY",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"FJ5826 (SFO-MSY)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

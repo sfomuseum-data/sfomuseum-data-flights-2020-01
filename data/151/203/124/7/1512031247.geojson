@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578713700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC8568",
+    "flysfo:flight_number":"8568",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-YYC",
     "flysfo:scheduled_timestamp":1578713700,
@@ -88,7 +88,7 @@
         1159283597,
         1477930481
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022572,
     "wof:name":"AC8568 (SFO-YYC)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

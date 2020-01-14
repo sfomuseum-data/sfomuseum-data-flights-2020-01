@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578903300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA235",
+    "flysfo:flight_number":"235",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578901800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578950107,
+    "wof:lastmodified":1579022893,
     "wof:name":"UA235 (SFO-BOS)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

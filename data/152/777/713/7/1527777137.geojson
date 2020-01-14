@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5605",
+    "flysfo:flight_number":"5605",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-MTJ",
     "flysfo:scheduled_timestamp":1578863340,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022878,
     "wof:name":"UA5605 (SFO-MTJ)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

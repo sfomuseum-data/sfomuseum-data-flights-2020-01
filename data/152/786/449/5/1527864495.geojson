@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578925800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3370",
+    "flysfo:flight_number":"3370",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578925800,
@@ -88,7 +88,7 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579022920,
     "wof:name":"AS3370 (SFO-SNA)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

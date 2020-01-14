@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3785",
+    "flysfo:flight_number":"3785",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578867300,
@@ -101,7 +101,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022875,
     "wof:name":"WN3785 (SFO-LAX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

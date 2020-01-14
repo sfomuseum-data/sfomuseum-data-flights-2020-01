@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA390",
+    "flysfo:flight_number":"390",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-ORD",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930405,
         1159289871
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022812,
     "wof:name":"UA390 (SFO-ORD)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

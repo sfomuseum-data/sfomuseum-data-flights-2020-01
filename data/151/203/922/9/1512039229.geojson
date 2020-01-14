@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578776700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7247",
+    "flysfo:flight_number":"7247",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578776940,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948927,
+    "wof:lastmodified":1579022468,
     "wof:name":"CA7247 (SFO-DFW)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

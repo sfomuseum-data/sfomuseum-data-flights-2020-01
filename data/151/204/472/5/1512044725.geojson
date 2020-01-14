@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA488",
+    "flysfo:flight_number":"488",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578851100,
@@ -104,7 +104,7 @@
         1477930399,
         1377564285
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022294,
     "wof:name":"UA488 (LAX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3461",
+    "flysfo:flight_number":"3461",
     "flysfo:gate":"D2",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578692280,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578949010,
+    "wof:lastmodified":1579022630,
     "wof:name":"AS3461 (PSP-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

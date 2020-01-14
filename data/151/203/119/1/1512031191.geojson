@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5600",
+    "flysfo:flight_number":"5600",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-MUC",
     "flysfo:scheduled_timestamp":1578692100,
@@ -94,7 +94,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578948928,
+    "wof:lastmodified":1579022470,
     "wof:name":"AC5600 (SFO-MUC)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

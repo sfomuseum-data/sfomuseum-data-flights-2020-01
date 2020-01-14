@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA277",
+    "flysfo:flight_number":"277",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578855420,
@@ -104,7 +104,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"UA277 (SFO-SEA)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

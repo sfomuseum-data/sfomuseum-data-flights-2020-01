@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578787440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7337",
+    "flysfo:flight_number":"7337",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578787740,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022594,
     "wof:name":"CA7337 (SFO-SEA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

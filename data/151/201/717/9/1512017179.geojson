@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1111",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2350",
+    "flysfo:flight_number":"2350",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-LIH",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022818,
     "wof:name":"AV2350 (SFO-LIH)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

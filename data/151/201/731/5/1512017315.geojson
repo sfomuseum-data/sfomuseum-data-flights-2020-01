@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1327",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CI9162",
+    "flysfo:flight_number":"9162",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022712,
     "wof:name":"CI9162 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

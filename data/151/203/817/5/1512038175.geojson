@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4468",
+    "flysfo:flight_number":"4468",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578768600,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948886,
+    "wof:lastmodified":1579022401,
     "wof:name":"AC4468 (SFO-SLC)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

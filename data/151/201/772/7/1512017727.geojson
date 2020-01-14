@@ -9,7 +9,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8928",
+    "flysfo:flight_number":"8928",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -58,7 +58,7 @@
         -1,
         1159289939
     ],
-    "wof:lastmodified":1578693566,
+    "wof:lastmodified":1579022815,
     "wof:name":"DL8928 (SFO-LAX)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

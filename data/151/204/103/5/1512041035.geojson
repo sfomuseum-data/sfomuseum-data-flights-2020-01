@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578811560,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA863",
+    "flysfo:flight_number":"863",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-SYD",
     "flysfo:scheduled_timestamp":1578811500,
@@ -104,7 +104,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1578948759,
+    "wof:lastmodified":1579022191,
     "wof:name":"UA863 (SFO-SYD)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

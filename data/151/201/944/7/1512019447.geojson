@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CA986",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA7615",
+    "flysfo:flight_number":"7615",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-PEK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159283605
     ],
-    "wof:lastmodified":1578949574,
+    "wof:lastmodified":1579022826,
     "wof:name":"UA7615 (SFO-PEK)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

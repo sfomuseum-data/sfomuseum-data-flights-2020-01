@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5756",
+    "flysfo:flight_number":"5756",
     "flysfo:gate":"F7",
     "flysfo:journey":"SBP-SFO",
     "flysfo:scheduled_timestamp":1578886020,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948838,
+    "wof:lastmodified":1579022327,
     "wof:name":"UA5756 (SBP-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA42",
+    "flysfo:flight_number":"42",
     "flysfo:gate":"A12",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578720000,
@@ -88,7 +88,7 @@
         1159284489,
         1477930307
     ],
-    "wof:lastmodified":1578949018,
+    "wof:lastmodified":1579022645,
     "wof:name":"HA42 (OGG-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

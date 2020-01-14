@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578929460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1340",
+    "flysfo:flight_number":"1340",
     "flysfo:gate":"D6",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578929820,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022927,
     "wof:name":"SQ1340 (LAX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

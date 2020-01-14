@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578715080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5647",
+    "flysfo:flight_number":"5647",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578715200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"UA5647 (SFO-SBA)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

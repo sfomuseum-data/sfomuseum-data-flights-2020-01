@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1922",
+    "flysfo:flight_number":"1922",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578843000,
@@ -103,7 +103,7 @@
         1477930339,
         1159292085
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022234,
     "wof:name":"AS1922 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

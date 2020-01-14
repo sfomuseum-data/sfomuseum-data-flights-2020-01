@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5638",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9696",
+    "flysfo:flight_number":"9696",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-SMF",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"NZ9696 (SFO-SMF)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

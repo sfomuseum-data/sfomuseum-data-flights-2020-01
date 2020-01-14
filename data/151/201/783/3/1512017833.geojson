@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2405",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9366",
+    "flysfo:flight_number":"9366",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-PHX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022759,
     "wof:name":"LH9366 (SFO-PHX)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

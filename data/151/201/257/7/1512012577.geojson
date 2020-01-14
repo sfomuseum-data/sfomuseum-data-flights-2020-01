@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL757",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AM3107",
+    "flysfo:flight_number":"3107",
     "flysfo:gate":"C4",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949508,
+    "wof:lastmodified":1579022730,
     "wof:name":"AM3107 (JFK-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

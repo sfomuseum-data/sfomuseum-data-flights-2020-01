@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY697",
+    "flysfo:flight_number":"697",
     "flysfo:gate":"A4",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578874320,
@@ -88,7 +88,7 @@
         1159285227,
         1477930289
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"SY697 (PDX-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

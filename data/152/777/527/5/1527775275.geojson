@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CI9099",
+    "flysfo:flight_number":"9099",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578856740,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578950099,
+    "wof:lastmodified":1579022880,
     "wof:name":"CI9099 (SFO-LAX)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

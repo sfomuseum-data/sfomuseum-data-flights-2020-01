@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS359",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2505",
+    "flysfo:flight_number":"2505",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022804,
     "wof:name":"AY2505 (SFO-PDX)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

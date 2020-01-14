@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1369",
+    "flysfo:flight_number":"1369",
     "flysfo:gate":"D1",
     "flysfo:journey":"DAL-SFO",
     "flysfo:scheduled_timestamp":1578976500,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022918,
     "wof:name":"SQ1369 (DAL-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA687",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SK3926",
+    "flysfo:flight_number":"3926",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022738,
     "wof:name":"SK3926 (SFO-EWR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

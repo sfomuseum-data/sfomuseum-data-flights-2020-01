@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578957000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU8848",
+    "flysfo:flight_number":"8848",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578957000,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022919,
     "wof:name":"MU8848 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578928980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9742",
+    "flysfo:flight_number":"9742",
     "flysfo:gate":"F8",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578930180,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579023013,
     "wof:name":"NZ9742 (TUS-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA547",
+    "flysfo:flight_number":"547",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578899100,
@@ -104,7 +104,7 @@
         1477930361,
         1159289411
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"AA547 (SFO-PHL)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

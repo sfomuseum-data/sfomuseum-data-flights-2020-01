@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578932880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY5738",
+    "flysfo:flight_number":"5738",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578932880,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579023033,
     "wof:name":"AY5738 (SFO-JFK)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

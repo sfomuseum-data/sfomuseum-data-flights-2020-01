@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5516",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4359",
+    "flysfo:flight_number":"4359",
     "flysfo:gate":"F7",
     "flysfo:journey":"SMF-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022744,
     "wof:name":"AC4359 (SMF-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

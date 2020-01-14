@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA351",
+    "flysfo:flight_number":"351",
     "flysfo:gate":"F14",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578712620,
@@ -104,7 +104,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1578948955,
+    "wof:lastmodified":1579022516,
     "wof:name":"UA351 (BOS-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF8884",
+    "flysfo:flight_number":"8884",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578691020,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948930,
+    "wof:lastmodified":1579022473,
     "wof:name":"AF8884 (SFO-JFK)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

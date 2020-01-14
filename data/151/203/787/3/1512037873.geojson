@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578784140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4819",
+    "flysfo:flight_number":"4819",
     "flysfo:gate":"C4",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578784260,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948992,
+    "wof:lastmodified":1579022590,
     "wof:name":"VS4819 (JFK-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

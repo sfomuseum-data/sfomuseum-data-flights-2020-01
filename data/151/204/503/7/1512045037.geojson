@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578852000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7950",
+    "flysfo:flight_number":"7950",
     "flysfo:gate":"G5",
     "flysfo:journey":"NRT-SFO",
     "flysfo:scheduled_timestamp":1578849300,
@@ -94,7 +94,7 @@
         1477930469,
         1159283875
     ],
-    "wof:lastmodified":1578948765,
+    "wof:lastmodified":1579022205,
     "wof:name":"UA7950 (NRT-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

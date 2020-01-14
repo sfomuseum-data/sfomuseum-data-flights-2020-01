@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578849780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6681",
+    "flysfo:flight_number":"6681",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578849780,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022876,
     "wof:name":"LA6681 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

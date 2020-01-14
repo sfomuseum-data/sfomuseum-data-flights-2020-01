@@ -7,7 +7,7 @@
     "flysfo:airline":"AI",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AI174",
+    "flysfo:flight_number":"174",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-DEL",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283649,
         1477930467
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022810,
     "wof:name":"AI174 (SFO-DEL)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

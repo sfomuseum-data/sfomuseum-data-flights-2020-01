@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1446",
+    "flysfo:flight_number":"1446",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578895200,
@@ -88,7 +88,7 @@
         1159284261,
         1477930323
     ],
-    "wof:lastmodified":1578950083,
+    "wof:lastmodified":1579022860,
     "wof:name":"DL1446 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

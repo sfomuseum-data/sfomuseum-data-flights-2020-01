@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5564",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6311",
+    "flysfo:flight_number":"6311",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-MSP",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022769,
     "wof:name":"OZ6311 (SFO-MSP)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

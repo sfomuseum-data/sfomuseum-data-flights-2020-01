@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3450",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1296",
+    "flysfo:flight_number":"1296",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578949561,
+    "wof:lastmodified":1579022809,
     "wof:name":"SQ1296 (SFO-SLC)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

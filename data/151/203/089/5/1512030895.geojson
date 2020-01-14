@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA890",
+    "flysfo:flight_number":"890",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930369,
         1159289407
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022507,
     "wof:name":"AA890 (SFO-LAX)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

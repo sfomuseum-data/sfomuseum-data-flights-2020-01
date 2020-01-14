@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578702900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN4476",
+    "flysfo:flight_number":"4476",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578702900,
@@ -88,7 +88,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"WN4476 (SFO-LAS)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

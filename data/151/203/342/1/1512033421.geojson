@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS743",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1353",
+    "flysfo:flight_number":"1353",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-HNL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"SQ1353 (SFO-HNL)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

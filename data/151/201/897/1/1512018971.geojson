@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2005",
+    "flysfo:flight_number":"2005",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-RDU",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022811,
     "wof:name":"UA2005 (SFO-RDU)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

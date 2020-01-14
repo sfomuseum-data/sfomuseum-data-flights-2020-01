@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL870",
+    "flysfo:flight_number":"870",
     "flysfo:gate":"C5",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578813780,
@@ -104,7 +104,7 @@
         1477930323,
         1159289939
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"DL870 (JFK-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

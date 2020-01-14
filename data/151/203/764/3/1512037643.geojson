@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578779940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5739",
+    "flysfo:flight_number":"5739",
     "flysfo:gate":"E1",
     "flysfo:journey":"PAE-SFO",
     "flysfo:scheduled_timestamp":1578781140,
@@ -88,7 +88,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948854,
+    "wof:lastmodified":1579022353,
     "wof:name":"UA5739 (PAE-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

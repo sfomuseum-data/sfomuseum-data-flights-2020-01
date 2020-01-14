@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1082",
+    "flysfo:flight_number":"1082",
     "flysfo:gate":"F8",
     "flysfo:journey":"BUR-SFO",
     "flysfo:scheduled_timestamp":1578794220,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948856,
+    "wof:lastmodified":1579022356,
     "wof:name":"CM1082 (BUR-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

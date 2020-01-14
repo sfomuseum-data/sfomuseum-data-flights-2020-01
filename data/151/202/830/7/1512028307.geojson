@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS710",
+    "flysfo:flight_number":"710",
     "flysfo:gate":"D8",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578731040,
@@ -100,7 +100,7 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1578949039,
+    "wof:lastmodified":1579022664,
     "wof:name":"AS710 (HNL-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

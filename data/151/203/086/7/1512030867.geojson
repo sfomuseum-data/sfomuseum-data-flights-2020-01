@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA497",
+    "flysfo:flight_number":"497",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578696300,
@@ -102,7 +102,7 @@
         1477930327,
         1159289407
     ],
-    "wof:lastmodified":1578948960,
+    "wof:lastmodified":1579022525,
     "wof:name":"AA497 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

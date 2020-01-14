@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL522",
+    "flysfo:flight_number":"522",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578864720,
@@ -102,7 +102,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"DL522 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

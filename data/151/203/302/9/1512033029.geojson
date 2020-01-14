@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2122",
+    "flysfo:flight_number":"2122",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-FLL",
     "flysfo:scheduled_timestamp":1578729540,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948949,
+    "wof:lastmodified":1579022505,
     "wof:name":"HA2122 (SFO-FLL)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

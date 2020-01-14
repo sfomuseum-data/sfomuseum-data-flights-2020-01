@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF4729",
+    "flysfo:flight_number":"4729",
     "flysfo:gate":"C7",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578858840,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948767,
+    "wof:lastmodified":1579022207,
     "wof:name":"QF4729 (LAX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

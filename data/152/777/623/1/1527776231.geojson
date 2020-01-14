@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6739",
+    "flysfo:flight_number":"6739",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578863700,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"KE6739 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

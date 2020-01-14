@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1781",
+    "flysfo:flight_number":"1781",
     "flysfo:gate":"B17",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578968100,
@@ -88,7 +88,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022948,
     "wof:name":"WN1781 (SFO-SAN)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9393",
+    "flysfo:flight_number":"9393",
     "flysfo:gate":"F6",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578930480,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022931,
     "wof:name":"NZ9393 (BOI-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

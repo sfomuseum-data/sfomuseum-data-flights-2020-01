@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9208",
+    "flysfo:flight_number":"9208",
     "flysfo:gate":"E13",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578898200,
@@ -94,7 +94,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578948768,
+    "wof:lastmodified":1579022210,
     "wof:name":"NZ9208 (IAH-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

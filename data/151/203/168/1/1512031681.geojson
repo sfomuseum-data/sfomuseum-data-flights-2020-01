@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9319",
+    "flysfo:flight_number":"9319",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-ACV",
     "flysfo:scheduled_timestamp":1578704700,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948857,
+    "wof:lastmodified":1579022357,
     "wof:name":"NZ9319 (SFO-ACV)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

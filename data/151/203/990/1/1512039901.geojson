@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578775260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2362",
+    "flysfo:flight_number":"2362",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578775260,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022375,
     "wof:name":"HA2362 (SFO-JFK)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

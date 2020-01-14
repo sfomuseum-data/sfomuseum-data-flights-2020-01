@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"EI146",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA6146",
+    "flysfo:flight_number":"6146",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-DUB",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159283495
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"BA6146 (SFO-DUB)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

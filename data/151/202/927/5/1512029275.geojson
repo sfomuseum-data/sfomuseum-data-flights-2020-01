@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"F92147",
+    "flysfo:flight_number":"2147",
     "flysfo:gate":"A4",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578695700,
@@ -103,7 +103,7 @@
         1477930289,
         1159289411
     ],
-    "wof:lastmodified":1578949042,
+    "wof:lastmodified":1579022667,
     "wof:name":"F92147 (LAS-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

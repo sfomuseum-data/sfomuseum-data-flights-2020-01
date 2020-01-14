@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578986700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN2071",
+    "flysfo:flight_number":"2071",
     "flysfo:gate":"B17",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578987300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579018435,
+    "wof:lastmodified":1579023017,
     "wof:name":"WN2071 (DEN-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

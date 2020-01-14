@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2354",
+    "flysfo:flight_number":"2354",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578839100,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948784,
+    "wof:lastmodified":1579022243,
     "wof:name":"AV2354 (SFO-DEN)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

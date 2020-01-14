@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2294",
+    "flysfo:flight_number":"2294",
     "flysfo:gate":"F2",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578969000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930409
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022921,
     "wof:name":"UA2294 (SEA-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

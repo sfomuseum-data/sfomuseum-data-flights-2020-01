@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA768",
+    "flysfo:flight_number":"768",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-BOS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930391,
         1159289939
     ],
-    "wof:lastmodified":1578949570,
+    "wof:lastmodified":1579022821,
     "wof:name":"UA768 (SFO-BOS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OS7857",
+    "flysfo:flight_number":"7857",
     "flysfo:gate":"G2",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578696300,
@@ -94,7 +94,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578949037,
+    "wof:lastmodified":1579022662,
     "wof:name":"OS7857 (LHR-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

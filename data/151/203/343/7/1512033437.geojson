@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1972",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1379",
+    "flysfo:flight_number":"1379",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022606,
     "wof:name":"SQ1379 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

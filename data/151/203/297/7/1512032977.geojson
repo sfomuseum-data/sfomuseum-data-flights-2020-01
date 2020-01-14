@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1001",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5804",
+    "flysfo:flight_number":"5804",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-DCA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"FJ5804 (SFO-DCA)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

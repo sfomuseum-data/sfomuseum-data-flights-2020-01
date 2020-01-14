@@ -9,7 +9,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA643",
+    "flysfo:flight_number":"643",
     "flysfo:gate":"E5",
     "flysfo:journey":"KOA-SFO",
     "geom:area":0.0,
@@ -97,7 +97,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1578949539,
+    "wof:lastmodified":1579022778,
     "wof:name":"UA643 (KOA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1894",
+    "flysfo:flight_number":"1894",
     "flysfo:gate":"E12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578790140,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022504,
     "wof:name":"CM1894 (LAS-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

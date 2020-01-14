@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578781260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK935",
+    "flysfo:flight_number":"935",
     "flysfo:gate":"G4",
     "flysfo:journey":"CPH-SFO",
     "flysfo:scheduled_timestamp":1578782700,
@@ -96,7 +96,7 @@
         1159285129,
         1477930467
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022426,
     "wof:name":"SK935 (CPH-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

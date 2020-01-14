@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578969420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5817",
+    "flysfo:flight_number":"5817",
     "flysfo:gate":"D4",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578970080,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022965,
     "wof:name":"FJ5817 (PDX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

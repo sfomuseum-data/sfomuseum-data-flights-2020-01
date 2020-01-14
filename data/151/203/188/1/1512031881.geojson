@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1393",
+    "flysfo:flight_number":"1393",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -93,7 +93,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578948922,
+    "wof:lastmodified":1579022459,
     "wof:name":"AS1393 (SFO-SEA)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

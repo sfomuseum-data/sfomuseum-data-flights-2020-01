@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1303",
+    "flysfo:flight_number":"1303",
     "flysfo:gate":"D16",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578856740,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948772,
+    "wof:lastmodified":1579022219,
     "wof:name":"SQ1303 (IAD-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

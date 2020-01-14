@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578949020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS5348",
+    "flysfo:flight_number":"5348",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578948900,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022953,
     "wof:name":"VS5348 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

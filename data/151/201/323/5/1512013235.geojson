@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS304",
+    "flysfo:flight_number":"304",
     "flysfo:gate":"D5",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578949523,
+    "wof:lastmodified":1579022752,
     "wof:name":"AS304 (SEA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

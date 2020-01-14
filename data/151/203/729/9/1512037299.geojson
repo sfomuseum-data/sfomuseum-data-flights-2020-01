@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1790",
+    "flysfo:flight_number":"1790",
     "flysfo:gate":"F19",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578786780,
@@ -102,7 +102,7 @@
         1477930451,
         1159289945
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022601,
     "wof:name":"UA1790 (ORD-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

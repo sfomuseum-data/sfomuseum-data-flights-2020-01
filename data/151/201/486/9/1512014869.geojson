@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR28",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ5828",
+    "flysfo:flight_number":"5828",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930481,
         1159284349
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"SQ5828 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

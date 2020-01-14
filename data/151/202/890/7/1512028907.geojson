@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578726420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2621",
+    "flysfo:flight_number":"2621",
     "flysfo:gate":"C10",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578727320,
@@ -88,7 +88,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1578949040,
+    "wof:lastmodified":1579022665,
     "wof:name":"DL2621 (SEA-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

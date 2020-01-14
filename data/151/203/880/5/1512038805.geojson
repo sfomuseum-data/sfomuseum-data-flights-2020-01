@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578796740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9547",
+    "flysfo:flight_number":"9547",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578797040,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948881,
+    "wof:lastmodified":1579022393,
     "wof:name":"NZ9547 (SFO-PSP)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

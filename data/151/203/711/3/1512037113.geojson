@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3330",
+    "flysfo:flight_number":"3330",
     "flysfo:gate":"F2",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578783720,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948995,
+    "wof:lastmodified":1579022597,
     "wof:name":"LX3330 (LAS-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2186",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7357",
+    "flysfo:flight_number":"7357",
     "flysfo:gate":"E7",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022733,
     "wof:name":"NH7357 (LAX-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

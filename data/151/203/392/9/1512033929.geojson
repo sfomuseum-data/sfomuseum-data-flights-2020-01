@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA258",
+    "flysfo:flight_number":"258",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-AUS",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948933,
+    "wof:lastmodified":1579022477,
     "wof:name":"UA258 (SFO-AUS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

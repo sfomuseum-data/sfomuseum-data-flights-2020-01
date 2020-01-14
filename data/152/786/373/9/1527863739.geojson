@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578925440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5853",
+    "flysfo:flight_number":"5853",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578925500,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579023030,
     "wof:name":"AC5853 (SFO-DEN)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

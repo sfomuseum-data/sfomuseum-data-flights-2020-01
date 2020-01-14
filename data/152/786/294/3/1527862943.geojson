@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5516",
+    "flysfo:flight_number":"5516",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578946920,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022945,
     "wof:name":"UA5516 (SMF-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

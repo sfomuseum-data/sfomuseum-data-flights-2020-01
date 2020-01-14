@@ -11,7 +11,7 @@
     "flysfo:airline":"JL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL1",
+    "flysfo:flight_number":"1",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-HND",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930309,
         1159289993
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"JL1 (SFO-HND)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

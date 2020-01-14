@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1899",
+    "flysfo:flight_number":"1899",
     "flysfo:gate":"D5",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930349,
         1159292085
     ],
-    "wof:lastmodified":1578949570,
+    "wof:lastmodified":1579022822,
     "wof:name":"AS1899 (LAX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

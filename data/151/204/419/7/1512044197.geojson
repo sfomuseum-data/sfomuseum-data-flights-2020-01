@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1419",
+    "flysfo:flight_number":"1419",
     "flysfo:gate":"D7",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578871200,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948813,
+    "wof:lastmodified":1579022286,
     "wof:name":"SQ1419 (JFK-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

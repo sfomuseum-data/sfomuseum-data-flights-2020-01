@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5309",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2372",
+    "flysfo:flight_number":"2372",
     "flysfo:gate":"F9",
     "flysfo:journey":"SAT-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949030,
+    "wof:lastmodified":1579022656,
     "wof:name":"NZ2372 (SAT-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

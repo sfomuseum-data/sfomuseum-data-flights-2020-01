@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA4380",
+    "flysfo:flight_number":"4380",
     "flysfo:gate":"D14",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578715200,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949010,
+    "wof:lastmodified":1579022632,
     "wof:name":"BA4380 (ORD-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

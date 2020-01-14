@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA843",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9181",
+    "flysfo:flight_number":"9181",
     "flysfo:gate":"F2",
     "flysfo:journey":"IAD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022784,
     "wof:name":"NZ9181 (IAD-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

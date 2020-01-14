@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2370",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU4371",
+    "flysfo:flight_number":"4371",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-DTW",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578949522,
+    "wof:lastmodified":1579022750,
     "wof:name":"MU4371 (SFO-DTW)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

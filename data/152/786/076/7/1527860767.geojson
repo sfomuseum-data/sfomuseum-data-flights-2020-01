@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3409",
+    "flysfo:flight_number":"3409",
     "flysfo:gate":"D1",
     "flysfo:journey":"DAL-SFO",
     "flysfo:scheduled_timestamp":1578976500,
@@ -88,7 +88,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022932,
     "wof:name":"AS3409 (DAL-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

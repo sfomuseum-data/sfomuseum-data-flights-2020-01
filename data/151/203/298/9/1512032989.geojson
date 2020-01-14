@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1300",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5824",
+    "flysfo:flight_number":"5824",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-MCO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578948971,
+    "wof:lastmodified":1579022545,
     "wof:name":"FJ5824 (SFO-MCO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5838",
+    "flysfo:flight_number":"5838",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578966600,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022904,
     "wof:name":"FJ5838 (SFO-SAN)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2827",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9403",
+    "flysfo:flight_number":"9403",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PAE",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949518,
+    "wof:lastmodified":1579022743,
     "wof:name":"LY9403 (SFO-PAE)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

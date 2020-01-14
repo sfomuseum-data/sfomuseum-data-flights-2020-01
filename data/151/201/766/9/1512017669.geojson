@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL3008",
+    "flysfo:flight_number":"3008",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930321,
         1377564285
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"DL3008 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

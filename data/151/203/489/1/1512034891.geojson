@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC737",
+    "flysfo:flight_number":"737",
     "flysfo:gate":"G3",
     "flysfo:journey":"YYZ-SFO",
     "flysfo:scheduled_timestamp":1578768060,
@@ -103,7 +103,7 @@
         1477930465,
         1159289965
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022535,
     "wof:name":"AC737 (YYZ-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

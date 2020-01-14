@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578866160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS8216",
+    "flysfo:flight_number":"8216",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578858900,
@@ -94,7 +94,7 @@
         1477930475,
         1159283597
     ],
-    "wof:lastmodified":1578948824,
+    "wof:lastmodified":1579022302,
     "wof:name":"OS8216 (SFO-YYZ)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA8255",
+    "flysfo:flight_number":"8255",
     "flysfo:gate":"G1",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578770460,
@@ -94,7 +94,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1578948928,
+    "wof:lastmodified":1579022469,
     "wof:name":"UA8255 (YVR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

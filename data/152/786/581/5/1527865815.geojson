@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578930960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6937",
+    "flysfo:flight_number":"6937",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578930960,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579022960,
     "wof:name":"LA6937 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

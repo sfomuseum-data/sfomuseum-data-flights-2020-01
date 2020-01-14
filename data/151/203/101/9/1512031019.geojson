@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4198",
+    "flysfo:flight_number":"4198",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578687540,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"AC4198 (SFO-BUR)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

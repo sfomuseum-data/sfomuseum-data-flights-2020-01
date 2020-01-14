@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1084",
+    "flysfo:flight_number":"1084",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930353,
         1159289871
     ],
-    "wof:lastmodified":1578948998,
+    "wof:lastmodified":1579022607,
     "wof:name":"AS1084 (SFO-IAD)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

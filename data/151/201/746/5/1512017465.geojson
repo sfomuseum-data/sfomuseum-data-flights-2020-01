@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA733",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2321",
+    "flysfo:flight_number":"2321",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022762,
     "wof:name":"CM2321 (SFO-SEA)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

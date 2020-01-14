@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578903780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3064",
+    "flysfo:flight_number":"3064",
     "flysfo:gate":"D14",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578904320,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022196,
     "wof:name":"QF3064 (DFW-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

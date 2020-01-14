@@ -11,7 +11,7 @@
     "flysfo:airline":"MU",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MU768",
+    "flysfo:flight_number":"768",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-TAO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930291,
         1159289421
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022763,
     "wof:name":"MU768 (SFO-TAO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

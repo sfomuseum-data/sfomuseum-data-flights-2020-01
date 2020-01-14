@@ -9,7 +9,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2798",
+    "flysfo:flight_number":"2798",
     "flysfo:gate":"D11",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930361,
         1159289871
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022726,
     "wof:name":"AA2798 (ORD-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

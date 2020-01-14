@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7367",
+    "flysfo:flight_number":"7367",
     "flysfo:gate":"F20",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578936900,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023003,
     "wof:name":"NH7367 (SNA-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

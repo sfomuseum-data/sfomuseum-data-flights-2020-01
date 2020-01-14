@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5381",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9090",
+    "flysfo:flight_number":"9090",
     "flysfo:gate":"F5",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022785,
     "wof:name":"NZ9090 (DFW-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA700",
+    "flysfo:flight_number":"700",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930363,
         1159289421
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022696,
     "wof:name":"AA700 (SFO-PHL)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

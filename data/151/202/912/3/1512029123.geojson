@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3054",
+    "flysfo:flight_number":"3054",
     "flysfo:gate":"D14",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578696720,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949017,
+    "wof:lastmodified":1579022643,
     "wof:name":"QF3054 (DFW-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

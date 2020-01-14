@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1744",
+    "flysfo:flight_number":"1744",
     "flysfo:gate":"D2",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -92,7 +92,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022816,
     "wof:name":"AS1744 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

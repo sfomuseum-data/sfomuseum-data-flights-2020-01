@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578727620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2416",
+    "flysfo:flight_number":"2416",
     "flysfo:gate":"C8",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578727860,
@@ -88,7 +88,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578949008,
+    "wof:lastmodified":1579022625,
     "wof:name":"DL2416 (SLC-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

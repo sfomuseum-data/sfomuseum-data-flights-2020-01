@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578962220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1360",
+    "flysfo:flight_number":"1360",
     "flysfo:gate":"F10",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578963540,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022959,
     "wof:name":"CM1360 (ONT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

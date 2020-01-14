@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578804900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS375",
+    "flysfo:flight_number":"375",
     "flysfo:gate":"D6",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578806880,
@@ -102,7 +102,7 @@
         1477930351,
         1377564285
     ],
-    "wof:lastmodified":1578948855,
+    "wof:lastmodified":1579022355,
     "wof:name":"AS375 (EWR-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

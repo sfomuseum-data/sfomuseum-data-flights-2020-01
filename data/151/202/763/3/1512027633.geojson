@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2362",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7311",
+    "flysfo:flight_number":"7311",
     "flysfo:gate":"F17",
     "flysfo:journey":"DEN-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"NH7311 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

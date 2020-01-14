@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578943140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LY9426",
+    "flysfo:flight_number":"9426",
     "flysfo:gate":"D9",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578943080,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579023030,
     "wof:name":"LY9426 (SEA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

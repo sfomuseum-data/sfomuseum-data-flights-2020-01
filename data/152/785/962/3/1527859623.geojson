@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA315",
+    "flysfo:flight_number":"315",
     "flysfo:gate":"D11",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578984960,
@@ -88,7 +88,7 @@
         1159283849,
         1477930361
     ],
-    "wof:lastmodified":1579018427,
+    "wof:lastmodified":1579022852,
     "wof:name":"AA315 (DFW-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

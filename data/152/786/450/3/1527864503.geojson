@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578924000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3398",
+    "flysfo:flight_number":"3398",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578924000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579023017,
     "wof:name":"AS3398 (SFO-LAX)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

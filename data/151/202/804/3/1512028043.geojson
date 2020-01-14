@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5446",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9607",
+    "flysfo:flight_number":"9607",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SBA-SFO",
     "flysfo:timestamp":1578684720,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"NZ9607 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

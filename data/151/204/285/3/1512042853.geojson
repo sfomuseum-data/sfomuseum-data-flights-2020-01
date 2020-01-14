@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA5229",
+    "flysfo:flight_number":"5229",
     "flysfo:gate":"D10",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578886380,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022298,
     "wof:name":"BA5229 (LAX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

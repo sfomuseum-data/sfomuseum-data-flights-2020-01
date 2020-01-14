@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578840420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA687",
+    "flysfo:flight_number":"687",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578838500,
@@ -104,7 +104,7 @@
         1477930451,
         1159289985
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022900,
     "wof:name":"UA687 (SFO-EWR)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

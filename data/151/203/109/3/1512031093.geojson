@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4509",
+    "flysfo:flight_number":"4509",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578708000,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948938,
+    "wof:lastmodified":1579022485,
     "wof:name":"AC4509 (SFO-SNA)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

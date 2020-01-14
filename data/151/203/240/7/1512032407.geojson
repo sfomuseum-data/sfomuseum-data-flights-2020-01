@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2463",
+    "flysfo:flight_number":"2463",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-ACV",
     "flysfo:scheduled_timestamp":1578704700,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948960,
+    "wof:lastmodified":1579022524,
     "wof:name":"CM2463 (SFO-ACV)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

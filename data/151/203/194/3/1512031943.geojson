@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1954",
+    "flysfo:flight_number":"1954",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578707400,
@@ -103,7 +103,7 @@
         1477930355,
         1377564297
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022375,
     "wof:name":"AS1954 (SFO-SAN)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

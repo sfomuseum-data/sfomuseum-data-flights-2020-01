@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1926",
+    "flysfo:flight_number":"1926",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578861000,
@@ -96,7 +96,7 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1578948780,
+    "wof:lastmodified":1579022233,
     "wof:name":"AS1926 (SFO-LAX)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

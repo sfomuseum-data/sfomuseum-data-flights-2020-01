@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA229",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2518",
+    "flysfo:flight_number":"2518",
     "flysfo:gate":"F12",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022825,
     "wof:name":"CM2518 (SAN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

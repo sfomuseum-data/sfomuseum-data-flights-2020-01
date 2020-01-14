@@ -7,7 +7,7 @@
     "flysfo:airline":"SY",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SY614",
+    "flysfo:flight_number":"614",
     "flysfo:gate":"G8",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285227,
         1477930477
     ],
-    "wof:lastmodified":1578949546,
+    "wof:lastmodified":1579022788,
     "wof:name":"SY614 (PSP-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

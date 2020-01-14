@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578777600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN485",
+    "flysfo:flight_number":"485",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578777600,
@@ -104,7 +104,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578948836,
+    "wof:lastmodified":1579022322,
     "wof:name":"WN485 (SFO-PHX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1221",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5847",
+    "flysfo:flight_number":"5847",
     "flysfo:gate":"D16",
     "flysfo:journey":"AUS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"FJ5847 (AUS-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

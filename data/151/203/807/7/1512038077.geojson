@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4053",
+    "flysfo:flight_number":"4053",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578783660,
@@ -94,7 +94,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578948967,
+    "wof:lastmodified":1579022538,
     "wof:name":"AC4053 (SFO-RNO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

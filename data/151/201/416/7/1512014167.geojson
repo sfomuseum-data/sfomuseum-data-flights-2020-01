@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS657",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3657",
+    "flysfo:flight_number":"3657",
     "flysfo:gate":"D5",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"QF3657 (JFK-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA447",
+    "flysfo:flight_number":"447",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578874140,
@@ -104,7 +104,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578950107,
+    "wof:lastmodified":1579022893,
     "wof:name":"UA447 (SFO-SEA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

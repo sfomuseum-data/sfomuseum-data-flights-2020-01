@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA724",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9151",
+    "flysfo:flight_number":"9151",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022791,
     "wof:name":"NZ9151 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

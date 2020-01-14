@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"QF50",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS5008",
+    "flysfo:flight_number":"5008",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-MEL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930291,
         1159284313
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022826,
     "wof:name":"AS5008 (SFO-MEL)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"BA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA287",
+    "flysfo:flight_number":"287",
     "flysfo:gate":"A6",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930295,
         1159289437
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022817,
     "wof:name":"BA287 (LHR-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

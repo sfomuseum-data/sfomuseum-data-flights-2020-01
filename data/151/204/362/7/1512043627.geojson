@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF4136",
+    "flysfo:flight_number":"4136",
     "flysfo:gate":"C9",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578868440,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022194,
     "wof:name":"QF4136 (PHL-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

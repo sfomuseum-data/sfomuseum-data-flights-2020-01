@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578798540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4032",
+    "flysfo:flight_number":"4032",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-ABQ",
     "flysfo:scheduled_timestamp":1578798840,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022538,
     "wof:name":"AC4032 (SFO-ABQ)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

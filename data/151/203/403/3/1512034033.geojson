@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA535",
+    "flysfo:flight_number":"535",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":1578683820,
@@ -101,7 +101,7 @@
         1477930439,
         1159289939
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022560,
     "wof:name":"UA535 (SFO-EWR)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

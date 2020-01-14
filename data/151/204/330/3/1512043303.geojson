@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2313",
+    "flysfo:flight_number":"2313",
     "flysfo:gate":"C4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578846900,
@@ -104,7 +104,7 @@
         1477930321,
         1159289871
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022198,
     "wof:name":"DL2313 (LAX-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

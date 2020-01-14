@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1939",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2503",
+    "flysfo:flight_number":"2503",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022796,
     "wof:name":"AY2503 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

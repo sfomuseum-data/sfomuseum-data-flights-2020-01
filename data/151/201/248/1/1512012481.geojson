@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA722",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5605",
+    "flysfo:flight_number":"5605",
     "flysfo:gate":"F20",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022784,
     "wof:name":"AC5605 (SAN-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

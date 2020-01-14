@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578870000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5957",
+    "flysfo:flight_number":"5957",
     "flysfo:gate":"F6",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578870900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022244,
     "wof:name":"UA5957 (SEA-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

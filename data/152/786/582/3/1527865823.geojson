@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578954300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9101",
+    "flysfo:flight_number":"9101",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-HND",
     "flysfo:scheduled_timestamp":1578954300,
@@ -94,7 +94,7 @@
         1477930309,
         1159284563
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023026,
     "wof:name":"MH9101 (SFO-HND)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

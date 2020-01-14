@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1952",
+    "flysfo:flight_number":"1952",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578846600,
@@ -104,7 +104,7 @@
         1477930341,
         1159289407
     ],
-    "wof:lastmodified":1578948789,
+    "wof:lastmodified":1579022252,
     "wof:name":"AS1952 (SFO-SAN)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

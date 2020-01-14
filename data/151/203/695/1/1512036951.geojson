@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578805680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1295",
+    "flysfo:flight_number":"1295",
     "flysfo:gate":"D18",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578807300,
@@ -94,7 +94,7 @@
         1477930375,
         1159283813
     ],
-    "wof:lastmodified":1578948911,
+    "wof:lastmodified":1579022440,
     "wof:name":"SQ1295 (SNA-SFO)",
     "wof:parent_id":1477930375,
     "wof:placetype":"event",

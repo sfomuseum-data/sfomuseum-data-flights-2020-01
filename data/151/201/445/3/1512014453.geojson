@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B62136",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2364",
+    "flysfo:flight_number":"2364",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022794,
     "wof:name":"HA2364 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

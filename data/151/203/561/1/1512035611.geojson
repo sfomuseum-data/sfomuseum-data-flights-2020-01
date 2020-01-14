@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS386",
+    "flysfo:flight_number":"386",
     "flysfo:gate":"D2",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578797280,
@@ -104,7 +104,7 @@
         1477930341,
         1159292085
     ],
-    "wof:lastmodified":1578948865,
+    "wof:lastmodified":1579022368,
     "wof:name":"AS386 (PDX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

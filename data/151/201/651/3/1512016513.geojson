@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5289",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ2445",
+    "flysfo:flight_number":"2445",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-XNA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"NZ2445 (SFO-XNA)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

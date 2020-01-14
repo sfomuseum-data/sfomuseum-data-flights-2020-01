@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846180,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN9590",
+    "flysfo:flight_number":"9590",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-YUL",
     "flysfo:scheduled_timestamp":1578844800,
@@ -94,7 +94,7 @@
         1477930463,
         1159283597
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"SN9590 (SFO-YUL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

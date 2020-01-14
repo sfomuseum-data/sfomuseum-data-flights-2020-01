@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE3083",
+    "flysfo:flight_number":"3083",
     "flysfo:gate":"C2",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578937560,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022954,
     "wof:name":"KE3083 (SEA-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

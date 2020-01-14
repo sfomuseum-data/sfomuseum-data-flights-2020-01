@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729540,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6278",
+    "flysfo:flight_number":"278",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-FLL",
     "flysfo:scheduled_timestamp":1578729540,
@@ -88,7 +88,7 @@
         1159284583,
         1477881721
     ],
-    "wof:lastmodified":1578948929,
+    "wof:lastmodified":1579022471,
     "wof:name":"B6278 (SFO-FLL)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

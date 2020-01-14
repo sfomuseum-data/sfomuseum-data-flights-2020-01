@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578862500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN4979",
+    "flysfo:flight_number":"4979",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578862200,
@@ -102,7 +102,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022874,
     "wof:name":"WN4979 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

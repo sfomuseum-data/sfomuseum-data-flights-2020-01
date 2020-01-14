@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869040,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA990",
+    "flysfo:flight_number":"990",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-CDG",
     "flysfo:scheduled_timestamp":1578867900,
@@ -102,7 +102,7 @@
         1477930467,
         1159289995
     ],
-    "wof:lastmodified":1578950085,
+    "wof:lastmodified":1579022862,
     "wof:name":"UA990 (SFO-CDG)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

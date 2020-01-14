@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2096",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5848",
+    "flysfo:flight_number":"5848",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-SNA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578948928,
+    "wof:lastmodified":1579022469,
     "wof:name":"AC5848 (SFO-SNA)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

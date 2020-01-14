@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9024",
+    "flysfo:flight_number":"9024",
     "flysfo:gate":"E11",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578808200,
@@ -94,7 +94,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578948926,
+    "wof:lastmodified":1579022467,
     "wof:name":"NZ9024 (BOS-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

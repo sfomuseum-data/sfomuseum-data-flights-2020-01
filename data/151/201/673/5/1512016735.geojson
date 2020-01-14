@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1294",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9266",
+    "flysfo:flight_number":"9266",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022727,
     "wof:name":"NZ9266 (SFO-LAX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

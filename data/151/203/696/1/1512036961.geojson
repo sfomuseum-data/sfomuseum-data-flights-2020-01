@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578772260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1321",
+    "flysfo:flight_number":"1321",
     "flysfo:gate":"D5",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578773280,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578948975,
+    "wof:lastmodified":1579022552,
     "wof:name":"SQ1321 (SEA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

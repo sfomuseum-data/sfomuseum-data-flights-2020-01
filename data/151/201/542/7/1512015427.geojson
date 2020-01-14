@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5381",
+    "flysfo:flight_number":"5381",
     "flysfo:gate":"F5",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578949528,
+    "wof:lastmodified":1579022760,
     "wof:name":"UA5381 (DFW-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

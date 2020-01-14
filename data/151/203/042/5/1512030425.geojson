@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5504",
+    "flysfo:flight_number":"5504",
     "flysfo:gate":"F8",
     "flysfo:journey":"MFR-SFO",
     "flysfo:scheduled_timestamp":1578702780,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022507,
     "wof:name":"UA5504 (MFR-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA870",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2191",
+    "flysfo:flight_number":"2191",
     "flysfo:gate":"G2",
     "flysfo:journey":"SYD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022635,
     "wof:name":"AV2191 (SYD-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

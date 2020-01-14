@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5759",
+    "flysfo:flight_number":"5759",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578946800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022954,
     "wof:name":"UA5759 (SFO-MSP)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

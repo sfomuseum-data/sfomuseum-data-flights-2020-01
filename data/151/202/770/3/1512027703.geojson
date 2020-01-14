@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ4222",
+    "flysfo:flight_number":"4222",
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
     "flysfo:scheduled_timestamp":1578713700,
@@ -94,7 +94,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578949021,
+    "wof:lastmodified":1579022648,
     "wof:name":"NZ4222 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

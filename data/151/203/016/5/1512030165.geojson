@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2006",
+    "flysfo:flight_number":"2006",
     "flysfo:gate":"F21",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578721740,
@@ -102,7 +102,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022520,
     "wof:name":"UA2006 (EWR-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

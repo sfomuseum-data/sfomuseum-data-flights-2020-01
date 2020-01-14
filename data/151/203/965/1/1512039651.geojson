@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578812700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3047",
+    "flysfo:flight_number":"3047",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578812700,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022361,
     "wof:name":"QF3047 (SFO-PHL)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

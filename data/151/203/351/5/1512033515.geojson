@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1251",
+    "flysfo:flight_number":"1251",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-DEN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022493,
     "wof:name":"WN1251 (SFO-DEN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

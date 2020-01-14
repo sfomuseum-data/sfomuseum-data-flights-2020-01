@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA1175",
+    "flysfo:flight_number":"1175",
     "flysfo:gate":"D14",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578710760,
@@ -102,7 +102,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578949001,
+    "wof:lastmodified":1579022610,
     "wof:name":"AA1175 (DFW-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1397",
+    "flysfo:flight_number":"1397",
     "flysfo:gate":"D17",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578814260,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022539,
     "wof:name":"SQ1397 (LAX-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

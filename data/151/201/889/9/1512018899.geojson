@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1212",
+    "flysfo:flight_number":"1212",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-PVR",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930445,
         1159292085
     ],
-    "wof:lastmodified":1578949501,
+    "wof:lastmodified":1579022722,
     "wof:name":"UA1212 (SFO-PVR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

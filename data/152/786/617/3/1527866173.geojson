@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578965400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3105",
+    "flysfo:flight_number":"3105",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578965400,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022923,
     "wof:name":"EK3105 (SFO-LAX)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

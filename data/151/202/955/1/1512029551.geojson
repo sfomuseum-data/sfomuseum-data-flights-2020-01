@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2905",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6737",
+    "flysfo:flight_number":"6737",
     "flysfo:gate":"C3",
     "flysfo:journey":"CVG-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949005,
+    "wof:lastmodified":1579022619,
     "wof:name":"KE6737 (CVG-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

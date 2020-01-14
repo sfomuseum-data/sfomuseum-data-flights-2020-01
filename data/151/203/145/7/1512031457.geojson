@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4612",
+    "flysfo:flight_number":"4612",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578703800,
@@ -94,7 +94,7 @@
         1477930477,
         1159283597
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022449,
     "wof:name":"NZ4612 (SFO-YVR)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

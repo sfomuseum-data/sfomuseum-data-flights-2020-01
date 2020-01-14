@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1761",
+    "flysfo:flight_number":"1761",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578897300,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578948841,
+    "wof:lastmodified":1579022332,
     "wof:name":"AS1761 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

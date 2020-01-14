@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578985200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL6340",
+    "flysfo:flight_number":"6340",
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-CAN",
     "flysfo:scheduled_timestamp":1578984000,
@@ -94,7 +94,7 @@
         1477930281,
         1159284165
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022969,
     "wof:name":"DL6340 (SFO-CAN)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

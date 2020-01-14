@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578874260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6740",
+    "flysfo:flight_number":"6740",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578874260,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"KE6740 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9617",
+    "flysfo:flight_number":"9617",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578888000,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"NZ9617 (SFO-SBA)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL505",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM4013",
+    "flysfo:flight_number":"4013",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948854,
+    "wof:lastmodified":1579022353,
     "wof:name":"AM4013 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

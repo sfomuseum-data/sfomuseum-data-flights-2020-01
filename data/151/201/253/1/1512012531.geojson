@@ -7,7 +7,7 @@
     "flysfo:airline":"AC",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC8840",
+    "flysfo:flight_number":"8840",
     "flysfo:gate":"G10",
     "flysfo:journey":"YVR-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283597,
         1477930481
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022800,
     "wof:name":"AC8840 (YVR-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

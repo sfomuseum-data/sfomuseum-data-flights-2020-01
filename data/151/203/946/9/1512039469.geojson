@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2049",
+    "flysfo:flight_number":"2049",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578769200,
@@ -104,7 +104,7 @@
         1477930331,
         1377564285
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"DL2049 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN4640",
+    "flysfo:flight_number":"4640",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578685500,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"WN4640 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

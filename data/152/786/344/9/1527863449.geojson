@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578962580,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6317",
+    "flysfo:flight_number":"6317",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-MCI",
     "flysfo:scheduled_timestamp":1578962700,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579023036,
     "wof:name":"OZ6317 (SFO-MCI)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

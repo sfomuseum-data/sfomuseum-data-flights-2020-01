@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA577",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ2888",
+    "flysfo:flight_number":"2888",
     "flysfo:gate":"E8",
     "flysfo:journey":"DTW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949542,
+    "wof:lastmodified":1579022784,
     "wof:name":"NZ2888 (DTW-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

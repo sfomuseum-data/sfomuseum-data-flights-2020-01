@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA759",
+    "flysfo:flight_number":"759",
     "flysfo:gate":"E8",
     "flysfo:journey":"MCO-SFO",
     "flysfo:scheduled_timestamp":1578764160,
@@ -104,7 +104,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022569,
     "wof:name":"UA759 (MCO-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

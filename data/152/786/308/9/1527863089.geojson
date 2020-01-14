@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5967",
+    "flysfo:flight_number":"5967",
     "flysfo:gate":"F9",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578946800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579022912,
     "wof:name":"UA5967 (SLC-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

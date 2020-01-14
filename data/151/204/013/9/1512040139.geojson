@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9205",
+    "flysfo:flight_number":"9205",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578815100,
@@ -94,7 +94,7 @@
         1477930301,
         1159284127
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022221,
     "wof:name":"MH9205 (SFO-HKG)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

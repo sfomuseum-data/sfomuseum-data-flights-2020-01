@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS430",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA6863",
+    "flysfo:flight_number":"6863",
     "flysfo:gate":"D6",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"AA6863 (PDX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

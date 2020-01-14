@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN4476",
+    "flysfo:flight_number":"4476",
     "flysfo:gate":"B12",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578700200,
@@ -102,7 +102,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022616,
     "wof:name":"WN4476 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

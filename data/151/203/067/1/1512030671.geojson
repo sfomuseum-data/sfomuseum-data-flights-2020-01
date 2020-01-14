@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578711180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA890",
+    "flysfo:flight_number":"890",
     "flysfo:gate":"G5",
     "flysfo:journey":"PVG-SFO",
     "flysfo:scheduled_timestamp":1578710400,
@@ -103,7 +103,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022560,
     "wof:name":"UA890 (PVG-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

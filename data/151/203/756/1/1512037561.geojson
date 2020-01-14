@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757860,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5464",
+    "flysfo:flight_number":"5464",
     "flysfo:gate":"E3",
     "flysfo:journey":"RDM-SFO",
     "flysfo:scheduled_timestamp":1578758160,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948938,
+    "wof:lastmodified":1579022486,
     "wof:name":"UA5464 (RDM-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

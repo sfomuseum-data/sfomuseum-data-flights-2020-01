@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9376",
+    "flysfo:flight_number":"9376",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBP",
     "flysfo:scheduled_timestamp":1578706620,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948892,
+    "wof:lastmodified":1579022409,
     "wof:name":"LH9376 (SFO-SBP)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

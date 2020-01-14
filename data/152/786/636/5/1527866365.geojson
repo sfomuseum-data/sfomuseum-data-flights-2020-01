@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578963300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA229",
+    "flysfo:flight_number":"229",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578963600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579023025,
     "wof:name":"UA229 (SFO-LAX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

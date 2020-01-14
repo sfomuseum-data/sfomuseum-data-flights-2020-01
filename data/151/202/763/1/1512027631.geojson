@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA834",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7309",
+    "flysfo:flight_number":"7309",
     "flysfo:gate":"F21",
     "flysfo:journey":"LAS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948999,
+    "wof:lastmodified":1579022609,
     "wof:name":"NH7309 (LAS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578807420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7312",
+    "flysfo:flight_number":"7312",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578807600,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"CA7312 (SFO-IAD)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

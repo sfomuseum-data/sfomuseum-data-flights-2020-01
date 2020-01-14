@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"LH455",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN7249",
+    "flysfo:flight_number":"7249",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-FRA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159284711
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022830,
     "wof:name":"SN7249 (SFO-FRA)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

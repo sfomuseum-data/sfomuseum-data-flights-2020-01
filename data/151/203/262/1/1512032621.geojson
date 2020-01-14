@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL868",
+    "flysfo:flight_number":"868",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022548,
     "wof:name":"DL868 (SFO-JFK)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

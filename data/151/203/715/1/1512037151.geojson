@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TK9586",
+    "flysfo:flight_number":"9586",
     "flysfo:gate":"F14",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578786180,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1578948922,
+    "wof:lastmodified":1579022459,
     "wof:name":"TK9586 (SEA-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

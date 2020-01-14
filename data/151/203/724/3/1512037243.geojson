@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578775380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1386",
+    "flysfo:flight_number":"1386",
     "flysfo:gate":"",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578774420,
@@ -48,7 +48,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1578845526,
+    "wof:lastmodified":1579022464,
     "wof:name":"UA1386 (PSP-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7393",
+    "flysfo:flight_number":"7393",
     "flysfo:gate":"F9",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578765060,
@@ -94,7 +94,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022374,
     "wof:name":"NH7393 (TUS-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

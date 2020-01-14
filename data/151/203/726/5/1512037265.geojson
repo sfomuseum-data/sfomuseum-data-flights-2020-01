@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578802740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1584",
+    "flysfo:flight_number":"1584",
     "flysfo:gate":"F17",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578804360,
@@ -104,7 +104,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"UA1584 (EWR-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

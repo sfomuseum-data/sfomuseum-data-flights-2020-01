@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9456",
+    "flysfo:flight_number":"9456",
     "flysfo:gate":"F15M",
     "flysfo:journey":"GEG-SFO",
     "flysfo:scheduled_timestamp":1578851100,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"NZ9456 (GEG-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

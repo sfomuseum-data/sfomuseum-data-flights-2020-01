@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578720300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5731",
+    "flysfo:flight_number":"5731",
     "flysfo:gate":"F6",
     "flysfo:journey":"SMF-SFO",
     "flysfo:scheduled_timestamp":1578721260,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948890,
+    "wof:lastmodified":1579022407,
     "wof:name":"UA5731 (SMF-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

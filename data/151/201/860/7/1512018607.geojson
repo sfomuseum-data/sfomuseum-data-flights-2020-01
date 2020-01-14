@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS258",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1400",
+    "flysfo:flight_number":"1400",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022740,
     "wof:name":"SQ1400 (SFO-LAS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

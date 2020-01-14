@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578766860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL3884",
+    "flysfo:flight_number":"3884",
     "flysfo:gate":"C6",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578766860,
@@ -88,7 +88,7 @@
         1159284261,
         1477930325
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022442,
     "wof:name":"DL3884 (SFO-SLC)",
     "wof:parent_id":1477930325,
     "wof:placetype":"event",

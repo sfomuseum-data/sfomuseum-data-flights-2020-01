@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1913",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1411",
+    "flysfo:flight_number":"1411",
     "flysfo:gate":"D15",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578949500,
+    "wof:lastmodified":1579022720,
     "wof:name":"SQ1411 (LAS-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

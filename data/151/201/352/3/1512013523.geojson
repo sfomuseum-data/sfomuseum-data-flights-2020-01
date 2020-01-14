@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA433",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7223",
+    "flysfo:flight_number":"7223",
     "flysfo:gate":"F16",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022712,
     "wof:name":"CA7223 (BOS-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

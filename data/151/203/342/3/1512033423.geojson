@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1204",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1354",
+    "flysfo:flight_number":"1354",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"SQ1354 (SFO-ORD)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

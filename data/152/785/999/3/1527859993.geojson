@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5807",
+    "flysfo:flight_number":"5807",
     "flysfo:gate":"F17",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578967440,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022854,
     "wof:name":"AC5807 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5695",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6317",
+    "flysfo:flight_number":"6317",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-MCI",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022769,
     "wof:name":"OZ6317 (SFO-MCI)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

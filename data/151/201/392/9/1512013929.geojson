@@ -9,7 +9,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL430",
+    "flysfo:flight_number":"430",
     "flysfo:gate":"C2",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1578949531,
+    "wof:lastmodified":1579022765,
     "wof:name":"DL430 (JFK-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

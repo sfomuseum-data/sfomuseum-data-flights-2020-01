@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1770",
+    "flysfo:flight_number":"1770",
     "flysfo:gate":"C9",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578985200,
@@ -94,7 +94,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022913,
     "wof:name":"CZ1770 (LAX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

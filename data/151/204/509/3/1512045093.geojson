@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA922",
+    "flysfo:flight_number":"922",
     "flysfo:gate":"E7",
     "flysfo:journey":"FLL-SFO",
     "flysfo:scheduled_timestamp":1578857340,
@@ -104,7 +104,7 @@
         1477930391,
         1159289871
     ],
-    "wof:lastmodified":1578948810,
+    "wof:lastmodified":1579022282,
     "wof:name":"UA922 (FLL-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

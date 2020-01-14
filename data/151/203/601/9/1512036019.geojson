@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578785160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2433",
+    "flysfo:flight_number":"2433",
     "flysfo:gate":"E9",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578783720,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948974,
+    "wof:lastmodified":1579022549,
     "wof:name":"CM2433 (PHX-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

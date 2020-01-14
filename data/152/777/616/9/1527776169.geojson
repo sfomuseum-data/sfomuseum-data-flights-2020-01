@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578878880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B62834",
+    "flysfo:flight_number":"2834",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578877200,
@@ -88,7 +88,7 @@
         1159284583,
         1477881721
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022872,
     "wof:name":"B62834 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

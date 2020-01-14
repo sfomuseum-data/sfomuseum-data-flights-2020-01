@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578794400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6311",
+    "flysfo:flight_number":"6311",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578794760,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1578948977,
+    "wof:lastmodified":1579022555,
     "wof:name":"OZ6311 (SFO-MSP)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

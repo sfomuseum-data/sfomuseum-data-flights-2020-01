@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578936600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9250",
+    "flysfo:flight_number":"9250",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578936600,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579022925,
     "wof:name":"NZ9250 (SFO-LAX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

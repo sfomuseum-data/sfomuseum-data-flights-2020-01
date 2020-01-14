@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578990300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1405",
+    "flysfo:flight_number":"1405",
     "flysfo:gate":"D3",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578989880,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022930,
     "wof:name":"SQ1405 (SEA-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

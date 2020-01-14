@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578852240,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4105",
+    "flysfo:flight_number":"4105",
     "flysfo:gate":"C4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578854280,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578948846,
+    "wof:lastmodified":1579022339,
     "wof:name":"VS4105 (LAX-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

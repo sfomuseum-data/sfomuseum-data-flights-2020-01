@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1083",
+    "flysfo:flight_number":"1083",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578892560,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"UA1083 (SFO-SAN)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

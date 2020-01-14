@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2419",
+    "flysfo:flight_number":"2419",
     "flysfo:gate":"E8",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578699900,
@@ -102,7 +102,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1578948874,
+    "wof:lastmodified":1579022383,
     "wof:name":"UA2419 (PSP-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

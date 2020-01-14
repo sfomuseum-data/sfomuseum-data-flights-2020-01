@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578804060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SY396",
+    "flysfo:flight_number":"396",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578803400,
@@ -88,7 +88,7 @@
         1159285227,
         1477930289
     ],
-    "wof:lastmodified":1578948823,
+    "wof:lastmodified":1579022300,
     "wof:name":"SY396 (SFO-MSP)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

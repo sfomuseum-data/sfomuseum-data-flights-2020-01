@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5914",
+    "flysfo:flight_number":"5914",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-MSN",
     "flysfo:scheduled_timestamp":1578760200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578948832,
+    "wof:lastmodified":1579022316,
     "wof:name":"UA5914 (SFO-MSN)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

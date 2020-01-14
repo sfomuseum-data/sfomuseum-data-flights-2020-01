@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA892",
+    "flysfo:flight_number":"892",
     "flysfo:gate":"G4",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578771000,
@@ -104,7 +104,7 @@
         1477930467,
         1159293215
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022570,
     "wof:name":"UA892 (ICN-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

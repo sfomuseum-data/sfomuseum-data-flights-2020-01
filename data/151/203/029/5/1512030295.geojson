@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA424",
+    "flysfo:flight_number":"424",
     "flysfo:gate":"F14",
     "flysfo:journey":"IAD-SFO",
     "flysfo:timestamp":1578683820,
@@ -101,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1578948958,
+    "wof:lastmodified":1579022521,
     "wof:name":"UA424 (IAD-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

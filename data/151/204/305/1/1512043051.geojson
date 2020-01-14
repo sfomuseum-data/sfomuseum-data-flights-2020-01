@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578886740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1125",
+    "flysfo:flight_number":"1125",
     "flysfo:gate":"F12",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578876180,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948813,
+    "wof:lastmodified":1579022286,
     "wof:name":"CM1125 (YVR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

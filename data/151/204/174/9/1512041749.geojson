@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4378",
+    "flysfo:flight_number":"4378",
     "flysfo:gate":"F7",
     "flysfo:journey":"BOI-SFO",
     "flysfo:scheduled_timestamp":1578851400,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948795,
+    "wof:lastmodified":1579022261,
     "wof:name":"AC4378 (BOI-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

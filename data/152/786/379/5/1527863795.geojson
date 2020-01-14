@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578924900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF2471",
+    "flysfo:flight_number":"2471",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578924900,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022957,
     "wof:name":"AF2471 (SFO-JFK)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

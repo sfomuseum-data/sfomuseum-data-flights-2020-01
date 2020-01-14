@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA291",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7489",
+    "flysfo:flight_number":"7489",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-IAD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930477,
         1159285413
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022558,
     "wof:name":"LH7489 (SFO-IAD)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

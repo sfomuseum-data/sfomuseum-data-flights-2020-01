@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR7",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV4508",
+    "flysfo:flight_number":"4508",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-TPE",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930303,
         1159284349
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022817,
     "wof:name":"AV4508 (SFO-TPE)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3337",
+    "flysfo:flight_number":"3337",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578713400,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948932,
+    "wof:lastmodified":1579022475,
     "wof:name":"LX3337 (SFO-LAS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

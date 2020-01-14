@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5502",
+    "flysfo:flight_number":"5502",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578940800,
@@ -94,7 +94,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022959,
     "wof:name":"AC5502 (SFO-AUS)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

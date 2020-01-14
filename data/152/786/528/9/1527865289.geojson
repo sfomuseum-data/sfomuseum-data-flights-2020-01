@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578950700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3654",
+    "flysfo:flight_number":"3654",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578950700,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022958,
     "wof:name":"QF3654 (SFO-JFK)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

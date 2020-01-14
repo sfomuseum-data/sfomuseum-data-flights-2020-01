@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"LH459",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS7334",
+    "flysfo:flight_number":"7334",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-MUC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1578949526,
+    "wof:lastmodified":1579022756,
     "wof:name":"OS7334 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

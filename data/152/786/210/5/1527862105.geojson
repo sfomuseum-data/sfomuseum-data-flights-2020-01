@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578986100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KL5012",
+    "flysfo:flight_number":"5012",
     "flysfo:gate":"C5",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578985800,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022929,
     "wof:name":"KL5012 (DTW-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA572",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7241",
+    "flysfo:flight_number":"7241",
     "flysfo:gate":"F1",
     "flysfo:journey":"IAD-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578949038,
+    "wof:lastmodified":1579022663,
     "wof:name":"CA7241 (IAD-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

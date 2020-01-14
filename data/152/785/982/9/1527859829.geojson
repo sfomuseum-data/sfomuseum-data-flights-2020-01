@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578966780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4355",
+    "flysfo:flight_number":"4355",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578968520,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022854,
     "wof:name":"AC4355 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

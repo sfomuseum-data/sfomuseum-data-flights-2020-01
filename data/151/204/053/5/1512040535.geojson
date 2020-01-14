@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578768720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1830",
+    "flysfo:flight_number":"1830",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-BNA",
     "flysfo:scheduled_timestamp":1578768300,
@@ -102,7 +102,7 @@
         1477930413,
         1159289407
     ],
-    "wof:lastmodified":1578948783,
+    "wof:lastmodified":1579022241,
     "wof:name":"UA1830 (SFO-BNA)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

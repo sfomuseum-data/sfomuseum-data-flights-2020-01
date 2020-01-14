@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5608",
+    "flysfo:flight_number":"5608",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578889020,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022200,
     "wof:name":"AC5608 (SFO-SAN)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

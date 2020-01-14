@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA949",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"SN9101",
+    "flysfo:flight_number":"9101",
     "flysfo:gate":"G1",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930461,
         1159285413
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022767,
     "wof:name":"SN9101 (LHR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

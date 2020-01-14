@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578767760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA76",
+    "flysfo:flight_number":"76",
     "flysfo:gate":"D10",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578768720,
@@ -104,7 +104,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1578948903,
+    "wof:lastmodified":1579022425,
     "wof:name":"AA76 (JFK-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

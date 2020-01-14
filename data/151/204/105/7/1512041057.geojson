@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA9",
+    "flysfo:flight_number":"9",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-CTU",
     "flysfo:scheduled_timestamp":1578814500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930485
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022201,
     "wof:name":"UA9 (SFO-CTU)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

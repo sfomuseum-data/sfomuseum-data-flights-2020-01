@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA618",
+    "flysfo:flight_number":"618",
     "flysfo:gate":"F4",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578760380,
@@ -103,7 +103,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022572,
     "wof:name":"UA618 (YVR-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

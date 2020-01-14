@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7328",
+    "flysfo:flight_number":"7328",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578784080,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022571,
     "wof:name":"CA7328 (SFO-PDX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

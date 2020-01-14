@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578968580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9021",
+    "flysfo:flight_number":"9021",
     "flysfo:gate":"F10",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578961620,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022970,
     "wof:name":"LH9021 (EUG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

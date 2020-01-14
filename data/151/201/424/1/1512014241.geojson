@@ -11,7 +11,7 @@
     "flysfo:airline":"EI",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EI147",
+    "flysfo:flight_number":"147",
     "flysfo:gate":"G2",
     "flysfo:journey":"DUB-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930463,
         1159289423
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022729,
     "wof:name":"EI147 (DUB-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

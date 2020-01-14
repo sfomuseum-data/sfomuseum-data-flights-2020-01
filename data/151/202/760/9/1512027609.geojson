@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA876",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7010",
+    "flysfo:flight_number":"7010",
     "flysfo:gate":"G5",
     "flysfo:journey":"HND-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1578949024,
+    "wof:lastmodified":1579022652,
     "wof:name":"NH7010 (HND-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

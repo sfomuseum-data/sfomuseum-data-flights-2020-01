@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578986100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS1751",
+    "flysfo:flight_number":"1751",
     "flysfo:gate":"C5",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578985800,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579022968,
     "wof:name":"VS1751 (DTW-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

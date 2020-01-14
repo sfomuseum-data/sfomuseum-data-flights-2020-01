@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA383",
+    "flysfo:flight_number":"383",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-MIA",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930363,
         1159289965
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022770,
     "wof:name":"AA383 (SFO-MIA)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

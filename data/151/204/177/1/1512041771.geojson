@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578871440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4474",
+    "flysfo:flight_number":"4474",
     "flysfo:gate":"E5",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578870120,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948846,
+    "wof:lastmodified":1579022339,
     "wof:name":"AC4474 (LAS-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

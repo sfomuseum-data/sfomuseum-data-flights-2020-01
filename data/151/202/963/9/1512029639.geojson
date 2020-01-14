@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MH9182",
+    "flysfo:flight_number":"9182",
     "flysfo:gate":"A2",
     "flysfo:journey":"HKG-SFO",
     "flysfo:scheduled_timestamp":1578698700,
@@ -94,7 +94,7 @@
         1477930283,
         1159284127
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022616,
     "wof:name":"MH9182 (HKG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

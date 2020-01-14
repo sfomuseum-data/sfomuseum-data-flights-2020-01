@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA256",
+    "flysfo:flight_number":"256",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578769200,
@@ -104,7 +104,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948790,
+    "wof:lastmodified":1579022253,
     "wof:name":"UA256 (SFO-LAX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

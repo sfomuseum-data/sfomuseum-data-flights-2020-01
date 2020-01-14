@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578978060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AZ3290",
+    "flysfo:flight_number":"3290",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578977700,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018430,
+    "wof:lastmodified":1579022950,
     "wof:name":"AZ3290 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

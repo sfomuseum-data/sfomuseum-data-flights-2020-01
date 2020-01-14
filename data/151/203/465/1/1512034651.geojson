@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4031",
+    "flysfo:flight_number":"4031",
     "flysfo:gate":"E2",
     "flysfo:journey":"ABQ-SFO",
     "flysfo:scheduled_timestamp":1578758400,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948912,
+    "wof:lastmodified":1579022441,
     "wof:name":"AC4031 (ABQ-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5449",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4371",
+    "flysfo:flight_number":"4371",
     "flysfo:gate":"F9",
     "flysfo:journey":"RNO-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949026,
+    "wof:lastmodified":1579022653,
     "wof:name":"AC4371 (RNO-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

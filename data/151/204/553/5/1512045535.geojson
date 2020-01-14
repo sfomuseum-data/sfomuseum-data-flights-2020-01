@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5032",
+    "flysfo:flight_number":"5032",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578883500,
@@ -94,7 +94,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1578948813,
+    "wof:lastmodified":1579022286,
     "wof:name":"AC5032 (SFO-FRA)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

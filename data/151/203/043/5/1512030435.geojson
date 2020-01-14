@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5535",
+    "flysfo:flight_number":"5535",
     "flysfo:gate":"F7",
     "flysfo:journey":"OTH-SFO",
     "flysfo:scheduled_timestamp":1578700800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578948962,
+    "wof:lastmodified":1579022528,
     "wof:name":"UA5535 (OTH-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

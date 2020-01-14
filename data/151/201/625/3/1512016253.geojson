@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1083",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5498",
+    "flysfo:flight_number":"5498",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949544,
+    "wof:lastmodified":1579022786,
     "wof:name":"AC5498 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

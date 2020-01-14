@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1022",
+    "flysfo:flight_number":"1022",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -92,7 +92,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022737,
     "wof:name":"AS1022 (SFO-JFK)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5539",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2358",
+    "flysfo:flight_number":"2358",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SLC",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948887,
+    "wof:lastmodified":1579022403,
     "wof:name":"AV2358 (SFO-SLC)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

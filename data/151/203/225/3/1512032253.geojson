@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694740,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7308",
+    "flysfo:flight_number":"7308",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:scheduled_timestamp":1578694980,
@@ -94,7 +94,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578948963,
+    "wof:lastmodified":1579022530,
     "wof:name":"CA7308 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

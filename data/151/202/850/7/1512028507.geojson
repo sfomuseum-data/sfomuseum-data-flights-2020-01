@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CI4",
+    "flysfo:flight_number":"4",
     "flysfo:gate":"A1",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578710700,
@@ -88,7 +88,7 @@
         1159284153,
         1477930281
     ],
-    "wof:lastmodified":1578949012,
+    "wof:lastmodified":1579022634,
     "wof:name":"CI4 (TPE-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

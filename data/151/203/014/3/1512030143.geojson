@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578692640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1891",
+    "flysfo:flight_number":"1891",
     "flysfo:gate":"F21",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578689160,
@@ -96,7 +96,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1578948885,
+    "wof:lastmodified":1579022400,
     "wof:name":"UA1891 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

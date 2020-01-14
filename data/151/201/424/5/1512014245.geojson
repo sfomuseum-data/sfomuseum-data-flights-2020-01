@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA422",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EI6232",
+    "flysfo:flight_number":"6232",
     "flysfo:gate":"E7",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949507,
+    "wof:lastmodified":1579022730,
     "wof:name":"EI6232 (ORD-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

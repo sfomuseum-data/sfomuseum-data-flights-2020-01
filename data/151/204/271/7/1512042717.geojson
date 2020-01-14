@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578902100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS759",
+    "flysfo:flight_number":"759",
     "flysfo:gate":"D9",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578904020,
@@ -88,7 +88,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1578948822,
+    "wof:lastmodified":1579022299,
     "wof:name":"AS759 (KOA-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

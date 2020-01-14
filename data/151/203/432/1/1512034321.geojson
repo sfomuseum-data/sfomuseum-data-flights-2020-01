@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578700920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA810",
+    "flysfo:flight_number":"810",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-IAH",
     "flysfo:scheduled_timestamp":1578701160,
@@ -88,7 +88,7 @@
         1159285413,
         1477930385
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022557,
     "wof:name":"UA810 (SFO-IAH)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

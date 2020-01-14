@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5456",
+    "flysfo:flight_number":"5456",
     "flysfo:gate":"F6",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578792240,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578948856,
+    "wof:lastmodified":1579022356,
     "wof:name":"UA5456 (DFW-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

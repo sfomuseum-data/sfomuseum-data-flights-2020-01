@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578982620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1284",
+    "flysfo:flight_number":"1284",
     "flysfo:gate":"D7",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578981780,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022994,
     "wof:name":"SQ1284 (PDX-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

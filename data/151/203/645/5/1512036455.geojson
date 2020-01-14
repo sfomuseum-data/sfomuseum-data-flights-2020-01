@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578791220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF49",
+    "flysfo:flight_number":"49",
     "flysfo:gate":"A2",
     "flysfo:journey":"MEL-SFO",
     "flysfo:scheduled_timestamp":1578793500,
@@ -88,7 +88,7 @@
         1159284313,
         1477930283
     ],
-    "wof:lastmodified":1578948884,
+    "wof:lastmodified":1579022398,
     "wof:name":"QF49 (MEL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

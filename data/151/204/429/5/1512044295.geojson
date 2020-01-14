@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578899100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN4068",
+    "flysfo:flight_number":"4068",
     "flysfo:gate":"B14",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578897300,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948820,
+    "wof:lastmodified":1579022296,
     "wof:name":"WN4068 (LAS-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

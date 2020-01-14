@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578809100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2520",
+    "flysfo:flight_number":"2520",
     "flysfo:gate":"E7",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578805380,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948905,
+    "wof:lastmodified":1579022429,
     "wof:name":"CM2520 (SAN-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

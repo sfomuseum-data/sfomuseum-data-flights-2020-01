@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA452",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3331",
+    "flysfo:flight_number":"3331",
     "flysfo:gate":"E5",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949517,
+    "wof:lastmodified":1579022742,
     "wof:name":"LX3331 (LAS-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

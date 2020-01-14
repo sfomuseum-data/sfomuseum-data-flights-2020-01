@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA753",
+    "flysfo:flight_number":"753",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022524,
     "wof:name":"UA753 (SFO-EWR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

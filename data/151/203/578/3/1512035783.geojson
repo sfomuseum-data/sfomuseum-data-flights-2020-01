@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA8030",
+    "flysfo:flight_number":"8030",
     "flysfo:gate":"A2",
     "flysfo:journey":"NAN-SFO",
     "flysfo:scheduled_timestamp":1578771900,
@@ -94,7 +94,7 @@
         1477930283,
         1159283715
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"BA8030 (NAN-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

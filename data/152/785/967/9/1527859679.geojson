@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"OZ6308",
+    "flysfo:flight_number":"6308",
     "flysfo:gate":"F2",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578977280,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022857,
     "wof:name":"OZ6308 (SAN-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

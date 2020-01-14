@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5341",
+    "flysfo:flight_number":"5341",
     "flysfo:gate":"E2",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578844620,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948773,
+    "wof:lastmodified":1579022221,
     "wof:name":"UA5341 (SLC-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

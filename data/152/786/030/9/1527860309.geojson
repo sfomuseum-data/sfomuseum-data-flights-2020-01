@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578903540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9133",
+    "flysfo:flight_number":"9133",
     "flysfo:gate":"F13",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578903900,
@@ -94,7 +94,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022953,
     "wof:name":"NZ9133 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

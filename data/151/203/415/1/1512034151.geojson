@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578693780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5708",
+    "flysfo:flight_number":"5708",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578694500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1578948889,
+    "wof:lastmodified":1579022406,
     "wof:name":"UA5708 (SFO-BOI)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

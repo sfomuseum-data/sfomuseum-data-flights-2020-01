@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5611",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4122",
+    "flysfo:flight_number":"4122",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-ONT",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"AC4122 (SFO-ONT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

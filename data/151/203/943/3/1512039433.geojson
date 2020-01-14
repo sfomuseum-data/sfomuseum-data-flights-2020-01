@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578786600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ1199",
+    "flysfo:flight_number":"1199",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578784200,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022601,
     "wof:name":"CZ1199 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

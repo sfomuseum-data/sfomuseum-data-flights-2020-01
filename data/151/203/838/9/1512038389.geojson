@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578751200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM3117",
+    "flysfo:flight_number":"3117",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578751200,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948968,
+    "wof:lastmodified":1579022539,
     "wof:name":"AM3117 (SFO-SLC)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

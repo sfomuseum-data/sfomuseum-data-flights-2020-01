@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA276",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4843",
+    "flysfo:flight_number":"4843",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022795,
     "wof:name":"IB4843 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

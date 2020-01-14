@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578976380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9323",
+    "flysfo:flight_number":"9323",
     "flysfo:gate":"F22",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578977100,
@@ -94,7 +94,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579023000,
     "wof:name":"NZ9323 (ORD-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

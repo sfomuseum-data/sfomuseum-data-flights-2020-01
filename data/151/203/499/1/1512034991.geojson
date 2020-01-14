@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761880,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7012",
+    "flysfo:flight_number":"7012",
     "flysfo:gate":"G10",
     "flysfo:journey":"NRT-SFO",
     "flysfo:scheduled_timestamp":1578762600,
@@ -94,7 +94,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022422,
     "wof:name":"NH7012 (NRT-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

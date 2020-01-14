@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA869",
+    "flysfo:flight_number":"869",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578863700,
@@ -104,7 +104,7 @@
         1477930471,
         1159289985
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022885,
     "wof:name":"UA869 (SFO-HKG)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

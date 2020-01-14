@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CX879",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"MH9199",
+    "flysfo:flight_number":"9199",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-HKG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930301,
         1159284127
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"MH9199 (SFO-HKG)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

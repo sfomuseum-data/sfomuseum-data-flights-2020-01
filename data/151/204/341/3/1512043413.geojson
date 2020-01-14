@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578875220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7693",
+    "flysfo:flight_number":"7693",
     "flysfo:gate":"E2",
     "flysfo:journey":"GEG-SFO",
     "flysfo:scheduled_timestamp":1578874800,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948796,
+    "wof:lastmodified":1579022262,
     "wof:name":"LH7693 (GEG-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

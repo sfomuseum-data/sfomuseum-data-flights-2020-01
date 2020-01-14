@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578967140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5926",
+    "flysfo:flight_number":"5926",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-ASE",
     "flysfo:scheduled_timestamp":1578965640,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022993,
     "wof:name":"UA5926 (SFO-ASE)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7916",
+    "flysfo:flight_number":"7916",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578688500,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022394,
     "wof:name":"CX7916 (SFO-SLC)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

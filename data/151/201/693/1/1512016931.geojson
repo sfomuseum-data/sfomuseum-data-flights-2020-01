@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2049",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AR7061",
+    "flysfo:flight_number":"7061",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949513,
+    "wof:lastmodified":1579022737,
     "wof:name":"AR7061 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

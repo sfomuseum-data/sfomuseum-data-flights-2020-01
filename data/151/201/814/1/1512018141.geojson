@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS755",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5820",
+    "flysfo:flight_number":"5820",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-KOA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"FJ5820 (SFO-KOA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

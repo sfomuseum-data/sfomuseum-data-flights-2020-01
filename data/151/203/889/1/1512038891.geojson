@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1001",
+    "flysfo:flight_number":"1001",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-DCA",
     "flysfo:scheduled_timestamp":1578758400,
@@ -104,7 +104,7 @@
         1477930351,
         1377564297
     ],
-    "wof:lastmodified":1578948880,
+    "wof:lastmodified":1579022392,
     "wof:name":"AS1001 (SFO-DCA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

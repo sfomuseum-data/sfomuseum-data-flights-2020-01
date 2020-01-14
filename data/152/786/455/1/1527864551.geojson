@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS9986",
+    "flysfo:flight_number":"9986",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-SJC",
     "flysfo:scheduled_timestamp":1578984720,
@@ -48,7 +48,7 @@
         1159283813,
         -1
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022945,
     "wof:name":"AS9986 (SFO-SJC)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

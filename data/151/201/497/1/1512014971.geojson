@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2236",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3271",
+    "flysfo:flight_number":"3271",
     "flysfo:gate":"F3",
     "flysfo:journey":"PHX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"LX3271 (PHX-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

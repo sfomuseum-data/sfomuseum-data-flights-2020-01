@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4268",
+    "flysfo:flight_number":"4268",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-MRY",
     "flysfo:scheduled_timestamp":1578811140,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948878,
+    "wof:lastmodified":1579022388,
     "wof:name":"AC4268 (SFO-MRY)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

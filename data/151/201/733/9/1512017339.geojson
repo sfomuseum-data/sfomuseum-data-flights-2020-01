@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2247",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7312",
+    "flysfo:flight_number":"7312",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-IAD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"CA7312 (SFO-IAD)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

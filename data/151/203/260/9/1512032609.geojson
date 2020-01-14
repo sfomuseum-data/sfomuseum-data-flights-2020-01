@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"KE24",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL7861",
+    "flysfo:flight_number":"7861",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-ICN",
     "flysfo:timestamp":1578684960,
@@ -91,7 +91,7 @@
         1477930309,
         1159284623
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022428,
     "wof:name":"DL7861 (SFO-ICN)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

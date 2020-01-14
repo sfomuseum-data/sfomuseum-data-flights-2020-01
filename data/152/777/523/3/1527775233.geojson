@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA6146",
+    "flysfo:flight_number":"6146",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-DUB",
     "flysfo:scheduled_timestamp":1578879000,
@@ -94,7 +94,7 @@
         1477930461,
         1159283495
     ],
-    "wof:lastmodified":1578950113,
+    "wof:lastmodified":1579022901,
     "wof:name":"BA6146 (SFO-DUB)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

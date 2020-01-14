@@ -9,7 +9,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2652",
+    "flysfo:flight_number":"2652",
     "flysfo:gate":"D16",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930371,
         1159289411
     ],
-    "wof:lastmodified":1578949505,
+    "wof:lastmodified":1579022726,
     "wof:name":"AA2652 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

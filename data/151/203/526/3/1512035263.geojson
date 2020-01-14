@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578778620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9280",
+    "flysfo:flight_number":"9280",
     "flysfo:gate":"F21",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578779460,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022451,
     "wof:name":"NZ9280 (LAX-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

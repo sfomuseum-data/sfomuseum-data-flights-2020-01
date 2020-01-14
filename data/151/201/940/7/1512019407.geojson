@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA653",
+    "flysfo:flight_number":"653",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930389,
         1159292085
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022755,
     "wof:name":"UA653 (SFO-LAX)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

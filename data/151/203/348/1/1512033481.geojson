@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3370",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1760",
+    "flysfo:flight_number":"1760",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SNA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"SQ1760 (SFO-SNA)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5990",
+    "flysfo:flight_number":"5990",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-ASE",
     "flysfo:scheduled_timestamp":1578940800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022916,
     "wof:name":"UA5990 (SFO-ASE)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

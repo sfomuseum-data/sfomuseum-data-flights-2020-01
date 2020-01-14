@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA278",
+    "flysfo:flight_number":"278",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578717000,
@@ -104,7 +104,7 @@
         1477930327,
         1159289411
     ],
-    "wof:lastmodified":1578948890,
+    "wof:lastmodified":1579022406,
     "wof:name":"AA278 (SFO-PHL)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

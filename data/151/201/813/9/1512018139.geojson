@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1327",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5816",
+    "flysfo:flight_number":"5816",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"FJ5816 (SFO-PDX)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

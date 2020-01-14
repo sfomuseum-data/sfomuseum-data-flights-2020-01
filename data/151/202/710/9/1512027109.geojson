@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578706140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2683",
+    "flysfo:flight_number":"2683",
     "flysfo:gate":"D12",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578702780,
@@ -104,7 +104,7 @@
         1477930363,
         1159289871
     ],
-    "wof:lastmodified":1578949045,
+    "wof:lastmodified":1579022669,
     "wof:name":"AA2683 (DFW-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU4364",
+    "flysfo:flight_number":"4364",
     "flysfo:gate":"C8",
     "flysfo:journey":"CVG-SFO",
     "flysfo:scheduled_timestamp":1578763500,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"MU4364 (CVG-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

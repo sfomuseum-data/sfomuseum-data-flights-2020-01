@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578778260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL7891",
+    "flysfo:flight_number":"7891",
     "flysfo:gate":"A1",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578779700,
@@ -94,7 +94,7 @@
         1477930281,
         1159284623
     ],
-    "wof:lastmodified":1578948882,
+    "wof:lastmodified":1579022396,
     "wof:name":"DL7891 (ICN-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

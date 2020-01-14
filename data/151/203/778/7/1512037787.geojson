@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578818100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA843",
+    "flysfo:flight_number":"843",
     "flysfo:gate":"E11",
     "flysfo:journey":"IAD-SFO",
     "flysfo:scheduled_timestamp":1578820800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578948919,
+    "wof:lastmodified":1579022454,
     "wof:name":"UA843 (IAD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

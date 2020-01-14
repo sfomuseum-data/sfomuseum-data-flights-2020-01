@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578941220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH6495",
+    "flysfo:flight_number":"6495",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-YVR",
     "flysfo:scheduled_timestamp":1578941160,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579023030,
     "wof:name":"NH6495 (SFO-YVR)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

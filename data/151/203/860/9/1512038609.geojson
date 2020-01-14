@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578812700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9106",
+    "flysfo:flight_number":"9106",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578813300,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948906,
+    "wof:lastmodified":1579022432,
     "wof:name":"NZ9106 (SFO-EWR)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

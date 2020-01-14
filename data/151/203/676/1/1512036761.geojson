@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"B62833",
+    "flysfo:flight_number":"2833",
     "flysfo:gate":"B6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578772920,
@@ -104,7 +104,7 @@
         1477881719,
         1159289411
     ],
-    "wof:lastmodified":1578948954,
+    "wof:lastmodified":1579022514,
     "wof:name":"B62833 (BOS-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

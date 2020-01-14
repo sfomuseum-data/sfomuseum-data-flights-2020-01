@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE3485",
+    "flysfo:flight_number":"3485",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578895800,
@@ -94,7 +94,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022872,
     "wof:name":"KE3485 (SFO-DTW)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

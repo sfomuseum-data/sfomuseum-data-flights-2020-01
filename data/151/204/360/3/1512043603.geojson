@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3755",
+    "flysfo:flight_number":"3755",
     "flysfo:gate":"G12",
     "flysfo:journey":"SJD-SFO",
     "flysfo:scheduled_timestamp":1578882840,
@@ -94,7 +94,7 @@
         1477930485,
         1159283813
     ],
-    "wof:lastmodified":1578948811,
+    "wof:lastmodified":1579022283,
     "wof:name":"QF3755 (SJD-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

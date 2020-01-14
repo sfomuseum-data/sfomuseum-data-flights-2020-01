@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS365",
+    "flysfo:flight_number":"365",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930341,
         1159289871
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022712,
     "wof:name":"AS365 (SFO-PDX)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578954540,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2516",
+    "flysfo:flight_number":"2516",
     "flysfo:gate":"D2",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578952200,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579023036,
     "wof:name":"AY2516 (SAN-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

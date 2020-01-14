@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA104",
+    "flysfo:flight_number":"104",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-DEL",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"UA104 (SFO-DEL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

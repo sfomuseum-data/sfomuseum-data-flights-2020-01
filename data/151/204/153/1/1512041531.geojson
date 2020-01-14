@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578850800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2861",
+    "flysfo:flight_number":"2861",
     "flysfo:gate":"D14",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578851640,
@@ -104,7 +104,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578948803,
+    "wof:lastmodified":1579022270,
     "wof:name":"AA2861 (LAX-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

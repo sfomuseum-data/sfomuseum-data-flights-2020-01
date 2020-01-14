@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5276",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9318",
+    "flysfo:flight_number":"9318",
     "flysfo:gate":"E1",
     "flysfo:journey":"ACV-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949510,
+    "wof:lastmodified":1579022733,
     "wof:name":"NZ9318 (ACV-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3069",
+    "flysfo:flight_number":"3069",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578697200,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"EK3069 (SFO-SEA)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

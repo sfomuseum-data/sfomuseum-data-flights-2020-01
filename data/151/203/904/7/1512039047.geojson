@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS755",
+    "flysfo:flight_number":"755",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-KOA",
     "flysfo:scheduled_timestamp":1578774300,
@@ -104,7 +104,7 @@
         1477930341,
         1377564285
     ],
-    "wof:lastmodified":1578948940,
+    "wof:lastmodified":1579022488,
     "wof:name":"AS755 (SFO-KOA)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

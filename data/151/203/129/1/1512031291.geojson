@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF8943",
+    "flysfo:flight_number":"8943",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578685920,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948918,
+    "wof:lastmodified":1579022453,
     "wof:name":"AF8943 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

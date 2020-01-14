@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QR3915",
+    "flysfo:flight_number":"3915",
     "flysfo:gate":"B8",
     "flysfo:journey":"JFK-SFO",
     "flysfo:scheduled_timestamp":1578960540,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579022919,
     "wof:name":"QR3915 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

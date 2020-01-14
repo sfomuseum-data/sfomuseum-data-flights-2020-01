@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5576",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9247",
+    "flysfo:flight_number":"9247",
     "flysfo:gate":"F9",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022738,
     "wof:name":"LH9247 (SNA-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

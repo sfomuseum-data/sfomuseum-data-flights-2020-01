@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1768",
+    "flysfo:flight_number":"1768",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578687900,
@@ -94,7 +94,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"SQ1768 (SFO-SAN)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

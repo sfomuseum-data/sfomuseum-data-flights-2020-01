@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578732000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4508",
+    "flysfo:flight_number":"4508",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578729540,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948866,
+    "wof:lastmodified":1579022370,
     "wof:name":"IB4508 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

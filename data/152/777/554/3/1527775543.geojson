@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578897600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CZ658",
+    "flysfo:flight_number":"658",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-CAN",
     "flysfo:scheduled_timestamp":1578897600,
@@ -88,7 +88,7 @@
         1159284165,
         1477930283
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022887,
     "wof:name":"CZ658 (SFO-CAN)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

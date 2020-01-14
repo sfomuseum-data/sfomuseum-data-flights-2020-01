@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4040",
+    "flysfo:flight_number":"4040",
     "flysfo:gate":"E3",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578873660,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948761,
+    "wof:lastmodified":1579022195,
     "wof:name":"AC4040 (SLC-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

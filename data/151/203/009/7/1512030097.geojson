@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1657",
+    "flysfo:flight_number":"1657",
     "flysfo:gate":"F16",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578710160,
@@ -88,7 +88,7 @@
         1159285413,
         1477930445
     ],
-    "wof:lastmodified":1578948901,
+    "wof:lastmodified":1579022422,
     "wof:name":"UA1657 (LAX-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

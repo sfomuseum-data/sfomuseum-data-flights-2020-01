@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1727",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7317",
+    "flysfo:flight_number":"7317",
     "flysfo:gate":"E12",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578948999,
+    "wof:lastmodified":1579022608,
     "wof:name":"NH7317 (SAN-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

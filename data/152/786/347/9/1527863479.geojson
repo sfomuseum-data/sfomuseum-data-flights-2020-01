@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ9523",
+    "flysfo:flight_number":"9523",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578960900,
@@ -94,7 +94,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022966,
     "wof:name":"OZ9523 (SFO-EWR)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578804060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ4849",
+    "flysfo:flight_number":"4849",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578801780,
@@ -94,7 +94,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022443,
     "wof:name":"NZ4849 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

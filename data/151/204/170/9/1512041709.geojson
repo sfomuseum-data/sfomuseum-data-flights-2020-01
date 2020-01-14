@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578895800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4239",
+    "flysfo:flight_number":"4239",
     "flysfo:gate":"F1",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578894360,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022338,
     "wof:name":"AC4239 (SLC-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

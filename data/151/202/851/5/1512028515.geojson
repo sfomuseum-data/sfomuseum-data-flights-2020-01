@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA858",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7209",
+    "flysfo:flight_number":"7209",
     "flysfo:gate":"G12",
     "flysfo:journey":"PVG-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578949013,
+    "wof:lastmodified":1579022635,
     "wof:name":"CA7209 (PVG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578691140,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3774",
+    "flysfo:flight_number":"3774",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578691320,
@@ -94,7 +94,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578948895,
+    "wof:lastmodified":1579022414,
     "wof:name":"AC3774 (SFO-AUS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

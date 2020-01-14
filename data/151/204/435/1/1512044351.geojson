@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578903420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TP4401",
+    "flysfo:flight_number":"4401",
     "flysfo:gate":"B6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578897900,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948840,
+    "wof:lastmodified":1579022329,
     "wof:name":"TP4401 (BOS-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

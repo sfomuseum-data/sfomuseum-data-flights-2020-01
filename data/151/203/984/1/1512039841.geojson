@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783660,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5812",
+    "flysfo:flight_number":"5812",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578783600,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948915,
+    "wof:lastmodified":1579022448,
     "wof:name":"FJ5812 (SFO-SEA)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

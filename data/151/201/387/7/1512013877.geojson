@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL1750",
+    "flysfo:flight_number":"1750",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1578949569,
+    "wof:lastmodified":1579022819,
     "wof:name":"DL1750 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3452",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3073",
+    "flysfo:flight_number":"3073",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"EK3073 (SFO-SLC)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

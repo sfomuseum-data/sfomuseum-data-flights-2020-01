@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1865",
+    "flysfo:flight_number":"1865",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930353
     ],
-    "wof:lastmodified":1578949559,
+    "wof:lastmodified":1579022806,
     "wof:name":"AS1865 (SFO-SEA)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

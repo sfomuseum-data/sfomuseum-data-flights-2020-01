@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578953220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5325",
+    "flysfo:flight_number":"5325",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578940800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022956,
     "wof:name":"UA5325 (SFO-SBA)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2398",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7306",
+    "flysfo:flight_number":"7306",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PHX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022725,
     "wof:name":"NH7306 (SFO-PHX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

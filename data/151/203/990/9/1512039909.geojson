@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA53",
+    "flysfo:flight_number":"53",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578754800,
@@ -104,7 +104,7 @@
         1477930315,
         1377564297
     ],
-    "wof:lastmodified":1578948869,
+    "wof:lastmodified":1579022375,
     "wof:name":"HA53 (SFO-HNL)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

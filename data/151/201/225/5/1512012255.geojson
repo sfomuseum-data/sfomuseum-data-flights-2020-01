@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA284",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC3965",
+    "flysfo:flight_number":"3965",
     "flysfo:gate":"E5",
     "flysfo:journey":"AUS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022792,
     "wof:name":"AC3965 (AUS-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578685500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3352",
+    "flysfo:flight_number":"3352",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-DAL",
     "flysfo:scheduled_timestamp":1578685500,
@@ -88,7 +88,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1578948932,
+    "wof:lastmodified":1579022475,
     "wof:name":"AS3352 (SFO-DAL)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

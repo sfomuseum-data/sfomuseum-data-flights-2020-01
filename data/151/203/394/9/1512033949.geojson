@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA317",
+    "flysfo:flight_number":"317",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-IND",
     "flysfo:scheduled_timestamp":1578698100,
@@ -102,7 +102,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022496,
     "wof:name":"UA317 (SFO-IND)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

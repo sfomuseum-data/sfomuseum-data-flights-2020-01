@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS814",
+    "flysfo:flight_number":"814",
     "flysfo:gate":"D5",
     "flysfo:journey":"OGG-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930349,
         1159289871
     ],
-    "wof:lastmodified":1578949488,
+    "wof:lastmodified":1579022697,
     "wof:name":"AS814 (OGG-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

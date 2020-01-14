@@ -11,7 +11,7 @@
     "flysfo:airline":"CA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA985",
+    "flysfo:flight_number":"985",
     "flysfo:gate":"G12",
     "flysfo:journey":"PEK-SFO",
     "flysfo:timestamp":1578684900,
@@ -100,7 +100,7 @@
         1477930485,
         1159293239
     ],
-    "wof:lastmodified":1578949011,
+    "wof:lastmodified":1579022632,
     "wof:name":"CA985 (PEK-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

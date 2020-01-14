@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5883",
+    "flysfo:flight_number":"5883",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-PAE",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578949486,
+    "wof:lastmodified":1579022694,
     "wof:name":"UA5883 (SFO-PAE)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

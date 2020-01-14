@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA368",
+    "flysfo:flight_number":"368",
     "flysfo:gate":"C9",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578868440,
@@ -104,7 +104,7 @@
         1477930333,
         1159289411
     ],
-    "wof:lastmodified":1578948802,
+    "wof:lastmodified":1579022270,
     "wof:name":"AA368 (PHL-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

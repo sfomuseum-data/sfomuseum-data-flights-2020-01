@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1729",
+    "flysfo:flight_number":"1729",
     "flysfo:gate":"B13",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -92,7 +92,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022792,
     "wof:name":"WN1729 (LAS-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

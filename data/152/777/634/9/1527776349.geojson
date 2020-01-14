@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DY7080",
+    "flysfo:flight_number":"7080",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-CDG",
     "flysfo:scheduled_timestamp":1578865200,
@@ -88,7 +88,7 @@
         1159286401,
         1477930307
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022873,
     "wof:name":"DY7080 (SFO-CDG)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

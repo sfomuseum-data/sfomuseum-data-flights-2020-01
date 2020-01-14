@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1672",
+    "flysfo:flight_number":"1672",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-DCA",
     "flysfo:scheduled_timestamp":1578760200,
@@ -104,7 +104,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578948833,
+    "wof:lastmodified":1579022317,
     "wof:name":"UA1672 (SFO-DCA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

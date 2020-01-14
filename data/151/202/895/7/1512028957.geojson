@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL7725",
+    "flysfo:flight_number":"7725",
     "flysfo:gate":"A1",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578710700,
@@ -94,7 +94,7 @@
         1477930281,
         1159284153
     ],
-    "wof:lastmodified":1578949011,
+    "wof:lastmodified":1579022633,
     "wof:name":"DL7725 (TPE-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

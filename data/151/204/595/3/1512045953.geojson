@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578840420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9109",
+    "flysfo:flight_number":"9109",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578838500,
@@ -94,7 +94,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578948763,
+    "wof:lastmodified":1579022200,
     "wof:name":"NZ9109 (SFO-EWR)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

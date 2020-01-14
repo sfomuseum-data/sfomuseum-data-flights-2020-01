@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2358",
+    "flysfo:flight_number":"2358",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-AUS",
     "flysfo:scheduled_timestamp":1578703620,
@@ -104,7 +104,7 @@
         1477930391,
         1377564285
     ],
-    "wof:lastmodified":1578948987,
+    "wof:lastmodified":1579022575,
     "wof:name":"UA2358 (SFO-AUS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6434",
+    "flysfo:flight_number":"434",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578759600,
@@ -104,7 +104,7 @@
         1477881723,
         1159289411
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022360,
     "wof:name":"B6434 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

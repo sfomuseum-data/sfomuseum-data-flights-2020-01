@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA452",
+    "flysfo:flight_number":"452",
     "flysfo:gate":"E5",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022700,
     "wof:name":"UA452 (LAS-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

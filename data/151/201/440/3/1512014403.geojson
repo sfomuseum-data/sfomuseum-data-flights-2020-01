@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3445",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5831",
+    "flysfo:flight_number":"5831",
     "flysfo:gate":"D9",
     "flysfo:journey":"SLC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578949498,
+    "wof:lastmodified":1579022718,
     "wof:name":"FJ5831 (SLC-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

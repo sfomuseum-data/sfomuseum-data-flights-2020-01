@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578929220,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5449",
+    "flysfo:flight_number":"5449",
     "flysfo:gate":"F5",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578930660,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022938,
     "wof:name":"UA5449 (RNO-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

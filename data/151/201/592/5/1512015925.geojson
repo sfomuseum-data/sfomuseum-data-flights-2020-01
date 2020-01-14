@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA651",
+    "flysfo:flight_number":"651",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930359,
         1159289965
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022704,
     "wof:name":"AA651 (SFO-PHL)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

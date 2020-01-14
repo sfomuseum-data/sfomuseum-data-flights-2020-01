@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578955080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA6809",
+    "flysfo:flight_number":"6809",
     "flysfo:gate":"C7",
     "flysfo:journey":"PHL-SFO",
     "flysfo:scheduled_timestamp":1578954840,
@@ -94,7 +94,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022950,
     "wof:name":"BA6809 (PHL-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

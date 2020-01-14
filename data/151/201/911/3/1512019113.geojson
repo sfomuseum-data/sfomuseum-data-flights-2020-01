@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA384",
+    "flysfo:flight_number":"384",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-PHL",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930411
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022812,
     "wof:name":"UA384 (SFO-PHL)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

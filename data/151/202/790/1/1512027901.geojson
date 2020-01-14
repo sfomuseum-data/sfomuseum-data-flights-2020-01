@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578713460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9273",
+    "flysfo:flight_number":"9273",
     "flysfo:gate":"E6",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578714660,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"NZ9273 (LAX-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

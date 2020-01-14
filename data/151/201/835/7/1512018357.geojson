@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1755",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6116",
+    "flysfo:flight_number":"6116",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949512,
+    "wof:lastmodified":1579022736,
     "wof:name":"KE6116 (SFO-SEA)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

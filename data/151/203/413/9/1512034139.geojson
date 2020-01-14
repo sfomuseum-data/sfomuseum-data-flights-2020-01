@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5685",
+    "flysfo:flight_number":"5685",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-OTH",
     "flysfo:scheduled_timestamp":1578686400,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578948881,
+    "wof:lastmodified":1579022393,
     "wof:name":"UA5685 (SFO-OTH)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

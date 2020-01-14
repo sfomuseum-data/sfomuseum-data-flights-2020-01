@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1806",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9643",
+    "flysfo:flight_number":"9643",
     "flysfo:gate":"E13",
     "flysfo:journey":"SAN-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1578949494,
+    "wof:lastmodified":1579022709,
     "wof:name":"NZ9643 (SAN-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

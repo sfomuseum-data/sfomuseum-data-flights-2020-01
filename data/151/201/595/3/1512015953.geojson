@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2951",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA7499",
+    "flysfo:flight_number":"7499",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"AA7499 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

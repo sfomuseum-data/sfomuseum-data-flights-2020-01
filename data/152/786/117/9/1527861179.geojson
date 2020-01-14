@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578958920,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM1431",
+    "flysfo:flight_number":"1431",
     "flysfo:gate":"F10",
     "flysfo:journey":"RDM-SFO",
     "flysfo:scheduled_timestamp":1578960420,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022969,
     "wof:name":"CM1431 (RDM-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

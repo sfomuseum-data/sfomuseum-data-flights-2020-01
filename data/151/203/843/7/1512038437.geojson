@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7013",
+    "flysfo:flight_number":"7013",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-NRT",
     "flysfo:scheduled_timestamp":1578769500,
@@ -94,7 +94,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"NH7013 (SFO-NRT)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

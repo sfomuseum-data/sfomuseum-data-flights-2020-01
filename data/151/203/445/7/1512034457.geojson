@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703920,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS7695",
+    "flysfo:flight_number":"7695",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578703920,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948966,
+    "wof:lastmodified":1579022536,
     "wof:name":"WS7695 (SFO-SEA)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

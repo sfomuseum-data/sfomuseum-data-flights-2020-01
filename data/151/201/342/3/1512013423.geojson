@@ -7,7 +7,7 @@
     "flysfo:airline":"BA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA285",
+    "flysfo:flight_number":"285",
     "flysfo:gate":"A5",
     "flysfo:journey":"LHR-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284021,
         1477930291
     ],
-    "wof:lastmodified":1578949567,
+    "wof:lastmodified":1579022817,
     "wof:name":"BA285 (LHR-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

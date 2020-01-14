@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA930",
+    "flysfo:flight_number":"930",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-LHR",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1578949538,
+    "wof:lastmodified":1579022776,
     "wof:name":"UA930 (SFO-LHR)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

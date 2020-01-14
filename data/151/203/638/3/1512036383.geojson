@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3243",
+    "flysfo:flight_number":"3243",
     "flysfo:gate":"D11",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578788580,
@@ -94,7 +94,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1578948980,
+    "wof:lastmodified":1579022559,
     "wof:name":"QF3243 (LAX-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

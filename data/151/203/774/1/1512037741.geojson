@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA7116",
+    "flysfo:flight_number":"7116",
     "flysfo:gate":"A10",
     "flysfo:journey":"PTY-SFO",
     "flysfo:scheduled_timestamp":1578812160,
@@ -94,7 +94,7 @@
         1477930303,
         1159284211
     ],
-    "wof:lastmodified":1578948993,
+    "wof:lastmodified":1579022591,
     "wof:name":"UA7116 (PTY-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

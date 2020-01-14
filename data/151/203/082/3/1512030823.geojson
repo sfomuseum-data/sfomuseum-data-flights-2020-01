@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA1783",
+    "flysfo:flight_number":"1783",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-CLT",
     "flysfo:scheduled_timestamp":1578723000,
@@ -88,7 +88,7 @@
         1159283849,
         1477930333
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"AA1783 (SFO-CLT)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

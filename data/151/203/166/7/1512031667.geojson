@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA639",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9306",
+    "flysfo:flight_number":"9306",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1578948860,
+    "wof:lastmodified":1579022362,
     "wof:name":"NZ9306 (SFO-ORD)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

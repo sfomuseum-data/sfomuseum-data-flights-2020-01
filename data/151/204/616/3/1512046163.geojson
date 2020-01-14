@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879060,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9503",
+    "flysfo:flight_number":"9503",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-MCI",
     "flysfo:scheduled_timestamp":1578876300,
@@ -94,7 +94,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948778,
+    "wof:lastmodified":1579022229,
     "wof:name":"NZ9503 (SFO-MCI)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

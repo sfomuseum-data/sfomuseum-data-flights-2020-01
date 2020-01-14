@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578718860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5498",
+    "flysfo:flight_number":"5498",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578719520,
@@ -94,7 +94,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"AC5498 (SFO-SAN)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

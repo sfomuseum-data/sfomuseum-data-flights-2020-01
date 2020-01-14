@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA2691",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"IB4270",
+    "flysfo:flight_number":"4270",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-ORD",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948866,
+    "wof:lastmodified":1579022370,
     "wof:name":"IB4270 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

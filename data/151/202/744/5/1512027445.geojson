@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1727",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5405",
+    "flysfo:flight_number":"5405",
     "flysfo:gate":"E12",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1578949041,
+    "wof:lastmodified":1579022666,
     "wof:name":"AC5405 (SAN-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

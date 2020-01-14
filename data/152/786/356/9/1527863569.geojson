@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578940500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4347",
+    "flysfo:flight_number":"4347",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SAT",
     "flysfo:scheduled_timestamp":1578940800,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022979,
     "wof:name":"AC4347 (SFO-SAT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

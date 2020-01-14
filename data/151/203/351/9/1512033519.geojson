@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1752",
+    "flysfo:flight_number":"1752",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -96,7 +96,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022492,
     "wof:name":"WN1752 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

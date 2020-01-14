@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578732180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA6984",
+    "flysfo:flight_number":"6984",
     "flysfo:gate":"D10",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578730200,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949031,
+    "wof:lastmodified":1579022657,
     "wof:name":"BA6984 (MIA-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

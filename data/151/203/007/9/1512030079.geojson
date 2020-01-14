@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578707820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1423",
+    "flysfo:flight_number":"1423",
     "flysfo:gate":"F1",
     "flysfo:journey":"PDX-SFO",
     "flysfo:scheduled_timestamp":1578708000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578948899,
+    "wof:lastmodified":1579022420,
     "wof:name":"UA1423 (PDX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

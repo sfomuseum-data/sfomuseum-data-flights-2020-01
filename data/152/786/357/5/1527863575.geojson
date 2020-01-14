@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578974160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4362",
+    "flysfo:flight_number":"4362",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578974400,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022973,
     "wof:name":"AC4362 (SFO-SBA)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

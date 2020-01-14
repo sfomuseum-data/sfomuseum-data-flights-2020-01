@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61715",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2353",
+    "flysfo:flight_number":"2353",
     "flysfo:gate":"B6",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949545,
+    "wof:lastmodified":1579022786,
     "wof:name":"HA2353 (JFK-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

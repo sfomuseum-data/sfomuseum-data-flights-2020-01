@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR17",
+    "flysfo:flight_number":"17",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578729900,
@@ -88,7 +88,7 @@
         1159284349,
         1477930479
     ],
-    "wof:lastmodified":1578948974,
+    "wof:lastmodified":1579022549,
     "wof:name":"BR17 (SFO-TPE)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

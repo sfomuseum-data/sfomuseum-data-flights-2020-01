@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA535",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9104",
+    "flysfo:flight_number":"9104",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":1578683820,
@@ -91,7 +91,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022497,
     "wof:name":"NZ9104 (SFO-EWR)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578872100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7327",
+    "flysfo:flight_number":"7327",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578872100,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022861,
     "wof:name":"CA7327 (SFO-ORD)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

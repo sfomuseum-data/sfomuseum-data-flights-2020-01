@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578868620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA786",
+    "flysfo:flight_number":"786",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578869040,
@@ -104,7 +104,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1578950102,
+    "wof:lastmodified":1579022884,
     "wof:name":"UA786 (SFO-DTW)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

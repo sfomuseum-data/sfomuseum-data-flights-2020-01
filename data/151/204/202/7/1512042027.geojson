@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH6493",
+    "flysfo:flight_number":"6493",
     "flysfo:gate":"E4",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578851400,
@@ -94,7 +94,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1578948792,
+    "wof:lastmodified":1579022256,
     "wof:name":"NH6493 (IAH-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

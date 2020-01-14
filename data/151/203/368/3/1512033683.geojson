@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3093",
+    "flysfo:flight_number":"3093",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578701700,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022479,
     "wof:name":"EK3093 (SFO-LAX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

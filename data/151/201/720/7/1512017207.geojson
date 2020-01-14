@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL426",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AZ2751",
+    "flysfo:flight_number":"2751",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949575,
+    "wof:lastmodified":1579022830,
     "wof:name":"AZ2751 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

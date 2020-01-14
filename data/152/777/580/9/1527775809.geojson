@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578936600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3177",
+    "flysfo:flight_number":"3177",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578898500,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578950100,
+    "wof:lastmodified":1579022881,
     "wof:name":"QF3177 (SFO-JFK)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

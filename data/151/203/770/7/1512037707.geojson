@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA595",
+    "flysfo:flight_number":"595",
     "flysfo:gate":"F2",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578789780,
@@ -101,7 +101,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1578948928,
+    "wof:lastmodified":1579022470,
     "wof:name":"UA595 (YVR-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

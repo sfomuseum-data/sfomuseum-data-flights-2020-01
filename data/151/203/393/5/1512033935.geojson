@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA29",
+    "flysfo:flight_number":"29",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-SIN",
     "flysfo:timestamp":0,
@@ -100,7 +100,7 @@
         1477930461,
         1159293215
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022495,
     "wof:name":"UA29 (SFO-SIN)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

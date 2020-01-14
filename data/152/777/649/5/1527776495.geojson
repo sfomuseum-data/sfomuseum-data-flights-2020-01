@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1410",
+    "flysfo:flight_number":"1410",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578900000,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578950104,
+    "wof:lastmodified":1579022888,
     "wof:name":"SQ1410 (SFO-JFK)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

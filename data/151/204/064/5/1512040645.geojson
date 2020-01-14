@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578771120,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA29",
+    "flysfo:flight_number":"29",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-SIN",
     "flysfo:scheduled_timestamp":1578768300,
@@ -104,7 +104,7 @@
         1477930487,
         1159293215
     ],
-    "wof:lastmodified":1578948791,
+    "wof:lastmodified":1579022254,
     "wof:name":"UA29 (SFO-SIN)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

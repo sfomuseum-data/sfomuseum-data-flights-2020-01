@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2068",
+    "flysfo:flight_number":"2068",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578949562,
+    "wof:lastmodified":1579022809,
     "wof:name":"UA2068 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

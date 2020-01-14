@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578978480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7575",
+    "flysfo:flight_number":"7575",
     "flysfo:gate":"F7",
     "flysfo:journey":"SBP-SFO",
     "flysfo:scheduled_timestamp":1578972420,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579023037,
     "wof:name":"LH7575 (SBP-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

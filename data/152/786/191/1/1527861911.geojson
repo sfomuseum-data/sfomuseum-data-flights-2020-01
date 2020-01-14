@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"HA2231",
+    "flysfo:flight_number":"2231",
     "flysfo:gate":"B6",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578970560,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579018433,
+    "wof:lastmodified":1579022973,
     "wof:name":"HA2231 (BOS-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

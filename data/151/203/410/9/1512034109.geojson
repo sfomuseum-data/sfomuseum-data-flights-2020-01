@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5564",
+    "flysfo:flight_number":"5564",
     "flysfo:gate":"E2",
     "flysfo:journey":"SFO-MSP",
     "flysfo:scheduled_timestamp":1578708900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948953,
+    "wof:lastmodified":1579022512,
     "wof:name":"UA5564 (SFO-MSP)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

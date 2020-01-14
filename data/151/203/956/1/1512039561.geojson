@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578778380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7996",
+    "flysfo:flight_number":"7996",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-MUC",
     "flysfo:scheduled_timestamp":1578778500,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578948942,
+    "wof:lastmodified":1579022493,
     "wof:name":"LH7996 (SFO-MUC)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

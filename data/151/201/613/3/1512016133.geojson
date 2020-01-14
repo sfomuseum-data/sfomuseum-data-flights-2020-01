@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5720",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4381",
+    "flysfo:flight_number":"4381",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-BOI",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949543,
+    "wof:lastmodified":1579022785,
     "wof:name":"AC4381 (SFO-BOI)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

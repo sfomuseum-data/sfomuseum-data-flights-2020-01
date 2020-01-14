@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA234",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6147",
+    "flysfo:flight_number":"6147",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578948984,
+    "wof:lastmodified":1579022567,
     "wof:name":"LA6147 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

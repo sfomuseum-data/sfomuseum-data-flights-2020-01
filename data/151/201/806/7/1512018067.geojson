@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"CM209",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR3185",
+    "flysfo:flight_number":"3185",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-PTY",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159284211
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022806,
     "wof:name":"BR3185 (SFO-PTY)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

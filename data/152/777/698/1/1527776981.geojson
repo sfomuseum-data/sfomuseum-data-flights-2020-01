@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578856980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA368",
+    "flysfo:flight_number":"368",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578857340,
@@ -104,7 +104,7 @@
         1477930457,
         1159289871
     ],
-    "wof:lastmodified":1578950109,
+    "wof:lastmodified":1579022896,
     "wof:name":"UA368 (SFO-PSP)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578892800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH6494",
+    "flysfo:flight_number":"6494",
     "flysfo:gate":"E2",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578894840,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948791,
+    "wof:lastmodified":1579022256,
     "wof:name":"NH6494 (YVR-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

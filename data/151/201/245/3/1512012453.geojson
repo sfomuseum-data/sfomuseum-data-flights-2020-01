@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA761",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5339",
+    "flysfo:flight_number":"5339",
     "flysfo:gate":"E11",
     "flysfo:journey":"ORD-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578949502,
+    "wof:lastmodified":1579022723,
     "wof:name":"AC5339 (ORD-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

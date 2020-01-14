@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1795",
+    "flysfo:flight_number":"1795",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578716700,
@@ -88,7 +88,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022378,
     "wof:name":"WN1795 (SFO-LAS)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578973800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2011",
+    "flysfo:flight_number":"2011",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578974400,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023019,
     "wof:name":"AV2011 (SFO-LAX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1916",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2529",
+    "flysfo:flight_number":"2529",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949503,
+    "wof:lastmodified":1579022725,
     "wof:name":"AY2529 (SFO-LAS)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

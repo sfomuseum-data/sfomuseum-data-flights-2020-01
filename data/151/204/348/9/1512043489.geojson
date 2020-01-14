@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH9205",
+    "flysfo:flight_number":"9205",
     "flysfo:gate":"E7",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578839280,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948796,
+    "wof:lastmodified":1579022263,
     "wof:name":"LH9205 (OGG-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578769440,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9582",
+    "flysfo:flight_number":"9582",
     "flysfo:gate":"E2",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578769920,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578948941,
+    "wof:lastmodified":1579022491,
     "wof:name":"NZ9582 (RNO-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

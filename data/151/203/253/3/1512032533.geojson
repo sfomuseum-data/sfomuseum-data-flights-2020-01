@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL1847",
+    "flysfo:flight_number":"1847",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-MSP",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930323,
         1377564285
     ],
-    "wof:lastmodified":1578948971,
+    "wof:lastmodified":1579022543,
     "wof:name":"DL1847 (SFO-MSP)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

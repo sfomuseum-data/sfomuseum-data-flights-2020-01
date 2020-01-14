@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS2830",
+    "flysfo:flight_number":"2830",
     "flysfo:gate":"D6",
     "flysfo:journey":"PAE-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022762,
     "wof:name":"AS2830 (PAE-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

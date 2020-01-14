@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC780",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ4808",
+    "flysfo:flight_number":"4808",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YUL",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930469,
         1159283597
     ],
-    "wof:lastmodified":1578948990,
+    "wof:lastmodified":1579022585,
     "wof:name":"NZ4808 (SFO-YUL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578716100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3697",
+    "flysfo:flight_number":"3697",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578715800,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022542,
     "wof:name":"AC3697 (SFO-SLC)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

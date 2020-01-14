@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719760,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC781",
+    "flysfo:flight_number":"781",
     "flysfo:gate":"G4",
     "flysfo:journey":"YUL-SFO",
     "flysfo:scheduled_timestamp":1578718020,
@@ -103,7 +103,7 @@
         1477930467,
         1159292085
     ],
-    "wof:lastmodified":1578949029,
+    "wof:lastmodified":1579022655,
     "wof:name":"AC781 (YUL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

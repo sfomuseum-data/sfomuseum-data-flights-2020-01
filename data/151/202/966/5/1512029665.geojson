@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"RJ7484",
+    "flysfo:flight_number":"7484",
     "flysfo:gate":"D14",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578715200,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578949023,
+    "wof:lastmodified":1579022652,
     "wof:name":"RJ7484 (ORD-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

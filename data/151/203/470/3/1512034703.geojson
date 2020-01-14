@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4250",
+    "flysfo:flight_number":"4250",
     "flysfo:gate":"F15L",
     "flysfo:journey":"SBA-SFO",
     "flysfo:scheduled_timestamp":1578761220,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948886,
+    "wof:lastmodified":1579022401,
     "wof:name":"AC4250 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

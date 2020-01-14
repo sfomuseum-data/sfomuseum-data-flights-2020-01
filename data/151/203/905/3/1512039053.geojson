@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS9515",
+    "flysfo:flight_number":"9515",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578800400,
@@ -94,7 +94,7 @@
         1477930477,
         1159283697
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022500,
     "wof:name":"AS9515 (SFO-AKL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

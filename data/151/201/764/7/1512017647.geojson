@@ -9,7 +9,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2381",
+    "flysfo:flight_number":"2381",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022694,
     "wof:name":"DL2381 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

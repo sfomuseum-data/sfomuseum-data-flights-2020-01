@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578690000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7346",
+    "flysfo:flight_number":"7346",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-MCO",
     "flysfo:scheduled_timestamp":1578690300,
@@ -94,7 +94,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1578948996,
+    "wof:lastmodified":1579022601,
     "wof:name":"NH7346 (SFO-MCO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

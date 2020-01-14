@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3042",
+    "flysfo:flight_number":"3042",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578875400,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022877,
     "wof:name":"EK3042 (SFO-SEA)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

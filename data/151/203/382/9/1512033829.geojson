@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2005",
+    "flysfo:flight_number":"2005",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-RDU",
     "flysfo:scheduled_timestamp":1578695400,
@@ -104,7 +104,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022461,
     "wof:name":"UA2005 (SFO-RDU)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

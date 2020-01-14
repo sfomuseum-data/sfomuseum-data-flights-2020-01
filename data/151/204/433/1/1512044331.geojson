@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578885780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LX3281",
+    "flysfo:flight_number":"3281",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578876540,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948835,
+    "wof:lastmodified":1579022320,
     "wof:name":"LX3281 (LAS-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

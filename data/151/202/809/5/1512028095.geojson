@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9855",
+    "flysfo:flight_number":"9855",
     "flysfo:gate":"G9",
     "flysfo:journey":"LHR-SFO",
     "flysfo:scheduled_timestamp":1578688200,
@@ -94,7 +94,7 @@
         1477930479,
         1159285413
     ],
-    "wof:lastmodified":1578949037,
+    "wof:lastmodified":1579022663,
     "wof:name":"NZ9855 (LHR-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

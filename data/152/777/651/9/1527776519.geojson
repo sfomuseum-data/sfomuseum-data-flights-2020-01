@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578839400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1760",
+    "flysfo:flight_number":"1760",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578839400,
@@ -94,7 +94,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"SQ1760 (SFO-SNA)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

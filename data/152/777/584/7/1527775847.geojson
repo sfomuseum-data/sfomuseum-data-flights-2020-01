@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578861600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3682",
+    "flysfo:flight_number":"3682",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-KOA",
     "flysfo:scheduled_timestamp":1578860700,
@@ -94,7 +94,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"QF3682 (SFO-KOA)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578770280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2429",
+    "flysfo:flight_number":"2429",
     "flysfo:gate":"C8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578771780,
@@ -102,7 +102,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022508,
     "wof:name":"DL2429 (SEA-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

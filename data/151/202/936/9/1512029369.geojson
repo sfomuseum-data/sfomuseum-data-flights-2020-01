@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5861",
+    "flysfo:flight_number":"5861",
     "flysfo:gate":"D3",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578686700,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578949000,
+    "wof:lastmodified":1579022609,
     "wof:name":"FJ5861 (BOS-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

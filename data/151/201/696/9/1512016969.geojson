@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1594",
+    "flysfo:flight_number":"1594",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022804,
     "wof:name":"AS1594 (SFO-LAS)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

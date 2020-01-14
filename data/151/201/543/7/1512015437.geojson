@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5416",
+    "flysfo:flight_number":"5416",
     "flysfo:gate":"F10",
     "flysfo:journey":"ONT-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1578949523,
+    "wof:lastmodified":1579022753,
     "wof:name":"UA5416 (ONT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

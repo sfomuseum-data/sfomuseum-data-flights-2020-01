@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578847380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5445",
+    "flysfo:flight_number":"5445",
     "flysfo:gate":"D7",
     "flysfo:journey":"AUS-SFO",
     "flysfo:scheduled_timestamp":1578848700,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"JL5445 (AUS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

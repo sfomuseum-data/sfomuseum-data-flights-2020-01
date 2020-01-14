@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578842820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7489",
+    "flysfo:flight_number":"7489",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578843000,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578950084,
+    "wof:lastmodified":1579022860,
     "wof:name":"LH7489 (SFO-IAD)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

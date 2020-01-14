@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578790740,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE7247",
+    "flysfo:flight_number":"7247",
     "flysfo:gate":"C5",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578789480,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948876,
+    "wof:lastmodified":1579022386,
     "wof:name":"KE7247 (LAX-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

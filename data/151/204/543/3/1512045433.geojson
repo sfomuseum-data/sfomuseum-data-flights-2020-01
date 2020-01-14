@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578846240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4212",
+    "flysfo:flight_number":"4212",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578846600,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"AC4212 (SFO-PSP)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

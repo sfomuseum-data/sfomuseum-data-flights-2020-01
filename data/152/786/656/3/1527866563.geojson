@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578962160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5469",
+    "flysfo:flight_number":"5469",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578956460,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022943,
     "wof:name":"UA5469 (SFO-RNO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

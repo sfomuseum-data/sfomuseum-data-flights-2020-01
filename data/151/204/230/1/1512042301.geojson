@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9238",
+    "flysfo:flight_number":"9238",
     "flysfo:gate":"F3A",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578889440,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578948838,
+    "wof:lastmodified":1579022326,
     "wof:name":"NZ9238 (LAS-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

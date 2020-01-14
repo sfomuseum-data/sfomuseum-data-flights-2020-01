@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA447",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9406",
+    "flysfo:flight_number":"9406",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022719,
     "wof:name":"NZ9406 (SFO-SEA)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

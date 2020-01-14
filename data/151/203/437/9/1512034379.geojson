@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1938",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1588",
+    "flysfo:flight_number":"1588",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-MSP",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578948897,
+    "wof:lastmodified":1579022418,
     "wof:name":"VS1588 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

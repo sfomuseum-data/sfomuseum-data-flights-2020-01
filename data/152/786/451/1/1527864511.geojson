@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578947700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3450",
+    "flysfo:flight_number":"3450",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578947700,
@@ -88,7 +88,7 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579023011,
     "wof:name":"AS3450 (SFO-SLC)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

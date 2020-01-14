@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS383",
+    "flysfo:flight_number":"383",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1578949570,
+    "wof:lastmodified":1579022820,
     "wof:name":"AS383 (SFO-PDX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

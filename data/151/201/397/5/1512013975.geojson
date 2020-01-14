@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AF84",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL8552",
+    "flysfo:flight_number":"8552",
     "flysfo:gate":"A13",
     "flysfo:journey":"CDG-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930309,
         1159283627
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022713,
     "wof:name":"DL8552 (CDG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

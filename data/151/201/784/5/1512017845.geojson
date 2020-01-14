@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5832",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9399",
+    "flysfo:flight_number":"9399",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-EUG",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578949529,
+    "wof:lastmodified":1579022761,
     "wof:name":"LH9399 (SFO-EUG)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1219",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3063",
+    "flysfo:flight_number":"3063",
     "flysfo:gate":"D2",
     "flysfo:journey":"AUS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949495,
+    "wof:lastmodified":1579022712,
     "wof:name":"EK3063 (AUS-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

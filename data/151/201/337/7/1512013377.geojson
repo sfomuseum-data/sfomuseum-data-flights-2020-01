@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA643",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2355",
+    "flysfo:flight_number":"2355",
     "flysfo:gate":"E5",
     "flysfo:journey":"KOA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"AV2355 (KOA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

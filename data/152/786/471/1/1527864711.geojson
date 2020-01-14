@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578961800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA7543",
+    "flysfo:flight_number":"7543",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578961800,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022918,
     "wof:name":"BA7543 (SFO-PDX)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

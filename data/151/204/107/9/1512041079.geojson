@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578755400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS1796",
+    "flysfo:flight_number":"1796",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578755400,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1578948807,
+    "wof:lastmodified":1579022277,
     "wof:name":"VS1796 (SFO-DTW)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

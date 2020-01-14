@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6094",
+    "flysfo:flight_number":"6094",
     "flysfo:gate":"G2",
     "flysfo:journey":"NRT-SFO",
     "flysfo:scheduled_timestamp":1578762900,
@@ -94,7 +94,7 @@
         1477930463,
         1159283875
     ],
-    "wof:lastmodified":1578948916,
+    "wof:lastmodified":1579022450,
     "wof:name":"TG6094 (NRT-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578949200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA8292",
+    "flysfo:flight_number":"8292",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YYZ",
     "flysfo:scheduled_timestamp":1578945300,
@@ -94,7 +94,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022927,
     "wof:name":"UA8292 (SFO-YYZ)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

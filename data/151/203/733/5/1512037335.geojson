@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2056",
+    "flysfo:flight_number":"2056",
     "flysfo:gate":"E12",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578790140,
@@ -102,7 +102,7 @@
         1477930403,
         1377564285
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022480,
     "wof:name":"UA2056 (LAS-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

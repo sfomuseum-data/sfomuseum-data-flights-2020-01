@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578703020,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7311",
+    "flysfo:flight_number":"7311",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-HNL",
     "flysfo:scheduled_timestamp":1578702900,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948963,
+    "wof:lastmodified":1579022530,
     "wof:name":"CA7311 (SFO-HNL)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

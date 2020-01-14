@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3696",
+    "flysfo:flight_number":"3696",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578694200,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578948893,
+    "wof:lastmodified":1579022411,
     "wof:name":"QF3696 (SFO-LAS)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

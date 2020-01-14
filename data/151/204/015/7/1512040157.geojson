@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578815940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SA7383",
+    "flysfo:flight_number":"7383",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578815940,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948768,
+    "wof:lastmodified":1579022210,
     "wof:name":"SA7383 (SFO-JFK)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

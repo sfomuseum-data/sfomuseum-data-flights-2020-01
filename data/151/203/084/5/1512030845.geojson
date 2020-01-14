@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695880,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA2634",
+    "flysfo:flight_number":"2634",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578695880,
@@ -102,7 +102,7 @@
         1477930361,
         1159289871
     ],
-    "wof:lastmodified":1578948883,
+    "wof:lastmodified":1579022397,
     "wof:name":"AA2634 (SFO-ORD)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

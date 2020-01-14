@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578865860,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE6743",
+    "flysfo:flight_number":"6743",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578864720,
@@ -94,7 +94,7 @@
         1477930335,
         1159284261
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"KE6743 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1904",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7934",
+    "flysfo:flight_number":"7934",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"CX7934 (SFO-LAS)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578883380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA394",
+    "flysfo:flight_number":"394",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578879840,
@@ -88,7 +88,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1578950109,
+    "wof:lastmodified":1579022896,
     "wof:name":"UA394 (SFO-LAS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

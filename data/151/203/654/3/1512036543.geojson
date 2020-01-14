@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578786480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AY2502",
+    "flysfo:flight_number":"2502",
     "flysfo:gate":"D8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578787980,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022556,
     "wof:name":"AY2502 (SEA-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7851",
+    "flysfo:flight_number":"7851",
     "flysfo:gate":"E10",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578880500,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948845,
+    "wof:lastmodified":1579022338,
     "wof:name":"LH7851 (SLC-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE7861",
+    "flysfo:flight_number":"7861",
     "flysfo:gate":"A2",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578723300,
@@ -94,7 +94,7 @@
         1477930283,
         1159284489
     ],
-    "wof:lastmodified":1578949028,
+    "wof:lastmodified":1579022654,
     "wof:name":"KE7861 (HNL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

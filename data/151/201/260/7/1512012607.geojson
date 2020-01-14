@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA404",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH6493",
+    "flysfo:flight_number":"6493",
     "flysfo:gate":"F22",
     "flysfo:journey":"IAH-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949514,
+    "wof:lastmodified":1579022738,
     "wof:name":"NH6493 (IAH-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

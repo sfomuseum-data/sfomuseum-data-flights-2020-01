@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578812340,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA650",
+    "flysfo:flight_number":"650",
     "flysfo:gate":"E13",
     "flysfo:journey":"HNL-SFO",
     "flysfo:scheduled_timestamp":1578813480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930405
     ],
-    "wof:lastmodified":1578948991,
+    "wof:lastmodified":1579022589,
     "wof:name":"UA650 (HNL-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

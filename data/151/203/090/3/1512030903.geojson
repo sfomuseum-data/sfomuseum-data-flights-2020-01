@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578728700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8943",
+    "flysfo:flight_number":"8943",
     "flysfo:gate":"A6",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578728700,
@@ -94,7 +94,7 @@
         1477930295,
         1159284127
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022432,
     "wof:name":"AA8943 (SFO-HKG)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

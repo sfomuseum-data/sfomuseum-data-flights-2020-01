@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578754800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS340",
+    "flysfo:flight_number":"340",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578754800,
@@ -104,7 +104,7 @@
         1477930355,
         1377564285
     ],
-    "wof:lastmodified":1578948864,
+    "wof:lastmodified":1579022367,
     "wof:name":"AS340 (SFO-EWR)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

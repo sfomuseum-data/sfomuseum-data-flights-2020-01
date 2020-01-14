@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1940",
+    "flysfo:flight_number":"1940",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930355,
         1159289871
     ],
-    "wof:lastmodified":1578949490,
+    "wof:lastmodified":1579022701,
     "wof:name":"AS1940 (SFO-LAX)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

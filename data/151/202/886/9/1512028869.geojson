@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578697200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL1357",
+    "flysfo:flight_number":"1357",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578697800,
@@ -104,7 +104,7 @@
         1477930317,
         1377564285
     ],
-    "wof:lastmodified":1578949010,
+    "wof:lastmodified":1579022630,
     "wof:name":"DL1357 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5425",
+    "flysfo:flight_number":"5425",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-ONT",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578949571,
+    "wof:lastmodified":1579022822,
     "wof:name":"UA5425 (SFO-ONT)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

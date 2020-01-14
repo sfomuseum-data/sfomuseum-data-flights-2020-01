@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1940",
+    "flysfo:flight_number":"1940",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578714000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930369
     ],
-    "wof:lastmodified":1578948870,
+    "wof:lastmodified":1579022376,
     "wof:name":"AS1940 (SFO-LAX)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

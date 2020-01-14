@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2844",
+    "flysfo:flight_number":"2844",
     "flysfo:gate":"B18",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578845700,
@@ -103,7 +103,7 @@
         1477881737,
         1159289869
     ],
-    "wof:lastmodified":1578950095,
+    "wof:lastmodified":1579022873,
     "wof:name":"WN2844 (SFO-BUR)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

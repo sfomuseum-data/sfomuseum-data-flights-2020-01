@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578712980,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5376",
+    "flysfo:flight_number":"5376",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-LHR",
     "flysfo:scheduled_timestamp":1578713400,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578948931,
+    "wof:lastmodified":1579022474,
     "wof:name":"AC5376 (SFO-LHR)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

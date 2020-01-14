@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578960360,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7304",
+    "flysfo:flight_number":"7304",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578960540,
@@ -94,7 +94,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1579018439,
+    "wof:lastmodified":1579023030,
     "wof:name":"NH7304 (SFO-SEA)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

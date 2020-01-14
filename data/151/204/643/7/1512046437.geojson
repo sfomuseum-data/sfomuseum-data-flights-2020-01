@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS5008",
+    "flysfo:flight_number":"5008",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-MEL",
     "flysfo:scheduled_timestamp":1578888900,
@@ -94,7 +94,7 @@
         1477930291,
         1159284313
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"AS5008 (SFO-MEL)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

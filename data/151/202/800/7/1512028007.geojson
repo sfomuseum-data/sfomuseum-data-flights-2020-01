@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA922",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9444",
+    "flysfo:flight_number":"9444",
     "flysfo:gate":"F2",
     "flysfo:journey":"FLL-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949036,
+    "wof:lastmodified":1579022662,
     "wof:name":"NZ9444 (FLL-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

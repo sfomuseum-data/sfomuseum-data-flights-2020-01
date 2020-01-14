@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578719100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SK9847",
+    "flysfo:flight_number":"9847",
     "flysfo:gate":"E6",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578718920,
@@ -94,7 +94,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949028,
+    "wof:lastmodified":1579022654,
     "wof:name":"SK9847 (ORD-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

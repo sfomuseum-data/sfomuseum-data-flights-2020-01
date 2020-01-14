@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4283",
+    "flysfo:flight_number":"4283",
     "flysfo:gate":"F15M",
     "flysfo:journey":"MRY-SFO",
     "flysfo:scheduled_timestamp":1578699180,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949002,
+    "wof:lastmodified":1579022612,
     "wof:name":"AC4283 (MRY-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

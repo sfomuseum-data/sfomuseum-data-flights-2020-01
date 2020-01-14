@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ7",
+    "flysfo:flight_number":"7",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-AKL",
     "flysfo:scheduled_timestamp":1578800400,
@@ -104,7 +104,7 @@
         1477930477,
         1159289993
     ],
-    "wof:lastmodified":1578948979,
+    "wof:lastmodified":1579022557,
     "wof:name":"NZ7 (SFO-AKL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

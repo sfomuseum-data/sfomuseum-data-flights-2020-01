@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2434",
+    "flysfo:flight_number":"2434",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-PSP",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578949493,
+    "wof:lastmodified":1579022707,
     "wof:name":"UA2434 (SFO-PSP)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

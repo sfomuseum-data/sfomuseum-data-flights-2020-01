@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH7876",
+    "flysfo:flight_number":"7876",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-GEG",
     "flysfo:scheduled_timestamp":1578889800,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578950083,
+    "wof:lastmodified":1579022860,
     "wof:name":"LH7876 (SFO-GEG)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

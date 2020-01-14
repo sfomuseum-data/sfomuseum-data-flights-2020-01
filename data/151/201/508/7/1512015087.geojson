@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1067",
+    "flysfo:flight_number":"1067",
     "flysfo:gate":"F4",
     "flysfo:journey":"YVR-SFO",
     "geom:area":0.0,
@@ -99,7 +99,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022764,
     "wof:name":"UA1067 (YVR-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

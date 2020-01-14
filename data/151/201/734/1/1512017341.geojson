@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA517",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7313",
+    "flysfo:flight_number":"7313",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-IAD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1578949532,
+    "wof:lastmodified":1579022767,
     "wof:name":"CA7313 (SFO-IAD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

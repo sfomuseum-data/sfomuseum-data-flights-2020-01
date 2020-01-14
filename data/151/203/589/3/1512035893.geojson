@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7381",
+    "flysfo:flight_number":"7381",
     "flysfo:gate":"F21",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578796560,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948928,
+    "wof:lastmodified":1579022470,
     "wof:name":"CA7381 (LAX-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

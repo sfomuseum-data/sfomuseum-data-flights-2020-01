@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578972720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CZ1253",
+    "flysfo:flight_number":"1253",
     "flysfo:gate":"C4",
     "flysfo:journey":"DTW-SFO",
     "flysfo:scheduled_timestamp":1578969420,
@@ -94,7 +94,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022973,
     "wof:name":"CZ1253 (DTW-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

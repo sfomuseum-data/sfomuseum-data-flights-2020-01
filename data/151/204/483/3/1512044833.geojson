@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578882720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5483",
+    "flysfo:flight_number":"5483",
     "flysfo:gate":"F5",
     "flysfo:journey":"MTJ-SFO",
     "flysfo:scheduled_timestamp":1578882960,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022221,
     "wof:name":"UA5483 (MTJ-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578794820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1471",
+    "flysfo:flight_number":"1471",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SBP",
     "flysfo:scheduled_timestamp":1578795300,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948948,
+    "wof:lastmodified":1579022503,
     "wof:name":"CM1471 (SFO-SBP)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

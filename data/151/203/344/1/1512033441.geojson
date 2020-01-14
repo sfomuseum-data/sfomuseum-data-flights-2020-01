@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578723300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1386",
+    "flysfo:flight_number":"1386",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578722400,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1578948997,
+    "wof:lastmodified":1579022603,
     "wof:name":"SQ1386 (SFO-BOS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578788760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA5567",
+    "flysfo:flight_number":"5567",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578782700,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948983,
+    "wof:lastmodified":1579022566,
     "wof:name":"BA5567 (SFO-LAX)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

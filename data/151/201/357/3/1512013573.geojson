@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1410",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7297",
+    "flysfo:flight_number":"7297",
     "flysfo:gate":"E10",
     "flysfo:journey":"PDX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022767,
     "wof:name":"CA7297 (PDX-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA716",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7509",
+    "flysfo:flight_number":"7509",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022451,
     "wof:name":"NH7509 (SFO-LAX)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

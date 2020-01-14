@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710340,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9036",
+    "flysfo:flight_number":"9036",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578710640,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1578948894,
+    "wof:lastmodified":1579022413,
     "wof:name":"LH9036 (SFO-PDX)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

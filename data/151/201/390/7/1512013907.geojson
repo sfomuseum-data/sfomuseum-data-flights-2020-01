@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL2490",
+    "flysfo:flight_number":"2490",
     "flysfo:gate":"C8",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578949497,
+    "wof:lastmodified":1579022717,
     "wof:name":"DL2490 (SEA-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

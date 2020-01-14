@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9127",
+    "flysfo:flight_number":"9127",
     "flysfo:gate":"F11",
     "flysfo:journey":"EWR-SFO",
     "flysfo:scheduled_timestamp":1578877800,
@@ -94,7 +94,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1578948774,
+    "wof:lastmodified":1579022221,
     "wof:name":"NZ9127 (EWR-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

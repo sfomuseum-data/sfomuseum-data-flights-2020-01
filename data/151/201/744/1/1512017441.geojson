@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5753",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM1462",
+    "flysfo:flight_number":"1462",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-RDD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949564,
+    "wof:lastmodified":1579022813,
     "wof:name":"CM1462 (SFO-RDD)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

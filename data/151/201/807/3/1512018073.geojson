@@ -7,7 +7,7 @@
     "flysfo:airline":"F9",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"F92146",
+    "flysfo:flight_number":"2146",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284401,
         1477930315
     ],
-    "wof:lastmodified":1578949553,
+    "wof:lastmodified":1579022796,
     "wof:name":"F92146 (SFO-LAS)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

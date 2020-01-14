@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578800520,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5214",
+    "flysfo:flight_number":"5214",
     "flysfo:gate":"F15N",
     "flysfo:journey":"ACV-SFO",
     "flysfo:scheduled_timestamp":1578802440,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948920,
+    "wof:lastmodified":1579022455,
     "wof:name":"UA5214 (ACV-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578704520,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP236",
+    "flysfo:flight_number":"236",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-LIS",
     "flysfo:scheduled_timestamp":1578703200,
@@ -88,7 +88,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1578948859,
+    "wof:lastmodified":1579022359,
     "wof:name":"TP236 (SFO-LIS)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

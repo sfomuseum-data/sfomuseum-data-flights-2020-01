@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4080",
+    "flysfo:flight_number":"4080",
     "flysfo:gate":"F10",
     "flysfo:journey":"ONT-SFO",
     "flysfo:scheduled_timestamp":1578762240,
@@ -94,7 +94,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1578948978,
+    "wof:lastmodified":1579022556,
     "wof:name":"AC4080 (ONT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

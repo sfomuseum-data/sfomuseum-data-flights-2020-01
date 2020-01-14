@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA614",
+    "flysfo:flight_number":"614",
     "flysfo:gate":"D12",
     "flysfo:journey":"PHL-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930363,
         1159289965
     ],
-    "wof:lastmodified":1578949551,
+    "wof:lastmodified":1579022794,
     "wof:name":"AA614 (PHL-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

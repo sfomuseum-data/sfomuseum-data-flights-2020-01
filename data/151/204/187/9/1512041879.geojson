@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC566",
+    "flysfo:flight_number":"566",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578873900,
@@ -101,7 +101,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1578948795,
+    "wof:lastmodified":1579022261,
     "wof:name":"AC566 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

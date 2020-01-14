@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578841200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3221",
+    "flysfo:flight_number":"3221",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578841200,
@@ -104,7 +104,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022877,
     "wof:name":"WN3221 (SFO-PHX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578834840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1746",
+    "flysfo:flight_number":"1746",
     "flysfo:gate":"F13",
     "flysfo:journey":"LIH-SFO",
     "flysfo:scheduled_timestamp":1578835620,
@@ -103,7 +103,7 @@
         1477930439,
         1159289871
     ],
-    "wof:lastmodified":1578948786,
+    "wof:lastmodified":1579022246,
     "wof:name":"UA1746 (LIH-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

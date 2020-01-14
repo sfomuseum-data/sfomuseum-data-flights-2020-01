@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578752400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FI7888",
+    "flysfo:flight_number":"7888",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578752400,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948940,
+    "wof:lastmodified":1579022489,
     "wof:name":"FI7888 (SFO-JFK)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

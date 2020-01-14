@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578861300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1310",
+    "flysfo:flight_number":"1310",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-EWR",
     "flysfo:scheduled_timestamp":1578852000,
@@ -94,7 +94,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"SQ1310 (SFO-EWR)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

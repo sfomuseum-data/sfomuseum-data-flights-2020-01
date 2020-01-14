@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578693960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5595",
+    "flysfo:flight_number":"5595",
     "flysfo:gate":"F15L",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578696600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1578948951,
+    "wof:lastmodified":1579022510,
     "wof:name":"UA5595 (TUS-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

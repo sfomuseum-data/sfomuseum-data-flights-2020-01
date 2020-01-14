@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578755400,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4583",
+    "flysfo:flight_number":"4583",
     "flysfo:gate":"F8",
     "flysfo:journey":"TUS-SFO",
     "flysfo:scheduled_timestamp":1578757380,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948883,
+    "wof:lastmodified":1579022398,
     "wof:name":"AC4583 (TUS-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

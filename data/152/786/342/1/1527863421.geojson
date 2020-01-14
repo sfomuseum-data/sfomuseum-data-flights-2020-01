@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA8931",
+    "flysfo:flight_number":"8931",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-HKG",
     "flysfo:scheduled_timestamp":1578984900,
@@ -94,7 +94,7 @@
         1477930303,
         1159284127
     ],
-    "wof:lastmodified":1579018437,
+    "wof:lastmodified":1579023029,
     "wof:name":"AA8931 (SFO-HKG)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

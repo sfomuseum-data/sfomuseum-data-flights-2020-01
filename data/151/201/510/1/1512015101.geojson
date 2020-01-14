@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1257",
+    "flysfo:flight_number":"1257",
     "flysfo:gate":"F21",
     "flysfo:journey":"EWR-SFO",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1578949519,
+    "wof:lastmodified":1579022745,
     "wof:name":"UA1257 (EWR-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

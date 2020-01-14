@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578959400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5452",
+    "flysfo:flight_number":"5452",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578956700,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579022906,
     "wof:name":"JL5452 (SFO-LAS)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

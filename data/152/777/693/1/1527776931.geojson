@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578876420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2434",
+    "flysfo:flight_number":"2434",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578875460,
@@ -104,7 +104,7 @@
         1477930403,
         1159289871
     ],
-    "wof:lastmodified":1578950096,
+    "wof:lastmodified":1579022875,
     "wof:name":"UA2434 (SFO-PSP)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA213",
+    "flysfo:flight_number":"213",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578949489,
+    "wof:lastmodified":1579022698,
     "wof:name":"UA213 (SFO-EWR)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

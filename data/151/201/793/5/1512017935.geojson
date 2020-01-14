@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1276",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3756",
+    "flysfo:flight_number":"3756",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SJD",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022768,
     "wof:name":"QF3756 (SFO-SJD)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

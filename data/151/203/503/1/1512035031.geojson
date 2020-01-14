@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578773280,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7353",
+    "flysfo:flight_number":"7353",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578774600,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948870,
+    "wof:lastmodified":1579022376,
     "wof:name":"NH7353 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

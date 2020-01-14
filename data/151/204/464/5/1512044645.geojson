@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578909120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2400",
+    "flysfo:flight_number":"2400",
     "flysfo:gate":"F13",
     "flysfo:journey":"BOS-SFO",
     "flysfo:scheduled_timestamp":1578894420,
@@ -88,7 +88,7 @@
         1159285413,
         1477930439
     ],
-    "wof:lastmodified":1578948785,
+    "wof:lastmodified":1579022245,
     "wof:name":"UA2400 (BOS-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

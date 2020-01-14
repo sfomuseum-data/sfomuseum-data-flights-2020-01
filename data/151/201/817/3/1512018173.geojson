@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS2829",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5868",
+    "flysfo:flight_number":"5868",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-PAE",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949504,
+    "wof:lastmodified":1579022726,
     "wof:name":"FJ5868 (SFO-PAE)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

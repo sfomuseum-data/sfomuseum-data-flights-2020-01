@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578728400,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BR3115",
+    "flysfo:flight_number":"3115",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-SAL",
     "flysfo:scheduled_timestamp":1578728400,
@@ -94,7 +94,7 @@
         1477930289,
         1159283957
     ],
-    "wof:lastmodified":1578948896,
+    "wof:lastmodified":1579022416,
     "wof:name":"BR3115 (SFO-SAL)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

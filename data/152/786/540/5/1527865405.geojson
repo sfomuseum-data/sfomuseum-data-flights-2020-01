@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578946500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LY9413",
+    "flysfo:flight_number":"9413",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578946500,
@@ -94,7 +94,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579018443,
+    "wof:lastmodified":1579023029,
     "wof:name":"LY9413 (SFO-PDX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

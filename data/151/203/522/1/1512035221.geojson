@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578772980,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9214",
+    "flysfo:flight_number":"9214",
     "flysfo:gate":"F21",
     "flysfo:journey":"IAH-SFO",
     "flysfo:scheduled_timestamp":1578772920,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1578948991,
+    "wof:lastmodified":1579022585,
     "wof:name":"NZ9214 (IAH-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578761040,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6138",
+    "flysfo:flight_number":"6138",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578759840,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1578948824,
+    "wof:lastmodified":1579022302,
     "wof:name":"LA6138 (SFO-JFK)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

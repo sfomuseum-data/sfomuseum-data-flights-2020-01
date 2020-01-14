@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578970380,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC3721",
+    "flysfo:flight_number":"3721",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578970800,
@@ -94,7 +94,7 @@
         1477930457,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022958,
     "wof:name":"AC3721 (SFO-LAS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

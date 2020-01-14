@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA446",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA1938",
+    "flysfo:flight_number":"1938",
     "flysfo:gate":"C9",
     "flysfo:journey":"DFW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578949520,
+    "wof:lastmodified":1579022746,
     "wof:name":"BA1938 (DFW-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

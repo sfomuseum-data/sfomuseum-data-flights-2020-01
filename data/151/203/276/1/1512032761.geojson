@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3093",
+    "flysfo:flight_number":"3093",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578699480,
@@ -94,7 +94,7 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1578948961,
+    "wof:lastmodified":1579022526,
     "wof:name":"QF3093 (SFO-JFK)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

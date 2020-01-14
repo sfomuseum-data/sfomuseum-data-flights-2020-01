@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578863160,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5455",
+    "flysfo:flight_number":"5455",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-MFR",
     "flysfo:scheduled_timestamp":1578862500,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578950086,
+    "wof:lastmodified":1579022862,
     "wof:name":"UA5455 (SFO-MFR)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

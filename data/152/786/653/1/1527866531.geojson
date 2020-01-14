@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578971220,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5396",
+    "flysfo:flight_number":"5396",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-TUS",
     "flysfo:scheduled_timestamp":1578971280,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579023019,
     "wof:name":"UA5396 (SFO-TUS)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

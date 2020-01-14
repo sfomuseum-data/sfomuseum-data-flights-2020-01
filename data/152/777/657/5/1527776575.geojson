@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844800,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3183",
+    "flysfo:flight_number":"3183",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-STL",
     "flysfo:scheduled_timestamp":1578844800,
@@ -104,7 +104,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022878,
     "wof:name":"WN3183 (SFO-STL)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

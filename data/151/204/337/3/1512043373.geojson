@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578898500,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL8142",
+    "flysfo:flight_number":"8142",
     "flysfo:gate":"A15",
     "flysfo:journey":"MEX-SFO",
     "flysfo:scheduled_timestamp":1578899100,
@@ -94,7 +94,7 @@
         1477930315,
         1159283539
     ],
-    "wof:lastmodified":1578948764,
+    "wof:lastmodified":1579022202,
     "wof:name":"DL8142 (MEX-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

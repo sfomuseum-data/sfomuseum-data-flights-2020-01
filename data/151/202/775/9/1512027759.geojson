@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578698100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9070",
+    "flysfo:flight_number":"9070",
     "flysfo:gate":"E7",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578699240,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578949042,
+    "wof:lastmodified":1579022666,
     "wof:name":"NZ9070 (DEN-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

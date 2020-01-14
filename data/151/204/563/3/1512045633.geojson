@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578869040,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5940",
+    "flysfo:flight_number":"5940",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-CDG",
     "flysfo:scheduled_timestamp":1578867900,
@@ -94,7 +94,7 @@
         1477930467,
         1159285413
     ],
-    "wof:lastmodified":1578948808,
+    "wof:lastmodified":1579022278,
     "wof:name":"AC5940 (SFO-CDG)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

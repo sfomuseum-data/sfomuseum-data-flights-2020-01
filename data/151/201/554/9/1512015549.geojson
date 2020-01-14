@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5764",
+    "flysfo:flight_number":"5764",
     "flysfo:gate":"E1",
     "flysfo:journey":"SBA-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"UA5764 (SBA-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

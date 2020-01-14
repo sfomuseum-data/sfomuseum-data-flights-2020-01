@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578764700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS3458",
+    "flysfo:flight_number":"3458",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578764700,
@@ -88,7 +88,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578948946,
+    "wof:lastmodified":1579022501,
     "wof:name":"AS3458 (SFO-PSP)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

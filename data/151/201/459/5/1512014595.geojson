@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1750",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE3484",
+    "flysfo:flight_number":"3484",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578949560,
+    "wof:lastmodified":1579022807,
     "wof:name":"KE3484 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

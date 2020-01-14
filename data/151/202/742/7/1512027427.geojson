@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2235",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5312",
+    "flysfo:flight_number":"5312",
     "flysfo:gate":"F4",
     "flysfo:journey":"SAN-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578949047,
+    "wof:lastmodified":1579022671,
     "wof:name":"AC5312 (SAN-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

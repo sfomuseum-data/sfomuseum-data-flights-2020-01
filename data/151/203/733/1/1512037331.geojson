@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578780300,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2025",
+    "flysfo:flight_number":"2025",
     "flysfo:gate":"F4",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578780960,
@@ -103,7 +103,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022480,
     "wof:name":"UA2025 (YVR-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

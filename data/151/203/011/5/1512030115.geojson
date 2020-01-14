@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578701700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1723",
+    "flysfo:flight_number":"1723",
     "flysfo:gate":"F12",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578703200,
@@ -104,7 +104,7 @@
         1477930435,
         1377564285
     ],
-    "wof:lastmodified":1578948957,
+    "wof:lastmodified":1579022519,
     "wof:name":"UA1723 (DEN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

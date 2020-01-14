@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578873300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3759",
+    "flysfo:flight_number":"3759",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578873300,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022879,
     "wof:name":"QF3759 (SFO-IAD)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

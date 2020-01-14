@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578845460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"B61136",
+    "flysfo:flight_number":"1136",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
     "flysfo:scheduled_timestamp":1578845940,
@@ -104,7 +104,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1578948846,
+    "wof:lastmodified":1579022339,
     "wof:name":"B61136 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

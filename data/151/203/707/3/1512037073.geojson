@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578796200,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3909",
+    "flysfo:flight_number":"3909",
     "flysfo:gate":"B18",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578797400,
@@ -88,7 +88,7 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1578948873,
+    "wof:lastmodified":1579022381,
     "wof:name":"WN3909 (DEN-SFO)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

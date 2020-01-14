@@ -9,7 +9,7 @@
     "flysfo:airline":"B6",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"B6833",
+    "flysfo:flight_number":"833",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022795,
     "wof:name":"B6833 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

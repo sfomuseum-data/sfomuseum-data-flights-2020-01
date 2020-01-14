@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810120,
     "flysfo:event":"A",
-    "flysfo:flight_number":"MU4193",
+    "flysfo:flight_number":"4193",
     "flysfo:gate":"C11",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578811260,
@@ -94,7 +94,7 @@
         1477930337,
         1159284261
     ],
-    "wof:lastmodified":1578948938,
+    "wof:lastmodified":1579022486,
     "wof:name":"MU4193 (LAX-SFO)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

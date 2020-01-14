@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578888360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA481",
+    "flysfo:flight_number":"481",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578888360,
@@ -104,7 +104,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578948819,
+    "wof:lastmodified":1579022294,
     "wof:name":"UA481 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

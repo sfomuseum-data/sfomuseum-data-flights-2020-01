@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5374",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9230",
+    "flysfo:flight_number":"9230",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-SLC",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578949566,
+    "wof:lastmodified":1579022815,
     "wof:name":"LH9230 (SFO-SLC)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

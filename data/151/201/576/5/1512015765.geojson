@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2757",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS4111",
+    "flysfo:flight_number":"4111",
     "flysfo:gate":"C3",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022813,
     "wof:name":"VS4111 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1288",
+    "flysfo:flight_number":"1288",
     "flysfo:gate":"F2",
     "flysfo:journey":"OGG-SFO",
     "flysfo:scheduled_timestamp":1578900420,
@@ -103,7 +103,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1578948775,
+    "wof:lastmodified":1579022224,
     "wof:name":"UA1288 (OGG-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

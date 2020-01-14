@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774300,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7932",
+    "flysfo:flight_number":"7932",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578774300,
@@ -94,7 +94,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022452,
     "wof:name":"CX7932 (SFO-LAS)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

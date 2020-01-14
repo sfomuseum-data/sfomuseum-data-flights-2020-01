@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578925440,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7318",
+    "flysfo:flight_number":"7318",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578925800,
@@ -94,7 +94,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022918,
     "wof:name":"CA7318 (SFO-LAX)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

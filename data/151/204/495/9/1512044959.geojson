@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578844620,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5893",
+    "flysfo:flight_number":"5893",
     "flysfo:gate":"F9",
     "flysfo:journey":"PAE-SFO",
     "flysfo:scheduled_timestamp":1578845160,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022324,
     "wof:name":"UA5893 (PAE-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

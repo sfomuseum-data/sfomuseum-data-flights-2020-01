@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5287",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9204",
+    "flysfo:flight_number":"9204",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578949549,
+    "wof:lastmodified":1579022791,
     "wof:name":"NZ9204 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

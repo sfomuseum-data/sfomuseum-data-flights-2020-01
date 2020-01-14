@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5682",
+    "flysfo:flight_number":"5682",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578934080,
@@ -88,7 +88,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579023018,
     "wof:name":"UA5682 (SFO-DFW)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578855480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4518",
+    "flysfo:flight_number":"4518",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SNA",
     "flysfo:scheduled_timestamp":1578855600,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948765,
+    "wof:lastmodified":1579022203,
     "wof:name":"AC4518 (SFO-SNA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578851100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5848",
+    "flysfo:flight_number":"5848",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578851100,
@@ -94,7 +94,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1578950094,
+    "wof:lastmodified":1579022873,
     "wof:name":"FJ5848 (SFO-IAD)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

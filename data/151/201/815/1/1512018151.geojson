@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1594",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"FJ5842",
+    "flysfo:flight_number":"5842",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-LAS",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"FJ5842 (SFO-LAS)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578686820,
     "flysfo:event":"D",
-    "flysfo:flight_number":"KE3471",
+    "flysfo:flight_number":"3471",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-DTW",
     "flysfo:scheduled_timestamp":1578686820,
@@ -94,7 +94,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578948992,
+    "wof:lastmodified":1579022589,
     "wof:name":"KE3471 (SFO-DTW)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

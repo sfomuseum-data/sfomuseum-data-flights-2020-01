@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687840,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5404",
+    "flysfo:flight_number":"5404",
     "flysfo:gate":"F20",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578688200,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1578949041,
+    "wof:lastmodified":1579022666,
     "wof:name":"AC5404 (LAS-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

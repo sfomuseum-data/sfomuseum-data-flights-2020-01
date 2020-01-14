@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578764580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5381",
+    "flysfo:flight_number":"5381",
     "flysfo:gate":"E3",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578764700,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1578948864,
+    "wof:lastmodified":1579022368,
     "wof:name":"UA5381 (DFW-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

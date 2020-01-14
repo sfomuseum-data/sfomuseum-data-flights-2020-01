@@ -7,7 +7,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1905",
+    "flysfo:flight_number":"1905",
     "flysfo:gate":"D16",
     "flysfo:journey":"LAS-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578949565,
+    "wof:lastmodified":1579022813,
     "wof:name":"AS1905 (LAS-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578708180,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS368",
+    "flysfo:flight_number":"368",
     "flysfo:gate":"D8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578705360,
@@ -88,7 +88,7 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1578949006,
+    "wof:lastmodified":1579022621,
     "wof:name":"AS368 (SEA-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

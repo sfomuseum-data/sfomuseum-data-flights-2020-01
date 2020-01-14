@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL3008",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"VS4919",
+    "flysfo:flight_number":"4919",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949536,
+    "wof:lastmodified":1579022773,
     "wof:name":"VS4919 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

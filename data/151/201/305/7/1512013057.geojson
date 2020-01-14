@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5800",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9622",
+    "flysfo:flight_number":"9622",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SLC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930413,
         1159285413
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022781,
     "wof:name":"NZ9622 (SLC-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

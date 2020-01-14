@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5756",
+    "flysfo:flight_number":"5756",
     "flysfo:gate":"F6",
     "flysfo:journey":"SBP-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578949541,
+    "wof:lastmodified":1579022782,
     "wof:name":"UA5756 (SBP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

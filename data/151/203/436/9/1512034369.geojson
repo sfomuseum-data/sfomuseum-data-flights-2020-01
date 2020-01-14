@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA948",
+    "flysfo:flight_number":"948",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-DEN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022427,
     "wof:name":"UA948 (SFO-DEN)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578958800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5332",
+    "flysfo:flight_number":"5332",
     "flysfo:gate":"F15N",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578957240,
@@ -88,7 +88,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022930,
     "wof:name":"UA5332 (RNO-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

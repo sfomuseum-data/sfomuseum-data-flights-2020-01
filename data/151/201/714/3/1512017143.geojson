@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AC756",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OS8216",
+    "flysfo:flight_number":"8216",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-YYZ",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930485,
         1159283597
     ],
-    "wof:lastmodified":1578949521,
+    "wof:lastmodified":1579022749,
     "wof:name":"OS8216 (SFO-YYZ)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578784560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1478",
+    "flysfo:flight_number":"1478",
     "flysfo:gate":"E8",
     "flysfo:journey":"DEN-SFO",
     "flysfo:scheduled_timestamp":1578785640,
@@ -102,7 +102,7 @@
         1477930393,
         1377564285
     ],
-    "wof:lastmodified":1578948915,
+    "wof:lastmodified":1579022447,
     "wof:name":"UA1478 (DEN-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

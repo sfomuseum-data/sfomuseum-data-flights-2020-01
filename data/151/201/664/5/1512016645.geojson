@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5260",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9157",
+    "flysfo:flight_number":"9157",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-BFL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1578949554,
+    "wof:lastmodified":1579022799,
     "wof:name":"NZ9157 (SFO-BFL)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

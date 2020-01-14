@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578786600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WS6975",
+    "flysfo:flight_number":"6975",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578784200,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948849,
+    "wof:lastmodified":1579022344,
     "wof:name":"WS6975 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

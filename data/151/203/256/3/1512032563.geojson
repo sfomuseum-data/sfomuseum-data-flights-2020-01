@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2703",
+    "flysfo:flight_number":"2703",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -98,7 +98,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1578948908,
+    "wof:lastmodified":1579022434,
     "wof:name":"DL2703 (SFO-SEA)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

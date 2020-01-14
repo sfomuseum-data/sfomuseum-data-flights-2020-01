@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL2313",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AM4018",
+    "flysfo:flight_number":"4018",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1578949550,
+    "wof:lastmodified":1579022793,
     "wof:name":"AM4018 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

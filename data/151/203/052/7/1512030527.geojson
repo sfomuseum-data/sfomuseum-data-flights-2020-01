@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578705960,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA580",
+    "flysfo:flight_number":"580",
     "flysfo:gate":"E5",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578707100,
@@ -88,7 +88,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1578948904,
+    "wof:lastmodified":1579022428,
     "wof:name":"UA580 (SAN-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

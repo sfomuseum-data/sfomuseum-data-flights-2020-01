@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA922",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"LA6681",
+    "flysfo:flight_number":"6681",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1578948985,
+    "wof:lastmodified":1579022571,
     "wof:name":"LA6681 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

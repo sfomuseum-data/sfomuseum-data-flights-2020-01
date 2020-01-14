@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578806820,
     "flysfo:event":"A",
-    "flysfo:flight_number":"SQ1343",
+    "flysfo:flight_number":"1343",
     "flysfo:gate":"D4",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578808140,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578948970,
+    "wof:lastmodified":1579022541,
     "wof:name":"SQ1343 (LAX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

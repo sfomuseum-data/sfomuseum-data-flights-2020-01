@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM2344",
+    "flysfo:flight_number":"2344",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-BOI",
     "flysfo:scheduled_timestamp":1578793740,
@@ -94,7 +94,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1578948938,
+    "wof:lastmodified":1579022485,
     "wof:name":"CM2344 (SFO-BOI)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2161",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7336",
+    "flysfo:flight_number":"7336",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949496,
+    "wof:lastmodified":1579022713,
     "wof:name":"CA7336 (SFO-SEA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

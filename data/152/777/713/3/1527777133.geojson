@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5585",
+    "flysfo:flight_number":"5585",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-OKC",
     "flysfo:scheduled_timestamp":1578858840,
@@ -88,7 +88,7 @@
         1159285413,
         1477930423
     ],
-    "wof:lastmodified":1578950098,
+    "wof:lastmodified":1579022878,
     "wof:name":"UA5585 (SFO-OKC)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

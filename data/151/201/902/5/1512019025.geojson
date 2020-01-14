@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2263",
+    "flysfo:flight_number":"2263",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930411
     ],
-    "wof:lastmodified":1578949540,
+    "wof:lastmodified":1579022780,
     "wof:name":"UA2263 (SFO-LAX)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

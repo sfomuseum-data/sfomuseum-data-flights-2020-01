@@ -7,7 +7,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5912",
+    "flysfo:flight_number":"5912",
     "flysfo:gate":"F7",
     "flysfo:journey":"TUS-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1578949492,
+    "wof:lastmodified":1579022706,
     "wof:name":"UA5912 (TUS-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

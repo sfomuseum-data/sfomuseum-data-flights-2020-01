@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578793800,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN3034",
+    "flysfo:flight_number":"3034",
     "flysfo:gate":"B14",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578786900,
@@ -88,7 +88,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578948943,
+    "wof:lastmodified":1579022494,
     "wof:name":"WN3034 (LAX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1549",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"NZ9409",
+    "flysfo:flight_number":"9409",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SEA",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1578948915,
+    "wof:lastmodified":1579022447,
     "wof:name":"NZ9409 (SFO-SEA)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

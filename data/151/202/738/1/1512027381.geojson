@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1616",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4589",
+    "flysfo:flight_number":"4589",
     "flysfo:gate":"E9",
     "flysfo:journey":"SNA-SFO",
     "flysfo:timestamp":1578683940,
@@ -91,7 +91,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1578949005,
+    "wof:lastmodified":1579022617,
     "wof:name":"AC4589 (SNA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

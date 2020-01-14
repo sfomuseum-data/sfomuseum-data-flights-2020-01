@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL570",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AR7060",
+    "flysfo:flight_number":"7060",
     "flysfo:gate":"C4",
     "flysfo:journey":"ATL-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022754,
     "wof:name":"AR7060 (ATL-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

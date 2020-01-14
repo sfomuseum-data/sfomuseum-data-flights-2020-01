@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578687900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS712",
+    "flysfo:flight_number":"712",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578687900,
@@ -96,7 +96,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578948902,
+    "wof:lastmodified":1579022425,
     "wof:name":"AS712 (SFO-LAS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

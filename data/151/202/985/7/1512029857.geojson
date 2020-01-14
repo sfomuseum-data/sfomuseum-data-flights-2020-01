@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578696600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"WN1772",
+    "flysfo:flight_number":"1772",
     "flysfo:gate":"B9",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578698100,
@@ -104,7 +104,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949019,
+    "wof:lastmodified":1579022646,
     "wof:name":"WN1772 (PHX-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

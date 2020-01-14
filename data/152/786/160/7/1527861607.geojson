@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578990000,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3046",
+    "flysfo:flight_number":"3046",
     "flysfo:gate":"D14",
     "flysfo:journey":"MIA-SFO",
     "flysfo:scheduled_timestamp":1578989400,
@@ -94,7 +94,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022913,
     "wof:name":"QF3046 (MIA-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

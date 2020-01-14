@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578843840,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2352",
+    "flysfo:flight_number":"2352",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578843900,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948794,
+    "wof:lastmodified":1579022260,
     "wof:name":"AV2352 (SFO-BUR)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

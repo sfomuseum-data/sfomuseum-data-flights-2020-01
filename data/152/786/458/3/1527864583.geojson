@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578984780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2036",
+    "flysfo:flight_number":"2036",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578985020,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579023008,
     "wof:name":"AV2036 (SFO-SEA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA223",
+    "flysfo:flight_number":"223",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-DEN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1578948989,
+    "wof:lastmodified":1579022581,
     "wof:name":"UA223 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

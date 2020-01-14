@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2176",
+    "flysfo:flight_number":"2176",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-ONT",
     "flysfo:timestamp":0,
@@ -93,7 +93,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578948935,
+    "wof:lastmodified":1579022481,
     "wof:name":"WN2176 (SFO-ONT)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

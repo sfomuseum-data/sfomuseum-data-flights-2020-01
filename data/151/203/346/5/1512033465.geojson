@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578721200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"SQ1434",
+    "flysfo:flight_number":"1434",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578721200,
@@ -94,7 +94,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1578948913,
+    "wof:lastmodified":1579022442,
     "wof:name":"SQ1434 (SFO-SAN)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

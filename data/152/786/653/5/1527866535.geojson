@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578938760,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5404",
+    "flysfo:flight_number":"5404",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-OMA",
     "flysfo:scheduled_timestamp":1578936600,
@@ -88,7 +88,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579023019,
     "wof:name":"UA5404 (SFO-OMA)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

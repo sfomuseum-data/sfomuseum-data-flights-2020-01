@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578800100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5643",
+    "flysfo:flight_number":"5643",
     "flysfo:gate":"F3A",
     "flysfo:journey":"YYC-SFO",
     "flysfo:scheduled_timestamp":1578793200,
@@ -88,7 +88,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578948947,
+    "wof:lastmodified":1579022502,
     "wof:name":"UA5643 (YYC-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

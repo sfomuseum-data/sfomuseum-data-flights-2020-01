@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578813660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AF2223",
+    "flysfo:flight_number":"2223",
     "flysfo:gate":"",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578813660,
@@ -48,7 +48,7 @@
         1159283627,
         -1
     ],
-    "wof:lastmodified":1578845519,
+    "wof:lastmodified":1579022556,
     "wof:name":"AF2223 (LAX-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

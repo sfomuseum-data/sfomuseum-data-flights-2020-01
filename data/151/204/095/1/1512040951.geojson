@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578788100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA624",
+    "flysfo:flight_number":"624",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-ORD",
     "flysfo:scheduled_timestamp":1578768480,
@@ -88,7 +88,7 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1578948830,
+    "wof:lastmodified":1579022312,
     "wof:name":"UA624 (SFO-ORD)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

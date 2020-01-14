@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578938100,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5694",
+    "flysfo:flight_number":"5694",
     "flysfo:gate":"E2",
     "flysfo:journey":"MCI-SFO",
     "flysfo:scheduled_timestamp":1578936660,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1579018436,
+    "wof:lastmodified":1579022905,
     "wof:name":"UA5694 (MCI-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA447",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6401",
+    "flysfo:flight_number":"6401",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578949558,
+    "wof:lastmodified":1579022803,
     "wof:name":"OZ6401 (SFO-SEA)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

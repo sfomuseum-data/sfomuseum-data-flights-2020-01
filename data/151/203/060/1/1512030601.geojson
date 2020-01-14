@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA722",
+    "flysfo:flight_number":"722",
     "flysfo:gate":"F3",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578718080,
@@ -104,7 +104,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1578948981,
+    "wof:lastmodified":1579022562,
     "wof:name":"UA722 (SAN-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

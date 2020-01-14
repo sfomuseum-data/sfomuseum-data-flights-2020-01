@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1784",
+    "flysfo:flight_number":"1784",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578880740,
@@ -104,7 +104,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1578950091,
+    "wof:lastmodified":1579022867,
     "wof:name":"UA1784 (SFO-PDX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

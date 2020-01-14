@@ -7,7 +7,7 @@
     "flysfo:airline":"AV",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV560",
+    "flysfo:flight_number":"560",
     "flysfo:gate":"A10",
     "flysfo:journey":"SAL-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159283957,
         1477930303
     ],
-    "wof:lastmodified":1578949486,
+    "wof:lastmodified":1579022694,
     "wof:name":"AV560 (SAL-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

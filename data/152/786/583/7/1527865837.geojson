@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578925200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QR3908",
+    "flysfo:flight_number":"3908",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578925200,
@@ -94,7 +94,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023034,
     "wof:name":"QR3908 (SFO-JFK)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

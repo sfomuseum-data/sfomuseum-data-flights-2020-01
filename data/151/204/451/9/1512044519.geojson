@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578849720,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA1727",
+    "flysfo:flight_number":"1727",
     "flysfo:gate":"E8",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578850800,
@@ -104,7 +104,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578948830,
+    "wof:lastmodified":1579022311,
     "wof:name":"UA1727 (SAN-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

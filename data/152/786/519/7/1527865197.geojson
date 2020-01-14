@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979080,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9230",
+    "flysfo:flight_number":"9230",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578975000,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022959,
     "wof:name":"LH9230 (SFO-SLC)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

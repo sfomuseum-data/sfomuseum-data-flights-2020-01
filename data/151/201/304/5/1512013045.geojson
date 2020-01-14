@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5899",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9582",
+    "flysfo:flight_number":"9582",
     "flysfo:gate":"E1",
     "flysfo:journey":"RNO-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1578949534,
+    "wof:lastmodified":1579022768,
     "wof:name":"NZ9582 (RNO-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

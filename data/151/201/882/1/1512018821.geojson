@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1809",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3069",
+    "flysfo:flight_number":"3069",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SEA",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022789,
     "wof:name":"EK3069 (SFO-SEA)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

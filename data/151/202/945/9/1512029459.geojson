@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61136",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"JL5893",
+    "flysfo:flight_number":"5893",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949046,
+    "wof:lastmodified":1579022670,
     "wof:name":"JL5893 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

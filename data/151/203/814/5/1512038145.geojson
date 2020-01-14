@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578810900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4366",
+    "flysfo:flight_number":"4366",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBA",
     "flysfo:scheduled_timestamp":1578811140,
@@ -94,7 +94,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1578948963,
+    "wof:lastmodified":1579022531,
     "wof:name":"AC4366 (SFO-SBA)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

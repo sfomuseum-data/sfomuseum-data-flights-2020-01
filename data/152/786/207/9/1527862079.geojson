@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578937320,
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6737",
+    "flysfo:flight_number":"6737",
     "flysfo:gate":"C8",
     "flysfo:journey":"CVG-SFO",
     "flysfo:scheduled_timestamp":1578936660,
@@ -94,7 +94,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579018434,
+    "wof:lastmodified":1579023011,
     "wof:name":"KE6737 (CVG-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

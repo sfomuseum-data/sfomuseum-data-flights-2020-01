@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578795420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA632",
+    "flysfo:flight_number":"632",
     "flysfo:gate":"F21",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578796560,
@@ -88,7 +88,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022571,
     "wof:name":"UA632 (LAX-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

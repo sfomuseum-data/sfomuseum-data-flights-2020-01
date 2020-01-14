@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA481",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV2056",
+    "flysfo:flight_number":"2056",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PDX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022754,
     "wof:name":"AV2056 (SFO-PDX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

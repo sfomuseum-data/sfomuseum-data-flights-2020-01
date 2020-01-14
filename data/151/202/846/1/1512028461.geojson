@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA614",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"BA6703",
+    "flysfo:flight_number":"6703",
     "flysfo:gate":"D10",
     "flysfo:journey":"PHL-SFO",
     "flysfo:timestamp":1578683640,
@@ -91,7 +91,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578949031,
+    "wof:lastmodified":1579022657,
     "wof:name":"BA6703 (PHL-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

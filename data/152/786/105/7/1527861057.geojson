@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CA7252",
+    "flysfo:flight_number":"7252",
     "flysfo:gate":"F2",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578933900,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579018431,
+    "wof:lastmodified":1579022911,
     "wof:name":"CA7252 (LAS-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

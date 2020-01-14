@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759780,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2426",
+    "flysfo:flight_number":"2426",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-PSP",
     "flysfo:scheduled_timestamp":1578760200,
@@ -104,7 +104,7 @@
         1477930385,
         1159289407
     ],
-    "wof:lastmodified":1578948781,
+    "wof:lastmodified":1579022238,
     "wof:name":"UA2426 (SFO-PSP)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

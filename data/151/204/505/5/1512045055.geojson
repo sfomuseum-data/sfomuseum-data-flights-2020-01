@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578848940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA838",
+    "flysfo:flight_number":"838",
     "flysfo:gate":"G9",
     "flysfo:journey":"NRT-SFO",
     "flysfo:scheduled_timestamp":1578849000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1578948762,
+    "wof:lastmodified":1579022197,
     "wof:name":"UA838 (NRT-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

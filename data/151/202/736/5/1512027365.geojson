@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1218",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4521",
+    "flysfo:flight_number":"4521",
     "flysfo:gate":"F22",
     "flysfo:journey":"LAS-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1578949004,
+    "wof:lastmodified":1579022616,
     "wof:name":"AC4521 (LAS-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

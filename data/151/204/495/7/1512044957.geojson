@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578858360,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5876",
+    "flysfo:flight_number":"5876",
     "flysfo:gate":"E2",
     "flysfo:journey":"FAT-SFO",
     "flysfo:scheduled_timestamp":1578857940,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022324,
     "wof:name":"UA5876 (FAT-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

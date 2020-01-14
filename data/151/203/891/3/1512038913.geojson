@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578789000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1327",
+    "flysfo:flight_number":"1327",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578789000,
@@ -88,7 +88,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1578948973,
+    "wof:lastmodified":1579022547,
     "wof:name":"AS1327 (SFO-PDX)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

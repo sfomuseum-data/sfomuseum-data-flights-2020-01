@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578893460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2074",
+    "flysfo:flight_number":"2074",
     "flysfo:gate":"E8",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578893820,
@@ -88,7 +88,7 @@
         1159285413,
         1477930393
     ],
-    "wof:lastmodified":1578948826,
+    "wof:lastmodified":1579022304,
     "wof:name":"UA2074 (SEA-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

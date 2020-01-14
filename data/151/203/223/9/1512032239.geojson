@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA888",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"CA7206",
+    "flysfo:flight_number":"7206",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-PEK",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930479,
         1159285413
     ],
-    "wof:lastmodified":1578948956,
+    "wof:lastmodified":1579022518,
     "wof:name":"CA7206 (SFO-PEK)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

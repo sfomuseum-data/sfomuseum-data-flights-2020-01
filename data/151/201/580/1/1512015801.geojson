@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"KL605",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"VS6851",
+    "flysfo:flight_number":"6851",
     "flysfo:gate":"A2",
     "flysfo:journey":"AMS-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930283,
         1159284613
     ],
-    "wof:lastmodified":1578949530,
+    "wof:lastmodified":1579022762,
     "wof:name":"VS6851 (AMS-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

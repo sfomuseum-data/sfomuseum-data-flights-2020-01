@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578694200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1594",
+    "flysfo:flight_number":"1594",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578694200,
@@ -102,7 +102,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1578948922,
+    "wof:lastmodified":1579022459,
     "wof:name":"AS1594 (SFO-LAS)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

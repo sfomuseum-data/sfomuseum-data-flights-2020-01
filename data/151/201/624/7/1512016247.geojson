@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1013",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC5438",
+    "flysfo:flight_number":"5438",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-DEN",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1578949548,
+    "wof:lastmodified":1579022790,
     "wof:name":"AC5438 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

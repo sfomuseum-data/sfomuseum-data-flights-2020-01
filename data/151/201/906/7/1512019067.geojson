@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA256",
+    "flysfo:flight_number":"256",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930395,
         1159289871
     ],
-    "wof:lastmodified":1578949493,
+    "wof:lastmodified":1579022707,
     "wof:name":"UA256 (SFO-LAX)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

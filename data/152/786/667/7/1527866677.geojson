@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578933000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5802",
+    "flysfo:flight_number":"5802",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-TUS",
     "flysfo:scheduled_timestamp":1578933000,
@@ -88,7 +88,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022945,
     "wof:name":"UA5802 (SFO-TUS)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

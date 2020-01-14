@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578784380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9276",
+    "flysfo:flight_number":"9276",
     "flysfo:gate":"F1",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578785760,
@@ -94,7 +94,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1578948917,
+    "wof:lastmodified":1579022451,
     "wof:name":"NZ9276 (LAX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

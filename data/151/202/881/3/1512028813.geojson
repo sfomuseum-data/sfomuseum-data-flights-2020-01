@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578729480,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CX7997",
+    "flysfo:flight_number":"7997",
     "flysfo:gate":"D6",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578730680,
@@ -94,7 +94,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949010,
+    "wof:lastmodified":1579022632,
     "wof:name":"CX7997 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

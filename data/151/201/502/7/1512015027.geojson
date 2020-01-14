@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1927",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3007",
+    "flysfo:flight_number":"3007",
     "flysfo:gate":"D8",
     "flysfo:journey":"LAX-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022702,
     "wof:name":"EK3007 (LAX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

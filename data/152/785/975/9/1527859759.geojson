@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578972600,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4052",
+    "flysfo:flight_number":"4052",
     "flysfo:gate":"F5",
     "flysfo:journey":"RNO-SFO",
     "flysfo:scheduled_timestamp":1578968400,
@@ -94,7 +94,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022859,
     "wof:name":"AC4052 (RNO-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

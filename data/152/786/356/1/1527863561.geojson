@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578935040,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4322",
+    "flysfo:flight_number":"4322",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-ONT",
     "flysfo:scheduled_timestamp":1578933960,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579018438,
+    "wof:lastmodified":1579022979,
     "wof:name":"AC4322 (SFO-ONT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

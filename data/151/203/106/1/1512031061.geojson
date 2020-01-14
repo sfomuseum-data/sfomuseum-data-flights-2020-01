@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578724500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AC4370",
+    "flysfo:flight_number":"4370",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-RNO",
     "flysfo:scheduled_timestamp":1578725100,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948945,
+    "wof:lastmodified":1579022499,
     "wof:name":"AC4370 (SFO-RNO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

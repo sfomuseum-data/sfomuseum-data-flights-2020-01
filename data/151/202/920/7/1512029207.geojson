@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3327",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF3792",
+    "flysfo:flight_number":"3792",
     "flysfo:gate":"D6",
     "flysfo:journey":"PSP-SFO",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1578949042,
+    "wof:lastmodified":1579022666,
     "wof:name":"QF3792 (PSP-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

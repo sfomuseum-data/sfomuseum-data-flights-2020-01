@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LH7859",
+    "flysfo:flight_number":"7859",
     "flysfo:gate":"E12",
     "flysfo:journey":"LIH-SFO",
     "flysfo:scheduled_timestamp":1578979800,
@@ -94,7 +94,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022907,
     "wof:name":"LH7859 (LIH-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

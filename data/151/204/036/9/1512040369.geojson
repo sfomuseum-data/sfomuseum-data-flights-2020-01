@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578759600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"TP4394",
+    "flysfo:flight_number":"4394",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578759600,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578948786,
+    "wof:lastmodified":1579022246,
     "wof:name":"TP4394 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

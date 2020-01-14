@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894000,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3062",
+    "flysfo:flight_number":"3062",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578894000,
@@ -94,7 +94,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022877,
     "wof:name":"EK3062 (SFO-SAN)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

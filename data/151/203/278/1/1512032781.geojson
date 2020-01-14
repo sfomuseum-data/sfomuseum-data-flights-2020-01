@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA164",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3211",
+    "flysfo:flight_number":"3211",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930371,
         1159283849
     ],
-    "wof:lastmodified":1578948958,
+    "wof:lastmodified":1579022522,
     "wof:name":"QF3211 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

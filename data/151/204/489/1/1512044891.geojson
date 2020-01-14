@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578877560,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5679",
+    "flysfo:flight_number":"5679",
     "flysfo:gate":"F5",
     "flysfo:journey":"EGE-SFO",
     "flysfo:scheduled_timestamp":1578876900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1578948825,
+    "wof:lastmodified":1579022303,
     "wof:name":"UA5679 (EGE-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

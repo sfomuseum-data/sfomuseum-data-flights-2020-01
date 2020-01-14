@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578902700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CM8012",
+    "flysfo:flight_number":"8012",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-TPE",
     "flysfo:scheduled_timestamp":1578902700,
@@ -94,7 +94,7 @@
         1477930485,
         1159284349
     ],
-    "wof:lastmodified":1578950112,
+    "wof:lastmodified":1579022901,
     "wof:name":"CM8012 (SFO-TPE)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9173",
+    "flysfo:flight_number":"9173",
     "flysfo:gate":"F15M",
     "flysfo:journey":"EUG-SFO",
     "flysfo:scheduled_timestamp":1578757860,
@@ -94,7 +94,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1578948923,
+    "wof:lastmodified":1579022460,
     "wof:name":"NZ9173 (EUG-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

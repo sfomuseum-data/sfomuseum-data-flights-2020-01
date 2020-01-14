@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"DL1210",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AF5717",
+    "flysfo:flight_number":"5717",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-ATL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022740,
     "wof:name":"AF5717 (SFO-ATL)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757020,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1897",
+    "flysfo:flight_number":"1897",
     "flysfo:gate":"D5",
     "flysfo:journey":"LAS-SFO",
     "flysfo:scheduled_timestamp":1578758100,
@@ -88,7 +88,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1578948853,
+    "wof:lastmodified":1579022350,
     "wof:name":"AS1897 (LAS-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

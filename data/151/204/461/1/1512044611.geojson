@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578896640,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA2201",
+    "flysfo:flight_number":"2201",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578897900,
@@ -88,7 +88,7 @@
         1159285413,
         1477930399
     ],
-    "wof:lastmodified":1578948837,
+    "wof:lastmodified":1579022325,
     "wof:name":"UA2201 (LAX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

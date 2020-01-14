@@ -11,7 +11,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS1903",
+    "flysfo:flight_number":"1903",
     "flysfo:gate":"D9",
     "flysfo:journey":"LAS-SFO",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477930357,
         1159292085
     ],
-    "wof:lastmodified":1578949006,
+    "wof:lastmodified":1579022620,
     "wof:name":"AS1903 (LAS-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

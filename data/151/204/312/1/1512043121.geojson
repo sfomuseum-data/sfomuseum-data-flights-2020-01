@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578899460,
     "flysfo:event":"A",
-    "flysfo:flight_number":"CM2386",
+    "flysfo:flight_number":"2386",
     "flysfo:gate":"E7",
     "flysfo:journey":"KOA-SFO",
     "flysfo:scheduled_timestamp":1578899280,
@@ -94,7 +94,7 @@
         1477930391,
         1159285413
     ],
-    "wof:lastmodified":1578948798,
+    "wof:lastmodified":1579022265,
     "wof:name":"CM2386 (KOA-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

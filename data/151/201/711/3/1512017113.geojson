@@ -9,7 +9,7 @@
     "flysfo:airline":"AS",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS590",
+    "flysfo:flight_number":"590",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-EWR",
     "geom:area":0.0,
@@ -98,7 +98,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1578949573,
+    "wof:lastmodified":1579022826,
     "wof:name":"AS590 (SFO-EWR)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

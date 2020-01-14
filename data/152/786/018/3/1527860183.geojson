@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578934140,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NH7395",
+    "flysfo:flight_number":"7395",
     "flysfo:gate":"E10",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578933180,
@@ -94,7 +94,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579018429,
+    "wof:lastmodified":1579022993,
     "wof:name":"NH7395 (YVR-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

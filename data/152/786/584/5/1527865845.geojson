@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578942600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QR4045",
+    "flysfo:flight_number":"4045",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578942600,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579018444,
+    "wof:lastmodified":1579023033,
     "wof:name":"QR4045 (SFO-BOS)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:airline":"DL",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL2313",
+    "flysfo:flight_number":"2313",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930319,
         1159289871
     ],
-    "wof:lastmodified":1578949487,
+    "wof:lastmodified":1579022694,
     "wof:name":"DL2313 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

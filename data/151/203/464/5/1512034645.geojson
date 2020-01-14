@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578801420,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4000",
+    "flysfo:flight_number":"4000",
     "flysfo:gate":"E5",
     "flysfo:journey":"PHX-SFO",
     "flysfo:scheduled_timestamp":1578802620,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948900,
+    "wof:lastmodified":1579022421,
     "wof:name":"AC4000 (PHX-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578717600,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK6126",
+    "flysfo:flight_number":"6126",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578717600,
@@ -94,7 +94,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578948922,
+    "wof:lastmodified":1579022459,
     "wof:name":"EK6126 (SFO-JFK)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

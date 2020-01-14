@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578900420,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA384",
+    "flysfo:flight_number":"384",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-PHL",
     "flysfo:scheduled_timestamp":1578900720,
@@ -88,7 +88,7 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1578950109,
+    "wof:lastmodified":1579022897,
     "wof:name":"UA384 (SFO-PHL)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

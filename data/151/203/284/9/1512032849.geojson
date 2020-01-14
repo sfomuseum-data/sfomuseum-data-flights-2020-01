@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695700,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF4479",
+    "flysfo:flight_number":"4479",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-DFW",
     "flysfo:scheduled_timestamp":1578693600,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1578948950,
+    "wof:lastmodified":1579022509,
     "wof:name":"QF4479 (SFO-DFW)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

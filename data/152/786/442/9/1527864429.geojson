@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578965100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AS1910",
+    "flysfo:flight_number":"1910",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578965100,
@@ -88,7 +88,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1579018440,
+    "wof:lastmodified":1579023005,
     "wof:name":"AS1910 (SFO-LAS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

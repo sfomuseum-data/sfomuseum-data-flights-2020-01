@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578763620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1246",
+    "flysfo:flight_number":"1246",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-MSY",
     "flysfo:scheduled_timestamp":1578763800,
@@ -104,7 +104,7 @@
         1477930397,
         1159289407
     ],
-    "wof:lastmodified":1578948772,
+    "wof:lastmodified":1579022218,
     "wof:name":"UA1246 (SFO-MSY)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

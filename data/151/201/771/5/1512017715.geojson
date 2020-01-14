@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AM663",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8080",
+    "flysfo:flight_number":"8080",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-GDL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1578949524,
+    "wof:lastmodified":1579022753,
     "wof:name":"DL8080 (SFO-GDL)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

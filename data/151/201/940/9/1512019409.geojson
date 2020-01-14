@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"NZ7",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA6755",
+    "flysfo:flight_number":"6755",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-AKL",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930469,
         1159283697
     ],
-    "wof:lastmodified":1578949525,
+    "wof:lastmodified":1579022755,
     "wof:name":"UA6755 (SFO-AKL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

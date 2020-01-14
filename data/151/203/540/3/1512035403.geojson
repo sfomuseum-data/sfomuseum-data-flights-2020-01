@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578758160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9624",
+    "flysfo:flight_number":"9624",
     "flysfo:gate":"F6",
     "flysfo:journey":"SLC-SFO",
     "flysfo:scheduled_timestamp":1578758100,
@@ -94,7 +94,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578948986,
+    "wof:lastmodified":1579022572,
     "wof:name":"NZ9624 (SLC-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

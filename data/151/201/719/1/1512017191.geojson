@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"BR17",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AV4504",
+    "flysfo:flight_number":"4504",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-TPE",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930463,
         1159284349
     ],
-    "wof:lastmodified":1578949568,
+    "wof:lastmodified":1579022817,
     "wof:name":"AV4504 (SFO-TPE)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

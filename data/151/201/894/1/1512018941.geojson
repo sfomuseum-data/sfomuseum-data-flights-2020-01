@@ -11,7 +11,7 @@
     "flysfo:airline":"UA",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA1761",
+    "flysfo:flight_number":"1761",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SJD",
     "geom:area":0.0,
@@ -100,7 +100,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1578949515,
+    "wof:lastmodified":1579022740,
     "wof:name":"UA1761 (SFO-SJD)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA1873",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC4239",
+    "flysfo:flight_number":"4239",
     "flysfo:gate":"F4",
     "flysfo:journey":"SLC-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578949552,
+    "wof:lastmodified":1579022796,
     "wof:name":"AC4239 (SLC-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578853200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"AR7025",
+    "flysfo:flight_number":"7025",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-ATL",
     "flysfo:scheduled_timestamp":1578849000,
@@ -94,7 +94,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1578948815,
+    "wof:lastmodified":1579022289,
     "wof:name":"AR7025 (SFO-ATL)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

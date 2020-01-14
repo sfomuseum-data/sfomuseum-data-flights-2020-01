@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578714060,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2798",
+    "flysfo:flight_number":"2798",
     "flysfo:gate":"D14",
     "flysfo:journey":"ORD-SFO",
     "flysfo:scheduled_timestamp":1578715200,
@@ -102,7 +102,7 @@
         1477930367,
         1159289871
     ],
-    "wof:lastmodified":1578949048,
+    "wof:lastmodified":1579022671,
     "wof:name":"AA2798 (ORD-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

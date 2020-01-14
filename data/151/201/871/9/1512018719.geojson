@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN2115",
+    "flysfo:flight_number":"2115",
     "flysfo:gate":"B18",
     "flysfo:journey":"SFO-BUR",
     "geom:area":0.0,
@@ -95,7 +95,7 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1578949547,
+    "wof:lastmodified":1579022790,
     "wof:name":"WN2115 (SFO-BUR)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

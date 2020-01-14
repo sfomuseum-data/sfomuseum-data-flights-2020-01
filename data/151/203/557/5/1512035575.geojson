@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578757680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AS3327",
+    "flysfo:flight_number":"3327",
     "flysfo:gate":"D2",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578757080,
@@ -88,7 +88,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578948866,
+    "wof:lastmodified":1579022369,
     "wof:name":"AS3327 (PSP-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

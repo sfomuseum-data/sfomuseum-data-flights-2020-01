@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578864780,
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3097",
+    "flysfo:flight_number":"3097",
     "flysfo:gate":"D8",
     "flysfo:journey":"PSP-SFO",
     "flysfo:scheduled_timestamp":1578865080,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948776,
+    "wof:lastmodified":1579022225,
     "wof:name":"EK3097 (PSP-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

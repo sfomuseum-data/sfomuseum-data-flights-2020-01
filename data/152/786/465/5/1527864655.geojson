@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578958680,
     "flysfo:event":"D",
-    "flysfo:flight_number":"BA1705",
+    "flysfo:flight_number":"1705",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-JFK",
     "flysfo:scheduled_timestamp":1578958680,
@@ -94,7 +94,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1579018441,
+    "wof:lastmodified":1579022956,
     "wof:name":"BA1705 (SFO-JFK)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61235",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"HA2355",
+    "flysfo:flight_number":"2355",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578949498,
+    "wof:lastmodified":1579022717,
     "wof:name":"HA2355 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

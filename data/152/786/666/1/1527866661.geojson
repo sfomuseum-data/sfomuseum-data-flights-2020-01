@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578961620,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA5753",
+    "flysfo:flight_number":"5753",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-RDD",
     "flysfo:scheduled_timestamp":1578961800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579018446,
+    "wof:lastmodified":1579022953,
     "wof:name":"UA5753 (SFO-RDD)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

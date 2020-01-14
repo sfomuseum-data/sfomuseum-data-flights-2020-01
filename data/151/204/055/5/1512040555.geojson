@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578797040,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2061",
+    "flysfo:flight_number":"2061",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578797400,
@@ -88,7 +88,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578948789,
+    "wof:lastmodified":1579022251,
     "wof:name":"UA2061 (SFO-LAS)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578774900,
     "flysfo:event":"D",
-    "flysfo:flight_number":"QF3746",
+    "flysfo:flight_number":"3746",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-SLC",
     "flysfo:scheduled_timestamp":1578774900,
@@ -94,7 +94,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578948925,
+    "wof:lastmodified":1579022465,
     "wof:name":"QF3746 (SFO-SLC)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

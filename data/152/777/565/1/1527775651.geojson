@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578904200,
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8126",
+    "flysfo:flight_number":"8126",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-MEX",
     "flysfo:scheduled_timestamp":1578904200,
@@ -94,7 +94,7 @@
         1477930315,
         1159283539
     ],
-    "wof:lastmodified":1578950103,
+    "wof:lastmodified":1579022886,
     "wof:name":"DL8126 (SFO-MEX)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

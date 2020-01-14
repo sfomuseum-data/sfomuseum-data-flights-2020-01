@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578970260,
     "flysfo:event":"D",
-    "flysfo:flight_number":"CX7960",
+    "flysfo:flight_number":"7960",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-PDX",
     "flysfo:scheduled_timestamp":1578967500,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579018442,
+    "wof:lastmodified":1579022956,
     "wof:name":"CX7960 (SFO-PDX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578710940,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LX3310",
+    "flysfo:flight_number":"3310",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SAN",
     "flysfo:scheduled_timestamp":1578711420,
@@ -94,7 +94,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1578948944,
+    "wof:lastmodified":1579022497,
     "wof:name":"LX3310 (SFO-SAN)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

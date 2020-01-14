@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AF83",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"DL8599",
+    "flysfo:flight_number":"8599",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-CDG",
     "geom:area":0.0,
@@ -50,7 +50,7 @@
         -1,
         1159283627
     ],
-    "wof:lastmodified":1578693566,
+    "wof:lastmodified":1579022815,
     "wof:name":"DL8599 (SFO-CDG)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

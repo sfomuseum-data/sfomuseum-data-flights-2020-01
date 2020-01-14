@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578857940,
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9643",
+    "flysfo:flight_number":"9643",
     "flysfo:gate":"F2",
     "flysfo:journey":"SAN-SFO",
     "flysfo:scheduled_timestamp":1578858300,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948814,
+    "wof:lastmodified":1579022288,
     "wof:name":"NZ9643 (SAN-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578760380,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA876",
+    "flysfo:flight_number":"876",
     "flysfo:gate":"G7",
     "flysfo:journey":"HND-SFO",
     "flysfo:scheduled_timestamp":1578760800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930475
     ],
-    "wof:lastmodified":1578948929,
+    "wof:lastmodified":1579022471,
     "wof:name":"UA876 (HND-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

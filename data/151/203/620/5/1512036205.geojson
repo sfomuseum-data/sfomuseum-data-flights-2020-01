@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-11",
     "flysfo:estimated_timestamp":1578783660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL856",
+    "flysfo:flight_number":"856",
     "flysfo:gate":"C3",
     "flysfo:journey":"ATL-SFO",
     "flysfo:scheduled_timestamp":1578785040,
@@ -104,7 +104,7 @@
         1477930319,
         1159289939
     ],
-    "wof:lastmodified":1578948891,
+    "wof:lastmodified":1579022408,
     "wof:name":"DL856 (ATL-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

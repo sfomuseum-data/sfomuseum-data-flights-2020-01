@@ -13,7 +13,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AA2248",
+    "flysfo:flight_number":"2248",
     "flysfo:gate":"D10",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578862920,
@@ -104,7 +104,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1578948760,
+    "wof:lastmodified":1579022193,
     "wof:name":"AA2248 (DFW-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578979320,
     "flysfo:event":"D",
-    "flysfo:flight_number":"UA2247",
+    "flysfo:flight_number":"2247",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-IAD",
     "flysfo:scheduled_timestamp":1578979800,
@@ -88,7 +88,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579018445,
+    "wof:lastmodified":1579022949,
     "wof:name":"UA2247 (SFO-IAD)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

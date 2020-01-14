@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS304",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"KE6113",
+    "flysfo:flight_number":"6113",
     "flysfo:gate":"D5",
     "flysfo:journey":"SEA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949553,
+    "wof:lastmodified":1579022797,
     "wof:name":"KE6113 (SEA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

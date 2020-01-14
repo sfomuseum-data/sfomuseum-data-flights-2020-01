@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578937080,
     "flysfo:event":"A",
-    "flysfo:flight_number":"DL7860",
+    "flysfo:flight_number":"7860",
     "flysfo:gate":"A13",
     "flysfo:journey":"ICN-SFO",
     "flysfo:scheduled_timestamp":1578936300,
@@ -94,7 +94,7 @@
         1477930309,
         1159284623
     ],
-    "wof:lastmodified":1579018432,
+    "wof:lastmodified":1579022958,
     "wof:name":"DL7860 (ICN-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AA1659",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"FJ5055",
+    "flysfo:flight_number":"5055",
     "flysfo:gate":"C7",
     "flysfo:journey":"CLT-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1578949511,
+    "wof:lastmodified":1579022734,
     "wof:name":"FJ5055 (CLT-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

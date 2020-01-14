@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA5203",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"NZ9548",
+    "flysfo:flight_number":"9548",
     "flysfo:gate":"F6",
     "flysfo:journey":"PSP-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1578949533,
+    "wof:lastmodified":1579022768,
     "wof:name":"NZ9548 (PSP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

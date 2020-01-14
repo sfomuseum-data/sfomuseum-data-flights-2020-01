@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578689460,
     "flysfo:event":"D",
-    "flysfo:flight_number":"NH7306",
+    "flysfo:flight_number":"7306",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-PHX",
     "flysfo:scheduled_timestamp":1578689520,
@@ -94,7 +94,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1578948947,
+    "wof:lastmodified":1579022501,
     "wof:name":"NH7306 (SFO-PHX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

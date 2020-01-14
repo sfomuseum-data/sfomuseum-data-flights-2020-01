@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-13",
     "flysfo:estimated_timestamp":1578954660,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC5110",
+    "flysfo:flight_number":"5110",
     "flysfo:gate":"F20",
     "flysfo:journey":"YVR-SFO",
     "flysfo:scheduled_timestamp":1578953760,
@@ -94,7 +94,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579018428,
+    "wof:lastmodified":1579022853,
     "wof:name":"AC5110 (YVR-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

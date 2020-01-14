@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578693480,
     "flysfo:event":"D",
-    "flysfo:flight_number":"LH9053",
+    "flysfo:flight_number":"9053",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-FRA",
     "flysfo:scheduled_timestamp":1578693000,
@@ -94,7 +94,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1578948894,
+    "wof:lastmodified":1579022413,
     "wof:name":"LH9053 (SFO-FRA)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

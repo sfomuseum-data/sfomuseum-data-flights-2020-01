@@ -7,7 +7,7 @@
     "flysfo:airline":"LY",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"LY19",
+    "flysfo:flight_number":"19",
     "flysfo:gate":"G6",
     "flysfo:journey":"TLV-SFO",
     "geom:area":0.0,
@@ -84,7 +84,7 @@
         1159284327,
         1477930471
     ],
-    "wof:lastmodified":1578949501,
+    "wof:lastmodified":1579022722,
     "wof:name":"LY19 (TLV-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

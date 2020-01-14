@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578887700,
     "flysfo:event":"A",
-    "flysfo:flight_number":"UA5576",
+    "flysfo:flight_number":"5576",
     "flysfo:gate":"E2",
     "flysfo:journey":"SNA-SFO",
     "flysfo:scheduled_timestamp":1578887760,
@@ -88,7 +88,7 @@
         1159285413,
         1477930379
     ],
-    "wof:lastmodified":1578948769,
+    "wof:lastmodified":1579022211,
     "wof:name":"UA5576 (SNA-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

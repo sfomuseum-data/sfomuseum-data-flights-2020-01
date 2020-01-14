@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578867900,
     "flysfo:event":"A",
-    "flysfo:flight_number":"QF4351",
+    "flysfo:flight_number":"4351",
     "flysfo:gate":"D10",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578862920,
@@ -94,7 +94,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1578948766,
+    "wof:lastmodified":1579022206,
     "wof:name":"QF4351 (DFW-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

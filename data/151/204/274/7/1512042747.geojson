@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578890580,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AV2037",
+    "flysfo:flight_number":"2037",
     "flysfo:gate":"F4",
     "flysfo:journey":"SEA-SFO",
     "flysfo:scheduled_timestamp":1578890820,
@@ -94,7 +94,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1578948771,
+    "wof:lastmodified":1579022214,
     "wof:name":"AV2037 (SEA-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

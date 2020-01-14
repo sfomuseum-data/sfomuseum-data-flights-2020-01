@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578889500,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN3152",
+    "flysfo:flight_number":"3152",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-LAX",
     "flysfo:scheduled_timestamp":1578884400,
@@ -88,7 +88,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578950097,
+    "wof:lastmodified":1579022878,
     "wof:name":"WN3152 (SFO-LAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

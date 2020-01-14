@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578881160,
     "flysfo:event":"A",
-    "flysfo:flight_number":"TG6330",
+    "flysfo:flight_number":"6330",
     "flysfo:gate":"A13",
     "flysfo:journey":"TPE-SFO",
     "flysfo:scheduled_timestamp":1578882600,
@@ -94,7 +94,7 @@
         1477930309,
         1159284349
     ],
-    "wof:lastmodified":1578948787,
+    "wof:lastmodified":1579022248,
     "wof:name":"TG6330 (TPE-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

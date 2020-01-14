@@ -11,7 +11,7 @@
     "flysfo:airline":"AA",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AA16",
+    "flysfo:flight_number":"16",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-JFK",
     "flysfo:timestamp":1578684660,
@@ -101,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1578948959,
+    "wof:lastmodified":1579022523,
     "wof:name":"AA16 (SFO-JFK)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

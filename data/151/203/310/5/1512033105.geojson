@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578699720,
     "flysfo:event":"D",
-    "flysfo:flight_number":"JL5886",
+    "flysfo:flight_number":"5886",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
     "flysfo:scheduled_timestamp":1578699720,
@@ -94,7 +94,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1578948992,
+    "wof:lastmodified":1579022591,
     "wof:name":"JL5886 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

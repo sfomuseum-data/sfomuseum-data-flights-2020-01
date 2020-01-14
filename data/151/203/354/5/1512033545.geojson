@@ -11,7 +11,7 @@
     "flysfo:airline":"WN",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1785",
+    "flysfo:flight_number":"1785",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-SAN",
     "flysfo:timestamp":0,
@@ -101,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578948861,
+    "wof:lastmodified":1579022362,
     "wof:name":"WN1785 (SFO-SAN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

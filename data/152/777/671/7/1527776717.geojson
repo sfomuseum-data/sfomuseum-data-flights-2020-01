@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578879960,
     "flysfo:event":"D",
-    "flysfo:flight_number":"EK3158",
+    "flysfo:flight_number":"3158",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAS",
     "flysfo:scheduled_timestamp":1578878700,
@@ -94,7 +94,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022889,
     "wof:name":"EK3158 (SFO-LAS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

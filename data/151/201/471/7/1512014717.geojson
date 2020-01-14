@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"B61415",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"QR3917",
+    "flysfo:flight_number":"3917",
     "flysfo:gate":"B8",
     "flysfo:journey":"JFK-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1578949499,
+    "wof:lastmodified":1579022720,
     "wof:name":"QR3917 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

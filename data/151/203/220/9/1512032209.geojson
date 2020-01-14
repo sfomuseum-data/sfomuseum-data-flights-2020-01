@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"UA2065",
     "flysfo:date":"2020-01-10",
     "flysfo:event":"D",
-    "flysfo:flight_number":"SN8912",
+    "flysfo:flight_number":"8912",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-EWR",
     "flysfo:timestamp":0,
@@ -91,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1578948878,
+    "wof:lastmodified":1579022388,
     "wof:name":"SN8912 (SFO-EWR)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

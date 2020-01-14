@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578695100,
     "flysfo:event":"D",
-    "flysfo:flight_number":"WN1801",
+    "flysfo:flight_number":"1801",
     "flysfo:gate":"B12",
     "flysfo:journey":"SFO-BUR",
     "flysfo:scheduled_timestamp":1578695100,
@@ -97,7 +97,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578948871,
+    "wof:lastmodified":1579022378,
     "wof:name":"WN1801 (SFO-BUR)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

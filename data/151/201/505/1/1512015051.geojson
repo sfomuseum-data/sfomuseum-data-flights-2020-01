@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS3347",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"A",
-    "flysfo:flight_number":"EK3086",
+    "flysfo:flight_number":"3086",
     "flysfo:gate":"D5",
     "flysfo:journey":"SNA-SFO",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949491,
+    "wof:lastmodified":1579022703,
     "wof:name":"EK3086 (SNA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

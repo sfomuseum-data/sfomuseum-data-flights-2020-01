@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578713640,
     "flysfo:event":"D",
-    "flysfo:flight_number":"OZ6302",
+    "flysfo:flight_number":"6302",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SEA",
     "flysfo:scheduled_timestamp":1578714360,
@@ -94,7 +94,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1578948907,
+    "wof:lastmodified":1579022432,
     "wof:name":"OZ6302 (SFO-SEA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578688680,
     "flysfo:event":"A",
-    "flysfo:flight_number":"LA5066",
+    "flysfo:flight_number":"5066",
     "flysfo:gate":"D5",
     "flysfo:journey":"LAX-SFO",
     "flysfo:scheduled_timestamp":1578690240,
@@ -94,7 +94,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1578949022,
+    "wof:lastmodified":1579022651,
     "wof:name":"LA5066 (LAX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

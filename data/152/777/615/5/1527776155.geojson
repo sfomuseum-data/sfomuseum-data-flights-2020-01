@@ -9,7 +9,7 @@
     "flysfo:date":"2020-01-12",
     "flysfo:estimated_timestamp":1578894240,
     "flysfo:event":"D",
-    "flysfo:flight_number":"B6134",
+    "flysfo:flight_number":"134",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
     "flysfo:scheduled_timestamp":1578894240,
@@ -88,7 +88,7 @@
         1159284583,
         1477881723
     ],
-    "wof:lastmodified":1578950105,
+    "wof:lastmodified":1579022890,
     "wof:name":"B6134 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

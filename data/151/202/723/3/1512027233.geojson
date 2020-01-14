@@ -11,7 +11,7 @@
     "flysfo:date":"2020-01-10",
     "flysfo:estimated_timestamp":1578733260,
     "flysfo:event":"A",
-    "flysfo:flight_number":"AC3970",
+    "flysfo:flight_number":"3970",
     "flysfo:gate":"E2",
     "flysfo:journey":"DFW-SFO",
     "flysfo:scheduled_timestamp":1578721800,
@@ -94,7 +94,7 @@
         1477930379,
         1159285413
     ],
-    "wof:lastmodified":1578949020,
+    "wof:lastmodified":1579022647,
     "wof:name":"AC3970 (DFW-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

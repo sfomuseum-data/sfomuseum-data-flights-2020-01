@@ -9,7 +9,7 @@
     "flysfo:base_flight_number":"AS1940",
     "flysfo:date":"2020-01-09",
     "flysfo:event":"D",
-    "flysfo:flight_number":"AY2513",
+    "flysfo:flight_number":"2513",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-LAX",
     "geom:area":0.0,
@@ -90,7 +90,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1578949555,
+    "wof:lastmodified":1579022800,
     "wof:name":"AY2513 (SFO-LAX)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
