@@ -6,9 +6,9 @@
     "geom:bbox":"0.000000,0.000000,0.000000,0.000000",
     "geom:latitude":40.945097,
     "geom:longitude":-101.233632,
+    "src:alt_label":"swim-route",
     "src:geom":"swim",
     "swim:geom":"route",
-    "wof:alt_label":"swim-route",
     "wof:geomhash":"cf93d3f9ba800e9a84a0e484cbab04c0",
     "wof:id":1511808937,
     "wof:repo":"sfomuseum-data-flights-2020-01"
