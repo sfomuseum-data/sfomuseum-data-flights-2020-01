@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2034",
     "flysfo:gate":"F15M",
     "flysfo:journey":"SFO-FAT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
     "geom:latitude":37.193359,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022542,
+    "wof:lastmodified":1579114719,
     "wof:name":"AV2034 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

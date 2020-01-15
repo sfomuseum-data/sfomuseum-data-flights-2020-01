@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1069",
     "flysfo:gate":"D9",
     "flysfo:journey":"IAD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -84,7 +85,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1579022754,
+    "wof:lastmodified":1579114777,
     "wof:name":"AS1069 (IAD-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

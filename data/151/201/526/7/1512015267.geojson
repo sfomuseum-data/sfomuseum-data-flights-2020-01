@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2356",
     "flysfo:gate":"F20",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578630360,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -100,7 +101,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1579022748,
+    "wof:lastmodified":1579114774,
     "wof:name":"UA2356 (LAS-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

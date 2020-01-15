@@ -12,6 +12,7 @@
     "flysfo:flight_number":"990",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
+    "flysfo:timestamp":1578640440,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -98,7 +99,7 @@
         1477930465,
         1159289995
     ],
-    "wof:lastmodified":1579022713,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA990 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5608",
     "flysfo:gate":"E1",
     "flysfo:journey":"MFR-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.874456,37.61799,-122.370943,42.369651",
     "geom:latitude":39.99382,
@@ -85,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1579022390,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA5608 (MFR-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

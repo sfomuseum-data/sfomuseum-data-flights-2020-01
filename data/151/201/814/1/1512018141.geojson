@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5820",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-KOA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -90,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579022793,
+    "wof:lastmodified":1579114804,
     "wof:name":"FJ5820 (SFO-KOA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

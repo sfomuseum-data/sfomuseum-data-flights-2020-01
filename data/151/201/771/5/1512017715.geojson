@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8080",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-GDL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.525627,-103.301974,37.61799",
     "geom:latitude":29.071808,
@@ -90,7 +91,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"DL8080 (SFO-GDL)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

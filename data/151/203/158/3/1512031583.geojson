@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9192",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-IAH",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1579022375,
+    "wof:lastmodified":1579114704,
     "wof:name":"NZ9192 (SFO-IAH)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

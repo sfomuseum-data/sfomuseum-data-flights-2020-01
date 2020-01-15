@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5448",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-ABQ",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.048762,-106.620586,37.61799",
     "geom:latitude":36.333376,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022543,
+    "wof:lastmodified":1579114719,
     "wof:name":"UA5448 (SFO-ABQ)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

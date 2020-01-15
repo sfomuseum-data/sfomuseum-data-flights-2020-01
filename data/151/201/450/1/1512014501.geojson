@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5428",
     "flysfo:gate":"D2",
     "flysfo:journey":"SEA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -90,7 +91,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1579022803,
+    "wof:lastmodified":1579114812,
     "wof:name":"JL5428 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

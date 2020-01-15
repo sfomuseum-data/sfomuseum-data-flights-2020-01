@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1796",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578669900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114768,
     "wof:name":"UA1796 (SFO-EWR)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

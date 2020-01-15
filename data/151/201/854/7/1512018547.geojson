@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1290",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SJD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
     "geom:latitude":30.389476,
@@ -90,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579022803,
+    "wof:lastmodified":1579114811,
     "wof:name":"SQ1290 (SFO-SJD)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

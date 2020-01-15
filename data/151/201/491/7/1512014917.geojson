@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1796",
     "flysfo:gate":"B17",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578629580,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -100,7 +101,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1579022744,
+    "wof:lastmodified":1579114771,
     "wof:name":"WN1796 (PHX-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

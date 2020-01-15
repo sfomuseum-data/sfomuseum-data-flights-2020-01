@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4370",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-RNO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-119.772167,39.505219",
     "geom:latitude":38.561605,
@@ -90,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579022791,
+    "wof:lastmodified":1579114802,
     "wof:name":"AC4370 (SFO-RNO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

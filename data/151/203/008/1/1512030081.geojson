@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1448",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAS-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578710760,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -101,7 +101,7 @@
         1477930399,
         1159289939
     ],
-    "wof:lastmodified":1579022439,
+    "wof:lastmodified":1579114709,
     "wof:name":"UA1448 (LAS-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5807",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-TPE",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -90,7 +91,7 @@
         1477930303,
         1159284349
     ],
-    "wof:lastmodified":1579022810,
+    "wof:lastmodified":1579114817,
     "wof:name":"SQ5807 (SFO-TPE)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

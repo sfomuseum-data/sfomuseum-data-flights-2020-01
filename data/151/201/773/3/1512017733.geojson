@@ -14,6 +14,7 @@
     "flysfo:flight_number":"459",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-MUC",
+    "flysfo:timestamp":1578664860,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,11.776808,48.352681",
     "geom:latitude":42.985335,
@@ -100,7 +101,7 @@
         1477930487,
         1159289437
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114825,
     "wof:name":"LH459 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

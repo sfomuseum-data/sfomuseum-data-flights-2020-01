@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2362",
     "flysfo:gate":"F19",
     "flysfo:journey":"DEN-SFO",
+    "flysfo:timestamp":1578619512,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -100,7 +101,7 @@
         1477930451,
         1159289945
     ],
-    "wof:lastmodified":1579022748,
+    "wof:lastmodified":1579114774,
     "wof:name":"UA2362 (DEN-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

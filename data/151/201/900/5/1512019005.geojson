@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2161",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578568800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930393,
         1159289407
     ],
-    "wof:lastmodified":1579022699,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA2161 (SFO-SEA)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

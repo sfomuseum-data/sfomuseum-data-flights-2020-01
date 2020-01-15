@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7687",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114786,
     "wof:name":"WS7687 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

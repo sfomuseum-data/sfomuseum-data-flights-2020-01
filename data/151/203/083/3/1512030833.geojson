@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1960",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-CLT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578700680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.220744,-80.942777,37.61799",
     "geom:latitude":36.419367,
@@ -101,7 +101,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1579022395,
+    "wof:lastmodified":1579114705,
     "wof:name":"AA1960 (SFO-CLT)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

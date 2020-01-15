@@ -14,6 +14,7 @@
     "flysfo:flight_number":"871",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-TPE",
+    "flysfo:timestamp":1578639360,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -92,7 +93,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1579022758,
+    "wof:lastmodified":1579114780,
     "wof:name":"UA871 (SFO-TPE)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

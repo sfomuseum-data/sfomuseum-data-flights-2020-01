@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1865",
     "flysfo:gate":"F21",
     "flysfo:journey":"SFO-BOS",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578713100,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -101,7 +101,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1579022597,
+    "wof:lastmodified":1579114724,
     "wof:name":"UA1865 (SFO-BOS)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

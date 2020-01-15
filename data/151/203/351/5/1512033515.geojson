@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1251",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-DEN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578709200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -101,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022493,
+    "wof:lastmodified":1579114714,
     "wof:name":"WN1251 (SFO-DEN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

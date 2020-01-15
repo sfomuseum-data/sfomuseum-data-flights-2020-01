@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4364",
     "flysfo:gate":"C2",
     "flysfo:journey":"CVG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-84.657144,39.054422",
     "geom:latitude":38.336206,
@@ -90,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022764,
+    "wof:lastmodified":1579114785,
     "wof:name":"MU4364 (CVG-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

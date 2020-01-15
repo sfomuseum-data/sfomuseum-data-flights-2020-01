@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5712",
     "flysfo:gate":"G6",
     "flysfo:journey":"ICN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -90,7 +91,7 @@
         1477930471,
         1159283917
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114801,
     "wof:name":"SQ5712 (ICN-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

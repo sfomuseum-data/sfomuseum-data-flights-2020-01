@@ -14,6 +14,7 @@
     "flysfo:flight_number":"115",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-MNL",
+    "flysfo:timestamp":1578664680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,14.517768,121.015152,37.61799",
     "geom:latitude":26.067879,
@@ -100,7 +101,7 @@
         1477930283,
         1159289993
     ],
-    "wof:lastmodified":1579022786,
+    "wof:lastmodified":1579114798,
     "wof:name":"PR115 (SFO-MNL)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

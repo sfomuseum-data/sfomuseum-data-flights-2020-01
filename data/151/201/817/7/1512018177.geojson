@@ -12,6 +12,7 @@
     "flysfo:flight_number":"11",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-HNL",
+    "flysfo:timestamp":1578622860,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -98,7 +99,7 @@
         1477930307,
         1159289421
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114757,
     "wof:name":"HA11 (SFO-HNL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

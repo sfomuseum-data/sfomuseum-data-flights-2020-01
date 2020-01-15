@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4030",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-ABQ",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.048762,-106.620586,37.61799",
     "geom:latitude":36.333376,
@@ -90,7 +91,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579022734,
+    "wof:lastmodified":1579114763,
     "wof:name":"AC4030 (SFO-ABQ)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

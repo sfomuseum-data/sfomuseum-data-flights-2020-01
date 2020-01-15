@@ -14,6 +14,7 @@
     "flysfo:flight_number":"785",
     "flysfo:gate":"D14",
     "flysfo:journey":"CLT-SFO",
+    "flysfo:timestamp":1578621420,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.220744,-80.942777,37.61799",
     "geom:latitude":36.419367,
@@ -100,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1579022727,
+    "wof:lastmodified":1579114758,
     "wof:name":"AA785 (CLT-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

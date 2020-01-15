@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7053",
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-WUH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.7838,114.208,37.61799",
     "geom:latitude":34.200895,
@@ -90,7 +91,7 @@
         1477930281,
         1159284165
     ],
-    "wof:lastmodified":1579022696,
+    "wof:lastmodified":1579114740,
     "wof:name":"AA7053 (SFO-WUH)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

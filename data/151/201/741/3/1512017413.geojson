@@ -14,6 +14,7 @@
     "flysfo:flight_number":"590",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-PVG",
+    "flysfo:timestamp":1578630660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
     "geom:latitude":34.381651,
@@ -100,7 +101,7 @@
         1477930283,
         1159289993
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114784,
     "wof:name":"MU590 (SFO-PVG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

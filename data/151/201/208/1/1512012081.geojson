@@ -14,6 +14,7 @@
     "flysfo:flight_number":"179",
     "flysfo:gate":"D11",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578635776,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930361,
         1159289411
     ],
-    "wof:lastmodified":1579022806,
+    "wof:lastmodified":1579114813,
     "wof:name":"AA179 (JFK-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

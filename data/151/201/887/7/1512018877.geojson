@@ -10,6 +10,7 @@
     "flysfo:flight_number":"104",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-DEL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.561954,77.098117,37.61799",
     "geom:latitude":33.089972,
@@ -84,7 +85,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1579022723,
+    "wof:lastmodified":1579114755,
     "wof:name":"UA104 (SFO-DEL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

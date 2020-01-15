@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1682",
     "flysfo:gate":"E10",
     "flysfo:journey":"SAN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578703380,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -101,7 +101,7 @@
         1477930397,
         1377564285
     ],
-    "wof:lastmodified":1579022533,
+    "wof:lastmodified":1579114718,
     "wof:name":"UA1682 (SAN-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

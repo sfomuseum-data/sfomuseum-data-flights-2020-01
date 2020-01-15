@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9036",
     "flysfo:gate":"E5",
     "flysfo:journey":"BWI-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-76.67107,39.181319",
     "geom:latitude":38.399654,
@@ -90,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1579022730,
+    "wof:lastmodified":1579114760,
     "wof:name":"NZ9036 (BWI-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

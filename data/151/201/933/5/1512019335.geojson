@@ -14,6 +14,7 @@
     "flysfo:flight_number":"58",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-FRA",
+    "flysfo:timestamp":1578636780,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,7.267284,49.945918",
     "geom:latitude":43.781954,
@@ -100,7 +101,7 @@
         1477930487,
         1159289993
     ],
-    "wof:lastmodified":1579022783,
+    "wof:lastmodified":1579114796,
     "wof:name":"UA58 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

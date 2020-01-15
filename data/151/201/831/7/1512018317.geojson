@@ -14,6 +14,7 @@
     "flysfo:flight_number":"534",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
+    "flysfo:timestamp":1578636960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1579022798,
+    "wof:lastmodified":1579114808,
     "wof:name":"B6534 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

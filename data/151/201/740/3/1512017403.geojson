@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4365",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-MSP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -90,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"MU4365 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

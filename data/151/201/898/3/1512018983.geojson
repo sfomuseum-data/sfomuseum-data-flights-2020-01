@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2060",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-BNA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
     "geom:latitude":36.872189,
@@ -84,7 +85,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1579022803,
+    "wof:lastmodified":1579114811,
     "wof:name":"UA2060 (SFO-BNA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

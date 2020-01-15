@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1824",
     "flysfo:gate":"F1",
     "flysfo:journey":"SFO-SLC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -84,7 +85,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1579022732,
+    "wof:lastmodified":1579114762,
     "wof:name":"UA1824 (SFO-SLC)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

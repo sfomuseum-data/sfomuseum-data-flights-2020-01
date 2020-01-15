@@ -14,6 +14,7 @@
     "flysfo:flight_number":"755",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-KOA",
+    "flysfo:timestamp":1578631020,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -100,7 +101,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1579022825,
+    "wof:lastmodified":1579114827,
     "wof:name":"AS755 (SFO-KOA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

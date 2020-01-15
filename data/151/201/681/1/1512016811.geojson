@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9402",
     "flysfo:gate":"E4",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -90,7 +91,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1579022719,
+    "wof:lastmodified":1579114751,
     "wof:name":"NZ9402 (SFO-SEA)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

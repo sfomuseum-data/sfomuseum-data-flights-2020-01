@@ -14,6 +14,7 @@
     "flysfo:flight_number":"680",
     "flysfo:gate":"D12",
     "flysfo:journey":"PHL-SFO",
+    "flysfo:timestamp":1578652740,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -100,7 +101,7 @@
         1477930363,
         1159289421
     ],
-    "wof:lastmodified":1579022794,
+    "wof:lastmodified":1579114805,
     "wof:name":"AA680 (PHL-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

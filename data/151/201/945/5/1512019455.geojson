@@ -14,6 +14,7 @@
     "flysfo:flight_number":"780",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-ORD",
+    "flysfo:timestamp":1578637980,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -92,7 +93,7 @@
         1159285413,
         1477930451
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA780 (SFO-ORD)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

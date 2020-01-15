@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5033",
     "flysfo:gate":"G6",
     "flysfo:journey":"MEX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -90,7 +91,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1579022790,
+    "wof:lastmodified":1579114802,
     "wof:name":"AC5033 (MEX-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

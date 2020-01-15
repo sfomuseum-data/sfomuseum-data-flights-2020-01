@@ -14,7 +14,7 @@
     "flysfo:flight_number":"352",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-TPA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706860,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,27.972892,-82.530928,37.61799",
     "geom:latitude":32.795441,
@@ -101,7 +101,7 @@
         1477930403,
         1159289871
     ],
-    "wof:lastmodified":1579022476,
+    "wof:lastmodified":1579114713,
     "wof:name":"UA352 (SFO-TPA)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

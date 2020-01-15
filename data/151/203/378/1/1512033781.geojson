@@ -12,7 +12,7 @@
     "flysfo:flight_number":"1672",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-DCA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578711300,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
     "geom:latitude":38.234314,
@@ -99,7 +99,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1579022467,
+    "wof:lastmodified":1579114712,
     "wof:name":"UA1672 (SFO-DCA)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

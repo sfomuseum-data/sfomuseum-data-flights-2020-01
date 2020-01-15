@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4154",
     "flysfo:gate":"C4",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1579022777,
+    "wof:lastmodified":1579114792,
     "wof:name":"MU4154 (LAX-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

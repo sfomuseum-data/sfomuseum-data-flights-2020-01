@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9125",
     "flysfo:gate":"F2",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579022732,
+    "wof:lastmodified":1579114762,
     "wof:name":"LH9125 (PDX-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

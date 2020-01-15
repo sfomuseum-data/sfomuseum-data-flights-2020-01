@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5579",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-SBA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.427974,-119.837133,37.61799",
     "geom:latitude":36.022982,
@@ -84,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA5579 (SFO-SBA)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

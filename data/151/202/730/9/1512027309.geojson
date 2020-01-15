@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4345",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
     "geom:latitude":37.193359,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579022612,
+    "wof:lastmodified":1579114725,
     "wof:name":"AC4345 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

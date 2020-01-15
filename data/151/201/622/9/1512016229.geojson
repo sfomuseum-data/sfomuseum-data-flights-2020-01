@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5318",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SJD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
     "geom:latitude":30.389476,
@@ -90,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579022786,
+    "wof:lastmodified":1579114798,
     "wof:name":"AC5318 (SFO-SJD)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

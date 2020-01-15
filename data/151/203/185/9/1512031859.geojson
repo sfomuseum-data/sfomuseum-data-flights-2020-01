@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1204",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-ORD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578712380,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -101,7 +101,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1579022606,
+    "wof:lastmodified":1579114724,
     "wof:name":"AS1204 (SFO-ORD)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5051",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-JFK",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022472,
+    "wof:lastmodified":1579114712,
     "wof:name":"KL5051 (SFO-JFK)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

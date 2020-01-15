@@ -14,7 +14,7 @@
     "flysfo:flight_number":"105",
     "flysfo:gate":"G12",
     "flysfo:journey":"DEL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578777240,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.561954,77.098117,37.61799",
     "geom:latitude":33.089972,
@@ -100,7 +100,7 @@
         1477930485,
         1159293215
     ],
-    "wof:lastmodified":1579022539,
+    "wof:lastmodified":1579114719,
     "wof:name":"UA105 (DEL-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

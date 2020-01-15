@@ -14,6 +14,7 @@
     "flysfo:flight_number":"302",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-ONT",
+    "flysfo:timestamp":1578609780,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -100,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022728,
+    "wof:lastmodified":1579114758,
     "wof:name":"WN302 (SFO-ONT)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

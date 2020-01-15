@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6890",
     "flysfo:gate":"C7",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1579022798,
+    "wof:lastmodified":1579114807,
     "wof:name":"LA6890 (LAX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

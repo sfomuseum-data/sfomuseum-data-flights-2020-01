@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2239",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578635820,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1579022705,
+    "wof:lastmodified":1579114745,
     "wof:name":"UA2239 (SFO-EWR)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

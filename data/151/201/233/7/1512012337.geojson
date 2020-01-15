@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4349",
     "flysfo:gate":"F15K",
     "flysfo:journey":"FAT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
     "geom:latitude":37.193359,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022743,
+    "wof:lastmodified":1579114771,
     "wof:name":"AC4349 (FAT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

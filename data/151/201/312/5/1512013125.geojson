@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1002",
     "flysfo:gate":"D16",
     "flysfo:journey":"DCA-SFO",
+    "flysfo:timestamp":1578657900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
     "geom:latitude":38.234314,
@@ -92,7 +93,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1579022754,
+    "wof:lastmodified":1579114777,
     "wof:name":"AS1002 (DCA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

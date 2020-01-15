@@ -14,7 +14,7 @@
     "flysfo:flight_number":"8",
     "flysfo:gate":"G13",
     "flysfo:journey":"NRT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705088,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -93,7 +93,7 @@
         1159283875,
         1477930487
     ],
-    "wof:lastmodified":1579022652,
+    "wof:lastmodified":1579114729,
     "wof:name":"NH8 (NRT-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

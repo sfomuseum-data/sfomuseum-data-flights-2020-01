@@ -12,6 +12,7 @@
     "flysfo:flight_number":"720",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-DEN",
+    "flysfo:timestamp":1578640140,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -98,7 +99,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579022829,
+    "wof:lastmodified":1579114829,
     "wof:name":"UA720 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

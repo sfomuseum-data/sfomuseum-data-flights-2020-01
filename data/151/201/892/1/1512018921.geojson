@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1554",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-ATL",
+    "flysfo:timestamp":1578668640,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -100,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1579022731,
+    "wof:lastmodified":1579114761,
     "wof:name":"UA1554 (SFO-ATL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

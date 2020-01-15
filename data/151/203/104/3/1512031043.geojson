@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4322",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-ONT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579022355,
+    "wof:lastmodified":1579114702,
     "wof:name":"AC4322 (SFO-ONT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

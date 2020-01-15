@@ -10,6 +10,7 @@
     "flysfo:flight_number":"669",
     "flysfo:gate":"A4",
     "flysfo:journey":"SFO-MEX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -84,7 +85,7 @@
         1159283539,
         1477930289
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"AM669 (SFO-MEX)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"505",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-ATL",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -101,7 +101,7 @@
         1477930331,
         1377564285
     ],
-    "wof:lastmodified":1579022430,
+    "wof:lastmodified":1579114708,
     "wof:name":"DL505 (SFO-ATL)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

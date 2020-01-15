@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2068",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-EUG",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-123.21303,37.61799,-122.370943,44.119058",
     "geom:latitude":40.868524,
@@ -91,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022542,
+    "wof:lastmodified":1579114719,
     "wof:name":"AV2068 (SFO-EUG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

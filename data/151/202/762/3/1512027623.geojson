@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7301",
     "flysfo:gate":"E10",
     "flysfo:journey":"SAN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -91,7 +91,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579022615,
+    "wof:lastmodified":1579114726,
     "wof:name":"NH7301 (SAN-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"358",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-LAS",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578711480,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -101,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1579022361,
+    "wof:lastmodified":1579114702,
     "wof:name":"UA358 (SFO-LAS)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

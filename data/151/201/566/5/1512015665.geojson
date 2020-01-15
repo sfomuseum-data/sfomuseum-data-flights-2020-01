@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7950",
     "flysfo:gate":"G5",
     "flysfo:journey":"NRT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -90,7 +91,7 @@
         1477930469,
         1159283875
     ],
-    "wof:lastmodified":1579022703,
+    "wof:lastmodified":1579114744,
     "wof:name":"UA7950 (NRT-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

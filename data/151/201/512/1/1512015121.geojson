@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1557",
     "flysfo:gate":"E10",
     "flysfo:journey":"OGG-SFO",
+    "flysfo:timestamp":1578604863,
     "geom:area":0.0,
     "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
     "geom:latitude":29.256471,
@@ -99,7 +100,7 @@
         1477930397,
         1159289871
     ],
-    "wof:lastmodified":1579022830,
+    "wof:lastmodified":1579114829,
     "wof:name":"UA1557 (OGG-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

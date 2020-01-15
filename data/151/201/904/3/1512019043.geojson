@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2384",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-SAN",
+    "flysfo:timestamp":1578619680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -100,7 +101,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1579022772,
+    "wof:lastmodified":1579114790,
     "wof:name":"UA2384 (SFO-SAN)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

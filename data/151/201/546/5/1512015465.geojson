@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5523",
     "flysfo:gate":"F7",
     "flysfo:journey":"MSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -84,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579022823,
+    "wof:lastmodified":1579114826,
     "wof:name":"UA5523 (MSP-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

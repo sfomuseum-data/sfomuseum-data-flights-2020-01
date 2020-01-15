@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3273",
     "flysfo:gate":"E4",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -90,7 +91,7 @@
         1477930385,
         1159285413
     ],
-    "wof:lastmodified":1579022734,
+    "wof:lastmodified":1579114764,
     "wof:name":"LX3273 (SAN-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

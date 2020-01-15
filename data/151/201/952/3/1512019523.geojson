@@ -14,6 +14,7 @@
     "flysfo:flight_number":"954",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-TLV",
+    "flysfo:timestamp":1578669720,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.005595,34.877214,37.61799",
     "geom:latitude":34.811792,
@@ -100,7 +101,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1579022713,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA954 (SFO-TLV)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

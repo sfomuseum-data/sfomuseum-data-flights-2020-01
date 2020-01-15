@@ -14,6 +14,7 @@
     "flysfo:flight_number":"716",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578609660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930409,
         1377564285
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"UA716 (SFO-LAX)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

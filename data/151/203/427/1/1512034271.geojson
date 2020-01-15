@@ -14,7 +14,7 @@
     "flysfo:flight_number":"694",
     "flysfo:gate":"E10",
     "flysfo:journey":"SFO-KOA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578712260,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -100,7 +100,7 @@
         1477930397,
         1377564285
     ],
-    "wof:lastmodified":1579022529,
+    "wof:lastmodified":1579114718,
     "wof:name":"UA694 (SFO-KOA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

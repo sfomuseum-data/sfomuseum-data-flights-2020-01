@@ -12,6 +12,7 @@
     "flysfo:flight_number":"522",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-SLC",
+    "flysfo:timestamp":1578634620,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -96,7 +97,7 @@
         1477930323,
         1159289407
     ],
-    "wof:lastmodified":1579022780,
+    "wof:lastmodified":1579114794,
     "wof:name":"DL522 (SFO-SLC)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

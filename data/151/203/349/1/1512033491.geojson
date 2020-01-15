@@ -14,7 +14,7 @@
     "flysfo:flight_number":"31",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-SIN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578707340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
     "geom:latitude":19.482695,
@@ -101,7 +101,7 @@
         1477930471,
         1377564293
     ],
-    "wof:lastmodified":1579022463,
+    "wof:lastmodified":1579114711,
     "wof:name":"SQ31 (SFO-SIN)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

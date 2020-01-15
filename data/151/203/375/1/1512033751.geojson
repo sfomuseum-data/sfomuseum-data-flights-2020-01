@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1212",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PVR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
     "geom:latitude":29.139362,
@@ -101,7 +101,7 @@
         1477930435,
         1159292085
     ],
-    "wof:lastmodified":1579022596,
+    "wof:lastmodified":1579114724,
     "wof:name":"UA1212 (SFO-PVR)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

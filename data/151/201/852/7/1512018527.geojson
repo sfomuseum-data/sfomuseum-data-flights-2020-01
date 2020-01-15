@@ -10,6 +10,7 @@
     "flysfo:flight_number":"936",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-CPH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,12.649581,55.627628",
     "geom:latitude":46.622809,
@@ -84,7 +85,7 @@
         1159285129,
         1477930481
     ],
-    "wof:lastmodified":1579022809,
+    "wof:lastmodified":1579114816,
     "wof:name":"SK936 (SFO-CPH)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

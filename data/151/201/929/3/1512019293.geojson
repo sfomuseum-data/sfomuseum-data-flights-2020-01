@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5700",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-RDM",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-121.157137,44.259811",
     "geom:latitude":40.938901,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022814,
+    "wof:lastmodified":1579114819,
     "wof:name":"UA5700 (SFO-RDM)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

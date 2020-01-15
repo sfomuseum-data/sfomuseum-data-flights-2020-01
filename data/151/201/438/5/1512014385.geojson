@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5807",
     "flysfo:gate":"D1",
     "flysfo:journey":"HNL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -90,7 +91,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114768,
     "wof:name":"FJ5807 (HNL-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

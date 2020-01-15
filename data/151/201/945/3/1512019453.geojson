@@ -14,6 +14,7 @@
     "flysfo:flight_number":"768",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-BOS",
+    "flysfo:timestamp":1578616500,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477930391,
         1159289939
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA768 (SFO-BOS)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

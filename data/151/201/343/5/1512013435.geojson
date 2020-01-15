@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4347",
     "flysfo:gate":"D11",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -90,7 +91,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1579022831,
+    "wof:lastmodified":1579114830,
     "wof:name":"BA4347 (JFK-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

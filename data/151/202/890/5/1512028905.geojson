@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2490",
     "flysfo:gate":"C10",
     "flysfo:journey":"SEA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705180,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -99,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1579022665,
+    "wof:lastmodified":1579114731,
     "wof:name":"DL2490 (SEA-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5287",
     "flysfo:gate":"F15M",
     "flysfo:journey":"FAT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
     "geom:latitude":37.193359,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022542,
+    "wof:lastmodified":1579114719,
     "wof:name":"UA5287 (FAT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

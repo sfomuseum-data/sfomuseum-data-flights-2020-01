@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5848",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-SNA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -91,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579022469,
+    "wof:lastmodified":1579114712,
     "wof:name":"AC5848 (SFO-SNA)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

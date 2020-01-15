@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9583",
     "flysfo:gate":"F12",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -90,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114788,
     "wof:name":"NZ9583 (SAN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

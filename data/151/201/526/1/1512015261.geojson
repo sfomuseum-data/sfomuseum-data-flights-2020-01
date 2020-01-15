@@ -14,6 +14,7 @@
     "flysfo:flight_number":"233",
     "flysfo:gate":"F1",
     "flysfo:journey":"BUR-SFO",
+    "flysfo:timestamp":1578615028,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -100,7 +101,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1579022748,
+    "wof:lastmodified":1579114774,
     "wof:name":"UA233 (BUR-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

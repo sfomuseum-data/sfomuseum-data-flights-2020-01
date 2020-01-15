@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2357",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -90,7 +91,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1579022786,
+    "wof:lastmodified":1579114798,
     "wof:name":"HA2357 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

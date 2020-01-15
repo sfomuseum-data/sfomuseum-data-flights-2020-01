@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2839",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
+    "flysfo:timestamp":1578588300,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -100,7 +101,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1579022760,
+    "wof:lastmodified":1579114782,
     "wof:name":"AA2839 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

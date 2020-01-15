@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2247",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-IAD",
+    "flysfo:timestamp":1578665100,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -100,7 +101,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1579022780,
+    "wof:lastmodified":1579114794,
     "wof:name":"UA2247 (SFO-IAD)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

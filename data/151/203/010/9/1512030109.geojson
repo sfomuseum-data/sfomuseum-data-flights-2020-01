@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1698",
     "flysfo:gate":"E11",
     "flysfo:journey":"RDU-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705000,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.876323,-78.790399,37.61799",
     "geom:latitude":36.747157,
@@ -101,7 +101,7 @@
         1477930399,
         1159292085
     ],
-    "wof:lastmodified":1579022532,
+    "wof:lastmodified":1579114718,
     "wof:name":"UA1698 (RDU-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

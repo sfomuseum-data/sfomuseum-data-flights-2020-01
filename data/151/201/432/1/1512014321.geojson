@@ -14,6 +14,7 @@
     "flysfo:flight_number":"663",
     "flysfo:gate":"",
     "flysfo:journey":"DEN-SFO",
+    "flysfo:timestamp":1578622200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -60,7 +61,7 @@
         -1,
         1159289411
     ],
-    "wof:lastmodified":1579022808,
+    "wof:lastmodified":1579114815,
     "wof:name":"F9663 (DEN-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

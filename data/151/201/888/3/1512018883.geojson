@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1111",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-LIH",
+    "flysfo:timestamp":1578621300,
     "geom:area":0.0,
     "geom:bbox":"-159.347789,21.981539,-122.370943,37.61799",
     "geom:latitude":29.799765,
@@ -100,7 +101,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1579022729,
+    "wof:lastmodified":1579114760,
     "wof:name":"UA1111 (SFO-LIH)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

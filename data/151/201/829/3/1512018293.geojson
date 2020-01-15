@@ -14,6 +14,7 @@
     "flysfo:flight_number":"134",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-BOS",
+    "flysfo:timestamp":1578663900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477881723,
         1159289411
     ],
-    "wof:lastmodified":1579022719,
+    "wof:lastmodified":1579114752,
     "wof:name":"B6134 (SFO-BOS)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

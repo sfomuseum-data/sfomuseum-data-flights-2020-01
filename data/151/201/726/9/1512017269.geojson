@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6146",
     "flysfo:gate":"G2",
     "flysfo:journey":"SFO-DUB",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-6.246362,53.425842",
     "geom:latitude":45.521916,
@@ -90,7 +91,7 @@
         1477930463,
         1159283495
     ],
-    "wof:lastmodified":1579022816,
+    "wof:lastmodified":1579114821,
     "wof:name":"BA6146 (SFO-DUB)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1956",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-CLT",
+    "flysfo:timestamp":1578634680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.220744,-80.942777,37.61799",
     "geom:latitude":36.419367,
@@ -100,7 +101,7 @@
         1477930361,
         1159289411
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114783,
     "wof:name":"AA1956 (SFO-CLT)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

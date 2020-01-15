@@ -10,6 +10,7 @@
     "flysfo:flight_number":"3320",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-SNA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -84,7 +85,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1579022764,
+    "wof:lastmodified":1579114785,
     "wof:name":"AS3320 (SFO-SNA)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

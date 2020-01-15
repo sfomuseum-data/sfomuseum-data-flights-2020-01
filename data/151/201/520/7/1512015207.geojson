@@ -14,6 +14,7 @@
     "flysfo:flight_number":"207",
     "flysfo:gate":"F21",
     "flysfo:journey":"BOS-SFO",
+    "flysfo:timestamp":1578628030,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1579022756,
+    "wof:lastmodified":1579114779,
     "wof:name":"UA207 (BOS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

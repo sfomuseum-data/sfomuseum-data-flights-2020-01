@@ -10,6 +10,7 @@
     "flysfo:flight_number":"3409",
     "flysfo:gate":"C11",
     "flysfo:journey":"DAL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
     "geom:latitude":35.23192,
@@ -84,7 +85,7 @@
         1159283813,
         1477930337
     ],
-    "wof:lastmodified":1579022824,
+    "wof:lastmodified":1579114826,
     "wof:name":"AS3409 (DAL-SFO)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

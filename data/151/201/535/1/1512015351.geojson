@@ -14,6 +14,7 @@
     "flysfo:flight_number":"481",
     "flysfo:gate":"E8",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578657418,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1579022714,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA481 (LAX-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

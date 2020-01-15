@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5420",
     "flysfo:gate":"D17",
     "flysfo:journey":"PSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -90,7 +91,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1579022721,
+    "wof:lastmodified":1579114753,
     "wof:name":"JL5420 (PSP-SFO)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

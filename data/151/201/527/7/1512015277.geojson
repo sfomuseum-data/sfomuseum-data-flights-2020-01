@@ -14,6 +14,7 @@
     "flysfo:flight_number":"243",
     "flysfo:gate":"F13",
     "flysfo:journey":"DEN-SFO",
+    "flysfo:timestamp":1578631577,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -100,7 +101,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579022755,
+    "wof:lastmodified":1579114778,
     "wof:name":"UA243 (DEN-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

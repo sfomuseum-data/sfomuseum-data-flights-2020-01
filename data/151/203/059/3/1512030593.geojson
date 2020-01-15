@@ -14,7 +14,7 @@
     "flysfo:flight_number":"708",
     "flysfo:gate":"E12",
     "flysfo:journey":"LAX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578710520,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +100,7 @@
         1477930403,
         1159292085
     ],
-    "wof:lastmodified":1579022546,
+    "wof:lastmodified":1579114720,
     "wof:name":"UA708 (LAX-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8882",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-MUC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,11.776808,48.352681",
     "geom:latitude":42.985335,
@@ -90,7 +91,7 @@
         1477930487,
         1159284711
     ],
-    "wof:lastmodified":1579022764,
+    "wof:lastmodified":1579114785,
     "wof:name":"UA8882 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

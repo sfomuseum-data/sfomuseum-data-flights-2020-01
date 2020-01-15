@@ -14,7 +14,7 @@
     "flysfo:flight_number":"256",
     "flysfo:gate":"E7",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578712380,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930391,
         1159289871
     ],
-    "wof:lastmodified":1579022477,
+    "wof:lastmodified":1579114713,
     "wof:name":"UA256 (SFO-LAX)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

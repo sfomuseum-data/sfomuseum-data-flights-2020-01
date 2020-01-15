@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7860",
     "flysfo:gate":"A13",
     "flysfo:journey":"ICN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -91,7 +91,7 @@
         1477930309,
         1159284623
     ],
-    "wof:lastmodified":1579022633,
+    "wof:lastmodified":1579114727,
     "wof:name":"DL7860 (ICN-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

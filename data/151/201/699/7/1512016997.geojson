@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1910",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -84,7 +85,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022797,
+    "wof:lastmodified":1579114807,
     "wof:name":"AS1910 (SFO-LAS)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5537",
     "flysfo:gate":"F8",
     "flysfo:journey":"RDM-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-121.157137,44.259811",
     "geom:latitude":40.938901,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022815,
+    "wof:lastmodified":1579114820,
     "wof:name":"UA5537 (RDM-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

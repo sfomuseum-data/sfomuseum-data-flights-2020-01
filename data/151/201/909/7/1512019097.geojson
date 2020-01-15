@@ -14,6 +14,7 @@
     "flysfo:flight_number":"317",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-IND",
+    "flysfo:timestamp":1578655200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-86.278675,39.730262",
     "geom:latitude":38.674126,
@@ -100,7 +101,7 @@
         1477930409,
         1159292085
     ],
-    "wof:lastmodified":1579022692,
+    "wof:lastmodified":1579114738,
     "wof:name":"UA317 (SFO-IND)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

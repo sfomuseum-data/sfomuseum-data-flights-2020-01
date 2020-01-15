@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2458",
     "flysfo:gate":"F7",
     "flysfo:journey":"SMF-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-121.589912,38.685533",
     "geom:latitude":38.151761,
@@ -90,7 +91,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1579022818,
+    "wof:lastmodified":1579114823,
     "wof:name":"CM2458 (SMF-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

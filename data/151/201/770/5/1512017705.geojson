@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7731",
     "flysfo:gate":"A1",
     "flysfo:journey":"SFO-TPE",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -90,7 +91,7 @@
         1477930281,
         1159284153
     ],
-    "wof:lastmodified":1579022760,
+    "wof:lastmodified":1579114782,
     "wof:name":"DL7731 (SFO-TPE)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

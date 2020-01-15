@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5754",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-YVR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -84,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"UA5754 (SFO-YVR)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

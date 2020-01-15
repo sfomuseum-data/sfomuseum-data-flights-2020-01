@@ -14,6 +14,7 @@
     "flysfo:flight_number":"287",
     "flysfo:gate":"A6",
     "flysfo:journey":"LHR-SFO",
+    "flysfo:timestamp":1578650059,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
     "geom:latitude":44.544038,
@@ -99,7 +100,7 @@
         1477930295,
         1159289437
     ],
-    "wof:lastmodified":1579022817,
+    "wof:lastmodified":1579114821,
     "wof:name":"BA287 (LHR-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

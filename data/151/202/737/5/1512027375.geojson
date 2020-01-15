@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4541",
     "flysfo:gate":"F7",
     "flysfo:journey":"SMF-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-121.589912,38.685533",
     "geom:latitude":38.151761,
@@ -91,7 +91,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1579022614,
+    "wof:lastmodified":1579114725,
     "wof:name":"AC4541 (SMF-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

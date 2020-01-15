@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1391",
     "flysfo:gate":"D4",
     "flysfo:journey":"MSY-SFO",
+    "flysfo:timestamp":1578665075,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.982609,-90.261832,37.61799",
     "geom:latitude":33.8003,
@@ -100,7 +101,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"AS1391 (MSY-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9341",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-PDX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -91,7 +91,7 @@
         1477930439,
         1159285413
     ],
-    "wof:lastmodified":1579022357,
+    "wof:lastmodified":1579114702,
     "wof:name":"NZ9341 (SFO-PDX)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

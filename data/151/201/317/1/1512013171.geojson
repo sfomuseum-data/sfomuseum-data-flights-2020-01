@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1754",
     "flysfo:gate":"D4",
     "flysfo:journey":"SEA-SFO",
+    "flysfo:timestamp":1578654978,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1579022822,
+    "wof:lastmodified":1579114825,
     "wof:name":"AS1754 (SEA-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

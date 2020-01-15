@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7396",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-SYD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
     "geom:latitude":1.841531,
@@ -90,7 +91,7 @@
         1477930301,
         1159284313
     ],
-    "wof:lastmodified":1579022706,
+    "wof:lastmodified":1579114745,
     "wof:name":"AA7396 (SFO-SYD)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

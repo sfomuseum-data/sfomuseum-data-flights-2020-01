@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1673",
     "flysfo:gate":"F2",
     "flysfo:journey":"CLE-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705213,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-81.835629,41.406844",
     "geom:latitude":39.512417,
@@ -101,7 +101,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579022532,
+    "wof:lastmodified":1579114718,
     "wof:name":"UA1673 (CLE-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

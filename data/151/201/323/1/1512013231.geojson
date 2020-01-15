@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2835",
     "flysfo:gate":"D16",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -84,7 +85,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1579022752,
+    "wof:lastmodified":1579114776,
     "wof:name":"AS2835 (SAN-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

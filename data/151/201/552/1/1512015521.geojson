@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5694",
     "flysfo:gate":"F3A",
     "flysfo:journey":"MCI-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-94.716176,39.304107",
     "geom:latitude":38.461049,
@@ -84,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579022769,
+    "wof:lastmodified":1579114788,
     "wof:name":"UA5694 (MCI-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

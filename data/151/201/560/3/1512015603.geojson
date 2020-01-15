@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5946",
     "flysfo:gate":"F5",
     "flysfo:journey":"SNA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -84,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579022696,
+    "wof:lastmodified":1579114740,
     "wof:name":"UA5946 (SNA-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

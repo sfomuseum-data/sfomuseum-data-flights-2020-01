@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5473",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-SMF",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-121.589912,38.685533",
     "geom:latitude":38.151761,
@@ -84,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA5473 (SFO-SMF)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

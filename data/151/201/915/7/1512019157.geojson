@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5260",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-BFL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.425802,-119.047271,37.61799",
     "geom:latitude":36.521896,
@@ -84,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"UA5260 (SFO-BFL)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

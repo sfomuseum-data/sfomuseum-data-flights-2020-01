@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9386",
     "flysfo:gate":"F20",
     "flysfo:journey":"BNA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
     "geom:latitude":36.872189,
@@ -91,7 +91,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579022608,
+    "wof:lastmodified":1579114724,
     "wof:name":"NZ9386 (BNA-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

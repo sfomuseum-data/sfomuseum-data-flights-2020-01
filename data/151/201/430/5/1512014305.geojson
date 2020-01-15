@@ -10,6 +10,7 @@
     "flysfo:flight_number":"18",
     "flysfo:gate":"G13",
     "flysfo:journey":"TPE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -84,7 +85,7 @@
         1159284349,
         1477930487
     ],
-    "wof:lastmodified":1579022733,
+    "wof:lastmodified":1579114763,
     "wof:name":"BR18 (TPE-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

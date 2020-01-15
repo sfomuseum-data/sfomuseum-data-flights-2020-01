@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2002",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578646260,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -98,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1579022693,
+    "wof:lastmodified":1579114739,
     "wof:name":"DL2002 (SFO-SEA)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

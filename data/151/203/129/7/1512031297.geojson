@@ -14,7 +14,7 @@
     "flysfo:flight_number":"174",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-DEL",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578710760,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.561954,77.098117,37.61799",
     "geom:latitude":33.089972,
@@ -101,7 +101,7 @@
         1477930475,
         1159289989
     ],
-    "wof:lastmodified":1579022453,
+    "wof:lastmodified":1579114710,
     "wof:name":"AI174 (SFO-DEL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

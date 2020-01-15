@@ -10,7 +10,7 @@
     "flysfo:flight_number":"1350",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-IAH",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -85,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579022460,
+    "wof:lastmodified":1579114711,
     "wof:name":"UA1350 (SFO-IAH)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

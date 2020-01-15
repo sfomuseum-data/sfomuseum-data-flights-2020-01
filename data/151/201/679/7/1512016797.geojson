@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9391",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PIT",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-80.259551,40.492624",
     "geom:latitude":39.055307,
@@ -90,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579022793,
+    "wof:lastmodified":1579114804,
     "wof:name":"NZ9391 (SFO-PIT)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

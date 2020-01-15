@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6047",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.814039,-118.148993,37.61799",
     "geom:latitude":35.716014,
@@ -90,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579022790,
+    "wof:lastmodified":1579114802,
     "wof:name":"EK6047 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

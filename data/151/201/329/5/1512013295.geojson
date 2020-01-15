@@ -14,6 +14,7 @@
     "flysfo:flight_number":"430",
     "flysfo:gate":"D6",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578630973,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -92,7 +93,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022815,
+    "wof:lastmodified":1579114820,
     "wof:name":"AS430 (PDX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

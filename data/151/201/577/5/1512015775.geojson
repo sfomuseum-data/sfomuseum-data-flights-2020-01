@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4538",
     "flysfo:gate":"C6",
     "flysfo:journey":"SLC-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -90,7 +91,7 @@
         1477930325,
         1159284261
     ],
-    "wof:lastmodified":1579022825,
+    "wof:lastmodified":1579114827,
     "wof:name":"VS4538 (SLC-SFO)",
     "wof:parent_id":1477930325,
     "wof:placetype":"event",

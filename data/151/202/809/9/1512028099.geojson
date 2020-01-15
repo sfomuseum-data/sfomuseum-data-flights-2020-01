@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9876",
     "flysfo:gate":"E6",
     "flysfo:journey":"YVR-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -91,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579022663,
+    "wof:lastmodified":1579114731,
     "wof:name":"NZ9876 (YVR-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

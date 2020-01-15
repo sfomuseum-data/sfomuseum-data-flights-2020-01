@@ -14,6 +14,7 @@
     "flysfo:flight_number":"985",
     "flysfo:gate":"G2",
     "flysfo:journey":"PEK-SFO",
+    "flysfo:timestamp":1578626329,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,116.586155,40.068469",
     "geom:latitude":38.843229,
@@ -99,7 +100,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1579022765,
+    "wof:lastmodified":1579114785,
     "wof:name":"CA985 (PEK-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

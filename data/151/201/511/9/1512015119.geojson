@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1554",
     "flysfo:gate":"E9",
     "flysfo:journey":"DCA-SFO",
+    "flysfo:timestamp":1578659135,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
     "geom:latitude":38.234314,
@@ -100,7 +101,7 @@
         1477930395,
         1159289871
     ],
-    "wof:lastmodified":1579022758,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA1554 (DCA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

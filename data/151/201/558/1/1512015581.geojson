@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5874",
     "flysfo:gate":"E3",
     "flysfo:journey":"MMH-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-118.837997,37.6241",
     "geom:latitude":37.621045,
@@ -84,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579022699,
+    "wof:lastmodified":1579114742,
     "wof:name":"UA5874 (MMH-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

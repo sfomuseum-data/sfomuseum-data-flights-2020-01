@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2764",
     "flysfo:gate":"",
     "flysfo:journey":"IAH-SFO",
+    "flysfo:timestamp":1578631080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -60,7 +61,7 @@
         -1,
         1159292085
     ],
-    "wof:lastmodified":1579022747,
+    "wof:lastmodified":1579114773,
     "wof:name":"UA2764 (IAH-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5416",
     "flysfo:gate":"F10",
     "flysfo:journey":"ONT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -84,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"UA5416 (ONT-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

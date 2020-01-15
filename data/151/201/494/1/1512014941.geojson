@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2175",
     "flysfo:gate":"B13",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578612961,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -100,7 +101,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1579022798,
+    "wof:lastmodified":1579114807,
     "wof:name":"WN2175 (LAS-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

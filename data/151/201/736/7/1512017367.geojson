@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7325",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-MSP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -90,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579022712,
+    "wof:lastmodified":1579114748,
     "wof:name":"CA7325 (SFO-MSP)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"422",
     "flysfo:gate":"E7",
     "flysfo:journey":"ORD-SFO",
+    "flysfo:timestamp":1578660660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -100,7 +101,7 @@
         1477930391,
         1377564285
     ],
-    "wof:lastmodified":1579022715,
+    "wof:lastmodified":1579114750,
     "wof:name":"UA422 (ORD-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

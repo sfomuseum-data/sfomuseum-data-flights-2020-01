@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9000",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-ATL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -90,7 +91,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1579022796,
+    "wof:lastmodified":1579114806,
     "wof:name":"NZ9000 (SFO-ATL)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8200",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
     "geom:latitude":44.368758,
@@ -90,7 +91,7 @@
         1477930465,
         1159283597
     ],
-    "wof:lastmodified":1579022757,
+    "wof:lastmodified":1579114779,
     "wof:name":"UA8200 (SFO-YYC)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

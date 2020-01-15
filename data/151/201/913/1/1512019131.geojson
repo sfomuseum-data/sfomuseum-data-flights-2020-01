@@ -14,6 +14,7 @@
     "flysfo:flight_number":"472",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-RDU",
+    "flysfo:timestamp":1578621060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.876323,-78.790399,37.61799",
     "geom:latitude":36.747157,
@@ -100,7 +101,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579022761,
+    "wof:lastmodified":1579114782,
     "wof:name":"UA472 (SFO-RDU)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

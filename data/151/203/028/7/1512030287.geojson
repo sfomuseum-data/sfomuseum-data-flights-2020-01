@@ -14,7 +14,7 @@
     "flysfo:flight_number":"404",
     "flysfo:gate":"E4",
     "flysfo:journey":"IAH-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705480,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -101,7 +101,7 @@
         1477930385,
         1159289871
     ],
-    "wof:lastmodified":1579022531,
+    "wof:lastmodified":1579114718,
     "wof:name":"UA404 (IAH-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

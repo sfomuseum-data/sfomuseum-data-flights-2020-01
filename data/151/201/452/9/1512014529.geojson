@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7547",
     "flysfo:gate":"D10",
     "flysfo:journey":"MIA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
     "geom:latitude":31.70423,
@@ -90,7 +91,7 @@
         1477930359,
         1159283849
     ],
-    "wof:lastmodified":1579022736,
+    "wof:lastmodified":1579114765,
     "wof:name":"JL7547 (MIA-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

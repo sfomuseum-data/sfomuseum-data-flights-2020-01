@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3791",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PSP",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579022509,
+    "wof:lastmodified":1579114715,
     "wof:name":"QF3791 (SFO-PSP)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

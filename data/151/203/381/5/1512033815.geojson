@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1830",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-BNA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578711120,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
     "geom:latitude":36.872189,
@@ -101,7 +101,7 @@
         1477930395,
         1159289407
     ],
-    "wof:lastmodified":1579022598,
+    "wof:lastmodified":1579114724,
     "wof:name":"UA1830 (SFO-BNA)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

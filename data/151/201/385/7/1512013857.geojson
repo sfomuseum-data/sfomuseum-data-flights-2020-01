@@ -14,6 +14,7 @@
     "flysfo:flight_number":"659",
     "flysfo:gate":"A1",
     "flysfo:journey":"WUH-SFO",
+    "flysfo:timestamp":1578622935,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.7838,114.208,37.61799",
     "geom:latitude":34.200895,
@@ -92,7 +93,7 @@
         1159284165,
         1477930281
     ],
-    "wof:lastmodified":1579022754,
+    "wof:lastmodified":1579114778,
     "wof:name":"CZ659 (WUH-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

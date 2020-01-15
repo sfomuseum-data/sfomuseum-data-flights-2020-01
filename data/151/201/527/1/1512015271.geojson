@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2400",
     "flysfo:gate":"F21",
     "flysfo:journey":"BOS-SFO",
+    "flysfo:timestamp":1578663360,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -98,7 +99,7 @@
         1477930457,
         1159289939
     ],
-    "wof:lastmodified":1579022755,
+    "wof:lastmodified":1579114778,
     "wof:name":"UA2400 (BOS-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

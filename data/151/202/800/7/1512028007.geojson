@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9444",
     "flysfo:gate":"F2",
     "flysfo:journey":"FLL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
     "geom:latitude":31.846425,
@@ -91,7 +91,7 @@
         1477930409,
         1159285413
     ],
-    "wof:lastmodified":1579022662,
+    "wof:lastmodified":1579114731,
     "wof:name":"NZ9444 (FLL-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

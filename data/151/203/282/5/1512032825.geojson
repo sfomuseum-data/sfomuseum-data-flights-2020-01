@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3756",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-SJD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
     "geom:latitude":30.389476,
@@ -91,7 +91,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1579022527,
+    "wof:lastmodified":1579114718,
     "wof:name":"QF3756 (SFO-SJD)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

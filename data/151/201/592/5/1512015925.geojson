@@ -14,6 +14,7 @@
     "flysfo:flight_number":"651",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHL",
+    "flysfo:timestamp":1578628440,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -100,7 +101,7 @@
         1477930359,
         1159289965
     ],
-    "wof:lastmodified":1579022704,
+    "wof:lastmodified":1579114745,
     "wof:name":"AA651 (SFO-PHL)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

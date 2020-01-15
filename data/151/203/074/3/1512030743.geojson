@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4767",
     "flysfo:gate":"C8",
     "flysfo:journey":"JFK-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -91,7 +91,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579022513,
+    "wof:lastmodified":1579114716,
     "wof:name":"VS4767 (JFK-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

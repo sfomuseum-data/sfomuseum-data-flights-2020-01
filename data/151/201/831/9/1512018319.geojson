@@ -14,6 +14,7 @@
     "flysfo:flight_number":"578",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-FLL",
+    "flysfo:timestamp":1578621240,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
     "geom:latitude":31.846425,
@@ -100,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1579022798,
+    "wof:lastmodified":1579114807,
     "wof:name":"B6578 (SFO-FLL)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

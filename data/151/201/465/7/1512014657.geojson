@@ -10,6 +10,7 @@
     "flysfo:flight_number":"605",
     "flysfo:gate":"A2",
     "flysfo:journey":"AMS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,4.782907,52.314791",
     "geom:latitude":44.966391,
@@ -84,7 +85,7 @@
         1159284613,
         1477930283
     ],
-    "wof:lastmodified":1579022744,
+    "wof:lastmodified":1579114771,
     "wof:name":"KL605 (AMS-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

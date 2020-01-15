@@ -10,6 +10,7 @@
     "flysfo:flight_number":"83",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-CDG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -44,7 +45,7 @@
         1159283627,
         -1
     ],
-    "wof:lastmodified":1579022810,
+    "wof:lastmodified":1579114817,
     "wof:name":"AF83 (SFO-CDG)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

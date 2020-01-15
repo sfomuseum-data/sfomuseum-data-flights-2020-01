@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7373",
     "flysfo:gate":"F5",
     "flysfo:journey":"DFW-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -90,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579022738,
+    "wof:lastmodified":1579114767,
     "wof:name":"NH7373 (DFW-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5452",
     "flysfo:gate":"F3A",
     "flysfo:journey":"RDD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.29822,40.507596",
     "geom:latitude":39.062793,
@@ -84,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579022754,
+    "wof:lastmodified":1579114777,
     "wof:name":"UA5452 (RDD-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

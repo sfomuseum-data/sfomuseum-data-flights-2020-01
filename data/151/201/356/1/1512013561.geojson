@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7285",
     "flysfo:gate":"F20",
     "flysfo:journey":"MCO-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -90,7 +91,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579022773,
+    "wof:lastmodified":1579114790,
     "wof:name":"CA7285 (MCO-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

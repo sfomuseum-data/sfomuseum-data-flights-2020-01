@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5240",
     "flysfo:gate":"F8",
     "flysfo:journey":"EUG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-123.21303,37.61799,-122.370943,44.119058",
     "geom:latitude":40.868524,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022764,
+    "wof:lastmodified":1579114785,
     "wof:name":"UA5240 (EUG-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

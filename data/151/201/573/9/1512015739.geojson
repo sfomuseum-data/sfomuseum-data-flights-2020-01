@@ -10,6 +10,7 @@
     "flysfo:flight_number":"19",
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
     "geom:latitude":44.544038,
@@ -84,7 +85,7 @@
         1159285483,
         1477930307
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114784,
     "wof:name":"VS19 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

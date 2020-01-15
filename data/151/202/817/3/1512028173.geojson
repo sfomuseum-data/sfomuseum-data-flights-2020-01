@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1812",
     "flysfo:gate":"D3",
     "flysfo:journey":"PDX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698707,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -101,7 +101,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1579022628,
+    "wof:lastmodified":1579114727,
     "wof:name":"AS1812 (PDX-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

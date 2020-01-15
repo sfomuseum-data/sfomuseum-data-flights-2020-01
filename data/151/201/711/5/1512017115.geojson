@@ -14,6 +14,7 @@
     "flysfo:flight_number":"712",
     "flysfo:gate":"D9",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578631440,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -100,7 +101,7 @@
         1477930357,
         1377564285
     ],
-    "wof:lastmodified":1579022826,
+    "wof:lastmodified":1579114828,
     "wof:name":"AS712 (SFO-LAS)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

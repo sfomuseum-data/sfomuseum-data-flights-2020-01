@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4214",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PHX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -91,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579022367,
+    "wof:lastmodified":1579114703,
     "wof:name":"AC4214 (SFO-PHX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

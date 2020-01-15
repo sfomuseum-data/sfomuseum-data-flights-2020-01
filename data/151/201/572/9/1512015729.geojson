@@ -14,6 +14,7 @@
     "flysfo:flight_number":"955",
     "flysfo:gate":"G4",
     "flysfo:journey":"TLV-SFO",
+    "flysfo:timestamp":1578690453,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.005595,34.877214,37.61799",
     "geom:latitude":34.811792,
@@ -99,7 +100,7 @@
         1477930467,
         1159289985
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"UA955 (TLV-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

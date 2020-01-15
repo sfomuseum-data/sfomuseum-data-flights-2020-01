@@ -10,7 +10,7 @@
     "flysfo:flight_number":"3458",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PSP",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -85,7 +85,7 @@
         1159283813,
         1477930369
     ],
-    "wof:lastmodified":1579022540,
+    "wof:lastmodified":1579114719,
     "wof:name":"AS3458 (SFO-PSP)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

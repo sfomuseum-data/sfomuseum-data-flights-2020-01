@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9238",
     "flysfo:gate":"F19",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -90,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1579022728,
+    "wof:lastmodified":1579114758,
     "wof:name":"NZ9238 (LAS-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

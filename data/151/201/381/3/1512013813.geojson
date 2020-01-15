@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7961",
     "flysfo:gate":"D9",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579022826,
+    "wof:lastmodified":1579114828,
     "wof:name":"CX7961 (PDX-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

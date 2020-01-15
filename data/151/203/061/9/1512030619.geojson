@@ -14,7 +14,7 @@
     "flysfo:flight_number":"759",
     "flysfo:gate":"E8",
     "flysfo:journey":"MCO-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704880,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -101,7 +101,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1579022544,
+    "wof:lastmodified":1579114720,
     "wof:name":"UA759 (MCO-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

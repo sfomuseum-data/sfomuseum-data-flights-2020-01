@@ -10,6 +10,7 @@
     "flysfo:flight_number":"560",
     "flysfo:gate":"A10",
     "flysfo:journey":"SAL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,13.444749,-89.058566,37.61799",
     "geom:latitude":25.53137,
@@ -84,7 +85,7 @@
         1159283957,
         1477930303
     ],
-    "wof:lastmodified":1579022694,
+    "wof:lastmodified":1579114739,
     "wof:name":"AV560 (SAL-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2305",
     "flysfo:gate":"C9",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578662820,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930333,
         1159289411
     ],
-    "wof:lastmodified":1579022797,
+    "wof:lastmodified":1579114806,
     "wof:name":"AA2305 (JFK-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

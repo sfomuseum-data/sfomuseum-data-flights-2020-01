@@ -14,6 +14,7 @@
     "flysfo:flight_number":"497",
     "flysfo:gate":"F22",
     "flysfo:journey":"EWR-SFO",
+    "flysfo:timestamp":1578628260,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1579022714,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA497 (EWR-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

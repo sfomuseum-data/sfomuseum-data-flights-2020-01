@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5515",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-PSC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-119.115996,46.250133",
     "geom:latitude":41.934061,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA5515 (SFO-PSC)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2264",
     "flysfo:gate":"F1",
     "flysfo:journey":"IAH-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -84,7 +85,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1579022818,
+    "wof:lastmodified":1579114823,
     "wof:name":"UA2264 (IAH-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

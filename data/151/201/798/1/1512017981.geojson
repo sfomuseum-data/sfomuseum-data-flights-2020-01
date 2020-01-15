@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6222",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-ORD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -90,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022707,
+    "wof:lastmodified":1579114745,
     "wof:name":"EI6222 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

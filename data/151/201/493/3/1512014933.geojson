@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1945",
     "flysfo:gate":"",
     "flysfo:journey":"BUR-SFO",
+    "flysfo:timestamp":1578575160,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -59,7 +60,7 @@
         -1,
         1159289869
     ],
-    "wof:lastmodified":1579022795,
+    "wof:lastmodified":1579114806,
     "wof:name":"WN1945 (BUR-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

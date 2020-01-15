@@ -10,6 +10,7 @@
     "flysfo:flight_number":"8",
     "flysfo:gate":"G8",
     "flysfo:journey":"TPE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -84,7 +85,7 @@
         1159284349,
         1477930477
     ],
-    "wof:lastmodified":1579022739,
+    "wof:lastmodified":1579114767,
     "wof:name":"BR8 (TPE-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

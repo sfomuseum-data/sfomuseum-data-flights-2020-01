@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1801",
     "flysfo:gate":"B13",
     "flysfo:journey":"STL-SFO",
+    "flysfo:timestamp":1578633720,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-90.367632,38.743872",
     "geom:latitude":38.180931,
@@ -100,7 +101,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1579022744,
+    "wof:lastmodified":1579114771,
     "wof:name":"WN1801 (STL-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

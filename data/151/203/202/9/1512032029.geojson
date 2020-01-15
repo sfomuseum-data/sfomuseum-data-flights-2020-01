@@ -14,7 +14,7 @@
     "flysfo:flight_number":"590",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578714060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -101,7 +101,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1579022436,
+    "wof:lastmodified":1579114709,
     "wof:name":"AS590 (SFO-EWR)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

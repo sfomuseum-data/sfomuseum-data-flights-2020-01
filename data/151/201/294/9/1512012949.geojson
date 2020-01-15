@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9350",
     "flysfo:gate":"E10",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579022738,
+    "wof:lastmodified":1579114766,
     "wof:name":"NZ9350 (PDX-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

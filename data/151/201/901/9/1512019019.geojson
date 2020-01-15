@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2242",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-DEN",
+    "flysfo:timestamp":1578644340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -100,7 +101,7 @@
         1477930411,
         1377564285
     ],
-    "wof:lastmodified":1579022704,
+    "wof:lastmodified":1579114745,
     "wof:name":"UA2242 (SFO-DEN)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

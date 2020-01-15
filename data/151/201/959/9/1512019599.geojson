@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6785",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-CDG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -50,7 +51,7 @@
         -1,
         1159283627
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114787,
     "wof:name":"VS6785 (SFO-CDG)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5395",
     "flysfo:gate":"F8",
     "flysfo:journey":"FAT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.768728,-119.721272,37.61799",
     "geom:latitude":37.193359,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022760,
+    "wof:lastmodified":1579114782,
     "wof:name":"UA5395 (FAT-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

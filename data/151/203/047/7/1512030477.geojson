@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5664",
     "flysfo:gate":"F15K",
     "flysfo:journey":"ONT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022411,
+    "wof:lastmodified":1579114707,
     "wof:name":"UA5664 (ONT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

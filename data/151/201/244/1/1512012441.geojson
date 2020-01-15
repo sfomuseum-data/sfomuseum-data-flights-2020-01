@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5293",
     "flysfo:gate":"F12",
     "flysfo:journey":"DEN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -90,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022729,
+    "wof:lastmodified":1579114759,
     "wof:name":"AC5293 (DEN-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

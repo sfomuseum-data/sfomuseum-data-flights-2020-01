@@ -14,6 +14,7 @@
     "flysfo:flight_number":"397",
     "flysfo:gate":"A4",
     "flysfo:journey":"MSP-SFO",
+    "flysfo:timestamp":1578647759,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -100,7 +101,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1579022788,
+    "wof:lastmodified":1579114800,
     "wof:name":"SY397 (MSP-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

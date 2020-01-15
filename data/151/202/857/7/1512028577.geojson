@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7301",
     "flysfo:gate":"E6",
     "flysfo:journey":"PHX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -91,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579022634,
+    "wof:lastmodified":1579114728,
     "wof:name":"CA7301 (PHX-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"643",
     "flysfo:gate":"E5",
     "flysfo:journey":"KOA-SFO",
+    "flysfo:timestamp":1578659040,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -97,7 +98,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1579022778,
+    "wof:lastmodified":1579114793,
     "wof:name":"UA643 (KOA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

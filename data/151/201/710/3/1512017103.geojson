@@ -14,6 +14,7 @@
     "flysfo:flight_number":"383",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578619680,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -100,7 +101,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1579022820,
+    "wof:lastmodified":1579114824,
     "wof:name":"AS383 (SFO-PDX)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

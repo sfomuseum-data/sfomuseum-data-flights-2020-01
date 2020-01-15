@@ -14,7 +14,7 @@
     "flysfo:flight_number":"365",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-PHL",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705420,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -101,7 +101,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1579022361,
+    "wof:lastmodified":1579114702,
     "wof:name":"UA365 (SFO-PHL)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"209",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-PTY",
+    "flysfo:timestamp":1578658380,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,9.07136,-79.383499,37.61799",
     "geom:latitude":23.344675,
@@ -100,7 +101,7 @@
         1477930485,
         1159289871
     ],
-    "wof:lastmodified":1579022762,
+    "wof:lastmodified":1579114783,
     "wof:name":"CM209 (SFO-PTY)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

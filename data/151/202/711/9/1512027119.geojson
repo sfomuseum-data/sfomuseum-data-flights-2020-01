@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2891",
     "flysfo:gate":"D10",
     "flysfo:journey":"LAX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578701462,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1579022671,
+    "wof:lastmodified":1579114733,
     "wof:name":"AA2891 (LAX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

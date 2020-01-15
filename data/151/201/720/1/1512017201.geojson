@@ -10,6 +10,7 @@
     "flysfo:flight_number":"563",
     "flysfo:gate":"A12",
     "flysfo:journey":"SFO-SAL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,13.444749,-89.058566,37.61799",
     "geom:latitude":25.53137,
@@ -84,7 +85,7 @@
         1159283957,
         1477930307
     ],
-    "wof:lastmodified":1579022830,
+    "wof:lastmodified":1579114829,
     "wof:name":"AV563 (SFO-SAL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

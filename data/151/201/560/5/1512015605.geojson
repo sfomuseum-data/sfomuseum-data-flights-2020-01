@@ -14,6 +14,7 @@
     "flysfo:flight_number":"595",
     "flysfo:gate":"F19",
     "flysfo:journey":"YVR-SFO",
+    "flysfo:timestamp":1578643913,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -99,7 +100,7 @@
         1477930451,
         1159292085
     ],
-    "wof:lastmodified":1579022696,
+    "wof:lastmodified":1579114740,
     "wof:name":"UA595 (YVR-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

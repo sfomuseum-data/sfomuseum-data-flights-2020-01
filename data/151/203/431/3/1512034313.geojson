@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7949",
     "flysfo:gate":"G13",
     "flysfo:journey":"SFO-NRT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -91,7 +91,7 @@
         1477930487,
         1159283875
     ],
-    "wof:lastmodified":1579022429,
+    "wof:lastmodified":1579114708,
     "wof:name":"UA7949 (SFO-NRT)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

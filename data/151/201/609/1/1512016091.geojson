@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4212",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-PSP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -90,7 +91,7 @@
         1477930415,
         1159285413
     ],
-    "wof:lastmodified":1579022811,
+    "wof:lastmodified":1579114817,
     "wof:name":"AC4212 (SFO-PSP)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

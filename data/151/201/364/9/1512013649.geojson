@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1127",
     "flysfo:gate":"E1",
     "flysfo:journey":"YVR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -90,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579022716,
+    "wof:lastmodified":1579114750,
     "wof:name":"CM1127 (YVR-SFO)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1761",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-SJD",
+    "flysfo:timestamp":1578618660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
     "geom:latitude":30.389476,
@@ -100,7 +101,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114768,
     "wof:name":"UA1761 (SFO-SJD)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

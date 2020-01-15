@@ -14,6 +14,7 @@
     "flysfo:flight_number":"757",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-JFK",
+    "flysfo:timestamp":1578628320,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930321,
         1159289939
     ],
-    "wof:lastmodified":1579022771,
+    "wof:lastmodified":1579114789,
     "wof:name":"DL757 (SFO-JFK)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

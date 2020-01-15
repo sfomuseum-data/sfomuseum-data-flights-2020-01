@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5617",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-SUN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.29782,43.50657",
     "geom:latitude":40.56228,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022408,
+    "wof:lastmodified":1579114706,
     "wof:name":"UA5617 (SFO-SUN)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

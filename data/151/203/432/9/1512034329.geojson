@@ -14,7 +14,7 @@
     "flysfo:flight_number":"837",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-NRT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578713340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -101,7 +101,7 @@
         1477930481,
         1159289993
     ],
-    "wof:lastmodified":1579022556,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA837 (SFO-NRT)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

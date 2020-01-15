@@ -12,7 +12,7 @@
     "flysfo:flight_number":"743",
     "flysfo:gate":"D2",
     "flysfo:journey":"SFO-HNL",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578709680,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -99,7 +99,7 @@
         1477930341,
         1377564285
     ],
-    "wof:lastmodified":1579022425,
+    "wof:lastmodified":1579114708,
     "wof:name":"AS743 (SFO-HNL)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

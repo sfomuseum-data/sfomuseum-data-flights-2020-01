@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5900",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-RNO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-119.772167,39.505219",
     "geom:latitude":38.561605,
@@ -85,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579022389,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA5900 (SFO-RNO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

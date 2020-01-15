@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1279",
     "flysfo:gate":"G11",
     "flysfo:journey":"SJD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,23.160962,-109.717461,37.61799",
     "geom:latitude":30.389476,
@@ -84,7 +85,7 @@
         1159283813,
         1477930483
     ],
-    "wof:lastmodified":1579022761,
+    "wof:lastmodified":1579114782,
     "wof:name":"AS1279 (SJD-SFO)",
     "wof:parent_id":1477930483,
     "wof:placetype":"event",

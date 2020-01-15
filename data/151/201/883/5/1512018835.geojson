@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3106",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-SAN",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -90,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579022786,
+    "wof:lastmodified":1579114798,
     "wof:name":"EK3106 (SFO-SAN)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

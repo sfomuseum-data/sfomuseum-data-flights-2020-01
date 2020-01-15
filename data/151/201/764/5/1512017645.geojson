@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2370",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-DTW",
+    "flysfo:timestamp":1578637440,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -100,7 +101,7 @@
         1477930331,
         1377564285
     ],
-    "wof:lastmodified":1579022695,
+    "wof:lastmodified":1579114739,
     "wof:name":"DL2370 (SFO-DTW)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5696",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-SBP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.23692,-120.64323,37.61799",
     "geom:latitude":36.427455,
@@ -84,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579022814,
+    "wof:lastmodified":1579114819,
     "wof:name":"UA5696 (SFO-SBP)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

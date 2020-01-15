@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5201",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-MRY",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.5879,-121.83939,37.61799",
     "geom:latitude":37.102945,
@@ -84,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579022762,
+    "wof:lastmodified":1579114783,
     "wof:name":"UA5201 (SFO-MRY)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

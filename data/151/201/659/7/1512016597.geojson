@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9081",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-DFW",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -90,7 +91,7 @@
         1477930429,
         1159285413
     ],
-    "wof:lastmodified":1579022741,
+    "wof:lastmodified":1579114769,
     "wof:name":"NZ9081 (SFO-DFW)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

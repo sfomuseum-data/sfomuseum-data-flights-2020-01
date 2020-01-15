@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9735",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-STS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.806017,37.61799,-122.370943,38.51083",
     "geom:latitude":38.06441,
@@ -90,7 +91,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579022720,
+    "wof:lastmodified":1579114753,
     "wof:name":"NZ9735 (SFO-STS)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

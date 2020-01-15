@@ -14,6 +14,7 @@
     "flysfo:flight_number":"809",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-SLC",
+    "flysfo:timestamp":1578633180,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -100,7 +101,7 @@
         1477930389,
         1159289407
     ],
-    "wof:lastmodified":1579022748,
+    "wof:lastmodified":1579114774,
     "wof:name":"UA809 (SFO-SLC)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

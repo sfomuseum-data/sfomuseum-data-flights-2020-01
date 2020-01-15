@@ -12,6 +12,7 @@
     "flysfo:flight_number":"38",
     "flysfo:gate":"G7",
     "flysfo:journey":"ZRH-SFO",
+    "flysfo:timestamp":1578642334,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,8.559692,47.455793",
     "geom:latitude":42.536891,
@@ -97,7 +98,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1579022742,
+    "wof:lastmodified":1579114770,
     "wof:name":"LX38 (ZRH-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"623",
     "flysfo:gate":"D4",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578624180,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930345,
         1377564297
     ],
-    "wof:lastmodified":1579022704,
+    "wof:lastmodified":1579114744,
     "wof:name":"AS623 (JFK-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

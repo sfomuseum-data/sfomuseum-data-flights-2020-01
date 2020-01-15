@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4388",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-BUR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -90,7 +91,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1579022785,
+    "wof:lastmodified":1579114797,
     "wof:name":"AC4388 (SFO-BUR)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

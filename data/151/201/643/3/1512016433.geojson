@@ -14,6 +14,7 @@
     "flysfo:flight_number":"7",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-NRT",
+    "flysfo:timestamp":1578634740,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -100,7 +101,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1579022720,
+    "wof:lastmodified":1579114752,
     "wof:name":"NH7 (SFO-NRT)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

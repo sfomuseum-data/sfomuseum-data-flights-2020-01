@@ -14,7 +14,7 @@
     "flysfo:flight_number":"948",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-DEN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705840,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -101,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1579022427,
+    "wof:lastmodified":1579114708,
     "wof:name":"UA948 (SFO-DEN)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

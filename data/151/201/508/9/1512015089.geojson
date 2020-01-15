@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1095",
     "flysfo:gate":"E12",
     "flysfo:journey":"BNA-SFO",
+    "flysfo:timestamp":1578622140,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
     "geom:latitude":36.872189,
@@ -100,7 +101,7 @@
         1477930403,
         1159292085
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114784,
     "wof:name":"UA1095 (BNA-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

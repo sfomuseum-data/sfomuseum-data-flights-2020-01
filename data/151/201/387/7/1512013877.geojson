@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1750",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
+    "flysfo:timestamp":1578651180,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -100,7 +101,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"DL1750 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

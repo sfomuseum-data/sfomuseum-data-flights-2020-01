@@ -14,6 +14,7 @@
     "flysfo:flight_number":"820",
     "flysfo:gate":"G1",
     "flysfo:journey":"MEX-SFO",
+    "flysfo:timestamp":1578618660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -99,7 +100,7 @@
         1477930461,
         1159289407
     ],
-    "wof:lastmodified":1579022697,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA820 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

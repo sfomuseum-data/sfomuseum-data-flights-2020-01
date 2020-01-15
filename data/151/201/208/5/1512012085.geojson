@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1880",
     "flysfo:gate":"C7",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578621542,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -100,7 +101,7 @@
         1477930327,
         1159292085
     ],
-    "wof:lastmodified":1579022806,
+    "wof:lastmodified":1579114813,
     "wof:name":"AA1880 (PHX-SFO)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1022",
     "flysfo:gate":"D3",
     "flysfo:journey":"SFO-JFK",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -101,7 +101,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1579022607,
+    "wof:lastmodified":1579114724,
     "wof:name":"AS1022 (SFO-JFK)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

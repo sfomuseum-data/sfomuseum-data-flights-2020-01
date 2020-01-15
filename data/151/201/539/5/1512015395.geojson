@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5316",
     "flysfo:gate":"F5",
     "flysfo:journey":"MRY-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.5879,-121.83939,37.61799",
     "geom:latitude":37.102945,
@@ -84,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114786,
     "wof:name":"UA5316 (MRY-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2380",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-KOA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -90,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579022752,
+    "wof:lastmodified":1579114776,
     "wof:name":"CM2380 (SFO-KOA)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

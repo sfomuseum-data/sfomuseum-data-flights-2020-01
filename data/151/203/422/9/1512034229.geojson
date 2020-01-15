@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5914",
     "flysfo:gate":"E3",
     "flysfo:journey":"SFO-MSN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-89.33824,43.133477",
     "geom:latitude":40.375733,
@@ -85,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579022389,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA5914 (SFO-MSN)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2571",
     "flysfo:gate":"A12",
     "flysfo:journey":"LHR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-0.450443,51.470087",
     "geom:latitude":44.544038,
@@ -90,7 +91,7 @@
         1477930307,
         1159285483
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114801,
     "wof:name":"SQ2571 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

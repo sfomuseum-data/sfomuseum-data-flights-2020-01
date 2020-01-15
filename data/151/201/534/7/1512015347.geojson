@@ -14,6 +14,7 @@
     "flysfo:flight_number":"471",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578614220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930399,
         1159289407
     ],
-    "wof:lastmodified":1579022702,
+    "wof:lastmodified":1579114743,
     "wof:name":"UA471 (LAX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

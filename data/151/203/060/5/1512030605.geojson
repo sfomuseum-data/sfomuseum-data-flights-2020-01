@@ -14,7 +14,7 @@
     "flysfo:flight_number":"728",
     "flysfo:gate":"F14",
     "flysfo:journey":"LAS-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -101,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1579022562,
+    "wof:lastmodified":1579114722,
     "wof:name":"UA728 (LAS-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

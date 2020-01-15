@@ -10,6 +10,7 @@
     "flysfo:flight_number":"334",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -84,7 +85,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1579022764,
+    "wof:lastmodified":1579114785,
     "wof:name":"AS334 (SFO-EWR)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

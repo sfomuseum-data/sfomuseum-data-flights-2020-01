@@ -12,7 +12,7 @@
     "flysfo:flight_number":"8318",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-YYZ",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -91,7 +91,7 @@
         1477930471,
         1159283597
     ],
-    "wof:lastmodified":1579022551,
+    "wof:lastmodified":1579114720,
     "wof:name":"OS8318 (SFO-YYZ)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

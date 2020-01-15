@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3708",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PVR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
     "geom:latitude":29.139362,
@@ -90,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579022782,
+    "wof:lastmodified":1579114795,
     "wof:name":"QF3708 (SFO-PVR)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

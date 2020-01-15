@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2445",
     "flysfo:gate":"F5",
     "flysfo:journey":"SFO-XNA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.281295,-94.303754,37.61799",
     "geom:latitude":36.949642,
@@ -90,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579022734,
+    "wof:lastmodified":1579114764,
     "wof:name":"NZ2445 (SFO-XNA)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

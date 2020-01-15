@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1273",
     "flysfo:gate":"C3",
     "flysfo:journey":"MSP-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578710640,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -101,7 +101,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1579022631,
+    "wof:lastmodified":1579114727,
     "wof:name":"DL1273 (MSP-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

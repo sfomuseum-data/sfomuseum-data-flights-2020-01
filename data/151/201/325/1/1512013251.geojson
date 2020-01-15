@@ -10,6 +10,7 @@
     "flysfo:flight_number":"3385",
     "flysfo:gate":"D2",
     "flysfo:journey":"PSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -84,7 +85,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114784,
     "wof:name":"AS3385 (PSP-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

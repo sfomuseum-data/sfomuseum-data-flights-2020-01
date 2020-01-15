@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2186",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-SAN",
+    "flysfo:timestamp":1578636000,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -98,7 +99,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1579022698,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA2186 (SFO-SAN)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

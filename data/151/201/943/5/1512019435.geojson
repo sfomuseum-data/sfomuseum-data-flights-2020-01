@@ -14,6 +14,7 @@
     "flysfo:flight_number":"726",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578667560,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1579022829,
+    "wof:lastmodified":1579114829,
     "wof:name":"UA726 (SFO-EWR)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

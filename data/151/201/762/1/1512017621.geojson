@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1806",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578627780,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930335,
         1159289407
     ],
-    "wof:lastmodified":1579022711,
+    "wof:lastmodified":1579114747,
     "wof:name":"DL1806 (SFO-LAX)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

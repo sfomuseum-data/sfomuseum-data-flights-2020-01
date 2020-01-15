@@ -10,6 +10,7 @@
     "flysfo:flight_number":"872",
     "flysfo:gate":"G13",
     "flysfo:journey":"TPE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -84,7 +85,7 @@
         1159285413,
         1477930487
     ],
-    "wof:lastmodified":1579022695,
+    "wof:lastmodified":1579114740,
     "wof:name":"UA872 (TPE-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

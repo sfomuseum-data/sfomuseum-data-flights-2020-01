@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5833",
     "flysfo:gate":"D5",
     "flysfo:journey":"OGG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
     "geom:latitude":29.256471,
@@ -90,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579022718,
+    "wof:lastmodified":1579114751,
     "wof:name":"FJ5833 (OGG-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

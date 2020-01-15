@@ -10,6 +10,7 @@
     "flysfo:flight_number":"73",
     "flysfo:gate":"A9",
     "flysfo:journey":"SYD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
     "geom:latitude":1.841531,
@@ -84,7 +85,7 @@
         1159284313,
         1477930301
     ],
-    "wof:lastmodified":1579022730,
+    "wof:lastmodified":1579114760,
     "wof:name":"QF73 (SYD-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

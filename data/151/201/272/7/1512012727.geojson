@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4737",
     "flysfo:gate":"G10",
     "flysfo:journey":"YYZ-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -90,7 +91,7 @@
         1477930481,
         1159283597
     ],
-    "wof:lastmodified":1579022729,
+    "wof:lastmodified":1579114760,
     "wof:name":"NZ4737 (YYZ-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

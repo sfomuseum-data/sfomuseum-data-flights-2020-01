@@ -14,6 +14,7 @@
     "flysfo:flight_number":"701",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-AUS",
+    "flysfo:timestamp":1578626220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -100,7 +101,7 @@
         1477930447,
         1159289871
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"UA701 (SFO-AUS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

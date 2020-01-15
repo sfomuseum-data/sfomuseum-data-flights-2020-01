@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3673",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-DCA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
     "geom:latitude":38.234314,
@@ -90,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579022782,
+    "wof:lastmodified":1579114795,
     "wof:name":"QF3673 (SFO-DCA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

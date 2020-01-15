@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1723",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-KOA",
+    "flysfo:timestamp":1578654120,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -100,7 +101,7 @@
         1477930389,
         1377564285
     ],
-    "wof:lastmodified":1579022741,
+    "wof:lastmodified":1579114769,
     "wof:name":"UA1723 (SFO-KOA)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

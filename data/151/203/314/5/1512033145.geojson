@@ -14,7 +14,7 @@
     "flysfo:flight_number":"334",
     "flysfo:gate":"B7",
     "flysfo:journey":"SFO-BOS",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578712980,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -101,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1579022471,
+    "wof:lastmodified":1579114712,
     "wof:name":"B6334 (SFO-BOS)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

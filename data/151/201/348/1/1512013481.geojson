@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8030",
     "flysfo:gate":"A12",
     "flysfo:journey":"NAN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-17.806865,177.37636,37.61799",
     "geom:latitude":9.905563,
@@ -90,7 +91,7 @@
         1477930307,
         1159283715
     ],
-    "wof:lastmodified":1579022748,
+    "wof:lastmodified":1579114774,
     "wof:name":"BA8030 (NAN-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

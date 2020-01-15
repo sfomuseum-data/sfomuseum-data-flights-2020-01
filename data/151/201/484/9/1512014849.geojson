@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1543",
     "flysfo:gate":"B6",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -90,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"SQ1543 (JFK-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

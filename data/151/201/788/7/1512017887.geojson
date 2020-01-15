@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3192",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930327,
         1159283849
     ],
-    "wof:lastmodified":1579022813,
+    "wof:lastmodified":1579114819,
     "wof:name":"QF3192 (SFO-LAX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

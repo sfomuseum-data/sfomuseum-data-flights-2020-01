@@ -14,6 +14,7 @@
     "flysfo:flight_number":"379",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578623160,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930339,
         1377564285
     ],
-    "wof:lastmodified":1579022820,
+    "wof:lastmodified":1579114824,
     "wof:name":"AS379 (SFO-SEA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

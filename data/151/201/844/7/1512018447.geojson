@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6599",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-MIA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
     "geom:latitude":31.70423,
@@ -90,7 +91,7 @@
         1477930363,
         1159283849
     ],
-    "wof:lastmodified":1579022730,
+    "wof:lastmodified":1579114760,
     "wof:name":"LA6599 (SFO-MIA)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

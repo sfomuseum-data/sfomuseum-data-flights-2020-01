@@ -14,6 +14,7 @@
     "flysfo:flight_number":"698",
     "flysfo:gate":"E5",
     "flysfo:journey":"SEA-SFO",
+    "flysfo:timestamp":1578626700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930387,
         1159292085
     ],
-    "wof:lastmodified":1579022778,
+    "wof:lastmodified":1579114793,
     "wof:name":"UA698 (SEA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

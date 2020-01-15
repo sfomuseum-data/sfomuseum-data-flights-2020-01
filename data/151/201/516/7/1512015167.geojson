@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1844",
     "flysfo:gate":"E10",
     "flysfo:journey":"IAH-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -84,7 +85,7 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1579022757,
+    "wof:lastmodified":1579114780,
     "wof:name":"UA1844 (IAH-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

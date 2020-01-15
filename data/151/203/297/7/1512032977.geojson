@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5804",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-DCA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.041643,38.850639",
     "geom:latitude":38.234314,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579022558,
+    "wof:lastmodified":1579114721,
     "wof:name":"FJ5804 (SFO-DCA)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

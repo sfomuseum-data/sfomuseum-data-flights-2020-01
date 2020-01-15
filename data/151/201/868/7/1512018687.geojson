@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1779",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-SAN",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -84,7 +85,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579022733,
+    "wof:lastmodified":1579114763,
     "wof:name":"WN1779 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

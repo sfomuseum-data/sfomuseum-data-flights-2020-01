@@ -14,6 +14,7 @@
     "flysfo:flight_number":"565",
     "flysfo:gate":"E5",
     "flysfo:journey":"YYZ-SFO",
+    "flysfo:timestamp":1578620100,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -99,7 +100,7 @@
         1477930387,
         1159289871
     ],
-    "wof:lastmodified":1579022710,
+    "wof:lastmodified":1579114747,
     "wof:name":"UA565 (YYZ-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

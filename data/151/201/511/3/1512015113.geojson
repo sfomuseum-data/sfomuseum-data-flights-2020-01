@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1423",
     "flysfo:gate":"F20",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578649083,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -100,7 +101,7 @@
         1477930453,
         1159289407
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA1423 (PDX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

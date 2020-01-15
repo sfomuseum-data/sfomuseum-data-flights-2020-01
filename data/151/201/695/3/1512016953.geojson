@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1321",
     "flysfo:gate":"D7",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578611160,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -100,7 +101,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1579022743,
+    "wof:lastmodified":1579114770,
     "wof:name":"AS1321 (SFO-PDX)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

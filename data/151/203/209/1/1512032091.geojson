@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2182",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-YVR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -91,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579022538,
+    "wof:lastmodified":1579114719,
     "wof:name":"AV2182 (SFO-YVR)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

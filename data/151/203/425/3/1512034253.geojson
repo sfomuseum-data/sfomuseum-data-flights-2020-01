@@ -14,7 +14,7 @@
     "flysfo:flight_number":"616",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-ORD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698160,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -101,7 +101,7 @@
         1477930389,
         1377564285
     ],
-    "wof:lastmodified":1579022391,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA616 (SFO-ORD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"356",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-MDW",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.745903,41.787532",
     "geom:latitude":39.702761,
@@ -101,7 +101,7 @@
         1477881733,
         1159289871
     ],
-    "wof:lastmodified":1579022480,
+    "wof:lastmodified":1579114713,
     "wof:name":"WN356 (SFO-MDW)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

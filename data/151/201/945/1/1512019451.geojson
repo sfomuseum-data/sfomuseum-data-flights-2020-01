@@ -14,6 +14,7 @@
     "flysfo:flight_number":"766",
     "flysfo:gate":"E13",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578657000,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -100,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA766 (SFO-PDX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

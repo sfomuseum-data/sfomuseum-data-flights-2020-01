@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1777",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-DAL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
     "geom:latitude":35.23192,
@@ -90,7 +91,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1579022811,
+    "wof:lastmodified":1579114817,
     "wof:name":"SQ1777 (SFO-DAL)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

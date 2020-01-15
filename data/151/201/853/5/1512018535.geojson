@@ -10,6 +10,7 @@
     "flysfo:flight_number":"698",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -84,7 +85,7 @@
         1159285227,
         1477930477
     ],
-    "wof:lastmodified":1579022803,
+    "wof:lastmodified":1579114811,
     "wof:name":"SY698 (SFO-PDX)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

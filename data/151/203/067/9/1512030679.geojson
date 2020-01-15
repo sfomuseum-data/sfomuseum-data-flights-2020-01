@@ -10,7 +10,7 @@
     "flysfo:flight_number":"916",
     "flysfo:gate":"G9",
     "flysfo:journey":"AKL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
     "geom:latitude":0.306244,
@@ -85,7 +85,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1579022559,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA916 (AKL-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

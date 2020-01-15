@@ -14,6 +14,7 @@
     "flysfo:flight_number":"664",
     "flysfo:gate":"A15",
     "flysfo:journey":"MEX-SFO",
+    "flysfo:timestamp":1578664230,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -99,7 +100,7 @@
         1477930315,
         1159289871
     ],
-    "wof:lastmodified":1579022738,
+    "wof:lastmodified":1579114766,
     "wof:name":"AM664 (MEX-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

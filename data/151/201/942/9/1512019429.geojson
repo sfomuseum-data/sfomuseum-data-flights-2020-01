@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7167",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-PTY",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,9.07136,-79.383499,37.61799",
     "geom:latitude":23.344675,
@@ -90,7 +91,7 @@
         1477930485,
         1159284211
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"UA7167 (SFO-PTY)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2437",
     "flysfo:gate":"F19",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -90,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1579022818,
+    "wof:lastmodified":1579114823,
     "wof:name":"CM2437 (PHX-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

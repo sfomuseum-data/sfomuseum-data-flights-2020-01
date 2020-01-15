@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2266",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-MFR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.874456,37.61799,-122.370943,42.369651",
     "geom:latitude":39.99382,
@@ -91,7 +91,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579022538,
+    "wof:lastmodified":1579114719,
     "wof:name":"AV2266 (SFO-MFR)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

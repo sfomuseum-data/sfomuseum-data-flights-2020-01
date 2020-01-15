@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9386",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -90,7 +91,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579022807,
+    "wof:lastmodified":1579114814,
     "wof:name":"LY9386 (SFO-LAS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

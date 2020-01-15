@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9246",
     "flysfo:gate":"E11",
     "flysfo:journey":"LAS-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -91,7 +91,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579022666,
+    "wof:lastmodified":1579114732,
     "wof:name":"NZ9246 (LAS-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

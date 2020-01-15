@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3014",
     "flysfo:gate":"G6",
     "flysfo:journey":"CDG-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -91,7 +91,7 @@
         1477930471,
         1159285413
     ],
-    "wof:lastmodified":1579022611,
+    "wof:lastmodified":1579114725,
     "wof:name":"LX3014 (CDG-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

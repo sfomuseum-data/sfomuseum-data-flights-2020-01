@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5824",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-MCO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -91,7 +91,7 @@
         1477930371,
         1159283813
     ],
-    "wof:lastmodified":1579022545,
+    "wof:lastmodified":1579114720,
     "wof:name":"FJ5824 (SFO-MCO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

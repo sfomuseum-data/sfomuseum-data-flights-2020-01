@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6809",
     "flysfo:gate":"D11",
     "flysfo:journey":"PHL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -90,7 +91,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1579022744,
+    "wof:lastmodified":1579114772,
     "wof:name":"BA6809 (PHL-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

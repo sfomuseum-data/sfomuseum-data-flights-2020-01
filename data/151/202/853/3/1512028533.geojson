@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7240",
     "flysfo:gate":"F14",
     "flysfo:journey":"IAD-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -91,7 +91,7 @@
         1477930441,
         1159285413
     ],
-    "wof:lastmodified":1579022663,
+    "wof:lastmodified":1579114731,
     "wof:name":"CA7240 (IAD-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

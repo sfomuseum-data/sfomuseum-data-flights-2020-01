@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5425",
     "flysfo:gate":"F7",
     "flysfo:journey":"SFO-ONT",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -84,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579022822,
+    "wof:lastmodified":1579114825,
     "wof:name":"UA5425 (SFO-ONT)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

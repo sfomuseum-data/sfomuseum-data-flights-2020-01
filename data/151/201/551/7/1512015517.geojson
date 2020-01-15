@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5679",
     "flysfo:gate":"F9",
     "flysfo:journey":"EGE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-106.91431,39.641137",
     "geom:latitude":38.629564,
@@ -84,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022694,
+    "wof:lastmodified":1579114739,
     "wof:name":"UA5679 (EGE-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

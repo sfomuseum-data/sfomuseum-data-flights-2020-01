@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6330",
     "flysfo:gate":"G10",
     "flysfo:journey":"TPE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.078566,121.233152,37.61799",
     "geom:latitude":31.348278,
@@ -90,7 +91,7 @@
         1477930481,
         1159284349
     ],
-    "wof:lastmodified":1579022773,
+    "wof:lastmodified":1579114790,
     "wof:name":"TG6330 (TPE-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

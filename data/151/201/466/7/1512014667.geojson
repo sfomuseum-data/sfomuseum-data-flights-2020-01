@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6848",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -90,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022807,
+    "wof:lastmodified":1579114814,
     "wof:name":"KL6848 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

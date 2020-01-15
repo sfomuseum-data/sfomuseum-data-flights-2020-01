@@ -14,7 +14,7 @@
     "flysfo:flight_number":"890",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578693840,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930369,
         1159289407
     ],
-    "wof:lastmodified":1579022507,
+    "wof:lastmodified":1579114715,
     "wof:name":"AA890 (SFO-LAX)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

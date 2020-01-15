@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7266",
     "flysfo:gate":"F6",
     "flysfo:journey":"MSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -90,7 +91,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579022702,
+    "wof:lastmodified":1579114743,
     "wof:name":"CA7266 (MSP-SFO)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

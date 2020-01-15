@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5709",
     "flysfo:gate":"F10",
     "flysfo:journey":"SFO-STS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.806017,37.61799,-122.370943,38.51083",
     "geom:latitude":38.06441,
@@ -84,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579022814,
+    "wof:lastmodified":1579114819,
     "wof:name":"UA5709 (SFO-STS)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

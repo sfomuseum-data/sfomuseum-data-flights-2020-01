@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1978",
     "flysfo:gate":"F16",
     "flysfo:journey":"EWR-SFO",
+    "flysfo:timestamp":1578647880,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1579022756,
+    "wof:lastmodified":1579114779,
     "wof:name":"UA1978 (EWR-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

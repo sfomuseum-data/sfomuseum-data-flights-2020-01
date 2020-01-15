@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8126",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-MEX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -90,7 +91,7 @@
         1477930301,
         1159283539
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"DL8126 (SFO-MEX)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

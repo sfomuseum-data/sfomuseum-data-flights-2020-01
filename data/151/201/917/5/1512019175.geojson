@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5334",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SAT",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
     "geom:latitude":33.576414,
@@ -84,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1579022823,
+    "wof:lastmodified":1579114826,
     "wof:name":"UA5334 (SFO-SAT)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

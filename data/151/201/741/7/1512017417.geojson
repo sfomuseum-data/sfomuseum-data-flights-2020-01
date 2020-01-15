@@ -14,6 +14,7 @@
     "flysfo:flight_number":"768",
     "flysfo:gate":"A5",
     "flysfo:journey":"SFO-TAO",
+    "flysfo:timestamp":1578633660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.266102,120.374001,37.61799",
     "geom:latitude":36.942046,
@@ -100,7 +101,7 @@
         1477930291,
         1159289421
     ],
-    "wof:lastmodified":1579022763,
+    "wof:lastmodified":1579114784,
     "wof:name":"MU768 (SFO-TAO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

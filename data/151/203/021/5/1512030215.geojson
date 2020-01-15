@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2235",
     "flysfo:gate":"F4",
     "flysfo:journey":"SAN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578700020,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -101,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1579022537,
+    "wof:lastmodified":1579114719,
     "wof:name":"UA2235 (SAN-SFO)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

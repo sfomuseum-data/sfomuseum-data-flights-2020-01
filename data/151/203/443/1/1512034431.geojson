@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4919",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-MSP",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022516,
+    "wof:lastmodified":1579114716,
     "wof:name":"VS4919 (SFO-MSP)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

@@ -10,7 +10,7 @@
     "flysfo:flight_number":"2115",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-DEN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -85,7 +85,7 @@
         1159285413,
         1477930435
     ],
-    "wof:lastmodified":1579022459,
+    "wof:lastmodified":1579114711,
     "wof:name":"UA2115 (SFO-DEN)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

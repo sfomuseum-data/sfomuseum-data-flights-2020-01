@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1401",
     "flysfo:gate":"E12",
     "flysfo:journey":"SNA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578701040,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -101,7 +101,7 @@
         1477930403,
         1159289871
     ],
-    "wof:lastmodified":1579022420,
+    "wof:lastmodified":1579114708,
     "wof:name":"UA1401 (SNA-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"16",
     "flysfo:gate":"D12",
     "flysfo:journey":"SFO-JFK",
+    "flysfo:timestamp":1578629400,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930363,
         1159289411
     ],
-    "wof:lastmodified":1579022814,
+    "wof:lastmodified":1579114819,
     "wof:name":"AA16 (SFO-JFK)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

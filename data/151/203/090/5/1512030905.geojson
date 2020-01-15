@@ -14,7 +14,7 @@
     "flysfo:flight_number":"922",
     "flysfo:gate":"C9",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578739020,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930333,
         1159289871
     ],
-    "wof:lastmodified":1579022432,
+    "wof:lastmodified":1579114709,
     "wof:name":"AA922 (SFO-LAX)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

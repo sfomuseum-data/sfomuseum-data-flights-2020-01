@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1833",
     "flysfo:gate":"B17",
     "flysfo:journey":"SFO-BUR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -84,7 +85,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579022785,
+    "wof:lastmodified":1579114797,
     "wof:name":"WN1833 (SFO-BUR)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

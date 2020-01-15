@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3063",
     "flysfo:gate":"D2",
     "flysfo:journey":"AUS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -90,7 +91,7 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1579022712,
+    "wof:lastmodified":1579114748,
     "wof:name":"EK3063 (AUS-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

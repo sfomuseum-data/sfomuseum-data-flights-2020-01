@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5647",
     "flysfo:gate":"F8",
     "flysfo:journey":"SFO-SBA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.427974,-119.837133,37.61799",
     "geom:latitude":36.022982,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022815,
+    "wof:lastmodified":1579114820,
     "wof:name":"UA5647 (SFO-SBA)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

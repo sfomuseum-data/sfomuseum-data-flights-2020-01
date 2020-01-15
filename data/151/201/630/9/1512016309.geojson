@@ -14,6 +14,7 @@
     "flysfo:flight_number":"756",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-YYZ",
+    "flysfo:timestamp":1578629760,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -100,7 +101,7 @@
         1477930485,
         1159289965
     ],
-    "wof:lastmodified":1579022801,
+    "wof:lastmodified":1579114810,
     "wof:name":"AC756 (SFO-YYZ)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

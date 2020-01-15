@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1782",
     "flysfo:gate":"",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578577680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -59,7 +60,7 @@
         -1,
         1159289869
     ],
-    "wof:lastmodified":1579022735,
+    "wof:lastmodified":1579114764,
     "wof:name":"WN1782 (SAN-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

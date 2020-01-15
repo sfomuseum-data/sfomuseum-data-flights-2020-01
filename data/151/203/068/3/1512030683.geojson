@@ -14,7 +14,7 @@
     "flysfo:flight_number":"922",
     "flysfo:gate":"F2",
     "flysfo:journey":"FLL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578710833,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
     "geom:latitude":31.846425,
@@ -101,7 +101,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579022550,
+    "wof:lastmodified":1579114720,
     "wof:name":"UA922 (FLL-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

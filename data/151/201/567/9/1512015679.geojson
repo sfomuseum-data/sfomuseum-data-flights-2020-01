@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8264",
     "flysfo:gate":"G1",
     "flysfo:journey":"YYC-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
     "geom:latitude":44.368758,
@@ -90,7 +91,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1579022697,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA8264 (YYC-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

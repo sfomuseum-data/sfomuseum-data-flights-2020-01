@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5362",
     "flysfo:gate":"F8",
     "flysfo:journey":"BUR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -84,7 +85,7 @@
         1159285413,
         1477930427
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA5362 (BUR-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

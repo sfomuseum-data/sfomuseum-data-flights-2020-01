@@ -14,6 +14,7 @@
     "flysfo:flight_number":"500",
     "flysfo:gate":"F16",
     "flysfo:journey":"IND-SFO",
+    "flysfo:timestamp":1578614160,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-86.278675,39.730262",
     "geom:latitude":38.674126,
@@ -100,7 +101,7 @@
         1477930445,
         1159292085
     ],
-    "wof:lastmodified":1579022714,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA500 (IND-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

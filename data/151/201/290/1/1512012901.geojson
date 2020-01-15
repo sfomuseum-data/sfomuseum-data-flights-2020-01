@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9272",
     "flysfo:gate":"E3",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930381,
         1159285413
     ],
-    "wof:lastmodified":1579022808,
+    "wof:lastmodified":1579114815,
     "wof:name":"NZ9272 (LAX-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

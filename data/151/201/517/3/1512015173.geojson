@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1891",
     "flysfo:gate":"F19",
     "flysfo:journey":"ORD-SFO",
+    "flysfo:timestamp":1578629448,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -100,7 +101,7 @@
         1477930451,
         1159289945
     ],
-    "wof:lastmodified":1579022746,
+    "wof:lastmodified":1579114773,
     "wof:name":"UA1891 (ORD-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

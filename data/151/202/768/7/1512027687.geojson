@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2728",
     "flysfo:gate":"E5",
     "flysfo:journey":"IND-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-86.278675,39.730262",
     "geom:latitude":38.674126,
@@ -91,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1579022656,
+    "wof:lastmodified":1579114730,
     "wof:name":"NZ2728 (IND-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

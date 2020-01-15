@@ -14,6 +14,7 @@
     "flysfo:flight_number":"756",
     "flysfo:gate":"B9",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578655108,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -100,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579022807,
+    "wof:lastmodified":1579114814,
     "wof:name":"WN756 (SAN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

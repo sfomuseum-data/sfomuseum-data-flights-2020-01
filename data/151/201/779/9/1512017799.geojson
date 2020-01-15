@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9202",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-SAN",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -90,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1579022761,
+    "wof:lastmodified":1579114782,
     "wof:name":"LH9202 (SFO-SAN)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

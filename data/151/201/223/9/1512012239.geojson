@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9526",
     "flysfo:gate":"F17",
     "flysfo:journey":"CLE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-81.835629,41.406844",
     "geom:latitude":39.512417,
@@ -90,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579022788,
+    "wof:lastmodified":1579114800,
     "wof:name":"OZ9526 (CLE-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

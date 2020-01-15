@@ -14,6 +14,7 @@
     "flysfo:flight_number":"718",
     "flysfo:gate":"G6",
     "flysfo:journey":"MEX-SFO",
+    "flysfo:timestamp":1578645360,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,19.431302,-99.080804,37.61799",
     "geom:latitude":28.524646,
@@ -98,7 +99,7 @@
         1477930471,
         1159289407
     ],
-    "wof:lastmodified":1579022772,
+    "wof:lastmodified":1579114789,
     "wof:name":"UA718 (MEX-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

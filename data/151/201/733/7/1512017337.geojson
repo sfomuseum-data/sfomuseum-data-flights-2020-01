@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7311",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-HNL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -90,7 +91,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114786,
     "wof:name":"CA7311 (SFO-HNL)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

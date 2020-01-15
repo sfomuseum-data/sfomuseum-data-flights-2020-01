@@ -10,7 +10,7 @@
     "flysfo:flight_number":"3327",
     "flysfo:gate":"D6",
     "flysfo:journey":"PSP-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -85,7 +85,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022658,
+    "wof:lastmodified":1579114731,
     "wof:name":"AS3327 (PSP-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

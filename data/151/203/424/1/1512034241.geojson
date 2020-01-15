@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5990",
     "flysfo:gate":"F18",
     "flysfo:journey":"SFO-ASE",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-106.869003,39.223202",
     "geom:latitude":38.420596,
@@ -85,7 +85,7 @@
         1159285413,
         1477930449
     ],
-    "wof:lastmodified":1579022409,
+    "wof:lastmodified":1579114707,
     "wof:name":"UA5990 (SFO-ASE)",
     "wof:parent_id":1477930449,
     "wof:placetype":"event",

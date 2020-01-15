@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1943",
     "flysfo:gate":"D2",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578658860,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930341,
         1159289871
     ],
-    "wof:lastmodified":1579022812,
+    "wof:lastmodified":1579114818,
     "wof:name":"AS1943 (LAX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

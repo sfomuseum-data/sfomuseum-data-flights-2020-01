@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2364",
     "flysfo:gate":"F7",
     "flysfo:journey":"OKC-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.396691,-97.593893,37.61799",
     "geom:latitude":36.50734,
@@ -91,7 +91,7 @@
         1477930425,
         1159285413
     ],
-    "wof:lastmodified":1579022656,
+    "wof:lastmodified":1579114730,
     "wof:name":"NZ2364 (OKC-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

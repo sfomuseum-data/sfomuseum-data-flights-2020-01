@@ -14,7 +14,7 @@
     "flysfo:flight_number":"133",
     "flysfo:gate":"B7",
     "flysfo:journey":"BOS-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706185,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -101,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1579022638,
+    "wof:lastmodified":1579114728,
     "wof:name":"B6133 (BOS-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

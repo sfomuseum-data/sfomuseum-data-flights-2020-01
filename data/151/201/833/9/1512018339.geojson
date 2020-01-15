@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3471",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-DTW",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -90,7 +91,7 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1579022741,
+    "wof:lastmodified":1579114769,
     "wof:name":"KE3471 (SFO-DTW)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

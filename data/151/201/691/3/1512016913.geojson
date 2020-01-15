@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9863",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-SYD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
     "geom:latitude":1.841531,
@@ -90,7 +91,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1579022805,
+    "wof:lastmodified":1579114813,
     "wof:name":"NZ9863 (SFO-SYD)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"396",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578689058,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -100,7 +100,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1579022515,
+    "wof:lastmodified":1579114716,
     "wof:name":"UA396 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

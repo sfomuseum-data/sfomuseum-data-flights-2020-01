@@ -14,7 +14,7 @@
     "flysfo:flight_number":"488",
     "flysfo:gate":"E5",
     "flysfo:journey":"LAX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704520,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930387,
         1159289871
     ],
-    "wof:lastmodified":1579022425,
+    "wof:lastmodified":1579114708,
     "wof:name":"UA488 (LAX-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

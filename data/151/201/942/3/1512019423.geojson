@@ -10,6 +10,7 @@
     "flysfo:flight_number":"705",
     "flysfo:gate":"F13",
     "flysfo:journey":"SFO-ORD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -84,7 +85,7 @@
         1159285413,
         1477930439
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"UA705 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

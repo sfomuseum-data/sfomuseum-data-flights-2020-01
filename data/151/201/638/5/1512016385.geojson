@@ -10,6 +10,7 @@
     "flysfo:flight_number":"821",
     "flysfo:gate":"A15",
     "flysfo:journey":"SFO-GDL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.525627,-103.301974,37.61799",
     "geom:latitude":29.071808,
@@ -84,7 +85,7 @@
         1159286485,
         1477930315
     ],
-    "wof:lastmodified":1579022810,
+    "wof:lastmodified":1579114816,
     "wof:name":"4O821 (SFO-GDL)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

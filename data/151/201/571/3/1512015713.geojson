@@ -14,6 +14,7 @@
     "flysfo:flight_number":"892",
     "flysfo:gate":"G4",
     "flysfo:journey":"ICN-SFO",
+    "flysfo:timestamp":1578625050,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -99,7 +100,7 @@
         1477930467,
         1159293215
     ],
-    "wof:lastmodified":1579022813,
+    "wof:lastmodified":1579114819,
     "wof:name":"UA892 (ICN-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

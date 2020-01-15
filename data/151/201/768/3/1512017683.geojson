@@ -14,6 +14,7 @@
     "flysfo:flight_number":"490",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-JFK",
+    "flysfo:timestamp":1578638340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1579022781,
+    "wof:lastmodified":1579114794,
     "wof:name":"DL490 (SFO-JFK)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

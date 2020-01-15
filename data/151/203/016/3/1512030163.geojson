@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2",
     "flysfo:gate":"G4",
     "flysfo:journey":"SIN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578787920,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
     "geom:latitude":19.482695,
@@ -100,7 +100,7 @@
         1477930467,
         1159293215
     ],
-    "wof:lastmodified":1579022520,
+    "wof:lastmodified":1579114717,
     "wof:name":"UA2 (SIN-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

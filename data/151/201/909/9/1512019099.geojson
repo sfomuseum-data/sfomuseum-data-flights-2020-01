@@ -14,6 +14,7 @@
     "flysfo:flight_number":"351",
     "flysfo:gate":"E5",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578669480,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -99,7 +100,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1579022692,
+    "wof:lastmodified":1579114738,
     "wof:name":"UA351 (SFO-SEA)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

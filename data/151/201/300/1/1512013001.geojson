@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9422",
     "flysfo:gate":"E6",
     "flysfo:journey":"SEA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -90,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579022695,
+    "wof:lastmodified":1579114740,
     "wof:name":"NZ9422 (SEA-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

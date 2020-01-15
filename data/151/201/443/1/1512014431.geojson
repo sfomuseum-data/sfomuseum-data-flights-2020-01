@@ -14,6 +14,7 @@
     "flysfo:flight_number":"870",
     "flysfo:gate":"A12",
     "flysfo:journey":"NAN-SFO",
+    "flysfo:timestamp":1578626183,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-17.806865,177.37636,37.61799",
     "geom:latitude":9.905563,
@@ -99,7 +100,7 @@
         1477930307,
         1159289421
     ],
-    "wof:lastmodified":1579022787,
+    "wof:lastmodified":1579114799,
     "wof:name":"FJ870 (NAN-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

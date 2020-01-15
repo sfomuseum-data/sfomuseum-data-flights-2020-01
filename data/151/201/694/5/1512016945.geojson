@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1222",
     "flysfo:gate":"D16",
     "flysfo:journey":"SFO-AUS",
+    "flysfo:timestamp":1578652080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -100,7 +101,7 @@
         1477930371,
         1159292085
     ],
-    "wof:lastmodified":1579022736,
+    "wof:lastmodified":1579114765,
     "wof:name":"AS1222 (SFO-AUS)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

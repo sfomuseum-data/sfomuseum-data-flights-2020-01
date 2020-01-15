@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9208",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-OGG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
     "geom:latitude":29.256471,
@@ -90,7 +91,7 @@
         1477930453,
         1159285413
     ],
-    "wof:lastmodified":1579022823,
+    "wof:lastmodified":1579114825,
     "wof:name":"LH9208 (SFO-OGG)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

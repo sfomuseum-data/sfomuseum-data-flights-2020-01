@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9117",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-AUS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -90,7 +91,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1579022800,
+    "wof:lastmodified":1579114808,
     "wof:name":"NZ9117 (SFO-AUS)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9360",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-PHL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -90,7 +91,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114800,
     "wof:name":"NZ9360 (SFO-PHL)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

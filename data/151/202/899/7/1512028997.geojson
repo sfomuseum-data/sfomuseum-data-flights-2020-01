@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7573",
     "flysfo:gate":"F8",
     "flysfo:journey":"SBP-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.23692,-120.64323,37.61799",
     "geom:latitude":36.427455,
@@ -91,7 +91,7 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1579022664,
+    "wof:lastmodified":1579114731,
     "wof:name":"LH7573 (SBP-SFO)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",

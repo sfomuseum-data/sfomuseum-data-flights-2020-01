@@ -14,7 +14,7 @@
     "flysfo:flight_number":"572",
     "flysfo:gate":"F1",
     "flysfo:journey":"IAD-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706292,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -101,7 +101,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1579022407,
+    "wof:lastmodified":1579114706,
     "wof:name":"UA572 (IAD-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"568",
     "flysfo:gate":"G3",
     "flysfo:journey":"YVR-SFO",
+    "flysfo:timestamp":1578664500,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -99,7 +100,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1579022784,
+    "wof:lastmodified":1579114796,
     "wof:name":"AC568 (YVR-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

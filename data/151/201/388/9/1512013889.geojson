@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2049",
     "flysfo:gate":"C3",
     "flysfo:journey":"ATL-SFO",
+    "flysfo:timestamp":1578622500,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -100,7 +101,7 @@
         1477930319,
         1159289945
     ],
-    "wof:lastmodified":1579022831,
+    "wof:lastmodified":1579114830,
     "wof:name":"DL2049 (ATL-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

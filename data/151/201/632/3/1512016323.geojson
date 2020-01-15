@@ -10,6 +10,7 @@
     "flysfo:flight_number":"8839",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YVR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -84,7 +85,7 @@
         1159283597,
         1477930461
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114769,
     "wof:name":"AC8839 (SFO-YVR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

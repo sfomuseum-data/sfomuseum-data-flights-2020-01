@@ -14,7 +14,7 @@
     "flysfo:flight_number":"392",
     "flysfo:gate":"A10",
     "flysfo:journey":"SFO-MSP",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578708540,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -93,7 +93,7 @@
         1159285227,
         1477930303
     ],
-    "wof:lastmodified":1579022367,
+    "wof:lastmodified":1579114703,
     "wof:name":"SY392 (SFO-MSP)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

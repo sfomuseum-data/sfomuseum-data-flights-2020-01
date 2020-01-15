@@ -14,7 +14,7 @@
     "flysfo:flight_number":"759",
     "flysfo:gate":"D7",
     "flysfo:journey":"KOA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578673853,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -93,7 +93,7 @@
         1159283813,
         1477930353
     ],
-    "wof:lastmodified":1579022664,
+    "wof:lastmodified":1579114731,
     "wof:name":"AS759 (KOA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

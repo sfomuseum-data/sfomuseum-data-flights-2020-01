@@ -14,6 +14,7 @@
     "flysfo:flight_number":"415",
     "flysfo:gate":"B7",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578631220,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477881721,
         1159289411
     ],
-    "wof:lastmodified":1579022799,
+    "wof:lastmodified":1579114808,
     "wof:name":"B6415 (JFK-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

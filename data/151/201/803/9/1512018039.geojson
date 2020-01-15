@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9419",
     "flysfo:gate":"D17",
     "flysfo:journey":"SFO-SLC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -90,7 +91,7 @@
         1477930373,
         1159283813
     ],
-    "wof:lastmodified":1579022735,
+    "wof:lastmodified":1579114764,
     "wof:name":"LY9419 (SFO-SLC)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",

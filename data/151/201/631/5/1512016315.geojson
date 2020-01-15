@@ -10,6 +10,7 @@
     "flysfo:flight_number":"8568",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YYC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
     "geom:latitude":44.368758,
@@ -84,7 +85,7 @@
         1159283597,
         1477930465
     ],
-    "wof:lastmodified":1579022810,
+    "wof:lastmodified":1579114816,
     "wof:name":"AC8568 (SFO-YYC)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

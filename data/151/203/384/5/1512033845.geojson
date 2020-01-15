@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2063",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-BWI",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578707760,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-76.67107,39.181319",
     "geom:latitude":38.399654,
@@ -101,7 +101,7 @@
         1477930445,
         1159289871
     ],
-    "wof:lastmodified":1579022451,
+    "wof:lastmodified":1579114710,
     "wof:name":"UA2063 (SFO-BWI)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

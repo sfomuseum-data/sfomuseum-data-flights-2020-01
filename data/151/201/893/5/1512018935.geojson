@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1725",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-OGG",
+    "flysfo:timestamp":1578618780,
     "geom:area":0.0,
     "geom:bbox":"-156.437877,20.894952,-122.370943,37.61799",
     "geom:latitude":29.256471,
@@ -100,7 +101,7 @@
         1477930451,
         1159289985
     ],
-    "wof:lastmodified":1579022741,
+    "wof:lastmodified":1579114769,
     "wof:name":"UA1725 (SFO-OGG)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

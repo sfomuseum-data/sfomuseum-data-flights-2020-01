@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5252",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-DEN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -91,7 +91,7 @@
         1477930447,
         1159285413
     ],
-    "wof:lastmodified":1579022567,
+    "wof:lastmodified":1579114722,
     "wof:name":"AC5252 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

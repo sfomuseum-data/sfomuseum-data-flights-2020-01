@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1868",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-PHX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706560,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -101,7 +101,7 @@
         1477930327,
         1159289411
     ],
-    "wof:lastmodified":1579022407,
+    "wof:lastmodified":1579114706,
     "wof:name":"AA1868 (SFO-PHX)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

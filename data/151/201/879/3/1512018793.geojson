@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6748",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-ICN",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -90,7 +91,7 @@
         1477930477,
         1159283917
     ],
-    "wof:lastmodified":1579022785,
+    "wof:lastmodified":1579114797,
     "wof:name":"TG6748 (SFO-ICN)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

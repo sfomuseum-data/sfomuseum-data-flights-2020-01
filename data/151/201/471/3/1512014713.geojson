@@ -14,6 +14,7 @@
     "flysfo:flight_number":"114",
     "flysfo:gate":"A2",
     "flysfo:journey":"MNL-SFO",
+    "flysfo:timestamp":1578647882,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,14.517768,121.015152,37.61799",
     "geom:latitude":26.067879,
@@ -99,7 +100,7 @@
         1477930283,
         1159289993
     ],
-    "wof:lastmodified":1579022720,
+    "wof:lastmodified":1579114752,
     "wof:name":"PR114 (MNL-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

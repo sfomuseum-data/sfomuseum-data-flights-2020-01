@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2166",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578627660,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -100,7 +101,7 @@
         1477930403,
         1159292085
     ],
-    "wof:lastmodified":1579022698,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA2166 (SFO-PDX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

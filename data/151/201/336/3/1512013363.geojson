@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2254",
     "flysfo:gate":"F11",
     "flysfo:journey":"HNL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -90,7 +91,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1579022696,
+    "wof:lastmodified":1579114740,
     "wof:name":"AV2254 (HNL-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

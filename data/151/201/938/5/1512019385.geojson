@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5976",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-MMH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-118.837997,37.6241",
     "geom:latitude":37.621045,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022696,
+    "wof:lastmodified":1579114740,
     "wof:name":"UA5976 (SFO-MMH)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

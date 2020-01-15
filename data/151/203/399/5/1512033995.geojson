@@ -14,7 +14,7 @@
     "flysfo:flight_number":"516",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-IAD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578707340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -101,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1579022372,
+    "wof:lastmodified":1579114703,
     "wof:name":"UA516 (SFO-IAD)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

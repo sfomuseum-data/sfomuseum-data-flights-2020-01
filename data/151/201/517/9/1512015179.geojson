@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1912",
     "flysfo:gate":"E10",
     "flysfo:journey":"BNA-SFO",
+    "flysfo:timestamp":1578588960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.126387,-86.676652,37.61799",
     "geom:latitude":36.872189,
@@ -100,7 +101,7 @@
         1477930397,
         1159289407
     ],
-    "wof:lastmodified":1579022746,
+    "wof:lastmodified":1579114772,
     "wof:name":"UA1912 (BNA-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2463",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-ACV",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-124.10802,37.61799,-122.370943,40.971689",
     "geom:latitude":39.294839,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022754,
+    "wof:lastmodified":1579114777,
     "wof:name":"CM2463 (SFO-ACV)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

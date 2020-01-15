@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1474",
     "flysfo:gate":"F6",
     "flysfo:journey":"SFO-SNA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -90,7 +91,7 @@
         1477930423,
         1159285413
     ],
-    "wof:lastmodified":1579022825,
+    "wof:lastmodified":1579114827,
     "wof:name":"CM1474 (SFO-SNA)",
     "wof:parent_id":1477930423,
     "wof:placetype":"event",

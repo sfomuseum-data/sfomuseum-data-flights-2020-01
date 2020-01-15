@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1855",
     "flysfo:gate":"B12",
     "flysfo:journey":"MDW-SFO",
+    "flysfo:timestamp":1578627060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.745903,41.787532",
     "geom:latitude":39.702761,
@@ -92,7 +93,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1579022808,
+    "wof:lastmodified":1579114815,
     "wof:name":"WN1855 (MDW-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

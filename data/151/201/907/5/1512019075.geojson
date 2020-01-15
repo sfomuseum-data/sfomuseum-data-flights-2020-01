@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2741",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-XMN",
+    "flysfo:timestamp":1578587280,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,24.540839,118.135698,37.61799",
     "geom:latitude":31.079414,
@@ -55,7 +56,7 @@
         -1,
         1159289995
     ],
-    "wof:lastmodified":1579022697,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA2741 (SFO-XMN)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

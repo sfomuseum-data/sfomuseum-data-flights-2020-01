@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2388",
     "flysfo:gate":"E12",
     "flysfo:journey":"SFO-PHX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578712500,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -101,7 +101,7 @@
         1477930403,
         1377564285
     ],
-    "wof:lastmodified":1579022382,
+    "wof:lastmodified":1579114704,
     "wof:name":"UA2388 (SFO-PHX)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

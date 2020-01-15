@@ -14,6 +14,7 @@
     "flysfo:flight_number":"917",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-AKL",
+    "flysfo:timestamp":1578669600,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
     "geom:latitude":0.306244,
@@ -99,7 +100,7 @@
         1477930475,
         1377564289
     ],
-    "wof:lastmodified":1579022776,
+    "wof:lastmodified":1579114792,
     "wof:name":"UA917 (SFO-AKL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

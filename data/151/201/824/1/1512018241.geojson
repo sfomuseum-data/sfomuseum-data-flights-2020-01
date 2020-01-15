@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1",
     "flysfo:gate":"A13",
     "flysfo:journey":"SFO-HND",
+    "flysfo:timestamp":1578639060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.554085,139.775638,37.61799",
     "geom:latitude":36.586038,
@@ -99,7 +100,7 @@
         1477930309,
         1159289993
     ],
-    "wof:lastmodified":1579022788,
+    "wof:lastmodified":1579114800,
     "wof:name":"JL1 (SFO-HND)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

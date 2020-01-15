@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1952",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-SAN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704040,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -101,7 +101,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1579022375,
+    "wof:lastmodified":1579114704,
     "wof:name":"AS1952 (SFO-SAN)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

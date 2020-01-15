@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3728",
     "flysfo:gate":"G8",
     "flysfo:journey":"PVR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
     "geom:latitude":29.139362,
@@ -90,7 +91,7 @@
         1477930477,
         1159283813
     ],
-    "wof:lastmodified":1579022791,
+    "wof:lastmodified":1579114803,
     "wof:name":"QF3728 (PVR-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

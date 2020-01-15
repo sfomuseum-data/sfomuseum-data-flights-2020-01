@@ -14,6 +14,7 @@
     "flysfo:flight_number":"560",
     "flysfo:gate":"F16",
     "flysfo:journey":"IAD-SFO",
+    "flysfo:timestamp":1578653640,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -100,7 +101,7 @@
         1477930445,
         1377564285
     ],
-    "wof:lastmodified":1579022812,
+    "wof:lastmodified":1579114818,
     "wof:name":"UA560 (IAD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

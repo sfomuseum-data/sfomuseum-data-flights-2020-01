@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7738",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-SLC",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -91,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022594,
+    "wof:lastmodified":1579114723,
     "wof:name":"KL7738 (SFO-SLC)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

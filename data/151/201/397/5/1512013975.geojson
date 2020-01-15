@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8552",
     "flysfo:gate":"A13",
     "flysfo:journey":"CDG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -90,7 +91,7 @@
         1477930309,
         1159283627
     ],
-    "wof:lastmodified":1579022713,
+    "wof:lastmodified":1579114749,
     "wof:name":"DL8552 (CDG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"16",
     "flysfo:gate":"B8",
     "flysfo:journey":"SFO-JFK",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578695460,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -101,7 +101,7 @@
         1477881723,
         1159289411
     ],
-    "wof:lastmodified":1579022468,
+    "wof:lastmodified":1579114712,
     "wof:name":"B616 (SFO-JFK)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",

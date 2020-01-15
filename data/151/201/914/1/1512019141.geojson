@@ -10,6 +10,7 @@
     "flysfo:flight_number":"517",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-IAD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -84,7 +85,7 @@
         1159285413,
         1477930389
     ],
-    "wof:lastmodified":1579022762,
+    "wof:lastmodified":1579114783,
     "wof:name":"UA517 (SFO-IAD)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

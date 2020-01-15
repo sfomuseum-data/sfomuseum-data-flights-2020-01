@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1899",
     "flysfo:gate":"D5",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578626757,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930349,
         1159292085
     ],
-    "wof:lastmodified":1579022822,
+    "wof:lastmodified":1579114825,
     "wof:name":"AS1899 (LAX-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -10,7 +10,7 @@
     "flysfo:flight_number":"3391",
     "flysfo:gate":"D4",
     "flysfo:journey":"DAL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
     "geom:latitude":35.23192,
@@ -85,7 +85,7 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1579022662,
+    "wof:lastmodified":1579114731,
     "wof:name":"AS3391 (DAL-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

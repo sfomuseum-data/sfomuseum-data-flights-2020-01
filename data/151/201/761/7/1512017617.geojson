@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1411",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-MSP",
+    "flysfo:timestamp":1578644160,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -100,7 +101,7 @@
         1477930323,
         1377564285
     ],
-    "wof:lastmodified":1579022781,
+    "wof:lastmodified":1579114795,
     "wof:name":"DL1411 (SFO-MSP)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

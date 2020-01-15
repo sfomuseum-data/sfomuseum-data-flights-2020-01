@@ -12,6 +12,7 @@
     "flysfo:flight_number":"372",
     "flysfo:gate":"F22",
     "flysfo:journey":"HNL-SFO",
+    "flysfo:timestamp":1578640163,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -97,7 +98,7 @@
         1477930459,
         1159289985
     ],
-    "wof:lastmodified":1579022774,
+    "wof:lastmodified":1579114791,
     "wof:name":"UA372 (HNL-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

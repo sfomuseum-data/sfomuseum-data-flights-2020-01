@@ -12,6 +12,7 @@
     "flysfo:flight_number":"995",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-STL",
+    "flysfo:timestamp":1578629580,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-90.367632,38.743872",
     "geom:latitude":38.180931,
@@ -98,7 +99,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579022723,
+    "wof:lastmodified":1579114755,
     "wof:name":"WN995 (SFO-STL)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

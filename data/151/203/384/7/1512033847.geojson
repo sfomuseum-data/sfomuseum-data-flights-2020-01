@@ -10,7 +10,7 @@
     "flysfo:flight_number":"2065",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -85,7 +85,7 @@
         1159285413,
         1477930451
     ],
-    "wof:lastmodified":1579022451,
+    "wof:lastmodified":1579114710,
     "wof:name":"UA2065 (SFO-EWR)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

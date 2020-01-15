@@ -14,6 +14,7 @@
     "flysfo:flight_number":"115",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-PPT",
+    "flysfo:timestamp":1578637620,
     "geom:area":0.0,
     "geom:bbox":"-149.617144,-17.573463,-122.370943,37.61799",
     "geom:latitude":10.022263,
@@ -100,7 +101,7 @@
         1477930481,
         1159293215
     ],
-    "wof:lastmodified":1579022729,
+    "wof:lastmodified":1579114760,
     "wof:name":"UA115 (SFO-PPT)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

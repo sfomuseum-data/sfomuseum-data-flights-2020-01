@@ -10,6 +10,7 @@
     "flysfo:flight_number":"7173",
     "flysfo:gate":"A10",
     "flysfo:journey":"LGW-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-0.183008,51.144421",
     "geom:latitude":44.381206,
@@ -84,7 +85,7 @@
         1377649063,
         1477930303
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"DI7173 (LGW-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

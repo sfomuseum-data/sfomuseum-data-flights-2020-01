@@ -14,6 +14,7 @@
     "flysfo:flight_number":"574",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-FLL",
+    "flysfo:timestamp":1578637620,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
     "geom:latitude":31.846425,
@@ -100,7 +101,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1579022695,
+    "wof:lastmodified":1579114740,
     "wof:name":"UA574 (SFO-FLL)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

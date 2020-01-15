@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1282",
     "flysfo:gate":"D3",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578639326,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -99,7 +100,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1579022760,
+    "wof:lastmodified":1579114782,
     "wof:name":"AS1282 (PDX-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

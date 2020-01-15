@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7333",
     "flysfo:gate":"E13",
     "flysfo:journey":"AUS-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -91,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1579022609,
+    "wof:lastmodified":1579114725,
     "wof:name":"NH7333 (AUS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

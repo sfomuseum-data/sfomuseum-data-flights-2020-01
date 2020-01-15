@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5249",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-ONT",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"UA5249 (SFO-ONT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

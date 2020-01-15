@@ -10,6 +10,7 @@
     "flysfo:flight_number":"589",
     "flysfo:gate":"A2",
     "flysfo:journey":"PVG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
     "geom:latitude":34.381651,
@@ -84,7 +85,7 @@
         1159284157,
         1477930283
     ],
-    "wof:lastmodified":1579022701,
+    "wof:lastmodified":1579114743,
     "wof:name":"MU589 (PVG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

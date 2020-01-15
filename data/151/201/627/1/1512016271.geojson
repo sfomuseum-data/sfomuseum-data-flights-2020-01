@@ -14,6 +14,7 @@
     "flysfo:flight_number":"563",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-YVR",
+    "flysfo:timestamp":1578622260,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -100,7 +101,7 @@
         1477930465,
         1159289407
     ],
-    "wof:lastmodified":1579022728,
+    "wof:lastmodified":1579114759,
     "wof:name":"AC563 (SFO-YVR)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

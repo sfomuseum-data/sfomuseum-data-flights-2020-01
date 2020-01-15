@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1235",
     "flysfo:gate":"B6",
     "flysfo:journey":"SFO-LGB",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705120,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.814039,-118.148993,37.61799",
     "geom:latitude":35.716014,
@@ -101,7 +101,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1579022469,
+    "wof:lastmodified":1579114712,
     "wof:name":"B61235 (SFO-LGB)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

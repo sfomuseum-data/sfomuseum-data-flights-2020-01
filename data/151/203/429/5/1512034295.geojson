@@ -14,7 +14,7 @@
     "flysfo:flight_number":"753",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578713700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -101,7 +101,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1579022524,
+    "wof:lastmodified":1579114717,
     "wof:name":"UA753 (SFO-EWR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

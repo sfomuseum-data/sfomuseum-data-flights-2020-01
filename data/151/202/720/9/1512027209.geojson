@@ -12,7 +12,7 @@
     "flysfo:flight_number":"6614",
     "flysfo:gate":"G2",
     "flysfo:journey":"ICN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -91,7 +91,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1579022673,
+    "wof:lastmodified":1579114733,
     "wof:name":"OZ6614 (ICN-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

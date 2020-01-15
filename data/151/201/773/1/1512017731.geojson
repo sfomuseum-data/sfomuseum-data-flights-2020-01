@@ -12,6 +12,7 @@
     "flysfo:flight_number":"455",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-FRA",
+    "flysfo:timestamp":1578639900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,7.267284,49.945918",
     "geom:latitude":43.781954,
@@ -98,7 +99,7 @@
         1477930485,
         1159289431
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"LH455 (SFO-FRA)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

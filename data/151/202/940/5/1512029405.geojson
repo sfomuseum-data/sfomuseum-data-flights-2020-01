@@ -14,7 +14,7 @@
     "flysfo:flight_number":"54",
     "flysfo:gate":"A15",
     "flysfo:journey":"HNL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578775906,
     "geom:area":0.0,
     "geom:bbox":"-157.918416,21.332508,-122.370943,37.61799",
     "geom:latitude":29.475249,
@@ -100,7 +100,7 @@
         1477930315,
         1377564297
     ],
-    "wof:lastmodified":1579022645,
+    "wof:lastmodified":1579114729,
     "wof:name":"HA54 (HNL-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

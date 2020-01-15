@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9102",
     "flysfo:gate":"A13",
     "flysfo:journey":"HND-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.554085,139.775638,37.61799",
     "geom:latitude":36.586038,
@@ -90,7 +91,7 @@
         1477930309,
         1159284563
     ],
-    "wof:lastmodified":1579022798,
+    "wof:lastmodified":1579114807,
     "wof:name":"MH9102 (HND-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

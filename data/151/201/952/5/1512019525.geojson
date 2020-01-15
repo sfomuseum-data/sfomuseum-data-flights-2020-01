@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9725",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-ZRH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,8.559692,47.455793",
     "geom:latitude":42.536891,
@@ -90,7 +91,7 @@
         1477930475,
         1159286475
     ],
-    "wof:lastmodified":1579022713,
+    "wof:lastmodified":1579114749,
     "wof:name":"UA9725 (SFO-ZRH)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4335",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-PSP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022730,
+    "wof:lastmodified":1579114760,
     "wof:name":"AC4335 (SFO-PSP)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9208",
     "flysfo:gate":"E10",
     "flysfo:journey":"IAH-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -90,7 +91,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579022729,
+    "wof:lastmodified":1579114760,
     "wof:name":"NZ9208 (IAH-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"662",
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578711158,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.525627,-103.301974,37.61799",
     "geom:latitude":29.071808,
@@ -100,7 +100,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1579022657,
+    "wof:lastmodified":1579114730,
     "wof:name":"AM662 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

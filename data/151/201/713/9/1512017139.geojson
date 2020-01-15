@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7990",
     "flysfo:gate":"F11",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -90,7 +91,7 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1579022747,
+    "wof:lastmodified":1579114773,
     "wof:name":"OS7990 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

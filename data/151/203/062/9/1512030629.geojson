@@ -14,7 +14,7 @@
     "flysfo:flight_number":"8",
     "flysfo:gate":"G10",
     "flysfo:journey":"CTU-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578697560,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.579342,103.956661,37.61799",
     "geom:latitude":34.098666,
@@ -96,7 +96,7 @@
         1477930481,
         1159289995
     ],
-    "wof:lastmodified":1579022415,
+    "wof:lastmodified":1579114707,
     "wof:name":"UA8 (CTU-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

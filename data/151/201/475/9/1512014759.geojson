@@ -10,6 +10,7 @@
     "flysfo:flight_number":"614",
     "flysfo:gate":"G8",
     "flysfo:journey":"PSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -84,7 +85,7 @@
         1159285227,
         1477930477
     ],
-    "wof:lastmodified":1579022788,
+    "wof:lastmodified":1579114800,
     "wof:name":"SY614 (PSP-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

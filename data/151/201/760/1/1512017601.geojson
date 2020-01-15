@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1011",
     "flysfo:gate":"C5",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578654060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930323,
         1377564285
     ],
-    "wof:lastmodified":1579022769,
+    "wof:lastmodified":1579114788,
     "wof:name":"DL1011 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",

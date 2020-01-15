@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1478",
     "flysfo:gate":"E6",
     "flysfo:journey":"DEN-SFO",
+    "flysfo:timestamp":1578639960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -98,7 +99,7 @@
         1477930389,
         1159289871
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA1478 (DEN-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

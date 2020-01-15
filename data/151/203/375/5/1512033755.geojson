@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1246",
     "flysfo:gate":"F4",
     "flysfo:journey":"SFO-MSY",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578706080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.982609,-90.261832,37.61799",
     "geom:latitude":33.8003,
@@ -101,7 +101,7 @@
         1477930415,
         1159292085
     ],
-    "wof:lastmodified":1579022597,
+    "wof:lastmodified":1579114724,
     "wof:name":"UA1246 (SFO-MSY)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

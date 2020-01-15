@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2115",
     "flysfo:gate":"B14",
     "flysfo:journey":"SFO-BUR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578702720,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -96,7 +96,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579022491,
+    "wof:lastmodified":1579114714,
     "wof:name":"WN2115 (SFO-BUR)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

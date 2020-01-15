@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1777",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-ORD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -90,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579022745,
+    "wof:lastmodified":1579114772,
     "wof:name":"BA1777 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

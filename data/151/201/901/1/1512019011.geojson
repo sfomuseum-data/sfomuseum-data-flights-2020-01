@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2229",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PIT",
+    "flysfo:timestamp":1578624780,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-80.259551,40.492624",
     "geom:latitude":39.055307,
@@ -98,7 +99,7 @@
         1477930393,
         1159292085
     ],
-    "wof:lastmodified":1579022705,
+    "wof:lastmodified":1579114745,
     "wof:name":"UA2229 (SFO-PIT)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2416",
     "flysfo:gate":"C8",
     "flysfo:journey":"SLC-SFO",
+    "flysfo:timestamp":1578669266,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -98,7 +99,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1579022817,
+    "wof:lastmodified":1579114821,
     "wof:name":"DL2416 (SLC-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

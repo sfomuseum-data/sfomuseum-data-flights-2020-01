@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2797",
     "flysfo:gate":"",
     "flysfo:journey":"SAT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
     "geom:latitude":33.576414,
@@ -44,7 +45,7 @@
         1159285413,
         -1
     ],
-    "wof:lastmodified":1579022758,
+    "wof:lastmodified":1579114780,
     "wof:name":"UA2797 (SAT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

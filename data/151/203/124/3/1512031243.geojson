@@ -14,7 +14,7 @@
     "flysfo:flight_number":"758",
     "flysfo:gate":"G6",
     "flysfo:journey":"SFO-YYZ",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698460,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -101,7 +101,7 @@
         1477930471,
         1159289411
     ],
-    "wof:lastmodified":1579022572,
+    "wof:lastmodified":1579114722,
     "wof:name":"AC758 (SFO-YYZ)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"132",
     "flysfo:gate":"D12",
     "flysfo:journey":"MIA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578707700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
     "geom:latitude":31.70423,
@@ -101,7 +101,7 @@
         1477930363,
         1159289965
     ],
-    "wof:lastmodified":1579022610,
+    "wof:lastmodified":1579114725,
     "wof:name":"AA132 (MIA-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

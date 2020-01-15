@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9103",
     "flysfo:gate":"F19",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -91,7 +91,7 @@
         1477930451,
         1159285413
     ],
-    "wof:lastmodified":1579022497,
+    "wof:lastmodified":1579114715,
     "wof:name":"NZ9103 (SFO-EWR)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

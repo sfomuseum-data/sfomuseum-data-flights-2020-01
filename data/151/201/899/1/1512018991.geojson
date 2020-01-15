@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2068",
     "flysfo:gate":"F2",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578615900,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -100,7 +101,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579022809,
+    "wof:lastmodified":1579114815,
     "wof:name":"UA2068 (SFO-LAS)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

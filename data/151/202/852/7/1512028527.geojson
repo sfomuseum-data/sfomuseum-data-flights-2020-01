@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7229",
     "flysfo:gate":"E10",
     "flysfo:journey":"DEN-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -91,7 +91,7 @@
         1477930397,
         1159285413
     ],
-    "wof:lastmodified":1579022665,
+    "wof:lastmodified":1579114731,
     "wof:name":"CA7229 (DEN-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2503",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -90,7 +91,7 @@
         1477930351,
         1159283813
     ],
-    "wof:lastmodified":1579022796,
+    "wof:lastmodified":1579114806,
     "wof:name":"AY2503 (SFO-SEA)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

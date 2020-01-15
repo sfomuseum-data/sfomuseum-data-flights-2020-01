@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7384",
     "flysfo:gate":"B7",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -90,7 +91,7 @@
         1477881721,
         1159284583
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114800,
     "wof:name":"SA7384 (JFK-SFO)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",

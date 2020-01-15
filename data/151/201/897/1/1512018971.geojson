@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2005",
     "flysfo:gate":"E9",
     "flysfo:journey":"SFO-RDU",
+    "flysfo:timestamp":1578638100,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.876323,-78.790399,37.61799",
     "geom:latitude":36.747157,
@@ -100,7 +101,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1579022811,
+    "wof:lastmodified":1579114817,
     "wof:name":"UA2005 (SFO-RDU)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

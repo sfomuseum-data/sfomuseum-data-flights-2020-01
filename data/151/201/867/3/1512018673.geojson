@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1756",
     "flysfo:gate":"B13",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -84,7 +85,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579022741,
+    "wof:lastmodified":1579114769,
     "wof:name":"WN1756 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

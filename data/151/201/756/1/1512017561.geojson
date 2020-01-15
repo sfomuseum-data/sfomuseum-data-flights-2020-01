@@ -14,6 +14,7 @@
     "flysfo:flight_number":"879",
     "flysfo:gate":"A9",
     "flysfo:journey":"SFO-SFO",
+    "flysfo:timestamp":1578627840,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.370943,37.61799",
     "geom:latitude":37.61799,
@@ -100,7 +101,7 @@
         1477930301,
         1377649085
     ],
-    "wof:lastmodified":1579022770,
+    "wof:lastmodified":1579114789,
     "wof:name":"CX879 (SFO-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

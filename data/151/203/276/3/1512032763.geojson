@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3105",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-MIA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
     "geom:latitude":31.70423,
@@ -91,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579022526,
+    "wof:lastmodified":1579114717,
     "wof:name":"QF3105 (SFO-MIA)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

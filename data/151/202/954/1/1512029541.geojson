@@ -12,7 +12,7 @@
     "flysfo:flight_number":"6094",
     "flysfo:gate":"D1",
     "flysfo:journey":"PDX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -91,7 +91,7 @@
         1477930339,
         1159283813
     ],
-    "wof:lastmodified":1579022609,
+    "wof:lastmodified":1579114725,
     "wof:name":"KE6094 (PDX-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

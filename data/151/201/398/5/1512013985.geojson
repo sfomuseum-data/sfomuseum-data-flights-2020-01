@@ -14,6 +14,7 @@
     "flysfo:flight_number":"458",
     "flysfo:gate":"G13",
     "flysfo:journey":"MUC-SFO",
+    "flysfo:timestamp":1578654576,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,11.776808,48.352681",
     "geom:latitude":42.985335,
@@ -92,7 +93,7 @@
         1159284711,
         1477930487
     ],
-    "wof:lastmodified":1579022703,
+    "wof:lastmodified":1579114744,
     "wof:name":"LH458 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

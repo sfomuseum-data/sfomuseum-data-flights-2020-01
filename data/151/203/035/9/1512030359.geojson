@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5309",
     "flysfo:gate":"F9",
     "flysfo:journey":"SAT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
     "geom:latitude":33.576414,
@@ -85,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022542,
+    "wof:lastmodified":1579114719,
     "wof:name":"UA5309 (SAT-SFO)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7157",
     "flysfo:gate":"G7",
     "flysfo:journey":"AKL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
     "geom:latitude":0.306244,
@@ -91,7 +91,7 @@
         1477930475,
         1159283697
     ],
-    "wof:lastmodified":1579022663,
+    "wof:lastmodified":1579114731,
     "wof:name":"LH7157 (AKL-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

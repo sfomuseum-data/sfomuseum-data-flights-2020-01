@@ -10,7 +10,7 @@
     "flysfo:flight_number":"888",
     "flysfo:gate":"G9",
     "flysfo:journey":"SFO-PEK",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,116.586155,40.068469",
     "geom:latitude":38.843229,
@@ -85,7 +85,7 @@
         1159285413,
         1477930479
     ],
-    "wof:lastmodified":1579022558,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA888 (SFO-PEK)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

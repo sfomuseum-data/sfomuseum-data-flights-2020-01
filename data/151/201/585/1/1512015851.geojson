@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1260",
     "flysfo:gate":"C7",
     "flysfo:journey":"SFO-DFW",
+    "flysfo:timestamp":1578630060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -98,7 +99,7 @@
         1477930327,
         1159289871
     ],
-    "wof:lastmodified":1579022814,
+    "wof:lastmodified":1579114819,
     "wof:name":"AA1260 (SFO-DFW)",
     "wof:parent_id":1477930327,
     "wof:placetype":"event",

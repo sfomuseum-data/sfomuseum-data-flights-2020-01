@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7328",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022703,
+    "wof:lastmodified":1579114744,
     "wof:name":"CA7328 (SFO-PDX)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

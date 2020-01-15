@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1679",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-CUN",
+    "flysfo:timestamp":1578619080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,21.040317,-86.872856,37.61799",
     "geom:latitude":29.329154,
@@ -100,7 +101,7 @@
         1477930435,
         1377564285
     ],
-    "wof:lastmodified":1579022731,
+    "wof:lastmodified":1579114761,
     "wof:name":"UA1679 (SFO-CUN)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

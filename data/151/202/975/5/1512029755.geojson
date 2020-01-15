@@ -12,7 +12,7 @@
     "flysfo:flight_number":"1367",
     "flysfo:gate":"D4",
     "flysfo:journey":"DAL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.845849,-96.850523,37.61799",
     "geom:latitude":35.23192,
@@ -91,7 +91,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579022673,
+    "wof:lastmodified":1579114733,
     "wof:name":"SQ1367 (DAL-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

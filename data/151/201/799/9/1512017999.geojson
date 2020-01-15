@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9367",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-AUS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,30.206175,-97.643029,37.61799",
     "geom:latitude":33.912082,
@@ -90,7 +91,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1579022697,
+    "wof:lastmodified":1579114741,
     "wof:name":"LY9367 (SFO-AUS)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

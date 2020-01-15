@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1785",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-SAN",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578711120,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -101,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579022362,
+    "wof:lastmodified":1579114703,
     "wof:name":"WN1785 (SFO-SAN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

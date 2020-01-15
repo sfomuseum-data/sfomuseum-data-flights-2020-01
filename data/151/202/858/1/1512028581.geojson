@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7305",
     "flysfo:gate":"E9",
     "flysfo:journey":"SEA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -91,7 +91,7 @@
         1477930395,
         1159285413
     ],
-    "wof:lastmodified":1579022637,
+    "wof:lastmodified":1579114728,
     "wof:name":"CA7305 (SEA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

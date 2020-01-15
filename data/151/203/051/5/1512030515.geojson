@@ -14,7 +14,7 @@
     "flysfo:flight_number":"577",
     "flysfo:gate":"F3",
     "flysfo:journey":"DTW-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704280,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -101,7 +101,7 @@
         1477930411,
         1159289871
     ],
-    "wof:lastmodified":1579022558,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA577 (DTW-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

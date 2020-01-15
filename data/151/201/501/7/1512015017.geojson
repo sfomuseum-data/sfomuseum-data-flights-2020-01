@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9588",
     "flysfo:gate":"F1",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930407,
         1159285413
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114786,
     "wof:name":"TK9588 (PDX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

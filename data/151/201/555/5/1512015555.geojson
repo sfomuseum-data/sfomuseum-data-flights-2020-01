@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5779",
     "flysfo:gate":"F15N",
     "flysfo:journey":"BZN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.158267,45.775425",
     "geom:latitude":41.696708,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"UA5779 (BZN-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

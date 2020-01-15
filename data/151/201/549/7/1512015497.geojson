@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5606",
     "flysfo:gate":"F7",
     "flysfo:journey":"GEG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-117.531916,47.625686",
     "geom:latitude":42.621838,
@@ -84,7 +85,7 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1579022812,
+    "wof:lastmodified":1579114818,
     "wof:name":"UA5606 (GEG-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",

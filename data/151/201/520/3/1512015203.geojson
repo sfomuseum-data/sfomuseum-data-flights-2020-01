@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2059",
     "flysfo:gate":"E5",
     "flysfo:journey":"BWI-SFO",
+    "flysfo:timestamp":1578662736,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-76.67107,39.181319",
     "geom:latitude":38.399654,
@@ -98,7 +99,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1579022756,
+    "wof:lastmodified":1579114779,
     "wof:name":"UA2059 (BWI-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

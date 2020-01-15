@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7335",
     "flysfo:gate":"F15N",
     "flysfo:journey":"BOI-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-116.224634,43.564048",
     "geom:latitude":40.591019,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022803,
+    "wof:lastmodified":1579114811,
     "wof:name":"NH7335 (BOI-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4369",
     "flysfo:gate":"D14",
     "flysfo:journey":"ORD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -90,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579022831,
+    "wof:lastmodified":1579114830,
     "wof:name":"BA4369 (ORD-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

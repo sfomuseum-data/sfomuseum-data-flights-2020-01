@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9234",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579022815,
+    "wof:lastmodified":1579114820,
     "wof:name":"LH9234 (SFO-PDX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

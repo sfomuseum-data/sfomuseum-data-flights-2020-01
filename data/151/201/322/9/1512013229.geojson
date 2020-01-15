@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2830",
     "flysfo:gate":"D6",
     "flysfo:journey":"PAE-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.279084,47.908767",
     "geom:latitude":42.763379,
@@ -84,7 +85,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022762,
+    "wof:lastmodified":1579114783,
     "wof:name":"AS2830 (PAE-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

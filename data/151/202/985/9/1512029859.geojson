@@ -10,7 +10,7 @@
     "flysfo:flight_number":"1774",
     "flysfo:gate":"B14",
     "flysfo:journey":"PHX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -85,7 +85,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579022646,
+    "wof:lastmodified":1579114729,
     "wof:name":"WN1774 (PHX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"372",
     "flysfo:gate":"D15",
     "flysfo:journey":"SFO-PVR",
+    "flysfo:timestamp":1578627960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
     "geom:latitude":29.139362,
@@ -100,7 +101,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1579022711,
+    "wof:lastmodified":1579114748,
     "wof:name":"AS372 (SFO-PVR)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

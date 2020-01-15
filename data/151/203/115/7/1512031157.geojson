@@ -12,7 +12,7 @@
     "flysfo:flight_number":"5310",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-PVR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.660734,-105.250456,37.61799",
     "geom:latitude":29.139362,
@@ -91,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022567,
+    "wof:lastmodified":1579114722,
     "wof:name":"AC5310 (SFO-PVR)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

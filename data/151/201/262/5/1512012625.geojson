@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7241",
     "flysfo:gate":"E12",
     "flysfo:journey":"ORD-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -90,7 +91,7 @@
         1477930403,
         1159285413
     ],
-    "wof:lastmodified":1579022802,
+    "wof:lastmodified":1579114811,
     "wof:name":"NH7241 (ORD-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

@@ -14,7 +14,7 @@
     "flysfo:flight_number":"295",
     "flysfo:gate":"G12",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578703860,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -101,7 +101,7 @@
         1477930485,
         1159293215
     ],
-    "wof:lastmodified":1579022496,
+    "wof:lastmodified":1579114715,
     "wof:name":"UA295 (SFO-EWR)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

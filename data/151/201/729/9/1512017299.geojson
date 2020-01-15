@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9010",
     "flysfo:gate":"G3",
     "flysfo:journey":"SFO-CDG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.542809,49.007854",
     "geom:latitude":43.312922,
@@ -90,7 +91,7 @@
         1477930465,
         1159285413
     ],
-    "wof:lastmodified":1579022830,
+    "wof:lastmodified":1579114829,
     "wof:name":"SN9010 (SFO-CDG)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

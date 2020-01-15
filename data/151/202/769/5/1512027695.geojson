@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2888",
     "flysfo:gate":"F3",
     "flysfo:journey":"DTW-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -91,7 +91,7 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1579022653,
+    "wof:lastmodified":1579114730,
     "wof:name":"NZ2888 (DTW-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

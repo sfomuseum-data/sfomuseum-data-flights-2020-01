@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1865",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-ATL",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578699300,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -101,7 +101,7 @@
         1477930319,
         1159289939
     ],
-    "wof:lastmodified":1579022543,
+    "wof:lastmodified":1579114719,
     "wof:name":"DL1865 (SFO-ATL)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

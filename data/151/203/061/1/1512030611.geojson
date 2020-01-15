@@ -14,7 +14,7 @@
     "flysfo:flight_number":"731",
     "flysfo:gate":"F12",
     "flysfo:journey":"PHL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578708960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -101,7 +101,7 @@
         1477930435,
         1159289871
     ],
-    "wof:lastmodified":1579022544,
+    "wof:lastmodified":1579114720,
     "wof:name":"UA731 (PHL-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

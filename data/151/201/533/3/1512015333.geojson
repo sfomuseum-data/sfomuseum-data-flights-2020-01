@@ -14,6 +14,7 @@
     "flysfo:flight_number":"433",
     "flysfo:gate":"F16",
     "flysfo:journey":"BOS-SFO",
+    "flysfo:timestamp":1578621180,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477930445,
         1159289939
     ],
-    "wof:lastmodified":1579022700,
+    "wof:lastmodified":1579114742,
     "wof:name":"UA433 (BOS-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

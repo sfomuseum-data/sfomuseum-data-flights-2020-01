@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1352",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-BOS",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578697740,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -101,7 +101,7 @@
         1477930355,
         1377564285
     ],
-    "wof:lastmodified":1579022446,
+    "wof:lastmodified":1579114710,
     "wof:name":"AS1352 (SFO-BOS)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

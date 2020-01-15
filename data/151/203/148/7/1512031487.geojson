@@ -12,7 +12,7 @@
     "flysfo:flight_number":"9031",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-BWI",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-76.67107,39.181319",
     "geom:latitude":38.399654,
@@ -91,7 +91,7 @@
         1477930445,
         1159285413
     ],
-    "wof:lastmodified":1579022577,
+    "wof:lastmodified":1579114723,
     "wof:name":"NZ9031 (SFO-BWI)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

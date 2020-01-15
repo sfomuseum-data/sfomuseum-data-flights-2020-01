@@ -10,6 +10,7 @@
     "flysfo:flight_number":"711",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-ORY",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.36613,48.729315",
     "geom:latitude":43.173653,
@@ -84,7 +85,7 @@
         1377649073,
         1477930467
     ],
-    "wof:lastmodified":1579022796,
+    "wof:lastmodified":1579114806,
     "wof:name":"BF711 (SFO-ORY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

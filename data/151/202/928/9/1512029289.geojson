@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2510",
     "flysfo:gate":"D15",
     "flysfo:journey":"SLC-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -91,7 +91,7 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1579022671,
+    "wof:lastmodified":1579114732,
     "wof:name":"AY2510 (SLC-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

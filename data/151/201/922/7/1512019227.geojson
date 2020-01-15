@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5493",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-YYC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.02092,51.119526",
     "geom:latitude":44.368758,
@@ -84,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"UA5493 (SFO-YYC)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

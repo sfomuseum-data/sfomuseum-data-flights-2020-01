@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3788",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-MSY",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.982609,-90.261832,37.61799",
     "geom:latitude":33.8003,
@@ -90,7 +91,7 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"QF3788 (SFO-MSY)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

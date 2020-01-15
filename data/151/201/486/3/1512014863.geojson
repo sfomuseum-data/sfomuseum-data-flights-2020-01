@@ -10,6 +10,7 @@
     "flysfo:flight_number":"32",
     "flysfo:gate":"G9",
     "flysfo:journey":"SIN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
     "geom:latitude":19.482695,
@@ -84,7 +85,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114801,
     "wof:name":"SQ32 (SIN-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

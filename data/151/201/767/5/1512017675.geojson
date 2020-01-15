@@ -14,6 +14,7 @@
     "flysfo:flight_number":"426",
     "flysfo:gate":"C3",
     "flysfo:journey":"SFO-JFK",
+    "flysfo:timestamp":1578668700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -100,7 +101,7 @@
         1477930319,
         1159289939
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"DL426 (SFO-JFK)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

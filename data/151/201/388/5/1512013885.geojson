@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2027",
     "flysfo:gate":"C4",
     "flysfo:journey":"MSP-SFO",
+    "flysfo:timestamp":1578664200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -100,7 +101,7 @@
         1477930321,
         1377564285
     ],
-    "wof:lastmodified":1579022832,
+    "wof:lastmodified":1579114830,
     "wof:name":"DL2027 (MSP-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

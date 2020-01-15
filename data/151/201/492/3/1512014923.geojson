@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1828",
     "flysfo:gate":"B9",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -84,7 +85,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579022808,
+    "wof:lastmodified":1579114815,
     "wof:name":"WN1828 (LAX-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

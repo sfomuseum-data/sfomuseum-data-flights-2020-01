@@ -10,6 +10,7 @@
     "flysfo:flight_number":"210",
     "flysfo:gate":"B18",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -84,7 +85,7 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1579022795,
+    "wof:lastmodified":1579114806,
     "wof:name":"WN210 (LAS-SFO)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

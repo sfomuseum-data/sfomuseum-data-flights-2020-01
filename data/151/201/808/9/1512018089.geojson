@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2511",
     "flysfo:gate":"C11",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930337,
         1159283813
     ],
-    "wof:lastmodified":1579022804,
+    "wof:lastmodified":1579114812,
     "wof:name":"AY2511 (SFO-LAX)",
     "wof:parent_id":1477930337,
     "wof:placetype":"event",

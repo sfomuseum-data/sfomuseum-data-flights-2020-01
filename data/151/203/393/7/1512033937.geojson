@@ -10,7 +10,7 @@
     "flysfo:flight_number":"291",
     "flysfo:gate":"G8",
     "flysfo:journey":"SFO-IAD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-77.453702,38.949246",
     "geom:latitude":38.283618,
@@ -85,7 +85,7 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1579022494,
+    "wof:lastmodified":1579114714,
     "wof:name":"UA291 (SFO-IAD)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"25",
     "flysfo:gate":"A1",
     "flysfo:journey":"ICN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.453966,126.661632,37.61799",
     "geom:latitude":37.535978,
@@ -84,7 +85,7 @@
         1159284623,
         1477930281
     ],
-    "wof:lastmodified":1579022795,
+    "wof:lastmodified":1579114805,
     "wof:name":"KE25 (ICN-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

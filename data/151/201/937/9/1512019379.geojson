@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5926",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-GJT",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,0.0,0.0,37.61799",
     "geom:latitude":18.808995,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022711,
+    "wof:lastmodified":1579114747,
     "wof:name":"UA5926 (SFO-GJT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

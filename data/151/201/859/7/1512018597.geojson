@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1381",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-PDX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -90,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579022730,
+    "wof:lastmodified":1579114761,
     "wof:name":"SQ1381 (SFO-PDX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1903",
     "flysfo:gate":"D3",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578621120,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -92,7 +93,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1579022813,
+    "wof:lastmodified":1579114819,
     "wof:name":"AS1903 (LAS-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"213",
     "flysfo:gate":"F17",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578645120,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1579022698,
+    "wof:lastmodified":1579114741,
     "wof:name":"UA213 (SFO-EWR)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

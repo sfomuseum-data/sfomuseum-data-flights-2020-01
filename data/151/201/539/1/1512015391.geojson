@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5298",
     "flysfo:gate":"E3",
     "flysfo:journey":"OMA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-95.897601,41.301438",
     "geom:latitude":39.459714,
@@ -84,7 +85,7 @@
         1159285413,
         1477930381
     ],
-    "wof:lastmodified":1579022767,
+    "wof:lastmodified":1579114786,
     "wof:name":"UA5298 (OMA-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

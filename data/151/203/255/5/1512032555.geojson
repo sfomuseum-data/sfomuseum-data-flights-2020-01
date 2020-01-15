@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2401",
     "flysfo:gate":"C10",
     "flysfo:journey":"SFO-SLC",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578694320,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -99,7 +99,7 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1579022559,
+    "wof:lastmodified":1579114721,
     "wof:name":"DL2401 (SFO-SLC)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

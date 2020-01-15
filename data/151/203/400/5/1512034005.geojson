@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5243",
     "flysfo:gate":"F15K",
     "flysfo:journey":"SFO-GEG",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-117.531916,47.625686",
     "geom:latitude":42.621838,
@@ -85,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022434,
+    "wof:lastmodified":1579114709,
     "wof:name":"UA5243 (SFO-GEG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

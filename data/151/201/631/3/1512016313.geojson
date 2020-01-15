@@ -14,6 +14,7 @@
     "flysfo:flight_number":"780",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-YUL",
+    "flysfo:timestamp":1578615000,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.744749,45.462004",
     "geom:latitude":41.539997,
@@ -100,7 +101,7 @@
         1477930469,
         1159292085
     ],
-    "wof:lastmodified":1579022810,
+    "wof:lastmodified":1579114816,
     "wof:name":"AC780 (SFO-YUL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

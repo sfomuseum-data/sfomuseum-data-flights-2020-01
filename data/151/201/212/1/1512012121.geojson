@@ -14,6 +14,7 @@
     "flysfo:flight_number":"597",
     "flysfo:gate":"C9",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578664380,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -100,7 +101,7 @@
         1477930333,
         1159289411
     ],
-    "wof:lastmodified":1579022786,
+    "wof:lastmodified":1579114798,
     "wof:name":"AA597 (PHX-SFO)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",

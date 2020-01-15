@@ -12,6 +12,7 @@
     "flysfo:flight_number":"59",
     "flysfo:gate":"G12",
     "flysfo:journey":"FRA-SFO",
+    "flysfo:timestamp":1578639731,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,7.267284,49.945918",
     "geom:latitude":43.781954,
@@ -97,7 +98,7 @@
         1477930485,
         1159289993
     ],
-    "wof:lastmodified":1579022705,
+    "wof:lastmodified":1579114745,
     "wof:name":"UA59 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

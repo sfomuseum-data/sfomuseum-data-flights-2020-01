@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9256",
     "flysfo:gate":"E8",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930393,
         1159285413
     ],
-    "wof:lastmodified":1579022717,
+    "wof:lastmodified":1579114751,
     "wof:name":"NZ9256 (SFO-LAX)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

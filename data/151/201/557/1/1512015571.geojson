@@ -14,6 +14,7 @@
     "flysfo:flight_number":"583",
     "flysfo:gate":"F11",
     "flysfo:journey":"EWR-SFO",
+    "flysfo:timestamp":1578650510,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930433,
         1377564289
     ],
-    "wof:lastmodified":1579022708,
+    "wof:lastmodified":1579114746,
     "wof:name":"UA583 (EWR-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

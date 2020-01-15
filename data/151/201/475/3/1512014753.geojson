@@ -14,6 +14,7 @@
     "flysfo:flight_number":"935",
     "flysfo:gate":"G10",
     "flysfo:journey":"CPH-SFO",
+    "flysfo:timestamp":1578637775,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,12.649581,55.627628",
     "geom:latitude":46.622809,
@@ -99,7 +100,7 @@
         1477930481,
         1159289429
     ],
-    "wof:lastmodified":1579022788,
+    "wof:lastmodified":1579114800,
     "wof:name":"SK935 (CPH-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

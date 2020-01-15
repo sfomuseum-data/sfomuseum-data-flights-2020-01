@@ -14,7 +14,7 @@
     "flysfo:flight_number":"613",
     "flysfo:gate":"F3",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578701700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477930411,
         1377564285
     ],
-    "wof:lastmodified":1579022391,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA613 (SFO-LAX)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4080",
     "flysfo:gate":"F15K",
     "flysfo:journey":"ONT-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022719,
+    "wof:lastmodified":1579114752,
     "wof:name":"AC4080 (ONT-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

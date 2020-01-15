@@ -10,6 +10,7 @@
     "flysfo:flight_number":"39",
     "flysfo:gate":"G7",
     "flysfo:journey":"SFO-ZRH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,8.559692,47.455793",
     "geom:latitude":42.536891,
@@ -84,7 +85,7 @@
         1159286475,
         1477930475
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114801,
     "wof:name":"LX39 (SFO-ZRH)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

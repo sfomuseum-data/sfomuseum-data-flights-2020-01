@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7012",
     "flysfo:gate":"G10",
     "flysfo:journey":"NRT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -91,7 +91,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1579022656,
+    "wof:lastmodified":1579114730,
     "wof:name":"NH7012 (NRT-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

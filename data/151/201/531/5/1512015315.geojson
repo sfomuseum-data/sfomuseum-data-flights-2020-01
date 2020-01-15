@@ -12,6 +12,7 @@
     "flysfo:flight_number":"380",
     "flysfo:gate":"F13",
     "flysfo:journey":"MCO-SFO",
+    "flysfo:timestamp":1578660660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -98,7 +99,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579022774,
+    "wof:lastmodified":1579114791,
     "wof:name":"UA380 (MCO-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

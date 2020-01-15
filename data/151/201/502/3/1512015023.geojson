@@ -10,6 +10,7 @@
     "flysfo:flight_number":"225",
     "flysfo:gate":"A6",
     "flysfo:journey":"DXB-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.250063,55.362737,37.61799",
     "geom:latitude":31.434027,
@@ -84,7 +85,7 @@
         1159284333,
         1477930295
     ],
-    "wof:lastmodified":1579022702,
+    "wof:lastmodified":1579114743,
     "wof:name":"EK225 (DXB-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

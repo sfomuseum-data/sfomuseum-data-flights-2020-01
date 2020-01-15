@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1946",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578618960,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -92,7 +93,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579022701,
+    "wof:lastmodified":1579114742,
     "wof:name":"AS1946 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

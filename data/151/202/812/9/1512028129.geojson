@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1111",
     "flysfo:gate":"D16",
     "flysfo:journey":"SEA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578709079,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -93,7 +93,7 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1579022658,
+    "wof:lastmodified":1579114731,
     "wof:name":"AS1111 (SEA-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

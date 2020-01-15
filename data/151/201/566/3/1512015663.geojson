@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7614",
     "flysfo:gate":"G2",
     "flysfo:journey":"PEK-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,116.586155,40.068469",
     "geom:latitude":38.843229,
@@ -90,7 +91,7 @@
         1477930463,
         1159283605
     ],
-    "wof:lastmodified":1579022703,
+    "wof:lastmodified":1579114744,
     "wof:name":"UA7614 (PEK-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

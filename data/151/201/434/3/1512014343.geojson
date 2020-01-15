@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2520",
     "flysfo:gate":"D5",
     "flysfo:journey":"SNA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -90,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579022802,
+    "wof:lastmodified":1579114810,
     "wof:name":"AY2520 (SNA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

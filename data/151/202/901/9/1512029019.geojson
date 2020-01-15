@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7891",
     "flysfo:gate":"F10",
     "flysfo:journey":"GEG-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-117.531916,47.625686",
     "geom:latitude":42.621838,
@@ -91,7 +91,7 @@
         1477930431,
         1159285413
     ],
-    "wof:lastmodified":1579022614,
+    "wof:lastmodified":1579114725,
     "wof:name":"LH7891 (GEG-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

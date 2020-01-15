@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7309",
     "flysfo:gate":"E13",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -90,7 +91,7 @@
         1477930405,
         1159285413
     ],
-    "wof:lastmodified":1579022808,
+    "wof:lastmodified":1579114815,
     "wof:name":"NH7309 (LAS-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

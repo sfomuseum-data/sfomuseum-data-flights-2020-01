@@ -14,7 +14,7 @@
     "flysfo:flight_number":"9577",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-GSO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578717000,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.110092,-79.933581,37.61799",
     "geom:latitude":36.864041,
@@ -61,7 +61,7 @@
         -1,
         1159292085
     ],
-    "wof:lastmodified":1579022423,
+    "wof:lastmodified":1579114708,
     "wof:name":"AS9577 (SFO-GSO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

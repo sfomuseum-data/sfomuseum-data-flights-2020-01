@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4390",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -90,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579022726,
+    "wof:lastmodified":1579114757,
     "wof:name":"IB4390 (SFO-LAX)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

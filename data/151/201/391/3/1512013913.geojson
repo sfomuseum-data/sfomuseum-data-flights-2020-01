@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2803",
     "flysfo:gate":"C10",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578655680,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -99,7 +100,7 @@
         1477930335,
         1159292085
     ],
-    "wof:lastmodified":1579022700,
+    "wof:lastmodified":1579114742,
     "wof:name":"DL2803 (LAX-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",

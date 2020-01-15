@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7209",
     "flysfo:gate":"G12",
     "flysfo:journey":"PVG-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
     "geom:latitude":34.381651,
@@ -91,7 +91,7 @@
         1477930485,
         1159285413
     ],
-    "wof:lastmodified":1579022635,
+    "wof:lastmodified":1579114728,
     "wof:name":"CA7209 (PVG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

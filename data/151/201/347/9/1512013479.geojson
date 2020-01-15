@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7558",
     "flysfo:gate":"D3",
     "flysfo:journey":"SLC-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -90,7 +91,7 @@
         1477930343,
         1159283813
     ],
-    "wof:lastmodified":1579022758,
+    "wof:lastmodified":1579114780,
     "wof:name":"BA7558 (SLC-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"3670",
     "flysfo:gate":"D4",
     "flysfo:journey":"SFO-BOS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -90,7 +91,7 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1579022707,
+    "wof:lastmodified":1579114746,
     "wof:name":"QF3670 (SFO-BOS)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

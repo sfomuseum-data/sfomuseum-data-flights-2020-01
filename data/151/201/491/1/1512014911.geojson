@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1786",
     "flysfo:gate":"B17",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578637500,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -92,7 +93,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579022744,
+    "wof:lastmodified":1579114771,
     "wof:name":"WN1786 (SAN-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

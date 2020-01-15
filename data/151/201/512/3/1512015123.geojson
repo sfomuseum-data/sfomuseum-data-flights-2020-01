@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1584",
     "flysfo:gate":"F12",
     "flysfo:journey":"EWR-SFO",
+    "flysfo:timestamp":1578659305,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -100,7 +101,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1579022830,
+    "wof:lastmodified":1579114829,
     "wof:name":"UA1584 (EWR-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

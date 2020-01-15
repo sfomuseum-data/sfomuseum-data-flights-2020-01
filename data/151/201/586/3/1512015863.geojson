@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1671",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-DFW",
+    "flysfo:timestamp":1578637080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -100,7 +101,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1579022751,
+    "wof:lastmodified":1579114775,
     "wof:name":"AA1671 (SFO-DFW)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

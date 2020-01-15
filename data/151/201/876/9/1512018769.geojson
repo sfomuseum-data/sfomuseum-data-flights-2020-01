@@ -10,6 +10,7 @@
     "flysfo:flight_number":"236",
     "flysfo:gate":"G4",
     "flysfo:journey":"SFO-LIS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-9.135591,38.772844",
     "geom:latitude":38.195417,
@@ -84,7 +85,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1579022789,
+    "wof:lastmodified":1579114801,
     "wof:name":"TP236 (SFO-LIS)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

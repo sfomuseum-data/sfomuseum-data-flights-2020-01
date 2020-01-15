@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2061",
     "flysfo:gate":"D12",
     "flysfo:journey":"CLT-SFO",
+    "flysfo:timestamp":1578635100,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.220744,-80.942777,37.61799",
     "geom:latitude":36.419367,
@@ -100,7 +101,7 @@
         1477930363,
         1159289411
     ],
-    "wof:lastmodified":1579022806,
+    "wof:lastmodified":1579114813,
     "wof:name":"AA2061 (CLT-SFO)",
     "wof:parent_id":1477930363,
     "wof:placetype":"event",

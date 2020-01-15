@@ -14,6 +14,7 @@
     "flysfo:flight_number":"234",
     "flysfo:gate":"F14",
     "flysfo:journey":"SFO-MCO",
+    "flysfo:timestamp":1578619260,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -100,7 +101,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1579022771,
+    "wof:lastmodified":1579114789,
     "wof:name":"UA234 (SFO-MCO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6050",
     "flysfo:gate":"B6",
     "flysfo:journey":"FLL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,26.07486,-80.138518,37.61799",
     "geom:latitude":31.846425,
@@ -90,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579022773,
+    "wof:lastmodified":1579114791,
     "wof:name":"EK6050 (FLL-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

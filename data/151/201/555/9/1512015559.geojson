@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5788",
     "flysfo:gate":"F10",
     "flysfo:journey":"BUR-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.196704,-118.353322,37.61799",
     "geom:latitude":35.907347,
@@ -84,7 +85,7 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"UA5788 (BUR-SFO)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",

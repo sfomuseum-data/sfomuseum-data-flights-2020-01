@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4146",
     "flysfo:gate":"E11",
     "flysfo:journey":"SFO-RNO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-119.772167,39.505219",
     "geom:latitude":38.561605,
@@ -90,7 +91,7 @@
         1477930399,
         1159285413
     ],
-    "wof:lastmodified":1579022809,
+    "wof:lastmodified":1579114816,
     "wof:name":"AC4146 (SFO-RNO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

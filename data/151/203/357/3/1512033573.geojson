@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2176",
     "flysfo:gate":"B9",
     "flysfo:journey":"SFO-ONT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704460,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.059934,-117.587749,37.61799",
     "geom:latitude":35.838962,
@@ -93,7 +93,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579022481,
+    "wof:lastmodified":1579114713,
     "wof:name":"WN2176 (SFO-ONT)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

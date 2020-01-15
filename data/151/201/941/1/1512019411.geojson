@@ -14,6 +14,7 @@
     "flysfo:flight_number":"681",
     "flysfo:gate":"F16",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578659880,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -100,7 +101,7 @@
         1477930445,
         1377564285
     ],
-    "wof:lastmodified":1579022749,
+    "wof:lastmodified":1579114774,
     "wof:name":"UA681 (SFO-LAS)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

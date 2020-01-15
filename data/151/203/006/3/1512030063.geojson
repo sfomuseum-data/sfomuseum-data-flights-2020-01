@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1162",
     "flysfo:gate":"F13",
     "flysfo:journey":"EWR-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705333,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -101,7 +101,7 @@
         1477930439,
         1159289939
     ],
-    "wof:lastmodified":1579022442,
+    "wof:lastmodified":1579114710,
     "wof:name":"UA1162 (EWR-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

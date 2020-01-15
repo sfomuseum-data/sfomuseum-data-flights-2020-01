@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5226",
     "flysfo:gate":"F18",
     "flysfo:journey":"ASE-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-106.869003,39.223202",
     "geom:latitude":38.420596,
@@ -85,7 +85,7 @@
         1159285413,
         1477930449
     ],
-    "wof:lastmodified":1579022552,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA5226 (ASE-SFO)",
     "wof:parent_id":1477930449,
     "wof:placetype":"event",

@@ -12,7 +12,7 @@
     "flysfo:flight_number":"2191",
     "flysfo:gate":"G2",
     "flysfo:journey":"SYD-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-33.934928,151.173388,37.61799",
     "geom:latitude":1.841531,
@@ -91,7 +91,7 @@
         1477930463,
         1159285413
     ],
-    "wof:lastmodified":1579022635,
+    "wof:lastmodified":1579114728,
     "wof:name":"AV2191 (SYD-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

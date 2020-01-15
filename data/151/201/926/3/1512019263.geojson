@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5585",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-OKC",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.396691,-97.593893,37.61799",
     "geom:latitude":36.50734,
@@ -84,7 +85,7 @@
         1159285413,
         1477930377
     ],
-    "wof:lastmodified":1579022821,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA5585 (SFO-OKC)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

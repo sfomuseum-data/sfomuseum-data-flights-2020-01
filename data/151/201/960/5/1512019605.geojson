@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7651",
     "flysfo:gate":"G5",
     "flysfo:journey":"SFO-AKL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,-37.005501,174.788678,37.61799",
     "geom:latitude":0.306244,
@@ -90,7 +91,7 @@
         1477930469,
         1159283697
     ],
-    "wof:lastmodified":1579022773,
+    "wof:lastmodified":1579114791,
     "wof:name":"VS7651 (SFO-AKL)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

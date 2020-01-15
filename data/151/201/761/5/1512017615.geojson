@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1390",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-SLC",
+    "flysfo:timestamp":1578624000,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
     "geom:latitude":39.20008,
@@ -99,7 +100,7 @@
         1477930321,
         1159289407
     ],
-    "wof:lastmodified":1579022781,
+    "wof:lastmodified":1579114795,
     "wof:name":"DL1390 (SFO-SLC)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

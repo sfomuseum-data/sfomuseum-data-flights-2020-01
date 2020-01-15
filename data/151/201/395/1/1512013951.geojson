@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6558",
     "flysfo:gate":"A2",
     "flysfo:journey":"PVG-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
     "geom:latitude":34.381651,
@@ -90,7 +91,7 @@
         1477930283,
         1159284157
     ],
-    "wof:lastmodified":1579022765,
+    "wof:lastmodified":1579114785,
     "wof:name":"DL6558 (PVG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

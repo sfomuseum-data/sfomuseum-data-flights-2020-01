@@ -14,6 +14,7 @@
     "flysfo:flight_number":"173",
     "flysfo:gate":"G4",
     "flysfo:journey":"DEL-SFO",
+    "flysfo:timestamp":1578699047,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.561954,77.098117,37.61799",
     "geom:latitude":33.089972,
@@ -99,7 +100,7 @@
         1477930467,
         1159289989
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114768,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

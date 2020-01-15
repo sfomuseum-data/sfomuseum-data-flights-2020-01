@@ -14,7 +14,7 @@
     "flysfo:flight_number":"103",
     "flysfo:gate":"B18",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578700080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -101,7 +101,7 @@
         1477881737,
         1159289869
     ],
-    "wof:lastmodified":1579022478,
+    "wof:lastmodified":1579114713,
     "wof:name":"WN103 (SFO-LAX)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

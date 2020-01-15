@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7575",
     "flysfo:gate":"A4",
     "flysfo:journey":"GDL-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,20.525627,-103.301974,37.61799",
     "geom:latitude":29.071808,
@@ -91,7 +91,7 @@
         1477930289,
         1159283539
     ],
-    "wof:lastmodified":1579022408,
+    "wof:lastmodified":1579114706,
     "wof:name":"VS7575 (GDL-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

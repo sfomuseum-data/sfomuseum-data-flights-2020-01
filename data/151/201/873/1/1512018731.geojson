@@ -14,6 +14,7 @@
     "flysfo:flight_number":"417",
     "flysfo:gate":"B18",
     "flysfo:journey":"SFO-DEN",
+    "flysfo:timestamp":1578608700,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
     "geom:latitude":38.741464,
@@ -100,7 +101,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1579022724,
+    "wof:lastmodified":1579114755,
     "wof:name":"WN417 (SFO-DEN)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

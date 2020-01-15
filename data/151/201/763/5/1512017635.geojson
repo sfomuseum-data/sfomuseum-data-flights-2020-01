@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1894",
     "flysfo:gate":"C8",
     "flysfo:journey":"SFO-CVG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-84.657144,39.054422",
     "geom:latitude":38.336206,
@@ -84,7 +85,7 @@
         1159284261,
         1477930331
     ],
-    "wof:lastmodified":1579022693,
+    "wof:lastmodified":1579114739,
     "wof:name":"DL1894 (SFO-CVG)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

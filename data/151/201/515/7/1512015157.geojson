@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1769",
     "flysfo:gate":"F2",
     "flysfo:journey":"RDU-SFO",
+    "flysfo:timestamp":1578661200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.876323,-78.790399,37.61799",
     "geom:latitude":36.747157,
@@ -98,7 +99,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579022831,
+    "wof:lastmodified":1579114830,
     "wof:name":"UA1769 (RDU-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

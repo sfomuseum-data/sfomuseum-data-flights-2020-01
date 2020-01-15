@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6344",
     "flysfo:gate":"F5",
     "flysfo:journey":"STL-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-90.367632,38.743872",
     "geom:latitude":38.180931,
@@ -90,7 +91,7 @@
         1477930417,
         1159285413
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"OZ6344 (STL-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

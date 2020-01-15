@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2166",
     "flysfo:gate":"F16",
     "flysfo:journey":"ORD-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578702159,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -101,7 +101,7 @@
         1477930445,
         1159289871
     ],
-    "wof:lastmodified":1579022514,
+    "wof:lastmodified":1579114716,
     "wof:name":"UA2166 (ORD-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

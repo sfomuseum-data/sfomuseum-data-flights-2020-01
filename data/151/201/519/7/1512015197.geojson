@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2054",
     "flysfo:gate":"F1",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578640980,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -98,7 +99,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"UA2054 (PDX-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

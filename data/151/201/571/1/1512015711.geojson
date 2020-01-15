@@ -14,6 +14,7 @@
     "flysfo:flight_number":"890",
     "flysfo:gate":"G1",
     "flysfo:journey":"PVG-SFO",
+    "flysfo:timestamp":1578653312,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,31.145312,121.799307,37.61799",
     "geom:latitude":34.381651,
@@ -99,7 +100,7 @@
         1477930461,
         1159289985
     ],
-    "wof:lastmodified":1579022813,
+    "wof:lastmodified":1579114819,
     "wof:name":"UA890 (PVG-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

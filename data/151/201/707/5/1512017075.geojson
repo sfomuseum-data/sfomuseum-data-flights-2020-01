@@ -10,6 +10,7 @@
     "flysfo:flight_number":"3392",
     "flysfo:gate":"D1",
     "flysfo:journey":"SFO-PSP",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.824619,-116.506042,37.61799",
     "geom:latitude":35.721305,
@@ -84,7 +85,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579022715,
+    "wof:lastmodified":1579114749,
     "wof:name":"AS3392 (SFO-PSP)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

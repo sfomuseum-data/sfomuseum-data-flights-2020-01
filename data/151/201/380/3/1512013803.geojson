@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7929",
     "flysfo:gate":"D9",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -90,7 +91,7 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1579022819,
+    "wof:lastmodified":1579114823,
     "wof:name":"CX7929 (SAN-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"19",
     "flysfo:gate":"G6",
     "flysfo:journey":"TLV-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.005595,34.877214,37.61799",
     "geom:latitude":34.811792,
@@ -84,7 +85,7 @@
         1159284327,
         1477930471
     ],
-    "wof:lastmodified":1579022722,
+    "wof:lastmodified":1579114754,
     "wof:name":"LY19 (TLV-SFO)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

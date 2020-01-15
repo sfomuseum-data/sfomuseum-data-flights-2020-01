@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2006",
     "flysfo:gate":"G1",
     "flysfo:journey":"EWR-SFO",
+    "flysfo:timestamp":1578661320,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -98,7 +99,7 @@
         1477930461,
         1159293215
     ],
-    "wof:lastmodified":1579022750,
+    "wof:lastmodified":1579114775,
     "wof:name":"UA2006 (EWR-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

@@ -10,6 +10,7 @@
     "flysfo:flight_number":"278",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-PHL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-75.247885,39.880952",
     "geom:latitude":38.749471,
@@ -84,7 +85,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1579022760,
+    "wof:lastmodified":1579114782,
     "wof:name":"AA278 (SFO-PHL)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

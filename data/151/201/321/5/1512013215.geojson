@@ -12,6 +12,7 @@
     "flysfo:flight_number":"1959",
     "flysfo:gate":"D6",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578644400,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -97,7 +98,7 @@
         1477930351,
         1159289407
     ],
-    "wof:lastmodified":1579022825,
+    "wof:lastmodified":1579114827,
     "wof:name":"AS1959 (SAN-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

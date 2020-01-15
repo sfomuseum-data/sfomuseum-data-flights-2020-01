@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5738",
     "flysfo:gate":"",
     "flysfo:journey":"SFO-JFK",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -50,7 +51,7 @@
         -1,
         1159283849
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"AY5738 (SFO-JFK)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

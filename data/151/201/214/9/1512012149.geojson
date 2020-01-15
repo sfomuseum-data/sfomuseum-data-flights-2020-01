@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6868",
     "flysfo:gate":"D7",
     "flysfo:journey":"SEA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -90,7 +91,7 @@
         1477930353,
         1159283813
     ],
-    "wof:lastmodified":1579022793,
+    "wof:lastmodified":1579114804,
     "wof:name":"AA6868 (SEA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

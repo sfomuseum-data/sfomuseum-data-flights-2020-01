@@ -12,6 +12,7 @@
     "flysfo:flight_number":"697",
     "flysfo:gate":"A4",
     "flysfo:journey":"PDX-SFO",
+    "flysfo:timestamp":1578639979,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -98,7 +99,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1579022721,
+    "wof:lastmodified":1579114753,
     "wof:name":"SY697 (PDX-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

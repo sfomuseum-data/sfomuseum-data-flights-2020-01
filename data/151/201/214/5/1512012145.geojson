@@ -10,6 +10,7 @@
     "flysfo:flight_number":"686",
     "flysfo:gate":"D10",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -84,7 +85,7 @@
         1159283849,
         1477930359
     ],
-    "wof:lastmodified":1579022793,
+    "wof:lastmodified":1579114804,
     "wof:name":"AA686 (PHX-SFO)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

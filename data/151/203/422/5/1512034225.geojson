@@ -10,7 +10,7 @@
     "flysfo:flight_number":"5911",
     "flysfo:gate":"F3A",
     "flysfo:journey":"SFO-DFW",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.90366,-97.050966,37.61799",
     "geom:latitude":35.260825,
@@ -85,7 +85,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1579022389,
+    "wof:lastmodified":1579114705,
     "wof:name":"UA5911 (SFO-DFW)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

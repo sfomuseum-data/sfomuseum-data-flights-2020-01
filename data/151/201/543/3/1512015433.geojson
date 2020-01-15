@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5405",
     "flysfo:gate":"F5",
     "flysfo:journey":"SUN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-114.29782,43.50657",
     "geom:latitude":40.56228,
@@ -84,7 +85,7 @@
         1159285413,
         1477930417
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"UA5405 (SUN-SFO)",
     "wof:parent_id":1477930417,
     "wof:placetype":"event",

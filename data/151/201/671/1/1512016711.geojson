@@ -12,6 +12,7 @@
     "flysfo:flight_number":"9232",
     "flysfo:gate":"E6",
     "flysfo:journey":"SFO-LAS",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -90,7 +91,7 @@
         1477930389,
         1159285413
     ],
-    "wof:lastmodified":1579022787,
+    "wof:lastmodified":1579114799,
     "wof:name":"NZ9232 (SFO-LAS)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

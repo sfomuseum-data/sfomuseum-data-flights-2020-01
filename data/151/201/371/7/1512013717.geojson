@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2387",
     "flysfo:gate":"E5",
     "flysfo:journey":"KOA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-156.03506,19.732444,-122.370943,37.61799",
     "geom:latitude":28.675217,
@@ -90,7 +91,7 @@
         1477930387,
         1159285413
     ],
-    "wof:lastmodified":1579022755,
+    "wof:lastmodified":1579114778,
     "wof:name":"CM2387 (KOA-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

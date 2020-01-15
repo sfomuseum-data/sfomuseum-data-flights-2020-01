@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5766",
     "flysfo:gate":"F15N",
     "flysfo:journey":"SFO-RDD",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.29822,40.507596",
     "geom:latitude":39.062793,
@@ -84,7 +85,7 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"UA5766 (SFO-RDD)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

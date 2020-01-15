@@ -12,6 +12,7 @@
     "flysfo:flight_number":"8497",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-EWR",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -90,7 +91,7 @@
         1477930435,
         1159285413
     ],
-    "wof:lastmodified":1579022791,
+    "wof:lastmodified":1579114802,
     "wof:name":"TP8497 (SFO-EWR)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

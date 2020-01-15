@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1301",
     "flysfo:gate":"D1",
     "flysfo:journey":"MCO-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,28.431495,-81.307537,37.61799",
     "geom:latitude":33.024743,
@@ -84,7 +85,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"AS1301 (MCO-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

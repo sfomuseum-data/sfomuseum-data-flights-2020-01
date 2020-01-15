@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1832",
     "flysfo:gate":"C4",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578659040,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930321,
         1159289871
     ],
-    "wof:lastmodified":1579022711,
+    "wof:lastmodified":1579114747,
     "wof:name":"DL1832 (SFO-SEA)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",

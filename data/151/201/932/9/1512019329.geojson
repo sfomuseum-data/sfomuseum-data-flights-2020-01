@@ -10,6 +10,7 @@
     "flysfo:flight_number":"5767",
     "flysfo:gate":"F9",
     "flysfo:journey":"SFO-STL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-90.367632,38.743872",
     "geom:latitude":38.180931,
@@ -84,7 +85,7 @@
         1159285413,
         1477930429
     ],
-    "wof:lastmodified":1579022768,
+    "wof:lastmodified":1579114787,
     "wof:name":"UA5767 (SFO-STL)",
     "wof:parent_id":1477930429,
     "wof:placetype":"event",

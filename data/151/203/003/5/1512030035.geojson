@@ -12,7 +12,7 @@
     "flysfo:flight_number":"6048",
     "flysfo:gate":"B6",
     "flysfo:journey":"LGB-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.814039,-118.148993,37.61799",
     "geom:latitude":35.716014,
@@ -91,7 +91,7 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1579022538,
+    "wof:lastmodified":1579114719,
     "wof:name":"EK6048 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

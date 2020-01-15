@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1815",
     "flysfo:gate":"E8",
     "flysfo:journey":"IAH-SFO",
+    "flysfo:timestamp":1578636480,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -100,7 +101,7 @@
         1477930393,
         1159289871
     ],
-    "wof:lastmodified":1579022757,
+    "wof:lastmodified":1579114780,
     "wof:name":"UA1815 (IAH-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

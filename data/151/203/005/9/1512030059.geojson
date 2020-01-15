@@ -14,7 +14,7 @@
     "flysfo:flight_number":"114",
     "flysfo:gate":"G9",
     "flysfo:journey":"PPT-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578702480,
     "geom:area":0.0,
     "geom:bbox":"-149.617144,-17.573463,-122.370943,37.61799",
     "geom:latitude":10.022263,
@@ -99,7 +99,7 @@
         1477930479,
         1159293215
     ],
-    "wof:lastmodified":1579022554,
+    "wof:lastmodified":1579114721,
     "wof:name":"UA114 (PPT-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

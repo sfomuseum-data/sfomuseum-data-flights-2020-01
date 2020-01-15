@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1200",
     "flysfo:gate":"F20",
     "flysfo:journey":"SFO-LAX",
+    "flysfo:timestamp":1578658080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930453,
         1159289407
     ],
-    "wof:lastmodified":1579022722,
+    "wof:lastmodified":1579114754,
     "wof:name":"UA1200 (SFO-LAX)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

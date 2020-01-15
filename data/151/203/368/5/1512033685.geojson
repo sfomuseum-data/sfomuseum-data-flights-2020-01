@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3094",
     "flysfo:gate":"D5",
     "flysfo:journey":"SFO-LAX",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -91,7 +91,7 @@
         1477930349,
         1159283813
     ],
-    "wof:lastmodified":1579022479,
+    "wof:lastmodified":1579114713,
     "wof:name":"EK3094 (SFO-LAX)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

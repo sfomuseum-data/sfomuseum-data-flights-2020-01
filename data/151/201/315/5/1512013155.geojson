@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1357",
     "flysfo:gate":"D7",
     "flysfo:journey":"BOS-SFO",
+    "flysfo:timestamp":1578660563,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -100,7 +101,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1579022753,
+    "wof:lastmodified":1579114777,
     "wof:name":"AS1357 (BOS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

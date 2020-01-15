@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1753",
     "flysfo:gate":"D8",
     "flysfo:journey":"SFO-SEA",
+    "flysfo:timestamp":1578637080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-122.304268,47.441823",
     "geom:latitude":42.529906,
@@ -100,7 +101,7 @@
         1477930355,
         1159292085
     ],
-    "wof:lastmodified":1579022800,
+    "wof:lastmodified":1579114808,
     "wof:name":"AS1753 (SFO-SEA)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

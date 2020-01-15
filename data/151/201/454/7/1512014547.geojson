@@ -10,6 +10,7 @@
     "flysfo:flight_number":"115",
     "flysfo:gate":"",
     "flysfo:journey":"JFK-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -44,7 +45,7 @@
         1159284583,
         -1
     ],
-    "wof:lastmodified":1579022742,
+    "wof:lastmodified":1579114770,
     "wof:name":"B6115 (JFK-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

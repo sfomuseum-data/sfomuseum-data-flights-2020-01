@@ -12,6 +12,7 @@
     "flysfo:flight_number":"4583",
     "flysfo:gate":"F15N",
     "flysfo:journey":"TUS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.119362,-110.946818,37.61799",
     "geom:latitude":34.868676,
@@ -90,7 +91,7 @@
         1477930443,
         1159285413
     ],
-    "wof:lastmodified":1579022790,
+    "wof:lastmodified":1579114802,
     "wof:name":"AC4583 (TUS-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",

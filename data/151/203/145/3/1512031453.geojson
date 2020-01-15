@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4610",
     "flysfo:gate":"G1",
     "flysfo:journey":"SFO-YVR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-123.1792,37.61799,-122.370943,49.19333",
     "geom:latitude":43.40566,
@@ -91,7 +91,7 @@
         1477930461,
         1159283597
     ],
-    "wof:lastmodified":1579022449,
+    "wof:lastmodified":1579114710,
     "wof:name":"NZ4610 (SFO-YVR)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

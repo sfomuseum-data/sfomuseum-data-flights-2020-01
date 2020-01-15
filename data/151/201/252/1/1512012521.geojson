@@ -14,6 +14,7 @@
     "flysfo:flight_number":"757",
     "flysfo:gate":"G8",
     "flysfo:journey":"YYZ-SFO",
+    "flysfo:timestamp":1578637980,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-79.628342,43.676352",
     "geom:latitude":40.647171,
@@ -99,7 +100,7 @@
         1477930477,
         1159289411
     ],
-    "wof:lastmodified":1579022811,
+    "wof:lastmodified":1579114817,
     "wof:name":"AC757 (YYZ-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

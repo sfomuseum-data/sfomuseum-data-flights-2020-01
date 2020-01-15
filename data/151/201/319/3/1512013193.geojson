@@ -10,6 +10,7 @@
     "flysfo:flight_number":"1913",
     "flysfo:gate":"D15",
     "flysfo:journey":"LAS-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.081003,-115.15644,37.61799",
     "geom:latitude":36.849497,
@@ -84,7 +85,7 @@
         1159283813,
         1477930369
     ],
-    "wof:lastmodified":1579022823,
+    "wof:lastmodified":1579114826,
     "wof:name":"AS1913 (LAS-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

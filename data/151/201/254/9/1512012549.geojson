@@ -12,6 +12,7 @@
     "flysfo:flight_number":"2860",
     "flysfo:gate":"C8",
     "flysfo:journey":"MSP-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-93.200317,44.883321",
     "geom:latitude":41.250656,
@@ -90,7 +91,7 @@
         1477930331,
         1159284261
     ],
-    "wof:lastmodified":1579022801,
+    "wof:lastmodified":1579114810,
     "wof:name":"AF2860 (MSP-SFO)",
     "wof:parent_id":1477930331,
     "wof:placetype":"event",

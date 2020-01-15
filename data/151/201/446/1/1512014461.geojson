@@ -10,6 +10,7 @@
     "flysfo:flight_number":"2621",
     "flysfo:gate":"A10",
     "flysfo:journey":"BCN-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,2.081322,41.296019",
     "geom:latitude":39.457004,
@@ -84,7 +85,7 @@
         1159284511,
         1477930303
     ],
-    "wof:lastmodified":1579022726,
+    "wof:lastmodified":1579114757,
     "wof:name":"IB2621 (BCN-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

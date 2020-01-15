@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2798",
     "flysfo:gate":"",
     "flysfo:journey":"SAT-SFO",
+    "flysfo:timestamp":1578627540,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
     "geom:latitude":33.576414,
@@ -60,7 +61,7 @@
         -1,
         1159289939
     ],
-    "wof:lastmodified":1579022758,
+    "wof:lastmodified":1579114780,
     "wof:name":"UA2798 (SAT-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

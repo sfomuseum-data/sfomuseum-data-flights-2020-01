@@ -12,6 +12,7 @@
     "flysfo:flight_number":"382",
     "flysfo:gate":"A2",
     "flysfo:journey":"PTY-SFO",
+    "flysfo:timestamp":1578673286,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,9.07136,-79.383499,37.61799",
     "geom:latitude":23.344675,
@@ -97,7 +98,7 @@
         1477930283,
         1159289871
     ],
-    "wof:lastmodified":1579022756,
+    "wof:lastmodified":1579114779,
     "wof:name":"CM382 (PTY-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

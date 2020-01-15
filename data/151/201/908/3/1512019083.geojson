@@ -14,6 +14,7 @@
     "flysfo:flight_number":"29",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-SIN",
+    "flysfo:timestamp":1578628320,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
     "geom:latitude":19.482695,
@@ -100,7 +101,7 @@
         1477930481,
         1159293215
     ],
-    "wof:lastmodified":1579022709,
+    "wof:lastmodified":1579114747,
     "wof:name":"UA29 (SFO-SIN)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

@@ -12,7 +12,7 @@
     "flysfo:flight_number":"7013",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-NRT",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
     "geom:latitude":36.686867,
@@ -91,7 +91,7 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1579022350,
+    "wof:lastmodified":1579114702,
     "wof:name":"NH7013 (SFO-NRT)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

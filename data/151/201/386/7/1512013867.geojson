@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1332",
     "flysfo:gate":"C3",
     "flysfo:journey":"LAX-SFO",
+    "flysfo:timestamp":1578666080,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.942593,-118.38951,37.61799",
     "geom:latitude":35.780292,
@@ -100,7 +101,7 @@
         1477930319,
         1377564285
     ],
-    "wof:lastmodified":1579022827,
+    "wof:lastmodified":1579114828,
     "wof:name":"DL1332 (LAX-SFO)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",

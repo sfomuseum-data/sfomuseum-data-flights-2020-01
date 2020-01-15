@@ -14,7 +14,7 @@
     "flysfo:flight_number":"2614",
     "flysfo:gate":"D10",
     "flysfo:journey":"SFO-ORD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578705660,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -101,7 +101,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1579022396,
+    "wof:lastmodified":1579114705,
     "wof:name":"AA2614 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

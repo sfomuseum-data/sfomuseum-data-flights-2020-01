@@ -14,7 +14,7 @@
     "flysfo:flight_number":"1410",
     "flysfo:gate":"E13",
     "flysfo:journey":"PDX-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704400,
     "geom:area":0.0,
     "geom:bbox":"-122.597389,37.61799,-122.370943,45.586144",
     "geom:latitude":41.602067,
@@ -101,7 +101,7 @@
         1477930405,
         1377564285
     ],
-    "wof:lastmodified":1579022420,
+    "wof:lastmodified":1579114708,
     "wof:name":"UA1410 (PDX-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

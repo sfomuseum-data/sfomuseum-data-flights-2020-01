@@ -12,6 +12,7 @@
     "flysfo:flight_number":"7556",
     "flysfo:gate":"D11",
     "flysfo:journey":"MIA-SFO",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,25.79047,-80.296006,37.61799",
     "geom:latitude":31.70423,
@@ -90,7 +91,7 @@
         1477930361,
         1159283849
     ],
-    "wof:lastmodified":1579022759,
+    "wof:lastmodified":1579114781,
     "wof:name":"CX7556 (MIA-SFO)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

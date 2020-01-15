@@ -14,7 +14,7 @@
     "flysfo:flight_number":"76",
     "flysfo:gate":"D14",
     "flysfo:journey":"JFK-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578709620,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
     "geom:latitude":39.130638,
@@ -101,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1579022642,
+    "wof:lastmodified":1579114728,
     "wof:name":"AA76 (JFK-SFO)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

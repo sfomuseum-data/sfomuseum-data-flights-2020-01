@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1037",
     "flysfo:gate":"D11",
     "flysfo:journey":"SFO-PHX",
+    "flysfo:timestamp":1578644820,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -100,7 +101,7 @@
         1477930361,
         1159289411
     ],
-    "wof:lastmodified":1579022825,
+    "wof:lastmodified":1579114827,
     "wof:name":"AA1037 (SFO-PHX)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",

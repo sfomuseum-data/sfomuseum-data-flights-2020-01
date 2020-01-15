@@ -12,7 +12,7 @@
     "flysfo:flight_number":"3325",
     "flysfo:gate":"D14",
     "flysfo:journey":"SFO-ORD",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-87.894364,41.983038",
     "geom:latitude":39.800514,
@@ -91,7 +91,7 @@
         1477930367,
         1159283849
     ],
-    "wof:lastmodified":1579022512,
+    "wof:lastmodified":1579114716,
     "wof:name":"QF3325 (SFO-ORD)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

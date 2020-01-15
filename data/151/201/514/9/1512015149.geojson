@@ -14,6 +14,7 @@
     "flysfo:flight_number":"1727",
     "flysfo:gate":"F21",
     "flysfo:journey":"SAN-SFO",
+    "flysfo:timestamp":1578623880,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,32.733534,-117.185927,37.61799",
     "geom:latitude":35.175762,
@@ -100,7 +101,7 @@
         1477930457,
         1159292085
     ],
-    "wof:lastmodified":1579022816,
+    "wof:lastmodified":1579114821,
     "wof:name":"UA1727 (SAN-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

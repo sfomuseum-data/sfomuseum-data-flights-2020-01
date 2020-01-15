@@ -10,6 +10,7 @@
     "flysfo:flight_number":"8744",
     "flysfo:gate":"G10",
     "flysfo:journey":"SFO-YEG",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-113.584752,53.308108",
     "geom:latitude":45.463049,
@@ -84,7 +85,7 @@
         1159283597,
         1477930481
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114769,
     "wof:name":"AC8744 (SFO-YEG)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

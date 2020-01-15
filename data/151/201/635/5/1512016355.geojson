@@ -12,6 +12,7 @@
     "flysfo:flight_number":"5717",
     "flysfo:gate":"C2",
     "flysfo:journey":"SFO-ATL",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.636518,-84.430686,37.61799",
     "geom:latitude":35.627254,
@@ -90,7 +91,7 @@
         1477930317,
         1159284261
     ],
-    "wof:lastmodified":1579022740,
+    "wof:lastmodified":1579114768,
     "wof:name":"AF5717 (SFO-ATL)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

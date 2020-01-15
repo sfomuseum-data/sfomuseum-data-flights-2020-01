@@ -14,7 +14,7 @@
     "flysfo:flight_number":"340",
     "flysfo:gate":"D6",
     "flysfo:journey":"SFO-EWR",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578698340,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
     "geom:latitude":39.154617,
@@ -93,7 +93,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022495,
+    "wof:lastmodified":1579114714,
     "wof:name":"AS340 (SFO-EWR)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

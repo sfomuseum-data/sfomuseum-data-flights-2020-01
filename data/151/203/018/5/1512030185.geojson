@@ -14,7 +14,7 @@
     "flysfo:flight_number":"209",
     "flysfo:gate":"F12",
     "flysfo:journey":"SNA-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578704820,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.677724,-117.86628,37.61799",
     "geom:latitude":35.647857,
@@ -101,7 +101,7 @@
         1477930435,
         1159292085
     ],
-    "wof:lastmodified":1579022517,
+    "wof:lastmodified":1579114716,
     "wof:name":"UA209 (SNA-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

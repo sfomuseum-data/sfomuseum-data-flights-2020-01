@@ -12,7 +12,7 @@
     "flysfo:flight_number":"4058",
     "flysfo:gate":"E1",
     "flysfo:journey":"SFO-SBA",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578643200,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,34.427974,-119.837133,37.61799",
     "geom:latitude":36.022982,
@@ -91,7 +91,7 @@
         1477930377,
         1159285413
     ],
-    "wof:lastmodified":1579022419,
+    "wof:lastmodified":1579114708,
     "wof:name":"AC4058 (SFO-SBA)",
     "wof:parent_id":1477930377,
     "wof:placetype":"event",

@@ -14,6 +14,7 @@
     "flysfo:flight_number":"235",
     "flysfo:gate":"F12",
     "flysfo:journey":"SFO-BOS",
+    "flysfo:timestamp":1578672060,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-71.01475,42.362322",
     "geom:latitude":39.990156,
@@ -99,7 +100,7 @@
         1477930435,
         1159289939
     ],
-    "wof:lastmodified":1579022771,
+    "wof:lastmodified":1579114789,
     "wof:name":"UA235 (SFO-BOS)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

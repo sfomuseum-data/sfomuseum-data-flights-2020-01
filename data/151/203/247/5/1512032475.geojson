@@ -14,7 +14,7 @@
     "flysfo:flight_number":"879",
     "flysfo:gate":"A2",
     "flysfo:journey":"SFO-HKG",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578714360,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,22.307471,113.927436,37.61799",
     "geom:latitude":29.96273,
@@ -101,7 +101,7 @@
         1477930283,
         1377564293
     ],
-    "wof:lastmodified":1579022523,
+    "wof:lastmodified":1579114717,
     "wof:name":"CX879 (SFO-HKG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

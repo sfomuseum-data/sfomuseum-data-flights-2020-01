@@ -12,6 +12,7 @@
     "flysfo:flight_number":"6492",
     "flysfo:gate":"F22",
     "flysfo:journey":"SFO-IAH",
+    "flysfo:timestamp":1578556800,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,29.977186,-95.338444,37.61799",
     "geom:latitude":33.797588,
@@ -90,7 +91,7 @@
         1477930459,
         1159285413
     ],
-    "wof:lastmodified":1579022725,
+    "wof:lastmodified":1579114756,
     "wof:name":"NH6492 (SFO-IAH)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

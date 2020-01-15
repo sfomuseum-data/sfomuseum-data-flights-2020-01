@@ -14,6 +14,7 @@
     "flysfo:flight_number":"2129",
     "flysfo:gate":"E11",
     "flysfo:journey":"PHX-SFO",
+    "flysfo:timestamp":1578658772,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,33.432684,-112.017392,37.61799",
     "geom:latitude":35.525337,
@@ -100,7 +101,7 @@
         1477930399,
         1159292085
     ],
-    "wof:lastmodified":1579022820,
+    "wof:lastmodified":1579114824,
     "wof:name":"UA2129 (PHX-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

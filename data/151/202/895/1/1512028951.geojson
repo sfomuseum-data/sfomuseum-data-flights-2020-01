@@ -14,7 +14,7 @@
     "flysfo:flight_number":"745",
     "flysfo:gate":"C2",
     "flysfo:journey":"DTW-SFO",
-    "flysfo:timestamp":0,
+    "flysfo:timestamp":1578709740,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,37.61799,-83.351709,42.21886",
     "geom:latitude":39.918425,
@@ -101,7 +101,7 @@
         1477930317,
         1377564285
     ],
-    "wof:lastmodified":1579022633,
+    "wof:lastmodified":1579114727,
     "wof:name":"DL745 (DTW-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

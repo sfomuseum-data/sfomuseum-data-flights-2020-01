@@ -14,6 +14,7 @@
     "flysfo:flight_number":"767",
     "flysfo:gate":"A5",
     "flysfo:journey":"TAO-SFO",
+    "flysfo:timestamp":1578617688,
     "geom:area":0.0,
     "geom:bbox":"-122.370943,36.266102,120.374001,37.61799",
     "geom:latitude":36.942046,
@@ -92,7 +93,7 @@
         1159284157,
         1477930291
     ],
-    "wof:lastmodified":1579022701,
+    "wof:lastmodified":1579114743,
     "wof:name":"MU767 (TAO-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",
