@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124217042",
-        "swim:gufi":""
+        "swim:flight_ref":"124217042"
     },
     "wof:country":"US",
     "wof:created":1578931460,
@@ -103,7 +102,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1579022298,
+    "wof:lastmodified":1579287320,
     "wof:name":"AS814 (OGG-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

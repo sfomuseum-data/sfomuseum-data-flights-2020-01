@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123942170",
-        "swim:gufi":""
+        "swim:flight_ref":"123942170"
     },
     "wof:country":"US",
     "wof:created":1578585714,
@@ -100,7 +99,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1578949271,
+    "wof:lastmodified":1579287397,
     "wof:name":"UA1769 (RDU-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

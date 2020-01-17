@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124137562",
-        "swim:gufi":""
+        "swim:flight_ref":"124137562"
     },
     "wof:country":"US",
     "wof:created":1578845295,
@@ -104,7 +103,7 @@
         1477930477,
         1159289993
     ],
-    "wof:lastmodified":1579022557,
+    "wof:lastmodified":1579287348,
     "wof:name":"NZ7 (SFO-AKL)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124283238",
-        "swim:gufi":""
+        "swim:flight_ref":"124283238"
     },
     "wof:country":"US",
     "wof:created":1579018093,
@@ -99,7 +98,7 @@
         1159285413,
         1477930485
     ],
-    "wof:lastmodified":1579023033,
+    "wof:lastmodified":1579287590,
     "wof:name":"UA984 (CDG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

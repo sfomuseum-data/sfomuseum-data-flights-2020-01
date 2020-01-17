@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124324720",
-        "swim:gufi":""
+        "swim:flight_ref":"124324720"
     },
     "wof:country":"US",
     "wof:created":1579018056,
@@ -99,7 +98,7 @@
         1477930411,
         1159292085
     ],
-    "wof:lastmodified":1579022935,
+    "wof:lastmodified":1579287572,
     "wof:name":"UA447 (LAX-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

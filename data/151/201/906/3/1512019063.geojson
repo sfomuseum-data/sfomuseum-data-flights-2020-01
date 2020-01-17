@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123961914",
-        "swim:gufi":""
+        "swim:flight_ref":"123961914"
     },
     "wof:country":"US",
     "wof:created":1578692122,
@@ -101,7 +100,7 @@
         1477930403,
         1159289945
     ],
-    "wof:lastmodified":1579114746,
+    "wof:lastmodified":1579287438,
     "wof:name":"UA2457 (SFO-ORD)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

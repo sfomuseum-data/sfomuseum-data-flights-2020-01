@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124233365",
-        "swim:gufi":""
+        "swim:flight_ref":"124233365"
     },
     "wof:country":"US",
     "wof:created":1578931608,
@@ -104,7 +103,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022239,
+    "wof:lastmodified":1579287313,
     "wof:name":"WN5500 (LAS-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

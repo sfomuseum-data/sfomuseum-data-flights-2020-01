@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123356526",
-        "swim:gufi":""
+        "swim:flight_ref":"123356526"
     },
     "wof:country":"US",
     "wof:created":1577980947,
@@ -100,7 +99,7 @@
         1477930381,
         1159289407
     ],
-    "wof:lastmodified":1578949823,
+    "wof:lastmodified":1579287505,
     "wof:name":"UA2229 (SFO-PIT)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

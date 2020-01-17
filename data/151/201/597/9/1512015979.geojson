@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123961084",
-        "swim:gufi":""
+        "swim:flight_ref":"123961084"
     },
     "wof:country":"US",
     "wof:created":1578691791,
@@ -101,7 +100,7 @@
         1477930477,
         1377564293
     ],
-    "wof:lastmodified":1579114790,
+    "wof:lastmodified":1579287448,
     "wof:name":"OZ211 (SFO-ICN)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

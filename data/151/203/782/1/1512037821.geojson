@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124167772",
-        "swim:gufi":""
+        "swim:flight_ref":"124167772"
     },
     "wof:country":"US",
     "wof:created":1578845231,
@@ -96,7 +95,7 @@
         1159285413,
         1477930469
     ],
-    "wof:lastmodified":1579022458,
+    "wof:lastmodified":1579287336,
     "wof:name":"UA927 (FRA-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

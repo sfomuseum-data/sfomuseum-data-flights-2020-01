@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124258331",
-        "swim:gufi":""
+        "swim:flight_ref":"124258331"
     },
     "wof:country":"US",
     "wof:created":1578931988,
@@ -104,7 +103,7 @@
         1477930395,
         1159292085
     ],
-    "wof:lastmodified":1579022875,
+    "wof:lastmodified":1579287544,
     "wof:name":"UA2489 (SFO-AUS)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

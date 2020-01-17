@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124311080",
-        "swim:gufi":""
+        "swim:flight_ref":"124311080"
     },
     "wof:country":"US",
     "wof:created":1579018406,
@@ -99,7 +98,7 @@
         1477930407,
         1159292085
     ],
-    "wof:lastmodified":1579022928,
+    "wof:lastmodified":1579287570,
     "wof:name":"UA653 (SFO-LAX)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

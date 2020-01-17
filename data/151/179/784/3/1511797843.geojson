@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123317772",
-        "swim:gufi":""
+        "swim:flight_ref":"123317772"
     },
     "wof:country":"US",
     "wof:created":1577980936,
@@ -102,7 +101,7 @@
         1477930487,
         1159289437
     ],
-    "wof:lastmodified":1578949863,
+    "wof:lastmodified":1579287512,
     "wof:name":"LH459 (SFO-MUC)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

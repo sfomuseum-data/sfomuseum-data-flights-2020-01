@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123377363",
-        "swim:gufi":""
+        "swim:flight_ref":"123377363"
     },
     "wof:country":"US",
     "wof:created":1577980946,
@@ -97,7 +96,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949817,
+    "wof:lastmodified":1579287504,
     "wof:name":"WN3969 (SFO-SAN)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

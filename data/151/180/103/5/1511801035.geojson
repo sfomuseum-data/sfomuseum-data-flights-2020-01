@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123386414",
-        "swim:gufi":""
+        "swim:flight_ref":"123386414"
     },
     "wof:country":"US",
     "wof:created":1578067296,
@@ -101,7 +100,7 @@
         1477930301,
         1159289871
     ],
-    "wof:lastmodified":1578949061,
+    "wof:lastmodified":1579287360,
     "wof:name":"AM1664 (MEX-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

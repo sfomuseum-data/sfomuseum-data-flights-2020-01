@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123666621",
-        "swim:gufi":""
+        "swim:flight_ref":"123666621"
     },
     "wof:country":"US",
     "wof:created":1578326498,
@@ -102,7 +101,7 @@
         1477930441,
         1159289939
     ],
-    "wof:lastmodified":1578949952,
+    "wof:lastmodified":1579287524,
     "wof:name":"UA1978 (EWR-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

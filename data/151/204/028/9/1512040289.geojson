@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124187642",
-        "swim:gufi":""
+        "swim:flight_ref":"124187642"
     },
     "wof:country":"US",
     "wof:created":1578845445,
@@ -104,7 +103,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1579022300,
+    "wof:lastmodified":1579287320,
     "wof:name":"WN3746 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

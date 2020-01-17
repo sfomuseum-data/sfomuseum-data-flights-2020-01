@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123871134",
-        "swim:gufi":""
+        "swim:flight_ref":"123871134"
     },
     "wof:country":"US",
     "wof:created":1578499313,
@@ -100,7 +99,7 @@
         1477930303,
         1159293215
     ],
-    "wof:lastmodified":1578949749,
+    "wof:lastmodified":1579287490,
     "wof:name":"QF73 (SYD-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

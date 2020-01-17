@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124334647",
-        "swim:gufi":""
+        "swim:flight_ref":"124334647"
     },
     "wof:country":"US",
     "wof:created":1579017772,
@@ -103,7 +102,7 @@
         1477930467,
         1159292085
     ],
-    "wof:lastmodified":1579022955,
+    "wof:lastmodified":1579287576,
     "wof:name":"AC781 (YUL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

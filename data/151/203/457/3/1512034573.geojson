@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124149050",
-        "swim:gufi":""
+        "swim:flight_ref":"124149050"
     },
     "wof:country":"US",
     "wof:created":1578844934,
@@ -96,7 +95,7 @@
         1159283917,
         1477930301
     ],
-    "wof:lastmodified":1579022553,
+    "wof:lastmodified":1579287347,
     "wof:name":"OZ212 (ICN-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

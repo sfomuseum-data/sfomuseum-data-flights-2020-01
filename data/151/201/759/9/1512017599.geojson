@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124014998",
-        "swim:gufi":""
+        "swim:flight_ref":"124014998"
     },
     "wof:country":"US",
     "wof:created":1578691959,
@@ -101,7 +100,7 @@
         1477930281,
         1159289993
     ],
-    "wof:lastmodified":1579114796,
+    "wof:lastmodified":1579287449,
     "wof:name":"CZ660 (SFO-WUH)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

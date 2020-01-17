@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124328635",
-        "swim:gufi":""
+        "swim:flight_ref":"124328635"
     },
     "wof:country":"US",
     "wof:created":1579018332,
@@ -96,7 +95,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579022975,
+    "wof:lastmodified":1579287579,
     "wof:name":"WN1034 (SFO-LAS)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

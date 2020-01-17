@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123985071",
-        "swim:gufi":""
+        "swim:flight_ref":"123985071"
     },
     "wof:country":"US",
     "wof:created":1578692137,
@@ -101,7 +100,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1579114825,
+    "wof:lastmodified":1579287456,
     "wof:name":"UA540 (SFO-IAH)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

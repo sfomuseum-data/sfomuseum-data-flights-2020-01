@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124338758",
-        "swim:gufi":""
+        "swim:flight_ref":"124338758"
     },
     "wof:country":"US",
     "wof:created":1579018335,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1579022948,
+    "wof:lastmodified":1579287574,
     "wof:name":"WN1787 (SFO-SAN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

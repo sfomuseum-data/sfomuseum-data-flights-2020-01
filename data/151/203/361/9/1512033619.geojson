@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124046003",
-        "swim:gufi":""
+        "swim:flight_ref":"124046003"
     },
     "wof:country":"US",
     "wof:created":1578759192,
@@ -104,7 +103,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1579022475,
+    "wof:lastmodified":1579287338,
     "wof:name":"LX39 (SFO-ZRH)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124168267",
-        "swim:gufi":""
+        "swim:flight_ref":"124168267"
     },
     "wof:country":"US",
     "wof:created":1578845325,
@@ -104,7 +103,7 @@
         1477930353,
         1159289407
     ],
-    "wof:lastmodified":1579022547,
+    "wof:lastmodified":1579287346,
     "wof:name":"AS1395 (SFO-SEA)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

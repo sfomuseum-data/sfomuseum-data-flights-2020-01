@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123560456",
-        "swim:gufi":""
+        "swim:flight_ref":"123560456"
     },
     "wof:country":"US",
     "wof:created":1578240112,
@@ -94,7 +93,7 @@
         1159285413,
         1477930393
     ],
-    "wof:lastmodified":1578949477,
+    "wof:lastmodified":1579287435,
     "wof:name":"UA1784 (IAH-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

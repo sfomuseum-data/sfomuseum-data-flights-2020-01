@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124060440",
-        "swim:gufi":""
+        "swim:flight_ref":"124060440"
     },
     "wof:country":"US",
     "wof:created":1578758877,
@@ -101,7 +100,7 @@
         1477930411,
         1159289871
     ],
-    "wof:lastmodified":1579114721,
+    "wof:lastmodified":1579287348,
     "wof:name":"UA577 (DTW-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

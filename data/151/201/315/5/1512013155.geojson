@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124023806",
-        "swim:gufi":""
+        "swim:flight_ref":"124023806"
     },
     "wof:country":"US",
     "wof:created":1578691474,
@@ -101,7 +100,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1579114777,
+    "wof:lastmodified":1579287445,
     "wof:name":"AS1357 (BOS-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

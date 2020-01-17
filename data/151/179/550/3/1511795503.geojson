@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123350542",
-        "swim:gufi":""
+        "swim:flight_ref":"123350542"
     },
     "wof:country":"US",
     "wof:created":1577980908,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949819,
+    "wof:lastmodified":1579287504,
     "wof:name":"WN1797 (DEN-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

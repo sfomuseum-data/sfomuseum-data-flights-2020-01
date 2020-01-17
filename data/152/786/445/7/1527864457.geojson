@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124325134",
-        "swim:gufi":""
+        "swim:flight_ref":"124325134"
     },
     "wof:country":"US",
     "wof:created":1579018195,
@@ -104,7 +103,7 @@
         1477930343,
         1159289407
     ],
-    "wof:lastmodified":1579023007,
+    "wof:lastmodified":1579287584,
     "wof:name":"AS1956 (SFO-SAN)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123960035",
-        "swim:gufi":""
+        "swim:flight_ref":"123960035"
     },
     "wof:country":"US",
     "wof:created":1578691533,
@@ -93,7 +92,7 @@
         1159284157,
         1477930291
     ],
-    "wof:lastmodified":1579114743,
+    "wof:lastmodified":1579287438,
     "wof:name":"MU767 (TAO-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

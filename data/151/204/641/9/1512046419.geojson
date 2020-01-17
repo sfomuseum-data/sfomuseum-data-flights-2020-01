@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124207966",
-        "swim:gufi":""
+        "swim:flight_ref":"124207966"
     },
     "wof:country":"US",
     "wof:created":1578931791,
@@ -103,7 +102,7 @@
         1477930371,
         1377564285
     ],
-    "wof:lastmodified":1579022300,
+    "wof:lastmodified":1579287320,
     "wof:name":"AS357 (SFO-SEA)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

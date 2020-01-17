@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123308915",
-        "swim:gufi":""
+        "swim:flight_ref":"123308915"
     },
     "wof:country":"US",
     "wof:created":1577980940,
@@ -101,7 +100,7 @@
         1477881733,
         1159289871
     ],
-    "wof:lastmodified":1578949841,
+    "wof:lastmodified":1579287508,
     "wof:name":"WN4908 (SFO-STL)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

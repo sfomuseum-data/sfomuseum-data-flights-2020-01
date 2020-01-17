@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123369582",
-        "swim:gufi":""
+        "swim:flight_ref":"123369582"
     },
     "wof:country":"US",
     "wof:created":1577980935,
@@ -100,7 +99,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949855,
+    "wof:lastmodified":1579287510,
     "wof:name":"WN1798 (SFO-BOS)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

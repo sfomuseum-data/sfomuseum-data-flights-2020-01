@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123724701",
-        "swim:gufi":""
+        "swim:flight_ref":"123724701"
     },
     "wof:country":"US",
     "wof:created":1578412905,
@@ -101,7 +100,7 @@
         1477930453,
         1159289407
     ],
-    "wof:lastmodified":1578949694,
+    "wof:lastmodified":1579287477,
     "wof:name":"UA471 (LAX-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

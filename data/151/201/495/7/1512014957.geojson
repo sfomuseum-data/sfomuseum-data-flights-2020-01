@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123998854",
-        "swim:gufi":""
+        "swim:flight_ref":"123998854"
     },
     "wof:country":"US",
     "wof:created":1578691680,
@@ -101,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579114813,
+    "wof:lastmodified":1579287453,
     "wof:name":"WN995 (BUR-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124262384",
-        "swim:gufi":""
+        "swim:flight_ref":"124262384"
     },
     "wof:country":"US",
     "wof:created":1578931607,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022288,
+    "wof:lastmodified":1579287319,
     "wof:name":"WN3805 (SAN-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

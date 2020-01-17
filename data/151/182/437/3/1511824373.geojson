@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123637661",
-        "swim:gufi":""
+        "swim:flight_ref":"123637661"
     },
     "wof:country":"US",
     "wof:created":1578326497,
@@ -102,7 +101,7 @@
         1477930463,
         1159289985
     ],
-    "wof:lastmodified":1578949965,
+    "wof:lastmodified":1579287527,
     "wof:name":"UA1848 (EWR-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

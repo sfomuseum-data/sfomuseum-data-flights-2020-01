@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124322290",
-        "swim:gufi":""
+        "swim:flight_ref":"124322290"
     },
     "wof:country":"US",
     "wof:created":1579018202,
@@ -96,7 +95,7 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1579022954,
+    "wof:lastmodified":1579287576,
     "wof:name":"AS441 (SFO-PDX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

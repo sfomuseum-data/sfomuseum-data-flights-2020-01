@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123727252",
-        "swim:gufi":""
+        "swim:flight_ref":"123727252"
     },
     "wof:country":"US",
     "wof:created":1578412939,
@@ -101,7 +100,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578949728,
+    "wof:lastmodified":1579287483,
     "wof:name":"WN121 (SFO-PHX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

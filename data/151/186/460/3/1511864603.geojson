@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123897299",
-        "swim:gufi":""
+        "swim:flight_ref":"123897299"
     },
     "wof:country":"US",
     "wof:created":1578585719,
@@ -102,7 +101,7 @@
         1477930399,
         1159289407
     ],
-    "wof:lastmodified":1578949314,
+    "wof:lastmodified":1579287405,
     "wof:name":"UA528 (SEA-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

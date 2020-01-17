@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123316717",
-        "swim:gufi":""
+        "swim:flight_ref":"123316717"
     },
     "wof:country":"US",
     "wof:created":1577980923,
@@ -102,7 +101,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578949902,
+    "wof:lastmodified":1579287518,
     "wof:name":"UA2162 (SFO-EUG)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

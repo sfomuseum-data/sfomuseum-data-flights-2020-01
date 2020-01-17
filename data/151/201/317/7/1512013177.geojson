@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123979294",
-        "swim:gufi":""
+        "swim:flight_ref":"123979294"
     },
     "wof:country":"US",
     "wof:created":1578691476,
@@ -100,7 +99,7 @@
         1477930369,
         1159292085
     ],
-    "wof:lastmodified":1579114825,
+    "wof:lastmodified":1579287455,
     "wof:name":"AS1897 (LAS-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",

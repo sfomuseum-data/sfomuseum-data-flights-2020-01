@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124235851",
-        "swim:gufi":""
+        "swim:flight_ref":"124235851"
     },
     "wof:country":"US",
     "wof:created":1578931941,
@@ -104,7 +103,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1579022878,
+    "wof:lastmodified":1579287545,
     "wof:name":"WN3183 (SFO-STL)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

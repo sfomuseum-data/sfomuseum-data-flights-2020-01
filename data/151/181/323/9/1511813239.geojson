@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123497021",
-        "swim:gufi":""
+        "swim:flight_ref":"123497021"
     },
     "wof:country":"US",
     "wof:created":1578153726,
@@ -101,7 +100,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578949401,
+    "wof:lastmodified":1579287421,
     "wof:name":"UA618 (SFO-SEA)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

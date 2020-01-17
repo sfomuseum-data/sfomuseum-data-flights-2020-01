@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124171795",
-        "swim:gufi":""
+        "swim:flight_ref":"124171795"
     },
     "wof:country":"US",
     "wof:created":1578845241,
@@ -102,7 +101,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1579022484,
+    "wof:lastmodified":1579287339,
     "wof:name":"AA2691 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

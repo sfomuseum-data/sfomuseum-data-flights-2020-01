@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124071883",
-        "swim:gufi":""
+        "swim:flight_ref":"124071883"
     },
     "wof:country":"US",
     "wof:created":1578758891,
@@ -96,7 +95,7 @@
         1159285413,
         1477930461
     ],
-    "wof:lastmodified":1579022545,
+    "wof:lastmodified":1579287346,
     "wof:name":"UA878 (HKG-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

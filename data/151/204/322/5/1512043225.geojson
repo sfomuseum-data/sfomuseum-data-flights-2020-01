@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124221378",
-        "swim:gufi":""
+        "swim:flight_ref":"124221378"
     },
     "wof:country":"US",
     "wof:created":1578931510,
@@ -104,7 +103,7 @@
         1477930309,
         1377564293
     ],
-    "wof:lastmodified":1579022269,
+    "wof:lastmodified":1579287317,
     "wof:name":"CX892 (HKG-SFO)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

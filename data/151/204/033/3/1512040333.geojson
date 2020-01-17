@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124164312",
-        "swim:gufi":""
+        "swim:flight_ref":"124164312"
     },
     "wof:country":"US",
     "wof:created":1578845449,
@@ -104,7 +103,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579022323,
+    "wof:lastmodified":1579287323,
     "wof:name":"WN5112 (SFO-STL)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

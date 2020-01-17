@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123786277",
-        "swim:gufi":""
+        "swim:flight_ref":"123786277"
     },
     "wof:country":"US",
     "wof:created":1578499327,
@@ -94,7 +93,7 @@
         1159285413,
         1477930435
     ],
-    "wof:lastmodified":1578949651,
+    "wof:lastmodified":1579287470,
     "wof:name":"UA2297 (LAS-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

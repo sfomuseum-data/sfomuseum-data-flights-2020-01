@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124134834",
-        "swim:gufi":""
+        "swim:flight_ref":"124134834"
     },
     "wof:country":"US",
     "wof:created":1578845464,
@@ -104,7 +103,7 @@
         1477930397,
         1377564285
     ],
-    "wof:lastmodified":1579022330,
+    "wof:lastmodified":1579287323,
     "wof:name":"UA1723 (SFO-KOA)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",

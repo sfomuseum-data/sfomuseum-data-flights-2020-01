@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123322915",
-        "swim:gufi":""
+        "swim:flight_ref":"123322915"
     },
     "wof:country":"US",
     "wof:created":1577980942,
@@ -101,7 +100,7 @@
         1477930307,
         1377564295
     ],
-    "wof:lastmodified":1578949880,
+    "wof:lastmodified":1579287515,
     "wof:name":"F9662 (SFO-DEN)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

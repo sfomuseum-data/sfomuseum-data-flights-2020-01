@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124119752",
-        "swim:gufi":""
+        "swim:flight_ref":"124119752"
     },
     "wof:country":"US",
     "wof:created":1578759014,
@@ -101,7 +100,7 @@
         1477930355,
         1377564285
     ],
-    "wof:lastmodified":1579022489,
+    "wof:lastmodified":1579287341,
     "wof:name":"AS1809 (SFO-SEA)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123481340",
-        "swim:gufi":""
+        "swim:flight_ref":"123481340"
     },
     "wof:country":"US",
     "wof:created":1578153725,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578949412,
+    "wof:lastmodified":1579287423,
     "wof:name":"WN1343 (SFO-DAL)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

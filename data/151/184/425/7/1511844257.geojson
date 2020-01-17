@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123788427",
-        "swim:gufi":""
+        "swim:flight_ref":"123788427"
     },
     "wof:country":"US",
     "wof:created":1578499344,
@@ -102,7 +101,7 @@
         1477930467,
         1159289995
     ],
-    "wof:lastmodified":1578949591,
+    "wof:lastmodified":1579287459,
     "wof:name":"AC754 (SFO-YYZ)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

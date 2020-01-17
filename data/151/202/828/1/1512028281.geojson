@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124034423",
-        "swim:gufi":""
+        "swim:flight_ref":"124034423"
     },
     "wof:country":"US",
     "wof:created":1578758656,
@@ -103,7 +102,7 @@
         1477930315,
         1159292085
     ],
-    "wof:lastmodified":1579022627,
+    "wof:lastmodified":1579287353,
     "wof:name":"AS373 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

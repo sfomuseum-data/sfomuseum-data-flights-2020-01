@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124045883",
-        "swim:gufi":""
+        "swim:flight_ref":"124045883"
     },
     "wof:country":"US",
     "wof:created":1578758656,
@@ -104,7 +103,7 @@
         1477930345,
         1159289407
     ],
-    "wof:lastmodified":1579022623,
+    "wof:lastmodified":1579287353,
     "wof:name":"AS426 (PDX-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

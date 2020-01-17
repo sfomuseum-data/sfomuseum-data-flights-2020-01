@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124005862",
-        "swim:gufi":""
+        "swim:flight_ref":"124005862"
     },
     "wof:country":"US",
     "wof:created":1578692117,
@@ -101,7 +100,7 @@
         1477930451,
         1159289945
     ],
-    "wof:lastmodified":1579114745,
+    "wof:lastmodified":1579287438,
     "wof:name":"UA223 (SFO-DEN)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

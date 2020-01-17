@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123544766",
-        "swim:gufi":""
+        "swim:flight_ref":"123544766"
     },
     "wof:country":"US",
     "wof:created":1578240087,
@@ -102,7 +101,7 @@
         1477930315,
         1159292085
     ],
-    "wof:lastmodified":1578949428,
+    "wof:lastmodified":1579287426,
     "wof:name":"F92079 (LAS-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

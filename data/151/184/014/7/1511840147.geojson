@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123852089",
-        "swim:gufi":""
+        "swim:flight_ref":"123852089"
     },
     "wof:country":"US",
     "wof:created":1578499314,
@@ -102,7 +101,7 @@
         1477930353,
         1159292085
     ],
-    "wof:lastmodified":1578949594,
+    "wof:lastmodified":1579287460,
     "wof:name":"AS368 (SEA-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123596260",
-        "swim:gufi":""
+        "swim:flight_ref":"123596260"
     },
     "wof:country":"US",
     "wof:created":1578240084,
@@ -94,7 +93,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949351,
+    "wof:lastmodified":1579287411,
     "wof:name":"WN4845 (SAN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

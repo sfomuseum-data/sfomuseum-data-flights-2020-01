@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124117154",
-        "swim:gufi":""
+        "swim:flight_ref":"124117154"
     },
     "wof:country":"US",
     "wof:created":1578758854,
@@ -96,7 +95,7 @@
         1159285413,
         1477930451
     ],
-    "wof:lastmodified":1579022533,
+    "wof:lastmodified":1579287345,
     "wof:name":"UA340 (IAD-SFO)",
     "wof:parent_id":1477930451,
     "wof:placetype":"event",

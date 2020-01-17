@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123412019",
-        "swim:gufi":""
+        "swim:flight_ref":"123412019"
     },
     "wof:country":"US",
     "wof:created":1578067315,
@@ -97,7 +96,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578949161,
+    "wof:lastmodified":1579287375,
     "wof:name":"UA324 (DEN-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

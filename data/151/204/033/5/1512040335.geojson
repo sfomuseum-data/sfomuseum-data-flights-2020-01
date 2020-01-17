@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124158533",
-        "swim:gufi":""
+        "swim:flight_ref":"124158533"
     },
     "wof:country":"US",
     "wof:created":1578845449,
@@ -96,7 +95,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579022323,
+    "wof:lastmodified":1579287323,
     "wof:name":"WN5570 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123959034",
-        "swim:gufi":""
+        "swim:flight_ref":"123959034"
     },
     "wof:country":"US",
     "wof:created":1578691679,
@@ -101,7 +100,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1579114807,
+    "wof:lastmodified":1579287452,
     "wof:name":"WN419 (PHX-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

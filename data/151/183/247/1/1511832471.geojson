@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123698481",
-        "swim:gufi":""
+        "swim:flight_ref":"123698481"
     },
     "wof:country":"US",
     "wof:created":1578412905,
@@ -97,7 +96,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1578949766,
+    "wof:lastmodified":1579287493,
     "wof:name":"UA1526 (EWR-SFO)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

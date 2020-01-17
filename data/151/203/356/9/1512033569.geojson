@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124082035",
-        "swim:gufi":""
+        "swim:flight_ref":"124082035"
     },
     "wof:country":"US",
     "wof:created":1578759187,
@@ -96,7 +95,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579114714,
+    "wof:lastmodified":1579287341,
     "wof:name":"WN2115 (SFO-BUR)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

@@ -54,8 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123853535",
-        "swim:gufi":""
+        "swim:flight_ref":"123853535"
     },
     "wof:country":"US",
     "wof:created":1578499326,
@@ -95,7 +94,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949611,
+    "wof:lastmodified":1579287464,
     "wof:name":"WN1762 (LAX-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123819736",
-        "swim:gufi":""
+        "swim:flight_ref":"123819736"
     },
     "wof:country":"US",
     "wof:created":1578499325,
@@ -102,7 +101,7 @@
         1477930341,
         1159292085
     ],
-    "wof:lastmodified":1578949586,
+    "wof:lastmodified":1579287459,
     "wof:name":"AS1973 (SEA-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

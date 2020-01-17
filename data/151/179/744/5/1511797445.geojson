@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123365511",
-        "swim:gufi":""
+        "swim:flight_ref":"123365511"
     },
     "wof:country":"US",
     "wof:created":1577980932,
@@ -94,7 +93,7 @@
         1159283539,
         1477930291
     ],
-    "wof:lastmodified":1578949906,
+    "wof:lastmodified":1579287519,
     "wof:name":"AM663 (SFO-GDL)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

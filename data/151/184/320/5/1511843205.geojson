@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123846886",
-        "swim:gufi":""
+        "swim:flight_ref":"123846886"
     },
     "wof:country":"US",
     "wof:created":1578499336,
@@ -102,7 +101,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1578949657,
+    "wof:lastmodified":1579287471,
     "wof:name":"UA780 (SFO-ORD)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

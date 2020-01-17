@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124003929",
-        "swim:gufi":""
+        "swim:flight_ref":"124003929"
     },
     "wof:country":"US",
     "wof:created":1578692131,
@@ -101,7 +100,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1579114783,
+    "wof:lastmodified":1579287447,
     "wof:name":"UA500 (SFO-ORD)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

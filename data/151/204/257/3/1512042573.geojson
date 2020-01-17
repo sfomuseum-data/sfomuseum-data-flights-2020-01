@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124203966",
-        "swim:gufi":""
+        "swim:flight_ref":"124203966"
     },
     "wof:country":"US",
     "wof:created":1578931441,
@@ -104,7 +103,7 @@
         1477930353,
         1377564285
     ],
-    "wof:lastmodified":1579022231,
+    "wof:lastmodified":1579287312,
     "wof:name":"AS1301 (MCO-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

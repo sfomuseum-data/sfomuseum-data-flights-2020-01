@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123307684",
-        "swim:gufi":""
+        "swim:flight_ref":"123307684"
     },
     "wof:country":"US",
     "wof:created":1577980894,
@@ -101,7 +100,7 @@
         1477930315,
         1159289871
     ],
-    "wof:lastmodified":1578949911,
+    "wof:lastmodified":1579287519,
     "wof:name":"AM664 (MEX-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124331243",
-        "swim:gufi":""
+        "swim:flight_ref":"124331243"
     },
     "wof:country":"US",
     "wof:created":1579018334,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022938,
+    "wof:lastmodified":1579287572,
     "wof:name":"WN1779 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

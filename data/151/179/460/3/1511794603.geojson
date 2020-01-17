@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123341281",
-        "swim:gufi":""
+        "swim:flight_ref":"123341281"
     },
     "wof:country":"US",
     "wof:created":1577980900,
@@ -101,7 +100,7 @@
         1477930487,
         1159289437
     ],
-    "wof:lastmodified":1578949893,
+    "wof:lastmodified":1579287517,
     "wof:name":"LH458 (MUC-SFO)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

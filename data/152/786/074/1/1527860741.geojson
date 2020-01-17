@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124332590",
-        "swim:gufi":""
+        "swim:flight_ref":"124332590"
     },
     "wof:country":"US",
     "wof:created":1579017847,
@@ -94,7 +93,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1579022990,
+    "wof:lastmodified":1579287581,
     "wof:name":"AS304 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

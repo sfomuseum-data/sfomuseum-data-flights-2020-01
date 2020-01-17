@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124177038",
-        "swim:gufi":""
+        "swim:flight_ref":"124177038"
     },
     "wof:country":"US",
     "wof:created":1578845164,
@@ -103,7 +102,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1579022372,
+    "wof:lastmodified":1579287328,
     "wof:name":"WN5641 (ONT-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

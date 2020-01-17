@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123487941",
-        "swim:gufi":""
+        "swim:flight_ref":"123487941"
     },
     "wof:country":"US",
     "wof:created":1578153729,
@@ -94,7 +93,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1578949359,
+    "wof:lastmodified":1579287413,
     "wof:name":"UA616 (SFO-ORD)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

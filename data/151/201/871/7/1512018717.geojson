@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123994822",
-        "swim:gufi":""
+        "swim:flight_ref":"123994822"
     },
     "wof:country":"US",
     "wof:created":1578692083,
@@ -93,7 +92,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579114801,
+    "wof:lastmodified":1579287450,
     "wof:name":"WN2066 (SFO-LAS)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

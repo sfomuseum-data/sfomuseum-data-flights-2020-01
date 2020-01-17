@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124051880",
-        "swim:gufi":""
+        "swim:flight_ref":"124051880"
     },
     "wof:country":"US",
     "wof:created":1578759010,
@@ -104,7 +103,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1579022606,
+    "wof:lastmodified":1579287351,
     "wof:name":"AS110 (SFO-JFK)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

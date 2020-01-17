@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123623719",
-        "swim:gufi":""
+        "swim:flight_ref":"123623719"
     },
     "wof:country":"US",
     "wof:created":1578326547,
@@ -102,7 +101,7 @@
         1477930387,
         1159289871
     ],
-    "wof:lastmodified":1578949983,
+    "wof:lastmodified":1579287529,
     "wof:name":"UA2295 (SFO-OGG)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

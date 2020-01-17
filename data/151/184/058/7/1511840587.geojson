@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123784070",
-        "swim:gufi":""
+        "swim:flight_ref":"123784070"
     },
     "wof:country":"US",
     "wof:created":1578499318,
@@ -100,7 +99,7 @@
         1477930295,
         1159289437
     ],
-    "wof:lastmodified":1578949655,
+    "wof:lastmodified":1579287471,
     "wof:name":"EK225 (DXB-SFO)",
     "wof:parent_id":1477930295,
     "wof:placetype":"event",

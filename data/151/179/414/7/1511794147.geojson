@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123310330",
-        "swim:gufi":""
+        "swim:flight_ref":"123310330"
     },
     "wof:country":"US",
     "wof:created":1577980896,
@@ -102,7 +101,7 @@
         1477930353,
         1159289407
     ],
-    "wof:lastmodified":1578949830,
+    "wof:lastmodified":1579287506,
     "wof:name":"AS1963 (SAN-SFO)",
     "wof:parent_id":1477930353,
     "wof:placetype":"event",

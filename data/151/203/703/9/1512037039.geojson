@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124186040",
-        "swim:gufi":""
+        "swim:flight_ref":"124186040"
     },
     "wof:country":"US",
     "wof:created":1578845159,
@@ -104,7 +103,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022494,
+    "wof:lastmodified":1579287342,
     "wof:name":"WN3146 (LAX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

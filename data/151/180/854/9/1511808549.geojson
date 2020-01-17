@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123525927",
-        "swim:gufi":""
+        "swim:flight_ref":"123525927"
     },
     "wof:country":"US",
     "wof:created":1578153686,
@@ -100,7 +99,7 @@
         1477930389,
         1377564285
     ],
-    "wof:lastmodified":1578949204,
+    "wof:lastmodified":1579287384,
     "wof:name":"UA569 (PDX-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

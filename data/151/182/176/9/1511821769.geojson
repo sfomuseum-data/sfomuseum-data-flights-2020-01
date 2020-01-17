@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123605246",
-        "swim:gufi":""
+        "swim:flight_ref":"123605246"
     },
     "wof:country":"US",
     "wof:created":1578240138,
@@ -100,7 +99,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578950081,
+    "wof:lastmodified":1579287542,
     "wof:name":"WN4797 (SFO-LAX)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

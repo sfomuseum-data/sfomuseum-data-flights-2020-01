@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124317173",
-        "swim:gufi":""
+        "swim:flight_ref":"124317173"
     },
     "wof:country":"US",
     "wof:created":1579018399,
@@ -102,7 +101,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1579023018,
+    "wof:lastmodified":1579287586,
     "wof:name":"UA575 (SFO-ATL)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

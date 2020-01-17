@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123668123",
-        "swim:gufi":""
+        "swim:flight_ref":"123668123"
     },
     "wof:country":"US",
     "wof:created":1578326542,
@@ -101,7 +100,7 @@
         1477930445,
         1159289407
     ],
-    "wof:lastmodified":1578950076,
+    "wof:lastmodified":1579287542,
     "wof:name":"UA1571 (SFO-EWR)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

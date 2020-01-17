@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123859730",
-        "swim:gufi":""
+        "swim:flight_ref":"123859730"
     },
     "wof:country":"US",
     "wof:created":1578585714,
@@ -102,7 +101,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1578949239,
+    "wof:lastmodified":1579287392,
     "wof:name":"UA455 (AUS-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

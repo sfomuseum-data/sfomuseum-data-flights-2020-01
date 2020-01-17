@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124306454",
-        "swim:gufi":""
+        "swim:flight_ref":"124306454"
     },
     "wof:country":"US",
     "wof:created":1579018376,
@@ -104,7 +103,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1579023015,
+    "wof:lastmodified":1579287586,
     "wof:name":"UA2426 (SFO-PSP)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

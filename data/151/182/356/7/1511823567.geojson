@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123682845",
-        "swim:gufi":""
+        "swim:flight_ref":"123682845"
     },
     "wof:country":"US",
     "wof:created":1578326491,
@@ -101,7 +100,7 @@
         1477930291,
         1159292085
     ],
-    "wof:lastmodified":1578950012,
+    "wof:lastmodified":1579287533,
     "wof:name":"AS1279 (SJD-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

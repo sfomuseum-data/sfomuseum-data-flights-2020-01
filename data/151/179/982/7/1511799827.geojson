@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123404665",
-        "swim:gufi":""
+        "swim:flight_ref":"123404665"
     },
     "wof:country":"US",
     "wof:created":1578067286,
@@ -102,7 +101,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1578949861,
+    "wof:lastmodified":1579287511,
     "wof:name":"UA2166 (ORD-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

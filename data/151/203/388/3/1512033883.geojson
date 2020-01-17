@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124042451",
-        "swim:gufi":""
+        "swim:flight_ref":"124042451"
     },
     "wof:country":"US",
     "wof:created":1578759225,
@@ -104,7 +103,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1579022608,
+    "wof:lastmodified":1579287351,
     "wof:name":"UA2263 (SFO-LAX)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

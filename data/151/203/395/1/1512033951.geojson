@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124098555",
-        "swim:gufi":""
+        "swim:flight_ref":"124098555"
     },
     "wof:country":"US",
     "wof:created":1578759232,
@@ -101,7 +100,7 @@
         1477930469,
         1159289995
     ],
-    "wof:lastmodified":1579114713,
+    "wof:lastmodified":1579287338,
     "wof:name":"UA35 (SFO-KIX)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

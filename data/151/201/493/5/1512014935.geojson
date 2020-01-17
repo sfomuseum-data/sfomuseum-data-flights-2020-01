@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123948353",
-        "swim:gufi":""
+        "swim:flight_ref":"123948353"
     },
     "wof:country":"US",
     "wof:created":1578691678,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579114806,
+    "wof:lastmodified":1579287451,
     "wof:name":"WN2063 (BUR-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

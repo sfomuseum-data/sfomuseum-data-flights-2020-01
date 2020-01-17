@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123800615",
-        "swim:gufi":""
+        "swim:flight_ref":"123800615"
     },
     "wof:country":"US",
     "wof:created":1578499318,
@@ -102,7 +101,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1578949593,
+    "wof:lastmodified":1579287460,
     "wof:name":"AS1069 (IAD-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124028161",
-        "swim:gufi":""
+        "swim:flight_ref":"124028161"
     },
     "wof:country":"US",
     "wof:created":1578691715,
@@ -99,7 +98,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579114791,
+    "wof:lastmodified":1579287448,
     "wof:name":"UA380 (MCO-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

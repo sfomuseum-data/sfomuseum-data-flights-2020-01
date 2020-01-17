@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123706753",
-        "swim:gufi":""
+        "swim:flight_ref":"123706753"
     },
     "wof:country":"US",
     "wof:created":1578412933,
@@ -102,7 +101,7 @@
         1477930301,
         1159289993
     ],
-    "wof:lastmodified":1578949726,
+    "wof:lastmodified":1579287483,
     "wof:name":"CZ658 (SFO-CAN)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

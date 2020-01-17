@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124189243",
-        "swim:gufi":""
+        "swim:flight_ref":"124189243"
     },
     "wof:country":"US",
     "wof:created":1578845407,
@@ -104,7 +103,7 @@
         1477930291,
         1377564295
     ],
-    "wof:lastmodified":1579022577,
+    "wof:lastmodified":1579287350,
     "wof:name":"F9664 (SFO-DEN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

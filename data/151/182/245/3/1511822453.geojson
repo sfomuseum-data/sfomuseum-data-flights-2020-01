@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123590973",
-        "swim:gufi":""
+        "swim:flight_ref":"123590973"
     },
     "wof:country":"US",
     "wof:created":1578240142,
@@ -102,7 +101,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1578949949,
+    "wof:lastmodified":1579287524,
     "wof:name":"UA223 (SFO-PHL)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

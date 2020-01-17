@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123623206",
-        "swim:gufi":""
+        "swim:flight_ref":"123623206"
     },
     "wof:country":"US",
     "wof:created":1578326536,
@@ -102,7 +101,7 @@
         1477930461,
         1159289985
     ],
-    "wof:lastmodified":1578949955,
+    "wof:lastmodified":1579287525,
     "wof:name":"UA926 (SFO-FRA)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

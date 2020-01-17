@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123371366",
-        "swim:gufi":""
+        "swim:flight_ref":"123371366"
     },
     "wof:country":"US",
     "wof:created":1577980889,
@@ -102,7 +101,7 @@
         1477930345,
         1377564285
     ],
-    "wof:lastmodified":1578949812,
+    "wof:lastmodified":1579287503,
     "wof:name":"AS657 (JFK-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

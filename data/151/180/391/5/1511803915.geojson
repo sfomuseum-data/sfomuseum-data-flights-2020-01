@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123414142",
-        "swim:gufi":""
+        "swim:flight_ref":"123414142"
     },
     "wof:country":"US",
     "wof:created":1578067317,
@@ -94,7 +93,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578949064,
+    "wof:lastmodified":1579287360,
     "wof:name":"WN2483 (SFO-HOU)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

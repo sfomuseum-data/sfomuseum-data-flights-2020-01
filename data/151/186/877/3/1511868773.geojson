@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123897605",
-        "swim:gufi":""
+        "swim:flight_ref":"123897605"
     },
     "wof:country":"US",
     "wof:created":1578585754,
@@ -102,7 +101,7 @@
         1477930433,
         1159289985
     ],
-    "wof:lastmodified":1578949301,
+    "wof:lastmodified":1579287403,
     "wof:name":"UA291 (SFO-SMF)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

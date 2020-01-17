@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123408125",
-        "swim:gufi":""
+        "swim:flight_ref":"123408125"
     },
     "wof:country":"US",
     "wof:created":1578067298,
@@ -102,7 +101,7 @@
         1477930441,
         1159289407
     ],
-    "wof:lastmodified":1578949149,
+    "wof:lastmodified":1579287373,
     "wof:name":"UA996 (EUG-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

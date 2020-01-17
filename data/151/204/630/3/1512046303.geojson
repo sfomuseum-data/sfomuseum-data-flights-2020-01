@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124228534",
-        "swim:gufi":""
+        "swim:flight_ref":"124228534"
     },
     "wof:country":"US",
     "wof:created":1578931781,
@@ -104,7 +103,7 @@
         1477930345,
         1159292085
     ],
-    "wof:lastmodified":1579022315,
+    "wof:lastmodified":1579287322,
     "wof:name":"AS1743 (SFO-SEA)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",

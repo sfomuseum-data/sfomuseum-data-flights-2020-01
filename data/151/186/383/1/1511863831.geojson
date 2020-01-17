@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123870849",
-        "swim:gufi":""
+        "swim:flight_ref":"123870849"
     },
     "wof:country":"US",
     "wof:created":1578585713,
@@ -102,7 +101,7 @@
         1477930343,
         1377564285
     ],
-    "wof:lastmodified":1578949275,
+    "wof:lastmodified":1579287398,
     "wof:name":"AS1094 (SEA-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

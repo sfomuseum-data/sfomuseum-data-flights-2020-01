@@ -46,8 +46,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123947097",
-        "swim:gufi":""
+        "swim:flight_ref":"123947097"
     },
     "wof:country":"US",
     "wof:created":1578691678,
@@ -61,7 +60,7 @@
         -1,
         1159289871
     ],
-    "wof:lastmodified":1579114815,
+    "wof:lastmodified":1579287453,
     "wof:name":"WN1871 (MDW-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

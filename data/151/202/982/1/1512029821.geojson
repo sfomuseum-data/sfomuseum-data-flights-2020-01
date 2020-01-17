@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124051874",
-        "swim:gufi":""
+        "swim:flight_ref":"124051874"
     },
     "wof:country":"US",
     "wof:created":1578758809,
@@ -96,7 +95,7 @@
         1159285163,
         1477930479
     ],
-    "wof:lastmodified":1579022647,
+    "wof:lastmodified":1579287356,
     "wof:name":"SQ34 (SIN-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

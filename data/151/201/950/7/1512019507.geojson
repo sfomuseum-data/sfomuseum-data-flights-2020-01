@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124025595",
-        "swim:gufi":""
+        "swim:flight_ref":"124025595"
     },
     "wof:country":"US",
     "wof:created":1578692178,
@@ -99,7 +98,7 @@
         1477930469,
         1159289985
     ],
-    "wof:lastmodified":1579114784,
+    "wof:lastmodified":1579287447,
     "wof:name":"UA891 (SFO-PVG)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123395417",
-        "swim:gufi":""
+        "swim:flight_ref":"123395417"
     },
     "wof:country":"US",
     "wof:created":1578067292,
@@ -101,7 +100,7 @@
         1477930469,
         1159289993
     ],
-    "wof:lastmodified":1578949213,
+    "wof:lastmodified":1579287386,
     "wof:name":"NH8 (NRT-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

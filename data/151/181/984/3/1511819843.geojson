@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123578360",
-        "swim:gufi":""
+        "swim:flight_ref":"123578360"
     },
     "wof:country":"US",
     "wof:created":1578240122,
@@ -102,7 +101,7 @@
         1477930291,
         1377564297
     ],
-    "wof:lastmodified":1578949397,
+    "wof:lastmodified":1579287421,
     "wof:name":"HA41 (SFO-OGG)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

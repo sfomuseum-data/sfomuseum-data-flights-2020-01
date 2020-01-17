@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123459912",
-        "swim:gufi":""
+        "swim:flight_ref":"123459912"
     },
     "wof:country":"US",
     "wof:created":1578153735,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578949449,
+    "wof:lastmodified":1579287431,
     "wof:name":"WN3161 (SFO-ELP)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

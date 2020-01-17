@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124123420",
-        "swim:gufi":""
+        "swim:flight_ref":"124123420"
     },
     "wof:country":"US",
     "wof:created":1578845029,
@@ -96,7 +95,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1579022568,
+    "wof:lastmodified":1579287349,
     "wof:name":"AS1203 (ORD-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

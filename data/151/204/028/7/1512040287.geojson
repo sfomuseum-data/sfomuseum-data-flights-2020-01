@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124171141",
-        "swim:gufi":""
+        "swim:flight_ref":"124171141"
     },
     "wof:country":"US",
     "wof:created":1578845445,
@@ -104,7 +103,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1579022301,
+    "wof:lastmodified":1579287321,
     "wof:name":"WN3668 (SFO-LAS)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

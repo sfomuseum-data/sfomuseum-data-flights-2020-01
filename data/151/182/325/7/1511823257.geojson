@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123627828",
-        "swim:gufi":""
+        "swim:flight_ref":"123627828"
     },
     "wof:country":"US",
     "wof:created":1578326489,
@@ -97,7 +96,7 @@
         1477930385,
         1377564285
     ],
-    "wof:lastmodified":1578950000,
+    "wof:lastmodified":1579287532,
     "wof:name":"UA1200 (DEN-SFO)",
     "wof:parent_id":1477930385,
     "wof:placetype":"event",

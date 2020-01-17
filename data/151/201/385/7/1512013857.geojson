@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123961907",
-        "swim:gufi":""
+        "swim:flight_ref":"123961907"
     },
     "wof:country":"US",
     "wof:created":1578691557,
@@ -93,7 +92,7 @@
         1159284165,
         1477930281
     ],
-    "wof:lastmodified":1579114778,
+    "wof:lastmodified":1579287445,
     "wof:name":"CZ659 (WUH-SFO)",
     "wof:parent_id":1477930281,
     "wof:placetype":"event",

@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124179599",
-        "swim:gufi":""
+        "swim:flight_ref":"124179599"
     },
     "wof:country":"US",
     "wof:created":1578845406,
@@ -96,7 +95,7 @@
         1159284401,
         1477930307
     ],
-    "wof:lastmodified":1579022577,
+    "wof:lastmodified":1579287350,
     "wof:name":"F91910 (SFO-AUS)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

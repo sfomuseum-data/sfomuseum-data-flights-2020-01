@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123318162",
-        "swim:gufi":""
+        "swim:flight_ref":"123318162"
     },
     "wof:country":"US",
     "wof:created":1577980943,
@@ -102,7 +101,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1578949847,
+    "wof:lastmodified":1579287509,
     "wof:name":"AS1106 (SFO-LAS)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123890101",
-        "swim:gufi":""
+        "swim:flight_ref":"123890101"
     },
     "wof:country":"US",
     "wof:created":1578585720,
@@ -94,7 +93,7 @@
         1159284401,
         1477930315
     ],
-    "wof:lastmodified":1578949254,
+    "wof:lastmodified":1579287394,
     "wof:name":"F91515 (MIA-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

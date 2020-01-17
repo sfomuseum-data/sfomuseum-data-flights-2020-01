@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123846978",
-        "swim:gufi":""
+        "swim:flight_ref":"123846978"
     },
     "wof:country":"US",
     "wof:created":1578499313,
@@ -94,7 +93,7 @@
         1159285413,
         1477930391
     ],
-    "wof:lastmodified":1578949748,
+    "wof:lastmodified":1579287489,
     "wof:name":"UA248 (ORD-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

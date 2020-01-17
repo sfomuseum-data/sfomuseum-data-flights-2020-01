@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123379499",
-        "swim:gufi":""
+        "swim:flight_ref":"123379499"
     },
     "wof:country":"US",
     "wof:created":1578067343,
@@ -101,7 +100,7 @@
         1477930315,
         1159289411
     ],
-    "wof:lastmodified":1578949233,
+    "wof:lastmodified":1579287391,
     "wof:name":"F92146 (SFO-LAS)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

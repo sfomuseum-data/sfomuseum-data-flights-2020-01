@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123605841",
-        "swim:gufi":""
+        "swim:flight_ref":"123605841"
     },
     "wof:country":"US",
     "wof:created":1578240123,
@@ -102,7 +101,7 @@
         1477930291,
         1159289939
     ],
-    "wof:lastmodified":1578949416,
+    "wof:lastmodified":1579287424,
     "wof:name":"FI862 (SFO-KEF)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

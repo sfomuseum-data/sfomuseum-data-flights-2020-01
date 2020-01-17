@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123863778",
-        "swim:gufi":""
+        "swim:flight_ref":"123863778"
     },
     "wof:country":"US",
     "wof:created":1578585704,
@@ -102,7 +101,7 @@
         1477930391,
         1159289945
     ],
-    "wof:lastmodified":1578949257,
+    "wof:lastmodified":1579287395,
     "wof:name":"UA257 (GEG-SFO)",
     "wof:parent_id":1477930391,
     "wof:placetype":"event",

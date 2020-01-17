@@ -49,8 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124188153",
-        "swim:gufi":""
+        "swim:flight_ref":"124188153"
     },
     "wof:country":"US",
     "wof:created":1578845164,
@@ -64,7 +63,7 @@
         -1,
         1159289871
     ],
-    "wof:lastmodified":1579022365,
+    "wof:lastmodified":1579287326,
     "wof:name":"WN4639 (STL-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

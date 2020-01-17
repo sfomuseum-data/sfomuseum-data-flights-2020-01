@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124190434",
-        "swim:gufi":""
+        "swim:flight_ref":"124190434"
     },
     "wof:country":"US",
     "wof:created":1578845042,
@@ -96,7 +95,7 @@
         1159283813,
         1477930315
     ],
-    "wof:lastmodified":1579022355,
+    "wof:lastmodified":1579287325,
     "wof:name":"AS377 (PVR-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

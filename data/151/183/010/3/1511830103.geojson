@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123658318",
-        "swim:gufi":""
+        "swim:flight_ref":"123658318"
     },
     "wof:country":"US",
     "wof:created":1578326550,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949770,
+    "wof:lastmodified":1579287495,
     "wof:name":"WN3395 (SFO-STL)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

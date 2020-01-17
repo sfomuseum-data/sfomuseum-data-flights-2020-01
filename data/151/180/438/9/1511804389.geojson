@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123391103",
-        "swim:gufi":""
+        "swim:flight_ref":"123391103"
     },
     "wof:country":"US",
     "wof:created":1578067321,
@@ -102,7 +101,7 @@
         1477930389,
         1159289407
     ],
-    "wof:lastmodified":1578949131,
+    "wof:lastmodified":1579287369,
     "wof:name":"UA2056 (SFO-MFR)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

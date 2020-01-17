@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123917699",
-        "swim:gufi":""
+        "swim:flight_ref":"123917699"
     },
     "wof:country":"US",
     "wof:created":1578585739,
@@ -100,7 +99,7 @@
         1477930415,
         1159289407
     ],
-    "wof:lastmodified":1578949305,
+    "wof:lastmodified":1579287403,
     "wof:name":"UA285 (SFO-IAH)",
     "wof:parent_id":1477930415,
     "wof:placetype":"event",

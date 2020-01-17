@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124093303",
-        "swim:gufi":""
+        "swim:flight_ref":"124093303"
     },
     "wof:country":"US",
     "wof:created":1578758730,
@@ -104,7 +103,7 @@
         1477930317,
         1159289407
     ],
-    "wof:lastmodified":1579022637,
+    "wof:lastmodified":1579287355,
     "wof:name":"DL522 (SLC-SFO)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

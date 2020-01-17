@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124236850",
-        "swim:gufi":""
+        "swim:flight_ref":"124236850"
     },
     "wof:country":"US",
     "wof:created":1578931940,
@@ -103,7 +102,7 @@
         1477881737,
         1159289869
     ],
-    "wof:lastmodified":1579022873,
+    "wof:lastmodified":1579287544,
     "wof:name":"WN2844 (SFO-BUR)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

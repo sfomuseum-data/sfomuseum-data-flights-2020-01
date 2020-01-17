@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123648663",
-        "swim:gufi":""
+        "swim:flight_ref":"123648663"
     },
     "wof:country":"US",
     "wof:created":1578326499,
@@ -94,7 +93,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578949979,
+    "wof:lastmodified":1579287528,
     "wof:name":"WN2712 (BOI-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

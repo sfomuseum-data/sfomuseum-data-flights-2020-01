@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123990030",
-        "swim:gufi":""
+        "swim:flight_ref":"123990030"
     },
     "wof:country":"US",
     "wof:created":1578692126,
@@ -101,7 +100,7 @@
         1477930433,
         1377564289
     ],
-    "wof:lastmodified":1579114738,
+    "wof:lastmodified":1579287437,
     "wof:name":"UA295 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

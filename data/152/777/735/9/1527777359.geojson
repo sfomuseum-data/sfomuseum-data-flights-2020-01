@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124257415",
-        "swim:gufi":""
+        "swim:flight_ref":"124257415"
     },
     "wof:country":"US",
     "wof:created":1578932026,
@@ -104,7 +103,7 @@
         1477930471,
         1159289985
     ],
-    "wof:lastmodified":1579022885,
+    "wof:lastmodified":1579287545,
     "wof:name":"UA869 (SFO-HKG)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124032401",
-        "swim:gufi":""
+        "swim:flight_ref":"124032401"
     },
     "wof:country":"US",
     "wof:created":1578758817,
@@ -104,7 +103,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1579022669,
+    "wof:lastmodified":1579287359,
     "wof:name":"WN210 (LAS-SFO)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

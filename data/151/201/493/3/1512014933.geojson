@@ -45,8 +45,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123957310",
-        "swim:gufi":""
+        "swim:flight_ref":"123957310"
     },
     "wof:country":"US",
     "wof:created":1578691678,
@@ -60,7 +59,7 @@
         -1,
         1159289869
     ],
-    "wof:lastmodified":1579114806,
+    "wof:lastmodified":1579287451,
     "wof:name":"WN1945 (BUR-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

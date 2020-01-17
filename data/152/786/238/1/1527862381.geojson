@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124308395",
-        "swim:gufi":""
+        "swim:flight_ref":"124308395"
     },
     "wof:country":"US",
     "wof:created":1579018018,
@@ -104,7 +103,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1579023010,
+    "wof:lastmodified":1579287585,
     "wof:name":"WN1801 (STL-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

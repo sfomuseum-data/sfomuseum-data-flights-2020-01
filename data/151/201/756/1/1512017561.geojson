@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124005095",
-        "swim:gufi":""
+        "swim:flight_ref":"124005095"
     },
     "wof:country":"US",
     "wof:created":1578691957,
@@ -101,7 +100,7 @@
         1477930301,
         1377649085
     ],
-    "wof:lastmodified":1579114789,
+    "wof:lastmodified":1579287447,
     "wof:name":"CX879 (SFO-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123352591",
-        "swim:gufi":""
+        "swim:flight_ref":"123352591"
     },
     "wof:country":"US",
     "wof:created":1577980886,
@@ -94,7 +93,7 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1578949869,
+    "wof:lastmodified":1579287513,
     "wof:name":"AS1911 (LAS-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",

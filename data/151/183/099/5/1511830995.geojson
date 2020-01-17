@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123705806",
-        "swim:gufi":""
+        "swim:flight_ref":"123705806"
     },
     "wof:country":"US",
     "wof:created":1578412893,
@@ -94,7 +93,7 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1578949713,
+    "wof:lastmodified":1579287481,
     "wof:name":"UA1289 (DEN-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124335809",
-        "swim:gufi":""
+        "swim:flight_ref":"124335809"
     },
     "wof:country":"US",
     "wof:created":1579017833,
@@ -104,7 +103,7 @@
         1477930343,
         1159292085
     ],
-    "wof:lastmodified":1579023022,
+    "wof:lastmodified":1579287587,
     "wof:name":"AS1909 (LAS-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

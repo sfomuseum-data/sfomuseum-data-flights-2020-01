@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124255436",
-        "swim:gufi":""
+        "swim:flight_ref":"124255436"
     },
     "wof:country":"US",
     "wof:created":1578931943,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1579022874,
+    "wof:lastmodified":1579287544,
     "wof:name":"WN4979 (SFO-DEN)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

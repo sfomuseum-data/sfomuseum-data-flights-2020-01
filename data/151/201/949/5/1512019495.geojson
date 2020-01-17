@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124002895",
-        "swim:gufi":""
+        "swim:flight_ref":"124002895"
     },
     "wof:country":"US",
     "wof:created":1578692176,
@@ -101,7 +100,7 @@
         1477930469,
         1377564289
     ],
-    "wof:lastmodified":1579114780,
+    "wof:lastmodified":1579287446,
     "wof:name":"UA875 (SFO-HND)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",

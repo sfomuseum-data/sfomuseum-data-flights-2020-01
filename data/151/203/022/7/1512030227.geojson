@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124032860",
-        "swim:gufi":""
+        "swim:flight_ref":"124032860"
     },
     "wof:country":"US",
     "wof:created":1578758850,
@@ -104,7 +103,7 @@
         1477930435,
         1159289407
     ],
-    "wof:lastmodified":1579022402,
+    "wof:lastmodified":1579287331,
     "wof:name":"UA2294 (SEA-SFO)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

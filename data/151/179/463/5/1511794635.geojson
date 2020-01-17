@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123316951",
-        "swim:gufi":""
+        "swim:flight_ref":"123316951"
     },
     "wof:country":"US",
     "wof:created":1577980900,
@@ -100,7 +99,7 @@
         1477930283,
         1159289993
     ],
-    "wof:lastmodified":1578949841,
+    "wof:lastmodified":1579287508,
     "wof:name":"CX870 (HKG-SFO)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123437934",
-        "swim:gufi":""
+        "swim:flight_ref":"123437934"
     },
     "wof:country":"US",
     "wof:created":1578067301,
@@ -101,7 +100,7 @@
         1477930349,
         1377564285
     ],
-    "wof:lastmodified":1578949151,
+    "wof:lastmodified":1579287373,
     "wof:name":"AS874 (KOA-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

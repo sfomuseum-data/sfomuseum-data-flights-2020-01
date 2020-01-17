@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123642044",
-        "swim:gufi":""
+        "swim:flight_ref":"123642044"
     },
     "wof:country":"US",
     "wof:created":1578326490,
@@ -94,7 +93,7 @@
         1159284511,
         1477930315
     ],
-    "wof:lastmodified":1578949993,
+    "wof:lastmodified":1579287530,
     "wof:name":"IB2621 (BCN-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

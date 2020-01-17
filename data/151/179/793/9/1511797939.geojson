@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123356642",
-        "swim:gufi":""
+        "swim:flight_ref":"123356642"
     },
     "wof:country":"US",
     "wof:created":1577980936,
@@ -94,7 +93,7 @@
         1159285413,
         1477930413
     ],
-    "wof:lastmodified":1578949868,
+    "wof:lastmodified":1579287513,
     "wof:name":"UA1900 (SFO-SAN)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

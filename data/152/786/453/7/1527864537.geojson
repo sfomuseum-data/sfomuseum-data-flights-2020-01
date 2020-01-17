@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124313414",
-        "swim:gufi":""
+        "swim:flight_ref":"124313414"
     },
     "wof:country":"US",
     "wof:created":1579018203,
@@ -102,7 +101,7 @@
         1477930355,
         1159289871
     ],
-    "wof:lastmodified":1579022954,
+    "wof:lastmodified":1579287576,
     "wof:name":"AS590 (SFO-EWR)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

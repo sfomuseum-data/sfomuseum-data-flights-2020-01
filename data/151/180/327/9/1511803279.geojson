@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123389391",
-        "swim:gufi":""
+        "swim:flight_ref":"123389391"
     },
     "wof:country":"US",
     "wof:created":1578067312,
@@ -102,7 +101,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1578949217,
+    "wof:lastmodified":1579287387,
     "wof:name":"UA2114 (DEN-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

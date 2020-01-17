@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124001964",
-        "swim:gufi":""
+        "swim:flight_ref":"124001964"
     },
     "wof:country":"US",
     "wof:created":1578691711,
@@ -101,7 +100,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579114778,
+    "wof:lastmodified":1579287445,
     "wof:name":"UA243 (DEN-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

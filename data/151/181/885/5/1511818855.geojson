@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123611059",
-        "swim:gufi":""
+        "swim:flight_ref":"123611059"
     },
     "wof:country":"US",
     "wof:created":1578240110,
@@ -99,7 +98,7 @@
         1477930465,
         1159289871
     ],
-    "wof:lastmodified":1578949442,
+    "wof:lastmodified":1579287429,
     "wof:name":"UA1240 (SJD-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

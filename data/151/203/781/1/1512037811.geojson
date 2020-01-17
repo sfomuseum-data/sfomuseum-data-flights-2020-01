@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124164296",
-        "swim:gufi":""
+        "swim:flight_ref":"124164296"
     },
     "wof:country":"US",
     "wof:created":1578845230,
@@ -103,7 +102,7 @@
         1477930485,
         1159289985
     ],
-    "wof:lastmodified":1579022570,
+    "wof:lastmodified":1579287349,
     "wof:name":"UA890 (PVG-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124236041",
-        "swim:gufi":""
+        "swim:flight_ref":"124236041"
     },
     "wof:country":"US",
     "wof:created":1578932023,
@@ -104,7 +103,7 @@
         1477930447,
         1159289939
     ],
-    "wof:lastmodified":1579022884,
+    "wof:lastmodified":1579287545,
     "wof:name":"UA768 (SFO-BOS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

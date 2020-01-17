@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124223910",
-        "swim:gufi":""
+        "swim:flight_ref":"124223910"
     },
     "wof:country":"US",
     "wof:created":1578931635,
@@ -96,7 +95,7 @@
         1159285413,
         1477930387
     ],
-    "wof:lastmodified":1579022248,
+    "wof:lastmodified":1579287314,
     "wof:name":"UA1900 (ATL-SFO)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123362413",
-        "swim:gufi":""
+        "swim:flight_ref":"123362413"
     },
     "wof:country":"US",
     "wof:created":1577980890,
@@ -101,7 +100,7 @@
         1477930461,
         1159289407
     ],
-    "wof:lastmodified":1578949811,
+    "wof:lastmodified":1579287503,
     "wof:name":"UA718 (MEX-SFO)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

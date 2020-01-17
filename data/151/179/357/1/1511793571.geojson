@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123333804",
-        "swim:gufi":""
+        "swim:flight_ref":"123333804"
     },
     "wof:country":"US",
     "wof:created":1577980891,
@@ -102,7 +101,7 @@
         1477930381,
         1159289407
     ],
-    "wof:lastmodified":1578949868,
+    "wof:lastmodified":1579287512,
     "wof:name":"UA699 (DFW-SFO)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

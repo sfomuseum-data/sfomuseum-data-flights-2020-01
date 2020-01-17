@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124304309",
-        "swim:gufi":""
+        "swim:flight_ref":"124304309"
     },
     "wof:country":"US",
     "wof:created":1579017828,
@@ -104,7 +103,7 @@
         1477930351,
         1159289871
     ],
-    "wof:lastmodified":1579022950,
+    "wof:lastmodified":1579287575,
     "wof:name":"AS1111 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

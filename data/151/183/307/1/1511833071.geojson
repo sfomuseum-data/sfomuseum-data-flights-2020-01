@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123703545",
-        "swim:gufi":""
+        "swim:flight_ref":"123703545"
     },
     "wof:country":"US",
     "wof:created":1578412911,
@@ -94,7 +93,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949668,
+    "wof:lastmodified":1579287473,
     "wof:name":"WN5271 (DAL-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

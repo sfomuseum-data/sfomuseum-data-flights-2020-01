@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123440815",
-        "swim:gufi":""
+        "swim:flight_ref":"123440815"
     },
     "wof:country":"US",
     "wof:created":1578067324,
@@ -100,7 +99,7 @@
         1477930405,
         1159289407
     ],
-    "wof:lastmodified":1578949100,
+    "wof:lastmodified":1579287363,
     "wof:name":"UA981 (SFO-PHX)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

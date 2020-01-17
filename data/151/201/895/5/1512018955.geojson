@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124004446",
-        "swim:gufi":""
+        "swim:flight_ref":"124004446"
     },
     "wof:country":"US",
     "wof:created":1578692112,
@@ -101,7 +100,7 @@
         1477930409,
         1159289407
     ],
-    "wof:lastmodified":1579114762,
+    "wof:lastmodified":1579287442,
     "wof:name":"UA1830 (SFO-BNA)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

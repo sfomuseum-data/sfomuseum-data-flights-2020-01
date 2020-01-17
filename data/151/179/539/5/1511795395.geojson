@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123372873",
-        "swim:gufi":""
+        "swim:flight_ref":"123372873"
     },
     "wof:country":"US",
     "wof:created":1577980907,
@@ -100,7 +99,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578949866,
+    "wof:lastmodified":1579287512,
     "wof:name":"WN6106 (LAX-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -51,8 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123927863",
-        "swim:gufi":""
+        "swim:flight_ref":"123927863"
     },
     "wof:country":"US",
     "wof:created":1578585743,
@@ -92,7 +91,7 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1578949289,
+    "wof:lastmodified":1579287400,
     "wof:name":"UA1013 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

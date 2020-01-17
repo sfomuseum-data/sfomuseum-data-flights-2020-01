@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124117183",
-        "swim:gufi":""
+        "swim:flight_ref":"124117183"
     },
     "wof:country":"US",
     "wof:created":1578759019,
@@ -104,7 +103,7 @@
         1477930357,
         1159289407
     ],
-    "wof:lastmodified":1579022365,
+    "wof:lastmodified":1579287326,
     "wof:name":"AS223 (SFO-PDX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

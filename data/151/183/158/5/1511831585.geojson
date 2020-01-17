@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123712978",
-        "swim:gufi":""
+        "swim:flight_ref":"123712978"
     },
     "wof:country":"US",
     "wof:created":1578412898,
@@ -94,7 +93,7 @@
         1159285129,
         1477930481
     ],
-    "wof:lastmodified":1578949683,
+    "wof:lastmodified":1579287475,
     "wof:name":"SK935 (CPH-SFO)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

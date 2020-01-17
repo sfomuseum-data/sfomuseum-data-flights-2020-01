@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123975540",
-        "swim:gufi":""
+        "swim:flight_ref":"123975540"
     },
     "wof:country":"US",
     "wof:created":1578691716,
@@ -101,7 +100,7 @@
         1477930459,
         1394298249
     ],
-    "wof:lastmodified":1579114750,
+    "wof:lastmodified":1579287439,
     "wof:name":"UA404 (IAH-SFO)",
     "wof:parent_id":1477930459,
     "wof:placetype":"event",

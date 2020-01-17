@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124100974",
-        "swim:gufi":""
+        "swim:flight_ref":"124100974"
     },
     "wof:country":"US",
     "wof:created":1578759033,
@@ -101,7 +100,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1579022425,
+    "wof:lastmodified":1579287333,
     "wof:name":"AS819 (SFO-OGG)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

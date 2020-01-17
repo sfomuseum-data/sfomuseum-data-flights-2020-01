@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123569911",
-        "swim:gufi":""
+        "swim:flight_ref":"123569911"
     },
     "wof:country":"US",
     "wof:created":1578240097,
@@ -101,7 +100,7 @@
         1477930445,
         1159289407
     ],
-    "wof:lastmodified":1578949409,
+    "wof:lastmodified":1579287423,
     "wof:name":"UA794 (SAN-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

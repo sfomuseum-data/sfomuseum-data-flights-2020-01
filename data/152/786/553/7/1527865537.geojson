@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124312785",
-        "swim:gufi":""
+        "swim:flight_ref":"124312785"
     },
     "wof:country":"US",
     "wof:created":1579018292,
@@ -102,7 +101,7 @@
         1477930307,
         1159289421
     ],
-    "wof:lastmodified":1579022984,
+    "wof:lastmodified":1579287580,
     "wof:name":"HA11 (SFO-HNL)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

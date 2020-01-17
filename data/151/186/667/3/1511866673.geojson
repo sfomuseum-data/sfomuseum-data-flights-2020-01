@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123870118",
-        "swim:gufi":""
+        "swim:flight_ref":"123870118"
     },
     "wof:country":"US",
     "wof:created":1578585738,
@@ -101,7 +100,7 @@
         1477930283,
         1159293215
     ],
-    "wof:lastmodified":1578949267,
+    "wof:lastmodified":1579287396,
     "wof:name":"QF74 (SFO-SYD)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

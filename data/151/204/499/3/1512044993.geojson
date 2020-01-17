@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124229024",
-        "swim:gufi":""
+        "swim:flight_ref":"124229024"
     },
     "wof:country":"US",
     "wof:created":1578931671,
@@ -100,7 +99,7 @@
         1159285413,
         1477930453
     ],
-    "wof:lastmodified":1579022245,
+    "wof:lastmodified":1579287314,
     "wof:name":"UA618 (YVR-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

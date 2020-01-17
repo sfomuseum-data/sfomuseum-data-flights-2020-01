@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124333703",
-        "swim:gufi":""
+        "swim:flight_ref":"124333703"
     },
     "wof:country":"US",
     "wof:created":1579018020,
@@ -94,7 +93,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1579022988,
+    "wof:lastmodified":1579287581,
     "wof:name":"WN4476 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

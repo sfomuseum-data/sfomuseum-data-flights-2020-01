@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123786308",
-        "swim:gufi":""
+        "swim:flight_ref":"123786308"
     },
     "wof:country":"US",
     "wof:created":1578499316,
@@ -102,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578949642,
+    "wof:lastmodified":1579287469,
     "wof:name":"WN954 (BUR-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

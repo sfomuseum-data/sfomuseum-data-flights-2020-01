@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123520005",
-        "swim:gufi":""
+        "swim:flight_ref":"123520005"
     },
     "wof:country":"US",
     "wof:created":1578153704,
@@ -98,7 +97,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578949428,
+    "wof:lastmodified":1579287426,
     "wof:name":"WN1322 (SAN-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

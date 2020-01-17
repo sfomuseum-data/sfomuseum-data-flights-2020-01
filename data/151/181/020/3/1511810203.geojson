@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123460685",
-        "swim:gufi":""
+        "swim:flight_ref":"123460685"
     },
     "wof:country":"US",
     "wof:created":1578153696,
@@ -101,7 +100,7 @@
         1477930413,
         1159289407
     ],
-    "wof:lastmodified":1578949436,
+    "wof:lastmodified":1579287428,
     "wof:name":"UA2423 (YVR-SFO)",
     "wof:parent_id":1477930413,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123817265",
-        "swim:gufi":""
+        "swim:flight_ref":"123817265"
     },
     "wof:country":"US",
     "wof:created":1578499335,
@@ -102,7 +101,7 @@
         1477930435,
         1159289945
     ],
-    "wof:lastmodified":1578949658,
+    "wof:lastmodified":1579287471,
     "wof:name":"UA639 (SFO-ORD)",
     "wof:parent_id":1477930435,
     "wof:placetype":"event",

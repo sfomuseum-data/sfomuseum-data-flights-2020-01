@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124070303",
-        "swim:gufi":""
+        "swim:flight_ref":"124070303"
     },
     "wof:country":"US",
     "wof:created":1578758817,
@@ -93,7 +92,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579114732,
+    "wof:lastmodified":1579287359,
     "wof:name":"WN2175 (LAS-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

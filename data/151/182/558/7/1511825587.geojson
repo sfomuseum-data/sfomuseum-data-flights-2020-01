@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123645230",
-        "swim:gufi":""
+        "swim:flight_ref":"123645230"
     },
     "wof:country":"US",
     "wof:created":1578326506,
@@ -102,7 +101,7 @@
         1477930291,
         1159289411
     ],
-    "wof:lastmodified":1578949925,
+    "wof:lastmodified":1579287521,
     "wof:name":"F9663 (DEN-SFO)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",

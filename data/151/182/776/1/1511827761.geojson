@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123717156",
-        "swim:gufi":""
+        "swim:flight_ref":"123717156"
     },
     "wof:country":"US",
     "wof:created":1578326531,
@@ -102,7 +101,7 @@
         1477930475,
         1159289993
     ],
-    "wof:lastmodified":1578949990,
+    "wof:lastmodified":1579287530,
     "wof:name":"NZ6073 (SFO-AKL)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

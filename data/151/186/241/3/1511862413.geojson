@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123929481",
-        "swim:gufi":""
+        "swim:flight_ref":"123929481"
     },
     "wof:country":"US",
     "wof:created":1578585699,
@@ -101,7 +100,7 @@
         1477930343,
         1159289871
     ],
-    "wof:lastmodified":1578949301,
+    "wof:lastmodified":1579287403,
     "wof:name":"AS759 (KOA-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

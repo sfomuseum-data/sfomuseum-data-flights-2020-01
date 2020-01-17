@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123757059",
-        "swim:gufi":""
+        "swim:flight_ref":"123757059"
     },
     "wof:country":"US",
     "wof:created":1578412938,
@@ -100,7 +99,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1578949728,
+    "wof:lastmodified":1579287483,
     "wof:name":"UA1013 (SFO-LGA)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

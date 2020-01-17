@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123690129",
-        "swim:gufi":""
+        "swim:flight_ref":"123690129"
     },
     "wof:country":"US",
     "wof:created":1578326514,
@@ -99,7 +98,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578950032,
+    "wof:lastmodified":1579287536,
     "wof:name":"WN869 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123498446",
-        "swim:gufi":""
+        "swim:flight_ref":"123498446"
     },
     "wof:country":"US",
     "wof:created":1578153692,
@@ -102,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949169,
+    "wof:lastmodified":1579287378,
     "wof:name":"WN2194 (DEN-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

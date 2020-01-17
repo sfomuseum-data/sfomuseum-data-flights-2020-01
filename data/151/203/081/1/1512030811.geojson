@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124032572",
-        "swim:gufi":""
+        "swim:flight_ref":"124032572"
     },
     "wof:country":"US",
     "wof:created":1578758904,
@@ -102,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1579022522,
+    "wof:lastmodified":1579287344,
     "wof:name":"AA139 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

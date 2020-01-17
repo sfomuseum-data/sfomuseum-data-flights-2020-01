@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124079613",
-        "swim:gufi":""
+        "swim:flight_ref":"124079613"
     },
     "wof:country":"US",
     "wof:created":1578758842,
@@ -96,7 +95,7 @@
         1159285413,
         1477930457
     ],
-    "wof:lastmodified":1579022400,
+    "wof:lastmodified":1579287330,
     "wof:name":"UA1891 (ORD-SFO)",
     "wof:parent_id":1477930457,
     "wof:placetype":"event",

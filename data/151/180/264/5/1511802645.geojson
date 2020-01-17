@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123401699",
-        "swim:gufi":""
+        "swim:flight_ref":"123401699"
     },
     "wof:country":"US",
     "wof:created":1578067307,
@@ -94,7 +93,7 @@
         1159286475,
         1477930477
     ],
-    "wof:lastmodified":1578949209,
+    "wof:lastmodified":1579287385,
     "wof:name":"LX38 (ZRH-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",

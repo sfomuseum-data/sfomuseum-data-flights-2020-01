@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124307002",
-        "swim:gufi":""
+        "swim:flight_ref":"124307002"
     },
     "wof:country":"US",
     "wof:created":1579018052,
@@ -104,7 +103,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1579023000,
+    "wof:lastmodified":1579287583,
     "wof:name":"UA268 (DEN-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

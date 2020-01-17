@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123941418",
-        "swim:gufi":""
+        "swim:flight_ref":"123941418"
     },
     "wof:country":"US",
     "wof:created":1578585702,
@@ -100,7 +99,7 @@
         1477930433,
         1377564289
     ],
-    "wof:lastmodified":1578949263,
+    "wof:lastmodified":1579287395,
     "wof:name":"UA735 (DEN-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

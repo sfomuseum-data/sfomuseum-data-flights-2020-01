@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123356921",
-        "swim:gufi":""
+        "swim:flight_ref":"123356921"
     },
     "wof:country":"US",
     "wof:created":1577980928,
@@ -100,7 +99,7 @@
         1477930439,
         1159289407
     ],
-    "wof:lastmodified":1578949813,
+    "wof:lastmodified":1579287503,
     "wof:name":"UA1216 (SFO-DFW)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

@@ -47,8 +47,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124406999",
-        "swim:gufi":""
+        "swim:flight_ref":"124406999"
     },
     "wof:country":"US",
     "wof:created":1579018203,
@@ -62,7 +61,7 @@
         -1,
         1159292085
     ],
-    "wof:lastmodified":1579022953,
+    "wof:lastmodified":1579287575,
     "wof:name":"AS9565 (SFO-SNA)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

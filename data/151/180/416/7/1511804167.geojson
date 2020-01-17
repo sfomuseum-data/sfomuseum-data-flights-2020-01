@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123465557",
-        "swim:gufi":""
+        "swim:flight_ref":"123465557"
     },
     "wof:country":"US",
     "wof:created":1578067319,
@@ -102,7 +101,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1578949188,
+    "wof:lastmodified":1579287380,
     "wof:name":"CM4383 (SFO-PTY)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

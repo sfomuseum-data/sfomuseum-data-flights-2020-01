@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123892663",
-        "swim:gufi":""
+        "swim:flight_ref":"123892663"
     },
     "wof:country":"US",
     "wof:created":1578585730,
@@ -97,7 +96,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949241,
+    "wof:lastmodified":1579287392,
     "wof:name":"AS1589 (LAS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

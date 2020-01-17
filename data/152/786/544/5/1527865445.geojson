@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124333194",
-        "swim:gufi":""
+        "swim:flight_ref":"124333194"
     },
     "wof:country":"US",
     "wof:created":1579018284,
@@ -96,7 +95,7 @@
         1159284401,
         1477930315
     ],
-    "wof:lastmodified":1579022962,
+    "wof:lastmodified":1579287578,
     "wof:name":"F91514 (SFO-ATL)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

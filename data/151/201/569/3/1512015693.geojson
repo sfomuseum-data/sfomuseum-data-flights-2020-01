@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123958210",
-        "swim:gufi":""
+        "swim:flight_ref":"123958210"
     },
     "wof:country":"US",
     "wof:created":1578691757,
@@ -99,7 +98,7 @@
         1477930475,
         1159289985
     ],
-    "wof:lastmodified":1579114740,
+    "wof:lastmodified":1579287437,
     "wof:name":"UA862 (HKG-SFO)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

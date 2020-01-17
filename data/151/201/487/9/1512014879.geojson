@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124001019",
-        "swim:gufi":""
+        "swim:flight_ref":"124001019"
     },
     "wof:country":"US",
     "wof:created":1578691672,
@@ -93,7 +92,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579114803,
+    "wof:lastmodified":1579287450,
     "wof:name":"WN1729 (LAS-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

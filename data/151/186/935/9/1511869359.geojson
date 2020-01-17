@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123916842",
-        "swim:gufi":""
+        "swim:flight_ref":"123916842"
     },
     "wof:country":"US",
     "wof:created":1578585759,
@@ -97,7 +96,7 @@
         1159285413,
         1477930403
     ],
-    "wof:lastmodified":1578949291,
+    "wof:lastmodified":1579287401,
     "wof:name":"UA685 (SFO-YVR)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

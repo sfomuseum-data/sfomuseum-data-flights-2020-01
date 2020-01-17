@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123435215",
-        "swim:gufi":""
+        "swim:flight_ref":"123435215"
     },
     "wof:country":"US",
     "wof:created":1578067298,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578949083,
+    "wof:lastmodified":1579287361,
     "wof:name":"WN1284 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

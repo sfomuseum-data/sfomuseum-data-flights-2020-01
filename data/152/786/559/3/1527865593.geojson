@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124334433",
-        "swim:gufi":""
+        "swim:flight_ref":"124334433"
     },
     "wof:country":"US",
     "wof:created":1579018296,
@@ -103,7 +102,7 @@
         1477930309,
         1159289993
     ],
-    "wof:lastmodified":1579022911,
+    "wof:lastmodified":1579287568,
     "wof:name":"JL1 (SFO-HND)",
     "wof:parent_id":1477930309,
     "wof:placetype":"event",

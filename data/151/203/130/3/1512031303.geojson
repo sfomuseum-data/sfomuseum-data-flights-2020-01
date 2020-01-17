@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124176542",
-        "swim:gufi":""
+        "swim:flight_ref":"124176542"
     },
     "wof:country":"US",
     "wof:created":1578758958,
@@ -103,7 +102,7 @@
         1477930303,
         1159292085
     ],
-    "wof:lastmodified":1579022506,
+    "wof:lastmodified":1579287343,
     "wof:name":"4O821 (SFO-GDL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

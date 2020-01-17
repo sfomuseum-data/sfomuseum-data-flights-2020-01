@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123950662",
-        "swim:gufi":""
+        "swim:flight_ref":"123950662"
     },
     "wof:country":"US",
     "wof:created":1578692108,
@@ -101,7 +100,7 @@
         1477930453,
         1159289871
     ],
-    "wof:lastmodified":1579114769,
+    "wof:lastmodified":1579287444,
     "wof:name":"UA1749 (SFO-OGG)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

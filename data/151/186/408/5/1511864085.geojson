@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123931465",
-        "swim:gufi":""
+        "swim:flight_ref":"123931465"
     },
     "wof:country":"US",
     "wof:created":1578585714,
@@ -101,7 +100,7 @@
         1477930467,
         1377564289
     ],
-    "wof:lastmodified":1578949264,
+    "wof:lastmodified":1579287396,
     "wof:name":"UA916 (AKL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

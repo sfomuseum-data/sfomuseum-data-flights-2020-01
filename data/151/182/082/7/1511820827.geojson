@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123589239",
-        "swim:gufi":""
+        "swim:flight_ref":"123589239"
     },
     "wof:country":"US",
     "wof:created":1578240130,
@@ -100,7 +99,7 @@
         1477930399,
         1377564285
     ],
-    "wof:lastmodified":1578949957,
+    "wof:lastmodified":1579287526,
     "wof:name":"UA694 (SFO-KOA)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

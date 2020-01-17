@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123311092",
-        "swim:gufi":""
+        "swim:flight_ref":"123311092"
     },
     "wof:country":"US",
     "wof:created":1577980911,
@@ -102,7 +101,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578949864,
+    "wof:lastmodified":1579287512,
     "wof:name":"WN1898 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

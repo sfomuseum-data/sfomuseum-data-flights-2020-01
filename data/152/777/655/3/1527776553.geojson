@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124230754",
-        "swim:gufi":""
+        "swim:flight_ref":"124230754"
     },
     "wof:country":"US",
     "wof:created":1578931939,
@@ -104,7 +103,7 @@
         1477881737,
         1159289869
     ],
-    "wof:lastmodified":1579022892,
+    "wof:lastmodified":1579287546,
     "wof:name":"WN2751 (SFO-LAS)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

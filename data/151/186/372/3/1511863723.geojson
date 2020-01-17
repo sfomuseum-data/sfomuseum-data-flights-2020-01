@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123927889",
-        "swim:gufi":""
+        "swim:flight_ref":"123927889"
     },
     "wof:country":"US",
     "wof:created":1578585711,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1578949339,
+    "wof:lastmodified":1579287409,
     "wof:name":"WN1786 (SAN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

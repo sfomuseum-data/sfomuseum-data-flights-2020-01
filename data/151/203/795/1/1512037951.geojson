@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124181739",
-        "swim:gufi":""
+        "swim:flight_ref":"124181739"
     },
     "wof:country":"US",
     "wof:created":1578845242,
@@ -100,7 +99,7 @@
         1477930359,
         1159289871
     ],
-    "wof:lastmodified":1579022503,
+    "wof:lastmodified":1579287343,
     "wof:name":"AA345 (SFO-ORD)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

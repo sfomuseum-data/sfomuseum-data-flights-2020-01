@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123457848",
-        "swim:gufi":""
+        "swim:flight_ref":"123457848"
     },
     "wof:country":"US",
     "wof:created":1578153684,
@@ -102,7 +101,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1578949113,
+    "wof:lastmodified":1579287365,
     "wof:name":"WN1327 (MDW-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

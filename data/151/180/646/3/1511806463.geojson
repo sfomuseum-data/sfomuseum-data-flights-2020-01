@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123432993",
-        "swim:gufi":""
+        "swim:flight_ref":"123432993"
     },
     "wof:country":"US",
     "wof:created":1578067338,
@@ -97,7 +96,7 @@
         1159283813,
         1477930339
     ],
-    "wof:lastmodified":1578949192,
+    "wof:lastmodified":1579287382,
     "wof:name":"AS869 (SFO-KOA)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124278356",
-        "swim:gufi":""
+        "swim:flight_ref":"124278356"
     },
     "wof:country":"US",
     "wof:created":1579018415,
@@ -104,7 +103,7 @@
         1477930471,
         1159289985
     ],
-    "wof:lastmodified":1579022992,
+    "wof:lastmodified":1579287582,
     "wof:name":"UA930 (SFO-LHR)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

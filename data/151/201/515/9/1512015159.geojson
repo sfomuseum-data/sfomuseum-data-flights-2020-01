@@ -50,8 +50,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124005563",
-        "swim:gufi":""
+        "swim:flight_ref":"124005563"
     },
     "wof:country":"US",
     "wof:created":1578691700,
@@ -91,7 +90,7 @@
         1159285413,
         1477930439
     ],
-    "wof:lastmodified":1579114830,
+    "wof:lastmodified":1579287457,
     "wof:name":"UA1790 (ORD-SFO)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124323982",
-        "swim:gufi":""
+        "swim:flight_ref":"124323982"
     },
     "wof:country":"US",
     "wof:created":1579018008,
@@ -103,7 +102,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579022955,
+    "wof:lastmodified":1579287576,
     "wof:name":"WN12 (LAS-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123874207",
-        "swim:gufi":""
+        "swim:flight_ref":"123874207"
     },
     "wof:country":"US",
     "wof:created":1578585740,
@@ -100,7 +99,7 @@
         1477930283,
         1377564293
     ],
-    "wof:lastmodified":1578949316,
+    "wof:lastmodified":1579287405,
     "wof:name":"CX893 (SFO-HKG)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",

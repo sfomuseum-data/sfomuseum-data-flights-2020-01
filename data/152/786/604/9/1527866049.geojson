@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124319378",
-        "swim:gufi":""
+        "swim:flight_ref":"124319378"
     },
     "wof:country":"US",
     "wof:created":1579018336,
@@ -96,7 +95,7 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1579022945,
+    "wof:lastmodified":1579287574,
     "wof:name":"WN1807 (SFO-LAS)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

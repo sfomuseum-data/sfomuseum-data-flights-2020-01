@@ -51,8 +51,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123603389",
-        "swim:gufi":""
+        "swim:flight_ref":"123603389"
     },
     "wof:country":"US",
     "wof:created":1578240088,
@@ -92,7 +91,7 @@
         1159283813,
         1477930351
     ],
-    "wof:lastmodified":1578949433,
+    "wof:lastmodified":1579287427,
     "wof:name":"AS1989 (PDX-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123997788",
-        "swim:gufi":""
+        "swim:flight_ref":"123997788"
     },
     "wof:country":"US",
     "wof:created":1578691897,
@@ -99,7 +98,7 @@
         1477930355,
         1159289871
     ],
-    "wof:lastmodified":1579114770,
+    "wof:lastmodified":1579287444,
     "wof:name":"AS1300 (SFO-MCO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",

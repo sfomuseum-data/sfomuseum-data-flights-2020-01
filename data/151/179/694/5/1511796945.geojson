@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123360778",
-        "swim:gufi":""
+        "swim:flight_ref":"123360778"
     },
     "wof:country":"US",
     "wof:created":1577980928,
@@ -100,7 +99,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578949843,
+    "wof:lastmodified":1579287508,
     "wof:name":"WN3577 (SFO-STL)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

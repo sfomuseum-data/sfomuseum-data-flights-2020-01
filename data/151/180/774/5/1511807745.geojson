@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123461146",
-        "swim:gufi":""
+        "swim:flight_ref":"123461146"
     },
     "wof:country":"US",
     "wof:created":1578153681,
@@ -102,7 +101,7 @@
         1477881727,
         1159289871
     ],
-    "wof:lastmodified":1578949226,
+    "wof:lastmodified":1579287389,
     "wof:name":"WN1366 (DAL-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123308798",
-        "swim:gufi":""
+        "swim:flight_ref":"123308798"
     },
     "wof:country":"US",
     "wof:created":1577980906,
@@ -102,7 +101,7 @@
         1477930409,
         1159289407
     ],
-    "wof:lastmodified":1578949854,
+    "wof:lastmodified":1579287510,
     "wof:name":"UA736 (SAN-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

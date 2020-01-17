@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123987612",
-        "swim:gufi":""
+        "swim:flight_ref":"123987612"
     },
     "wof:country":"US",
     "wof:created":1578691476,
@@ -93,7 +92,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1579114819,
+    "wof:lastmodified":1579287454,
     "wof:name":"AS1903 (LAS-SFO)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

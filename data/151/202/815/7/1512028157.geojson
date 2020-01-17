@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124047400",
-        "swim:gufi":""
+        "swim:flight_ref":"124047400"
     },
     "wof:country":"US",
     "wof:created":1578758637,
@@ -104,7 +103,7 @@
         1477930357,
         1377564285
     ],
-    "wof:lastmodified":1579022659,
+    "wof:lastmodified":1579287357,
     "wof:name":"AS1601 (LAS-SFO)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

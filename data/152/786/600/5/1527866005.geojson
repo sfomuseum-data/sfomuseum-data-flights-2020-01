@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124336204",
-        "swim:gufi":""
+        "swim:flight_ref":"124336204"
     },
     "wof:country":"US",
     "wof:created":1579018332,
@@ -101,7 +100,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1579023022,
+    "wof:lastmodified":1579287587,
     "wof:name":"WN12 (SFO-DEN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

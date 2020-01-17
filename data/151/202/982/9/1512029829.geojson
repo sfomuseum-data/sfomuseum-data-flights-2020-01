@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124074926",
-        "swim:gufi":""
+        "swim:flight_ref":"124074926"
     },
     "wof:country":"US",
     "wof:created":1578758810,
@@ -100,7 +99,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1579114729,
+    "wof:lastmodified":1579287356,
     "wof:name":"WN1101 (BUR-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

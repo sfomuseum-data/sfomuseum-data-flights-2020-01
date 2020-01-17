@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123921712",
-        "swim:gufi":""
+        "swim:flight_ref":"123921712"
     },
     "wof:country":"US",
     "wof:created":1578499339,
@@ -102,7 +101,7 @@
         1477930479,
         1159289993
     ],
-    "wof:lastmodified":1578949617,
+    "wof:lastmodified":1579287465,
     "wof:name":"UA2734 (SFO-HKG)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

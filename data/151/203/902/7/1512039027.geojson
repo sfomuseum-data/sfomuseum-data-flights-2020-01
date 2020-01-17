@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124184496",
-        "swim:gufi":""
+        "swim:flight_ref":"124184496"
     },
     "wof:country":"US",
     "wof:created":1578845335,
@@ -104,7 +103,7 @@
         1477930371,
         1159292085
     ],
-    "wof:lastmodified":1579022500,
+    "wof:lastmodified":1579287342,
     "wof:name":"AS372 (SFO-PVR)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

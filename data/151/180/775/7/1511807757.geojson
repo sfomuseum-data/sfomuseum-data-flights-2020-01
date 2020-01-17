@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123458951",
-        "swim:gufi":""
+        "swim:flight_ref":"123458951"
     },
     "wof:country":"US",
     "wof:created":1578153681,
@@ -98,7 +97,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1578949218,
+    "wof:lastmodified":1579287388,
     "wof:name":"WN1932 (SNA-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

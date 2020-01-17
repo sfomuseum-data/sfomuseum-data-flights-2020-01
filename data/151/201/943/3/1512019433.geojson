@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124024905",
-        "swim:gufi":""
+        "swim:flight_ref":"124024905"
     },
     "wof:country":"US",
     "wof:created":1578692170,
@@ -99,7 +98,7 @@
         1477930439,
         1159289945
     ],
-    "wof:lastmodified":1579114829,
+    "wof:lastmodified":1579287457,
     "wof:name":"UA720 (SFO-DEN)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

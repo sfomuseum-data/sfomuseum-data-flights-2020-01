@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123852902",
-        "swim:gufi":""
+        "swim:flight_ref":"123852902"
     },
     "wof:country":"US",
     "wof:created":1578499306,
@@ -100,7 +99,7 @@
         1477930445,
         1159289945
     ],
-    "wof:lastmodified":1578949678,
+    "wof:lastmodified":1579287475,
     "wof:name":"UA380 (FLL-SFO)",
     "wof:parent_id":1477930445,
     "wof:placetype":"event",

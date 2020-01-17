@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123425211",
-        "swim:gufi":""
+        "swim:flight_ref":"123425211"
     },
     "wof:country":"US",
     "wof:created":1578067288,
@@ -94,7 +93,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578949135,
+    "wof:lastmodified":1579287370,
     "wof:name":"WN1305 (PHX-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

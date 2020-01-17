@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124055602",
-        "swim:gufi":""
+        "swim:flight_ref":"124055602"
     },
     "wof:country":"US",
     "wof:created":1578758823,
@@ -94,7 +93,7 @@
         1159285271,
         1477930467
     ],
-    "wof:lastmodified":1579022651,
+    "wof:lastmodified":1579287356,
     "wof:name":"TP237 (LIS-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

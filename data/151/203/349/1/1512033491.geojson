@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124088231",
-        "swim:gufi":""
+        "swim:flight_ref":"124088231"
     },
     "wof:country":"US",
     "wof:created":1578759180,
@@ -101,7 +100,7 @@
         1477930471,
         1377564293
     ],
-    "wof:lastmodified":1579114711,
+    "wof:lastmodified":1579287337,
     "wof:name":"SQ31 (SFO-SIN)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123541426",
-        "swim:gufi":""
+        "swim:flight_ref":"123541426"
     },
     "wof:country":"US",
     "wof:created":1578240096,
@@ -102,7 +101,7 @@
         1477930405,
         1159289407
     ],
-    "wof:lastmodified":1578949476,
+    "wof:lastmodified":1579287435,
     "wof:name":"UA1841 (SNA-SFO)",
     "wof:parent_id":1477930405,
     "wof:placetype":"event",

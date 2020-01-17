@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124205481",
-        "swim:gufi":""
+        "swim:flight_ref":"124205481"
     },
     "wof:country":"US",
     "wof:created":1578931942,
@@ -104,7 +103,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1579022875,
+    "wof:lastmodified":1579287544,
     "wof:name":"WN3808 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

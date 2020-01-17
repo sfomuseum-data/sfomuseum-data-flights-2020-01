@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124105308",
-        "swim:gufi":""
+        "swim:flight_ref":"124105308"
     },
     "wof:country":"US",
     "wof:created":1578759032,
@@ -96,7 +95,7 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1579022425,
+    "wof:lastmodified":1579287333,
     "wof:name":"AS712 (SFO-LAS)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",

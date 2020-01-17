@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123375385",
-        "swim:gufi":""
+        "swim:flight_ref":"123375385"
     },
     "wof:country":"US",
     "wof:created":1577980946,
@@ -102,7 +101,7 @@
         1477930487,
         1159289431
     ],
-    "wof:lastmodified":1578949810,
+    "wof:lastmodified":1579287503,
     "wof:name":"LH455 (SFO-FRA)",
     "wof:parent_id":1477930487,
     "wof:placetype":"event",

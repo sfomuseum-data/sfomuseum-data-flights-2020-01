@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124015740",
-        "swim:gufi":""
+        "swim:flight_ref":"124015740"
     },
     "wof:country":"US",
     "wof:created":1578691604,
@@ -101,7 +100,7 @@
         1477930315,
         1159289411
     ],
-    "wof:lastmodified":1579114767,
+    "wof:lastmodified":1579287443,
     "wof:name":"F92147 (LAS-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

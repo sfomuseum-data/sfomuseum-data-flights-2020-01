@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124252548",
-        "swim:gufi":""
+        "swim:flight_ref":"124252548"
     },
     "wof:country":"US",
     "wof:created":1578931603,
@@ -96,7 +95,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579022228,
+    "wof:lastmodified":1579287311,
     "wof:name":"WN2310 (SAN-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

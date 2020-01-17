@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123719037",
-        "swim:gufi":""
+        "swim:flight_ref":"123719037"
     },
     "wof:country":"US",
     "wof:created":1578412892,
@@ -102,7 +101,7 @@
         1477930351,
         1377564297
     ],
-    "wof:lastmodified":1578949759,
+    "wof:lastmodified":1579287492,
     "wof:name":"AS1351 (BOS-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

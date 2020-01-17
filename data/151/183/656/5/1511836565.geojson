@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123751234",
-        "swim:gufi":""
+        "swim:flight_ref":"123751234"
     },
     "wof:country":"US",
     "wof:created":1578412946,
@@ -100,7 +99,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578949710,
+    "wof:lastmodified":1579287480,
     "wof:name":"WN995 (SFO-STL)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

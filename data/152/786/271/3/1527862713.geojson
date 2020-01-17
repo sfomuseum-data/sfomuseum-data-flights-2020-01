@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124317981",
-        "swim:gufi":""
+        "swim:flight_ref":"124317981"
     },
     "wof:country":"US",
     "wof:created":1579018047,
@@ -104,7 +103,7 @@
         1477930403,
         1159289407
     ],
-    "wof:lastmodified":1579023002,
+    "wof:lastmodified":1579287583,
     "wof:name":"UA2162 (PSP-SFO)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

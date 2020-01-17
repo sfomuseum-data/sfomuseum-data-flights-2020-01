@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123439140",
-        "swim:gufi":""
+        "swim:flight_ref":"123439140"
     },
     "wof:country":"US",
     "wof:created":1578067343,
@@ -102,7 +101,7 @@
         1477930439,
         1159289993
     ],
-    "wof:lastmodified":1578949088,
+    "wof:lastmodified":1579287362,
     "wof:name":"UA2239 (SFO-EWR)",
     "wof:parent_id":1477930439,
     "wof:placetype":"event",

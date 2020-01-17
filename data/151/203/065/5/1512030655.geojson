@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124135805",
-        "swim:gufi":""
+        "swim:flight_ref":"124135805"
     },
     "wof:country":"US",
     "wof:created":1578758890,
@@ -98,7 +97,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1579114707,
+    "wof:lastmodified":1579287332,
     "wof:name":"UA870 (SYD-SFO)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

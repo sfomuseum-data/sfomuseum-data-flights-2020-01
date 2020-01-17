@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123410023",
-        "swim:gufi":""
+        "swim:flight_ref":"123410023"
     },
     "wof:country":"US",
     "wof:created":1578067323,
@@ -102,7 +101,7 @@
         1477881737,
         1159289871
     ],
-    "wof:lastmodified":1578949208,
+    "wof:lastmodified":1579287385,
     "wof:name":"WN2470 (SFO-MDW)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

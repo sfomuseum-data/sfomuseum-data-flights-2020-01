@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124309006",
-        "swim:gufi":""
+        "swim:flight_ref":"124309006"
     },
     "wof:country":"US",
     "wof:created":1579018361,
@@ -104,7 +103,7 @@
         1477930403,
         1159289939
     ],
-    "wof:lastmodified":1579022990,
+    "wof:lastmodified":1579287581,
     "wof:name":"UA1111 (SFO-LIH)",
     "wof:parent_id":1477930403,
     "wof:placetype":"event",

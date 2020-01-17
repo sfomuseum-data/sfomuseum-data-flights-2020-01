@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123520590",
-        "swim:gufi":""
+        "swim:flight_ref":"123520590"
     },
     "wof:country":"US",
     "wof:created":1578153733,
@@ -94,7 +93,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578949441,
+    "wof:lastmodified":1579287429,
     "wof:name":"WN2255 (SFO-MDW)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

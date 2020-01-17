@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124201035",
-        "swim:gufi":""
+        "swim:flight_ref":"124201035"
     },
     "wof:country":"US",
     "wof:created":1578845076,
@@ -101,7 +100,7 @@
         1477930303,
         1159289871
     ],
-    "wof:lastmodified":1579022427,
+    "wof:lastmodified":1579287333,
     "wof:name":"CM382 (PTY-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",

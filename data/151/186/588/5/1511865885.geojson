@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123883342",
-        "swim:gufi":""
+        "swim:flight_ref":"123883342"
     },
     "wof:country":"US",
     "wof:created":1578585730,
@@ -102,7 +101,7 @@
         1477930371,
         1377564297
     ],
-    "wof:lastmodified":1578949279,
+    "wof:lastmodified":1579287399,
     "wof:name":"AS623 (JFK-SFO)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

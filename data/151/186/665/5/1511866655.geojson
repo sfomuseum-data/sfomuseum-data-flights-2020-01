@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123982464",
-        "swim:gufi":""
+        "swim:flight_ref":"123982464"
     },
     "wof:country":"US",
     "wof:created":1578585737,
@@ -102,7 +101,7 @@
         1477930463,
         1159289993
     ],
-    "wof:lastmodified":1578949322,
+    "wof:lastmodified":1579287406,
     "wof:name":"UA2757 (SFO-EWR)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

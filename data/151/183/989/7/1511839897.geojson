@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123810487",
-        "swim:gufi":""
+        "swim:flight_ref":"123810487"
     },
     "wof:country":"US",
     "wof:created":1578499313,
@@ -101,7 +100,7 @@
         1477930315,
         1159289871
     ],
-    "wof:lastmodified":1578949798,
+    "wof:lastmodified":1579287501,
     "wof:name":"AM668 (MEX-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",

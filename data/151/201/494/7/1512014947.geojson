@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123950081",
-        "swim:gufi":""
+        "swim:flight_ref":"123950081"
     },
     "wof:country":"US",
     "wof:created":1578691679,
@@ -101,7 +100,7 @@
         1477881727,
         1159289869
     ],
-    "wof:lastmodified":1579114807,
+    "wof:lastmodified":1579287451,
     "wof:name":"WN5657 (DEN-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

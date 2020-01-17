@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124238196",
-        "swim:gufi":""
+        "swim:flight_ref":"124238196"
     },
     "wof:country":"US",
     "wof:created":1578931985,
@@ -104,7 +103,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1579022893,
+    "wof:lastmodified":1579287546,
     "wof:name":"UA234 (SFO-MCO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

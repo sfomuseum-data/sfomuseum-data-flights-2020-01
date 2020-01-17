@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123768008",
-        "swim:gufi":""
+        "swim:flight_ref":"123768008"
     },
     "wof:country":"US",
     "wof:created":1578412896,
@@ -102,7 +101,7 @@
         1477930379,
         1159289407
     ],
-    "wof:lastmodified":1578949754,
+    "wof:lastmodified":1579287490,
     "wof:name":"UA2132 (PHL-SFO)",
     "wof:parent_id":1477930379,
     "wof:placetype":"event",

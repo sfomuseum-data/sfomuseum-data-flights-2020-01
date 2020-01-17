@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123364947",
-        "swim:gufi":""
+        "swim:flight_ref":"123364947"
     },
     "wof:country":"US",
     "wof:created":1577980882,
@@ -94,7 +93,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578949903,
+    "wof:lastmodified":1579287518,
     "wof:name":"WN5106 (SMF-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

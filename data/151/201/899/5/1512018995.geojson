@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123980357",
-        "swim:gufi":""
+        "swim:flight_ref":"123980357"
     },
     "wof:country":"US",
     "wof:created":1578692116,
@@ -101,7 +100,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1579114816,
+    "wof:lastmodified":1579287453,
     "wof:name":"UA2115 (SFO-DEN)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

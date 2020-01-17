@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123783180",
-        "swim:gufi":""
+        "swim:flight_ref":"123783180"
     },
     "wof:country":"US",
     "wof:created":1578499339,
@@ -102,7 +101,7 @@
         1477930467,
         1159289871
     ],
-    "wof:lastmodified":1578949666,
+    "wof:lastmodified":1579287473,
     "wof:name":"CM209 (SFO-PTY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",

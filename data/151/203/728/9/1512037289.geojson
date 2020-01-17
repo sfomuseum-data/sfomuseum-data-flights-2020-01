@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124144944",
-        "swim:gufi":""
+        "swim:flight_ref":"124144944"
     },
     "wof:country":"US",
     "wof:created":1578845180,
@@ -103,7 +102,7 @@
         1477930393,
         1377564285
     ],
-    "wof:lastmodified":1579022582,
+    "wof:lastmodified":1579287350,
     "wof:name":"UA1724 (KOA-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",

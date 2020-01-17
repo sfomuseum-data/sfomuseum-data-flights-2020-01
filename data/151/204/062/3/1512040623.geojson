@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124195183",
-        "swim:gufi":""
+        "swim:flight_ref":"124195183"
     },
     "wof:country":"US",
     "wof:created":1578845473,
@@ -104,7 +103,7 @@
         1477930447,
         1159289945
     ],
-    "wof:lastmodified":1579022238,
+    "wof:lastmodified":1579287313,
     "wof:name":"UA242 (SFO-BOS)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",

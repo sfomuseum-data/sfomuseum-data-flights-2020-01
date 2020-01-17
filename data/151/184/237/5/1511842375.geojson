@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123846883",
-        "swim:gufi":""
+        "swim:flight_ref":"123846883"
     },
     "wof:country":"US",
     "wof:created":1578499330,
@@ -102,7 +101,7 @@
         1477881719,
         1159292085
     ],
-    "wof:lastmodified":1578949652,
+    "wof:lastmodified":1579287471,
     "wof:name":"B62136 (LGB-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",

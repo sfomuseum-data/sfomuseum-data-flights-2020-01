@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123722174",
-        "swim:gufi":""
+        "swim:flight_ref":"123722174"
     },
     "wof:country":"US",
     "wof:created":1578412927,
@@ -102,7 +101,7 @@
         1477930307,
         1377564295
     ],
-    "wof:lastmodified":1578949720,
+    "wof:lastmodified":1579287482,
     "wof:name":"F91515 (ATL-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

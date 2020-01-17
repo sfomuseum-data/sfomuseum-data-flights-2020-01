@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123664122",
-        "swim:gufi":""
+        "swim:flight_ref":"123664122"
     },
     "wof:country":"US",
     "wof:created":1578326504,
@@ -94,7 +93,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578950072,
+    "wof:lastmodified":1579287541,
     "wof:name":"WN1276 (LAX-SFO)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

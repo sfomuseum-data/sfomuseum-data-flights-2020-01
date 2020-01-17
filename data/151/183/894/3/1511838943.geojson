@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123833990",
-        "swim:gufi":""
+        "swim:flight_ref":"123833990"
     },
     "wof:country":"US",
     "wof:created":1578499305,
@@ -101,7 +100,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1578949715,
+    "wof:lastmodified":1579287481,
     "wof:name":"UA1067 (YVR-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

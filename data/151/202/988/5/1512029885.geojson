@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124075425",
-        "swim:gufi":""
+        "swim:flight_ref":"124075425"
     },
     "wof:country":"US",
     "wof:created":1578758816,
@@ -96,7 +95,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1579022672,
+    "wof:lastmodified":1579287359,
     "wof:name":"WN1855 (MDW-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

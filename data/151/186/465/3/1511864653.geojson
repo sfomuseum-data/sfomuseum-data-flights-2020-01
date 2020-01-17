@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123887915",
-        "swim:gufi":""
+        "swim:flight_ref":"123887915"
     },
     "wof:country":"US",
     "wof:created":1578585720,
@@ -102,7 +101,7 @@
         1477930453,
         1159289407
     ],
-    "wof:lastmodified":1578949273,
+    "wof:lastmodified":1579287397,
     "wof:name":"UA1095 (BNA-SFO)",
     "wof:parent_id":1477930453,
     "wof:placetype":"event",

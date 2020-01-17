@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124012926",
-        "swim:gufi":""
+        "swim:flight_ref":"124012926"
     },
     "wof:country":"US",
     "wof:created":1578692118,
@@ -93,7 +92,7 @@
         1159285413,
         1477930433
     ],
-    "wof:lastmodified":1579114794,
+    "wof:lastmodified":1579287449,
     "wof:name":"UA2319 (SFO-EWR)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",

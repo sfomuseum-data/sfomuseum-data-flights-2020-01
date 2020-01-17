@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124233959",
-        "swim:gufi":""
+        "swim:flight_ref":"124233959"
     },
     "wof:country":"US",
     "wof:created":1578931784,
@@ -103,7 +102,7 @@
         1477930339,
         1159292085
     ],
-    "wof:lastmodified":1579022234,
+    "wof:lastmodified":1579287312,
     "wof:name":"AS1922 (SFO-LAX)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

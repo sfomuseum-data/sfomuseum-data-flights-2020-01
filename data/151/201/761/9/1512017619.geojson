@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123960205",
-        "swim:gufi":""
+        "swim:flight_ref":"123960205"
     },
     "wof:country":"US",
     "wof:created":1578691962,
@@ -101,7 +100,7 @@
         1477930317,
         1159289939
     ],
-    "wof:lastmodified":1579114795,
+    "wof:lastmodified":1579287449,
     "wof:name":"DL1446 (SFO-ATL)",
     "wof:parent_id":1477930317,
     "wof:placetype":"event",

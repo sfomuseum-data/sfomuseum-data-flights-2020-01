@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124160153",
-        "swim:gufi":""
+        "swim:flight_ref":"124160153"
     },
     "wof:country":"US",
     "wof:created":1578845447,
@@ -104,7 +103,7 @@
         1477881735,
         1159289869
     ],
-    "wof:lastmodified":1579022247,
+    "wof:lastmodified":1579287314,
     "wof:name":"WN3826 (SFO-LAS)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

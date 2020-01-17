@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124113788",
-        "swim:gufi":""
+        "swim:flight_ref":"124113788"
     },
     "wof:country":"US",
     "wof:created":1578759256,
@@ -104,7 +103,7 @@
         1477930481,
         1159289993
     ],
-    "wof:lastmodified":1579022527,
+    "wof:lastmodified":1579287344,
     "wof:name":"UA58 (SFO-FRA)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",

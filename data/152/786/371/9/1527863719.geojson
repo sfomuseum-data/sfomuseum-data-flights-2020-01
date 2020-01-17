@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124313654",
-        "swim:gufi":""
+        "swim:flight_ref":"124313654"
     },
     "wof:country":"US",
     "wof:created":1579018135,
@@ -104,7 +103,7 @@
         1477930463,
         1159289407
     ],
-    "wof:lastmodified":1579022963,
+    "wof:lastmodified":1579287578,
     "wof:name":"AC563 (SFO-YVR)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",

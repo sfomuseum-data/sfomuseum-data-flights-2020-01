@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124091605",
-        "swim:gufi":""
+        "swim:flight_ref":"124091605"
     },
     "wof:country":"US",
     "wof:created":1578758837,
@@ -101,7 +100,7 @@
         1477930395,
         1159289407
     ],
-    "wof:lastmodified":1579022422,
+    "wof:lastmodified":1579287332,
     "wof:name":"UA1616 (SNA-SFO)",
     "wof:parent_id":1477930395,
     "wof:placetype":"event",

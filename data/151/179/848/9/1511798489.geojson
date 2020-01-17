@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123350611",
-        "swim:gufi":""
+        "swim:flight_ref":"123350611"
     },
     "wof:country":"US",
     "wof:created":1577980940,
@@ -97,7 +96,7 @@
         1159285591,
         1477881727
     ],
-    "wof:lastmodified":1578949882,
+    "wof:lastmodified":1579287515,
     "wof:name":"WN4964 (SFO-LAX)",
     "wof:parent_id":1477881727,
     "wof:placetype":"event",

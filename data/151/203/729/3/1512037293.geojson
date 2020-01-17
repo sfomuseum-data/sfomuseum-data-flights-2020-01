@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124133835",
-        "swim:gufi":""
+        "swim:flight_ref":"124133835"
     },
     "wof:country":"US",
     "wof:created":1578845180,
@@ -104,7 +103,7 @@
         1477930441,
         1159289945
     ],
-    "wof:lastmodified":1579022602,
+    "wof:lastmodified":1579287351,
     "wof:name":"UA1742 (ORD-SFO)",
     "wof:parent_id":1477930441,
     "wof:placetype":"event",

@@ -61,8 +61,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124157469",
-        "swim:gufi":""
+        "swim:flight_ref":"124157469"
     },
     "wof:country":"US",
     "wof:created":1578845072,
@@ -103,7 +102,7 @@
         1477930465,
         1159289871
     ],
-    "wof:lastmodified":1579022503,
+    "wof:lastmodified":1579287343,
     "wof:name":"CM208 (PTY-SFO)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

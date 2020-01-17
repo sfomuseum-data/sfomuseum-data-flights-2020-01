@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123637677",
-        "swim:gufi":""
+        "swim:flight_ref":"123637677"
     },
     "wof:country":"US",
     "wof:created":1578326498,
@@ -102,7 +101,7 @@
         1477930399,
         1159289407
     ],
-    "wof:lastmodified":1578950047,
+    "wof:lastmodified":1579287538,
     "wof:name":"UA2123 (AUS-SFO)",
     "wof:parent_id":1477930399,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123932224",
-        "swim:gufi":""
+        "swim:flight_ref":"123932224"
     },
     "wof:country":"US",
     "wof:created":1578585739,
@@ -102,7 +101,7 @@
         1477881735,
         1159289871
     ],
-    "wof:lastmodified":1578949256,
+    "wof:lastmodified":1579287395,
     "wof:name":"WN1856 (SFO-MDW)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124330054",
-        "swim:gufi":""
+        "swim:flight_ref":"124330054"
     },
     "wof:country":"US",
     "wof:created":1579018322,
@@ -104,7 +103,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1579022969,
+    "wof:lastmodified":1579287579,
     "wof:name":"SY394 (SFO-MSP)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

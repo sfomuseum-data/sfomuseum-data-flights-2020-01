@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123546582",
-        "swim:gufi":""
+        "swim:flight_ref":"123546582"
     },
     "wof:country":"US",
     "wof:created":1578240119,
@@ -102,7 +101,7 @@
         1477930343,
         1159289871
     ],
-    "wof:lastmodified":1578949357,
+    "wof:lastmodified":1579287412,
     "wof:name":"AS334 (SFO-EWR)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

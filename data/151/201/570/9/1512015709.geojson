@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123963693",
-        "swim:gufi":""
+        "swim:flight_ref":"123963693"
     },
     "wof:country":"US",
     "wof:created":1578691758,
@@ -100,7 +99,7 @@
         1477930479,
         1159289985
     ],
-    "wof:lastmodified":1579114826,
+    "wof:lastmodified":1579287456,
     "wof:name":"UA889 (PEK-SFO)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",

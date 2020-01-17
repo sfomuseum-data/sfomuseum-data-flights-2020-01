@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123920180",
-        "swim:gufi":""
+        "swim:flight_ref":"123920180"
     },
     "wof:country":"US",
     "wof:created":1578585712,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578949276,
+    "wof:lastmodified":1579287398,
     "wof:name":"WN1778 (SAN-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

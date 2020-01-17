@@ -49,8 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124292958",
-        "swim:gufi":""
+        "swim:flight_ref":"124292958"
     },
     "wof:country":"US",
     "wof:created":1578931461,
@@ -64,7 +63,7 @@
         -1,
         1159292085
     ],
-    "wof:lastmodified":1579022228,
+    "wof:lastmodified":1579287311,
     "wof:name":"AS9567 (GSO-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",

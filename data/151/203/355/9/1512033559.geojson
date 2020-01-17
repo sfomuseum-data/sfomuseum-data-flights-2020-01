@@ -52,8 +52,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124071421",
-        "swim:gufi":""
+        "swim:flight_ref":"124071421"
     },
     "wof:country":"US",
     "wof:created":1578759187,
@@ -93,7 +92,7 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1579114704,
+    "wof:lastmodified":1579287329,
     "wof:name":"WN1833 (SFO-BUR)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",

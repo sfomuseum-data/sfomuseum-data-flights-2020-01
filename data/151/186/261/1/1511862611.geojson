@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123913006",
-        "swim:gufi":""
+        "swim:flight_ref":"123913006"
     },
     "wof:country":"US",
     "wof:created":1578585702,
@@ -101,7 +100,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578949264,
+    "wof:lastmodified":1579287395,
     "wof:name":"WN1729 (SLC-SFO)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

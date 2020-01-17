@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123346498",
-        "swim:gufi":""
+        "swim:flight_ref":"123346498"
     },
     "wof:country":"US",
     "wof:created":1577980940,
@@ -97,7 +96,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1578949887,
+    "wof:lastmodified":1579287516,
     "wof:name":"WN6215 (SFO-PDX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

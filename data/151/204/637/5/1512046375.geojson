@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124262342",
-        "swim:gufi":""
+        "swim:flight_ref":"124262342"
     },
     "wof:country":"US",
     "wof:created":1578931787,
@@ -104,7 +103,7 @@
         1477930371,
         1159289871
     ],
-    "wof:lastmodified":1579022313,
+    "wof:lastmodified":1579287321,
     "wof:name":"AS326 (SFO-JFK)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",

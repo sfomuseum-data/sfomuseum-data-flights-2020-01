@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123935233",
-        "swim:gufi":""
+        "swim:flight_ref":"123935233"
     },
     "wof:country":"US",
     "wof:created":1578585709,
@@ -100,7 +99,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1578949282,
+    "wof:lastmodified":1579287399,
     "wof:name":"UA2419 (PSP-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

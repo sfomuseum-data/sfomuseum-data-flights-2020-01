@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123344425",
-        "swim:gufi":""
+        "swim:flight_ref":"123344425"
     },
     "wof:country":"US",
     "wof:created":1577980936,
@@ -102,7 +101,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949914,
+    "wof:lastmodified":1579287520,
     "wof:name":"WN6427 (SFO-PHX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

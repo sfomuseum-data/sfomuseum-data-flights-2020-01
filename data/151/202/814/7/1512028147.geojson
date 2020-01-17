@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124049545",
-        "swim:gufi":""
+        "swim:flight_ref":"124049545"
     },
     "wof:country":"US",
     "wof:created":1578758636,
@@ -104,7 +103,7 @@
         1477930351,
         1159292085
     ],
-    "wof:lastmodified":1579022661,
+    "wof:lastmodified":1579287357,
     "wof:name":"AS1330 (SEA-SFO)",
     "wof:parent_id":1477930351,
     "wof:placetype":"event",

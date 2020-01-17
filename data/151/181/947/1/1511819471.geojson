@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123572111",
-        "swim:gufi":""
+        "swim:flight_ref":"123572111"
     },
     "wof:country":"US",
     "wof:created":1578240118,
@@ -102,7 +101,7 @@
         1477930465,
         1159292085
     ],
-    "wof:lastmodified":1578949406,
+    "wof:lastmodified":1579287422,
     "wof:name":"AC758 (SFO-YYZ)",
     "wof:parent_id":1477930465,
     "wof:placetype":"event",

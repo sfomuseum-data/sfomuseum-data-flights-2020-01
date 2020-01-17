@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123959990",
-        "swim:gufi":""
+        "swim:flight_ref":"123959990"
     },
     "wof:country":"US",
     "wof:created":1578692127,
@@ -100,7 +99,7 @@
         1477930387,
         1377564285
     ],
-    "wof:lastmodified":1579114738,
+    "wof:lastmodified":1579287437,
     "wof:name":"UA351 (SFO-SEA)",
     "wof:parent_id":1477930387,
     "wof:placetype":"event",

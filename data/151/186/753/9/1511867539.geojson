@@ -57,8 +57,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123906268",
-        "swim:gufi":""
+        "swim:flight_ref":"123906268"
     },
     "wof:country":"US",
     "wof:created":1578585744,
@@ -98,7 +97,7 @@
         1159283813,
         1477930343
     ],
-    "wof:lastmodified":1578949241,
+    "wof:lastmodified":1579287392,
     "wof:name":"AS1022 (SFO-JFK)",
     "wof:parent_id":1477930343,
     "wof:placetype":"event",

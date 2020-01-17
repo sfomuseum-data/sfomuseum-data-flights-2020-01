@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123590592",
-        "swim:gufi":""
+        "swim:flight_ref":"123590592"
     },
     "wof:country":"US",
     "wof:created":1578240140,
@@ -102,7 +101,7 @@
         1477881733,
         1159289869
     ],
-    "wof:lastmodified":1578949978,
+    "wof:lastmodified":1579287528,
     "wof:name":"WN5437 (SFO-SAN)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

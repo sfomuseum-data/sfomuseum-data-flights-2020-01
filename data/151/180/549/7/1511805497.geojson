@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123394881",
-        "swim:gufi":""
+        "swim:flight_ref":"123394881"
     },
     "wof:country":"US",
     "wof:created":1578067330,
@@ -97,7 +96,7 @@
         1477930359,
         1159289411
     ],
-    "wof:lastmodified":1578949215,
+    "wof:lastmodified":1579287387,
     "wof:name":"AA2890 (SFO-MIA)",
     "wof:parent_id":1477930359,
     "wof:placetype":"event",

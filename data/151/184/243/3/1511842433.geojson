@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123836765",
-        "swim:gufi":""
+        "swim:flight_ref":"123836765"
     },
     "wof:country":"US",
     "wof:created":1578499330,
@@ -100,7 +99,7 @@
         1477930357,
         1159292085
     ],
-    "wof:lastmodified":1578949596,
+    "wof:lastmodified":1579287460,
     "wof:name":"AS1390 (SFO-MSY)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123416787",
-        "swim:gufi":""
+        "swim:flight_ref":"123416787"
     },
     "wof:country":"US",
     "wof:created":1578067287,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949918,
+    "wof:lastmodified":1579287520,
     "wof:name":"WN2516 (STL-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

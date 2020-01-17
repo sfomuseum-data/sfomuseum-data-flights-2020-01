@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124186688",
-        "swim:gufi":""
+        "swim:flight_ref":"124186688"
     },
     "wof:country":"US",
     "wof:created":1578845447,
@@ -99,7 +98,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1579022256,
+    "wof:lastmodified":1579287316,
     "wof:name":"WN3817 (SFO-LAX)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

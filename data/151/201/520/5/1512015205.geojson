@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123974509",
-        "swim:gufi":""
+        "swim:flight_ref":"123974509"
     },
     "wof:country":"US",
     "wof:created":1578691705,
@@ -101,7 +100,7 @@
         1477930409,
         1159289871
     ],
-    "wof:lastmodified":1579114779,
+    "wof:lastmodified":1579287446,
     "wof:name":"UA2064 (PHX-SFO)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",

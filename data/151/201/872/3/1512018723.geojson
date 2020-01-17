@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123992916",
-        "swim:gufi":""
+        "swim:flight_ref":"123992916"
     },
     "wof:country":"US",
     "wof:created":1578692083,
@@ -101,7 +100,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1579114758,
+    "wof:lastmodified":1579287441,
     "wof:name":"WN2176 (SFO-ONT)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123394306",
-        "swim:gufi":""
+        "swim:flight_ref":"123394306"
     },
     "wof:country":"US",
     "wof:created":1578067310,
@@ -94,7 +93,7 @@
         1159285591,
         1477881731
     ],
-    "wof:lastmodified":1578949203,
+    "wof:lastmodified":1579287384,
     "wof:name":"WN5846 (CLE-SFO)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

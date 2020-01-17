@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124264080",
-        "swim:gufi":""
+        "swim:flight_ref":"124264080"
     },
     "wof:country":"US",
     "wof:created":1578931940,
@@ -94,7 +93,7 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1579022892,
+    "wof:lastmodified":1579287546,
     "wof:name":"WN2796 (SFO-DEN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

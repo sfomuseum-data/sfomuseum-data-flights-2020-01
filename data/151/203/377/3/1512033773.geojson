@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124070488",
-        "swim:gufi":""
+        "swim:flight_ref":"124070488"
     },
     "wof:country":"US",
     "wof:created":1578759213,
@@ -101,7 +100,7 @@
         1477930381,
         1159289407
     ],
-    "wof:lastmodified":1579114710,
+    "wof:lastmodified":1579287335,
     "wof:name":"UA1549 (SFO-SEA)",
     "wof:parent_id":1477930381,
     "wof:placetype":"event",

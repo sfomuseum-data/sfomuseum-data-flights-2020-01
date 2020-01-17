@@ -55,8 +55,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123983345",
-        "swim:gufi":""
+        "swim:flight_ref":"123983345"
     },
     "wof:country":"US",
     "wof:created":1578692032,
@@ -96,7 +95,7 @@
         1159284489,
         1477930301
     ],
-    "wof:lastmodified":1579114751,
+    "wof:lastmodified":1579287439,
     "wof:name":"HA53 (SFO-HNL)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

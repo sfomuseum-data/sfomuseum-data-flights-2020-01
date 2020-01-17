@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123723760",
-        "swim:gufi":""
+        "swim:flight_ref":"123723760"
     },
     "wof:country":"US",
     "wof:created":1578412930,
@@ -101,7 +100,7 @@
         1477881737,
         1159289869
     ],
-    "wof:lastmodified":1578949762,
+    "wof:lastmodified":1579287493,
     "wof:name":"WN302 (SFO-ICT)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

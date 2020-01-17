@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123790171",
-        "swim:gufi":""
+        "swim:flight_ref":"123790171"
     },
     "wof:country":"US",
     "wof:created":1578499320,
@@ -101,7 +100,7 @@
         1477930307,
         1159289421
     ],
-    "wof:lastmodified":1578949628,
+    "wof:lastmodified":1579287467,
     "wof:name":"FJ870 (NAN-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123941842",
-        "swim:gufi":""
+        "swim:flight_ref":"123941842"
     },
     "wof:country":"US",
     "wof:created":1578585722,
@@ -100,7 +99,7 @@
         1477881725,
         1159289869
     ],
-    "wof:lastmodified":1578949323,
+    "wof:lastmodified":1579287406,
     "wof:name":"WN1813 (ONT-SFO)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123696604",
-        "swim:gufi":""
+        "swim:flight_ref":"123696604"
     },
     "wof:country":"US",
     "wof:created":1578412930,
@@ -102,7 +101,7 @@
         1477930461,
         1159289423
     ],
-    "wof:lastmodified":1578949708,
+    "wof:lastmodified":1579287480,
     "wof:name":"EI146 (SFO-DUB)",
     "wof:parent_id":1477930461,
     "wof:placetype":"event",

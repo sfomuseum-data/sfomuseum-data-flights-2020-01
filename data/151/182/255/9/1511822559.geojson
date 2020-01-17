@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123572658",
-        "swim:gufi":""
+        "swim:flight_ref":"123572658"
     },
     "wof:country":"US",
     "wof:created":1578240143,
@@ -102,7 +101,7 @@
         1477881731,
         1159289869
     ],
-    "wof:lastmodified":1578950061,
+    "wof:lastmodified":1579287540,
     "wof:name":"WN4805 (SFO-LAX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

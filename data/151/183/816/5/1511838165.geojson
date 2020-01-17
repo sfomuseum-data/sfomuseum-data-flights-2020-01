@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123728352",
-        "swim:gufi":""
+        "swim:flight_ref":"123728352"
     },
     "wof:country":"US",
     "wof:created":1578412960,
@@ -97,7 +96,7 @@
         1159285591,
         1477881733
     ],
-    "wof:lastmodified":1578949689,
+    "wof:lastmodified":1579287476,
     "wof:name":"WN103 (SFO-LAX)",
     "wof:parent_id":1477881733,
     "wof:placetype":"event",

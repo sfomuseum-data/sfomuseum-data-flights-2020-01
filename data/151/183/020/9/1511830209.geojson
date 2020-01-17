@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123629128",
-        "swim:gufi":""
+        "swim:flight_ref":"123629128"
     },
     "wof:country":"US",
     "wof:created":1578326551,
@@ -102,7 +101,7 @@
         1477930471,
         1159289993
     ],
-    "wof:lastmodified":1578949760,
+    "wof:lastmodified":1579287492,
     "wof:name":"UA863 (SFO-SYD)",
     "wof:parent_id":1477930471,
     "wof:placetype":"event",

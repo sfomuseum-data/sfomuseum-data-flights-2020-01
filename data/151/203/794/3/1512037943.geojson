@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124143832",
-        "swim:gufi":""
+        "swim:flight_ref":"124143832"
     },
     "wof:country":"US",
     "wof:created":1578845241,
@@ -102,7 +101,7 @@
         1477930367,
         1159289411
     ],
-    "wof:lastmodified":1579022484,
+    "wof:lastmodified":1579287339,
     "wof:name":"AA2839 (SFO-DFW)",
     "wof:parent_id":1477930367,
     "wof:placetype":"event",

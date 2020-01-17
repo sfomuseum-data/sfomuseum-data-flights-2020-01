@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124127076",
-        "swim:gufi":""
+        "swim:flight_ref":"124127076"
     },
     "wof:country":"US",
     "wof:created":1578845451,
@@ -104,7 +103,7 @@
         1477930475,
         1393786509
     ],
-    "wof:lastmodified":1579022246,
+    "wof:lastmodified":1579287314,
     "wof:name":"TP236 (SFO-LIS)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",

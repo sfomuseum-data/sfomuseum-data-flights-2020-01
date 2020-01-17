@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123439712",
-        "swim:gufi":""
+        "swim:flight_ref":"123439712"
     },
     "wof:country":"US",
     "wof:created":1578067313,
@@ -102,7 +101,7 @@
         1477930289,
         1159289871
     ],
-    "wof:lastmodified":1578949138,
+    "wof:lastmodified":1579287370,
     "wof:name":"SY697 (PDX-SFO)",
     "wof:parent_id":1477930289,
     "wof:placetype":"event",

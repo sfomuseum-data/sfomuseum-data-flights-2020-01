@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124298573",
-        "swim:gufi":""
+        "swim:flight_ref":"124298573"
     },
     "wof:country":"US",
     "wof:created":1579018338,
@@ -104,7 +103,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1579023013,
+    "wof:lastmodified":1579287585,
     "wof:name":"WN356 (SFO-MDW)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

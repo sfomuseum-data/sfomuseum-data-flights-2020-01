@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123337535",
-        "swim:gufi":""
+        "swim:flight_ref":"123337535"
     },
     "wof:country":"US",
     "wof:created":1577980928,
@@ -102,7 +101,7 @@
         1477881731,
         1159289871
     ],
-    "wof:lastmodified":1578949823,
+    "wof:lastmodified":1579287505,
     "wof:name":"WN4911 (SFO-PDX)",
     "wof:parent_id":1477881731,
     "wof:placetype":"event",

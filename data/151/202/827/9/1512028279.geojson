@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124035641",
-        "swim:gufi":""
+        "swim:flight_ref":"124035641"
     },
     "wof:country":"US",
     "wof:created":1578758655,
@@ -104,7 +103,7 @@
         1477930339,
         1159289871
     ],
-    "wof:lastmodified":1579022620,
+    "wof:lastmodified":1579287352,
     "wof:name":"AS371 (EWR-SFO)",
     "wof:parent_id":1477930339,
     "wof:placetype":"event",

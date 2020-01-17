@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123829499",
-        "swim:gufi":""
+        "swim:flight_ref":"123829499"
     },
     "wof:country":"US",
     "wof:created":1578499318,
@@ -102,7 +101,7 @@
         1477930411,
         1159289407
     ],
-    "wof:lastmodified":1578949655,
+    "wof:lastmodified":1579287471,
     "wof:name":"UA2356 (LAS-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",

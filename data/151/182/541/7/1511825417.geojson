@@ -53,8 +53,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123632023",
-        "swim:gufi":""
+        "swim:flight_ref":"123632023"
     },
     "wof:country":"US",
     "wof:created":1578326505,
@@ -94,7 +93,7 @@
         1159284711,
         1477930485
     ],
-    "wof:lastmodified":1578950074,
+    "wof:lastmodified":1579287541,
     "wof:name":"LH454 (FRA-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",

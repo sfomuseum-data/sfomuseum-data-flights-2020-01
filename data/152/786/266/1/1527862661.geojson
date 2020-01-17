@@ -62,8 +62,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124268538",
-        "swim:gufi":""
+        "swim:flight_ref":"124268538"
     },
     "wof:country":"US",
     "wof:created":1579018042,
@@ -104,7 +103,7 @@
         1477930389,
         1159289407
     ],
-    "wof:lastmodified":1579022938,
+    "wof:lastmodified":1579287572,
     "wof:name":"UA1912 (BNA-SFO)",
     "wof:parent_id":1477930389,
     "wof:placetype":"event",

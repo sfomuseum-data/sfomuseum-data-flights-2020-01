@@ -56,8 +56,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123352049",
-        "swim:gufi":""
+        "swim:flight_ref":"123352049"
     },
     "wof:country":"US",
     "wof:created":1577980921,
@@ -97,7 +96,7 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1578949830,
+    "wof:lastmodified":1579287506,
     "wof:name":"WN5288 (SFO-BUR)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",

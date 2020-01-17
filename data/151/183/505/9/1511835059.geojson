@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123748470",
-        "swim:gufi":""
+        "swim:flight_ref":"123748470"
     },
     "wof:country":"US",
     "wof:created":1578412931,
@@ -102,7 +101,7 @@
         1477930301,
         1159289993
     ],
-    "wof:lastmodified":1578949677,
+    "wof:lastmodified":1579287474,
     "wof:name":"CX879 (SFO-HKG)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",

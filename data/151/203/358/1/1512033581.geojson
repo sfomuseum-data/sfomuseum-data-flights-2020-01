@@ -59,8 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124070324",
-        "swim:gufi":""
+        "swim:flight_ref":"124070324"
     },
     "wof:country":"US",
     "wof:created":1578759189,
@@ -101,7 +100,7 @@
         1477881725,
         1159289871
     ],
-    "wof:lastmodified":1579114714,
+    "wof:lastmodified":1579287341,
     "wof:name":"WN417 (SFO-DEN)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",

@@ -58,8 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"124088726",
-        "swim:gufi":""
+        "swim:flight_ref":"124088726"
     },
     "wof:country":"US",
     "wof:created":1578758884,
@@ -100,7 +99,7 @@
         1477930407,
         1159289407
     ],
-    "wof:lastmodified":1579022561,
+    "wof:lastmodified":1579287348,
     "wof:name":"UA698 (SEA-SFO)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",

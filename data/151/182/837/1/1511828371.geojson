@@ -60,8 +60,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"123664866",
-        "swim:gufi":""
+        "swim:flight_ref":"123664866"
     },
     "wof:country":"US",
     "wof:created":1578326537,
@@ -102,7 +101,7 @@
         1477930433,
         1159289945
     ],
-    "wof:lastmodified":1578950054,
+    "wof:lastmodified":1579287539,
     "wof:name":"UA358 (SFO-LAS)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",
