@@ -75,10 +75,13 @@
       102525535,
       1159285413
     ],
-    "wof:lastmodified": 1653353023,
+    "wof:lastmodified": 1717008263,
     "wof:name": "UA5707 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -79,10 +79,13 @@
       1159283697,
       1159285413
     ],
-    "wof:lastmodified": 1653353022,
+    "wof:lastmodified": 1717008259,
     "wof:name": "NZ9617 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

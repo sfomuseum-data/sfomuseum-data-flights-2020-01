@@ -75,10 +75,13 @@
       1159285413,
       1477930443
     ],
-    "wof:lastmodified": 1653353032,
+    "wof:lastmodified": 1717008261,
     "wof:name": "UA5997 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

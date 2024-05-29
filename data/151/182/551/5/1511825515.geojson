@@ -79,10 +79,13 @@
       1159284711,
       1159285413
     ],
-    "wof:lastmodified": 1653353024,
+    "wof:lastmodified": 1717008260,
     "wof:name": "LH9247 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

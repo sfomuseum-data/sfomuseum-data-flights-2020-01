@@ -2,80 +2,87 @@
   "id": 1527909803,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-01-22",
-    "date:cessation_upper":"2020-01-22",
-    "date:inception_lower":"2020-01-21",
-    "date:inception_upper":"2020-01-21",
-    "edtf:cessation":"2020-01-22T01:12:49Z",
-    "edtf:inception":"2020-01-21T20:18:00Z",
-    "flysfo:actual_timestamp":1579651200,
-    "flysfo:airline":"UA",
-    "flysfo:date":"2020-01-21",
-    "flysfo:estimated_timestamp":1579634100,
-    "flysfo:event":"D",
-    "flysfo:flight_number":"UA535",
-    "flysfo:gate":"",
-    "flysfo:journey":"SFO-EWR",
-    "flysfo:scheduled_timestamp":1579634100,
-    "flysfo:timestamp":1579651200,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,37.61799,-74.177526,40.691243",
-    "geom:latitude":39.154617,
-    "geom:longitude":-98.274235,
-    "iata:airline":"UA",
-    "icao:aircraft":"B77W",
-    "icao:airline":"UAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289993,
-    "sfomuseum:airline_id":1159285413,
-    "sfomuseum:arrival_id":102530049,
-    "sfomuseum:departure_id":102527513,
-    "sfomuseum:flight_id":"20200121-D-UAL-535",
-    "sfomuseum:flight_number":[
-        "UAL535",
-        "UA535"
+    "date:cessation_lower": "2020-01-22",
+    "date:cessation_upper": "2020-01-22",
+    "date:inception_lower": "2020-01-21",
+    "date:inception_upper": "2020-01-21",
+    "edtf:cessation": "2020-01-22T01:12:49Z",
+    "edtf:inception": "2020-01-21T20:18:00Z",
+    "flysfo:actual_timestamp": 1579651200,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2020-01-21",
+    "flysfo:estimated_timestamp": 1579634100,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA535",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-EWR",
+    "flysfo:scheduled_timestamp": 1579634100,
+    "flysfo:timestamp": 1579651200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
+    "geom:latitude": 39.1546165,
+    "geom:longitude": -98.2742345,
+    "iata:airline": "UA",
+    "icao:aircraft": "B77W",
+    "icao:airline": "UAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289993,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530049,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20200121-D-UAL-535",
+    "sfomuseum:flight_number": [
+      "UAL535",
+      "UA535"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-takeoff"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
     ],
-    "swim:tail_number":"N2341U",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"124991073"
+    "swim:tail_number": "N2341U",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "124991073"
     },
-    "wof:country":"US",
-    "wof:created":1579709509,
-    "wof:geomhash":"5f8ba203e186fe379420b736bcf5de4f",
-    "wof:hierarchy":[],
-    "wof:id":1527909803,
-    "wof:involves":[
-        102530049,
-        102527513,
-        1159285413,
-        -1,
-        1159289993
+    "wof:country": "US",
+    "wof:created": 1579709509,
+    "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
+    "wof:hierarchy": [
+      {
+        "event_id": 1527909803
+      }
     ],
-    "wof:lastmodified":1601484803,
-    "wof:name":"UA535 (SFO-EWR)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-01",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1527909803,
+    "wof:involves": [
+      102530049,
+      102527513,
+      1159285413,
+      -1,
+      1159289993
+    ],
+    "wof:lastmodified": 1717008255,
+    "wof:name": "UA535 (SFO-EWR)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     37.61799,
     -74.177526,
     40.691243
-],
+  ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
 }

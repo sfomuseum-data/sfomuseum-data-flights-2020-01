@@ -88,10 +88,13 @@
       1159285043,
       1477930479
     ],
-    "wof:lastmodified": 1651272530,
+    "wof:lastmodified": 1717008258,
     "wof:name": "QF73 (SYD-SFO)",
     "wof:parent_id": 1477930479,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

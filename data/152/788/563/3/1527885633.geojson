@@ -96,10 +96,13 @@
       1477930407,
       1159285413
     ],
-    "wof:lastmodified": 1651272481,
+    "wof:lastmodified": 1717008251,
     "wof:name": "OZ9540 (PHX-SFO)",
     "wof:parent_id": 1477930407,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

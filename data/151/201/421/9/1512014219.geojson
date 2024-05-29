@@ -93,10 +93,13 @@
       1477930327,
       1159283849
     ],
-    "wof:lastmodified": 1651272538,
+    "wof:lastmodified": 1717008258,
     "wof:name": "QF4138 (CLT-SFO)",
     "wof:parent_id": 1477930327,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

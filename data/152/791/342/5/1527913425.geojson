@@ -54,10 +54,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1651272488,
+    "wof:lastmodified": 1717008250,
     "wof:name": "DL8938 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

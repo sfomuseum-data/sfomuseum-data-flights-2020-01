@@ -92,10 +92,13 @@
       1477930317,
       1159284261
     ],
-    "wof:lastmodified": 1651272534,
+    "wof:lastmodified": 1717008260,
     "wof:name": "UX3324 (SFO-JFK)",
     "wof:parent_id": 1477930317,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

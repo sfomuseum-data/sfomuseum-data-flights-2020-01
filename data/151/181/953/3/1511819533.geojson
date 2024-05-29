@@ -92,10 +92,13 @@
       1477930463,
       1159285413
     ],
-    "wof:lastmodified": 1651272526,
+    "wof:lastmodified": 1717008263,
     "wof:name": "CA7210 (SFO-PVG)",
     "wof:parent_id": 1477930463,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
